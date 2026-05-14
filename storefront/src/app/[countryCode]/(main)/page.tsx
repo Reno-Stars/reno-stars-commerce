@@ -1,5 +1,6 @@
 import { listRegions } from "@/lib/data/regions"
-import FeaturedProducts from "@/modules/home/components/featured-products"
+import CollectionsGrid from "@/modules/home/components/collections-grid"
+import FeaturedPicks from "@/modules/home/components/featured-picks"
 import Hero from "@/modules/home/components/hero"
 import SkeletonFeaturedProducts from "@/modules/skeletons/templates/skeleton-featured-products"
 import { Metadata } from "next"
@@ -8,9 +9,9 @@ import { Suspense } from "react"
 export const dynamicParams = true
 
 export const metadata: Metadata = {
-  title: "Medusa Next.js Starter Template",
+  title: "Reno Stars Supply — Vancouver Renovation Materials Catalog",
   description:
-    "A performant frontend ecommerce starter template with Next.js 14 and Medusa.",
+    "Trade pricing on vanities, faucets, tile, flooring, and finishes for Vancouver contractors and homeowners. Net-30 available on approved accounts.",
 }
 
 export async function generateStaticParams() {
@@ -28,14 +29,16 @@ export default async function Home(props: {
   params: Promise<{ countryCode: string }>
 }) {
   const params = await props.params
-
   const { countryCode } = params
 
   return (
-    <div className="flex flex-col gap-y-2 m-2">
+    <div className="flex flex-col">
       <Hero />
+      <Suspense fallback={<div className="content-container py-16" />}>
+        <CollectionsGrid />
+      </Suspense>
       <Suspense fallback={<SkeletonFeaturedProducts />}>
-        <FeaturedProducts countryCode={countryCode} />
+        <FeaturedPicks countryCode={countryCode} />
       </Suspense>
     </div>
   )

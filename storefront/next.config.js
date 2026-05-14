@@ -41,6 +41,31 @@ const nextConfig = {
         protocol: "https",
         hostname: "cdn.shopify.com",
       },
+      {
+        protocol: "https",
+        hostname: "flooringliquidators.ca",
+      },
+      {
+        protocol: "https",
+        hostname: "htbcflooring.com",
+      },
+      {
+        protocol: "https",
+        hostname: "dptile.ca",
+      },
+      {
+        // dptile.ca product photos are hosted on Contentful's CDN
+        protocol: "https",
+        hostname: "images.ctfassets.net",
+      },
+      {
+        protocol: "https",
+        hostname: "monalisatile.ca",
+      },
+      {
+        protocol: "https",
+        hostname: "www.monalisatile.ca",
+      },
     ],
   },
 }

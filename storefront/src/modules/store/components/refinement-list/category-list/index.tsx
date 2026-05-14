@@ -75,16 +75,35 @@ const CategoryList = ({
     [categories]
   )
 
+  // Sum product counts across all descendant leaf categories (excluding
+  // duplicates) so parent nodes show "Bathroom (267)" not "Bathroom (0)".
+  const descendantProductCount = (
+    category: HttpTypes.StoreProductCategory
+  ): number => {
+    if (!category.category_children?.length) {
+      return category.products?.length || 0
+    }
+    let total = category.products?.length || 0
+    for (const childRef of category.category_children) {
+      const child = categories.find((c) => c.id === childRef.id)
+      if (child) total += descendantProductCount(child)
+    }
+    return total
+  }
+
   const renderCategory = (category: HttpTypes.StoreProductCategory) => {
-    const hasChildren = category.category_children.length > 0
+    const hasChildren = (category.category_children?.length || 0) > 0
     const isExpanded = expandedCategories.includes(category.id)
     const paddingLeft = getCategoryMarginLeft(category)
+    const count = hasChildren
+      ? descendantProductCount(category)
+      : category.products?.length || 0
 
     return (
       <li key={category.id}>
         <div className={`flex items-center gap-2 mb-2 pl-${paddingLeft}`}>
           {hasChildren ? (
-            <div className="flex items-center gap-2 hover:text-neutral-700">
+            <div className="flex items-center gap-2 hover:text-reno-navy w-full">
               <button onClick={() => toggleCategory(category.id)}>
                 {isExpanded ? (
                   <SquareMinus className="h-3 mx-1" />
@@ -96,9 +115,10 @@ const CategoryList = ({
                 href={`/categories/${category.handle}${
                   searchParams.size ? `?${searchParams.toString()}` : ""
                 }`}
-                className="flex gap-2 items-center hover:text-neutral-700"
+                className="flex justify-between items-center hover:text-reno-orange flex-1 font-medium text-reno-navy"
               >
-                {category.name} ({category.products?.length})
+                <span>{category.name}</span>
+                <span className="text-xs text-reno-navy/50">{count}</span>
               </LocalizedClientLink>
             </div>
           ) : (
@@ -106,10 +126,13 @@ const CategoryList = ({
               href={`/categories/${category.handle}${
                 searchParams.size ? `?${searchParams.toString()}` : ""
               }`}
-              className="flex gap-2 items-center hover:text-neutral-700 text-start hover:cursor-pointer"
+              className="flex justify-between gap-2 items-center hover:text-reno-orange hover:cursor-pointer flex-1"
             >
-              <Radio checked={isCurrentCategory(category.handle)} />
-              {category.name} ({category.products?.length})
+              <span className="flex items-center gap-2">
+                <Radio checked={isCurrentCategory(category.handle)} />
+                {category.name}
+              </span>
+              <span className="text-xs text-reno-navy/50">{count}</span>
             </LocalizedClientLink>
           )}
         </div>

@@ -16,6 +16,20 @@ module.exports = defineConfig({
       cookieSecret: process.env.COOKIE_SECRET || "supersecret",
     },
   },
+  admin: {
+    // When the admin UI is served behind Cloudflare Tunnel, Vite's dev server
+    // rejects requests whose Host header isn't in its allowlist (CVE-2025-...).
+    // Allow our public tunnel hostname (plus localhost for dev).
+    vite: () => ({
+      server: {
+        allowedHosts: [
+          "supply-admin.reno-stars.com",
+          "localhost",
+          "127.0.0.1",
+        ],
+      },
+    }),
+  },
   modules: {
     [COMPANY_MODULE]: {
       resolve: "./modules/company",

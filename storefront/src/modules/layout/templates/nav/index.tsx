@@ -3,6 +3,7 @@ import AccountButton from "@/modules/account/components/account-button"
 import LocalizedClientLink from "@/modules/common/components/localized-client-link"
 import FilePlus from "@/modules/common/icons/file-plus"
 import { MegaMenuWrapper } from "@/modules/layout/components/mega-menu"
+import MobileMenu from "@/modules/layout/components/mobile-menu"
 import SkeletonAccountButton from "@/modules/skeletons/components/skeleton-account-button"
 import SkeletonMegaMenu from "@/modules/skeletons/components/skeleton-mega-menu"
 import Image from "next/image"
@@ -60,7 +61,7 @@ export async function NavigationHeader() {
               />
             </div>
 
-            <div className="h-4 w-px bg-reno-navy/20" />
+            <div className="hidden small:block h-4 w-px bg-reno-navy/20" />
 
             <a
               href="tel:778-960-7999"
@@ -74,6 +75,8 @@ export async function NavigationHeader() {
             <Suspense fallback={<SkeletonAccountButton />}>
               <AccountButton customer={customer} />
             </Suspense>
+
+            <MobileMenu />
           </div>
         </div>
       </header>

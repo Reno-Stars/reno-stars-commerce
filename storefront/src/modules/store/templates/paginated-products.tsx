@@ -22,6 +22,7 @@ export default async function PaginatedProducts({
   page,
   collectionId,
   categoryId,
+  categoryIds,
   productsIds,
   countryCode,
   customer,
@@ -30,6 +31,7 @@ export default async function PaginatedProducts({
   page: number
   collectionId?: string
   categoryId?: string
+  categoryIds?: string[]
   productsIds?: string[]
   countryCode: string
   customer?: B2BCustomer | null
@@ -40,6 +42,10 @@ export default async function PaginatedProducts({
 
   if (collectionId) {
     queryParams["collection_id"] = [collectionId]
+  } else if (categoryIds && categoryIds.length > 0) {
+    // Used when a parent category page needs to include products from all
+    // descendant categories (Medusa's category_id filter is not recursive).
+    queryParams["category_id"] = categoryIds
   } else if (categoryId) {
     queryParams["category_id"] = [categoryId]
   }

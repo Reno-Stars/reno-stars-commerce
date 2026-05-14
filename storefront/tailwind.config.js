@@ -26,6 +26,17 @@ module.exports = {
       fontFamily: {
         sans: ["var(--font-geist-sans)"],
       },
+      colors: {
+        // Reno Stars brand palette (mirrors https://www.reno-stars.com)
+        reno: {
+          cream: "#E8E2DA",        // header / section backgrounds
+          "cream-50": "#F5F1EA",   // hover variant
+          orange: "#C8922A",       // primary CTA + accents
+          "orange-600": "#A87C24", // CTA hover
+          navy: "#1B2A4E",         // nav text + body text
+          "navy-hover": "#0F1B36",
+        },
+      },
       keyframes: {
         "accordion-open": {
           from: { height: 0 },

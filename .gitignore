@@ -54,3 +54,9 @@ yarn-error.log*
 ehthumbs.db
 Thumbs.db
 **/.DS_Store
+# Local credentials and env backups
+.secrets.local
+**/.env
+**/.env.local
+**/.env.*-backup
+**/.env.backup

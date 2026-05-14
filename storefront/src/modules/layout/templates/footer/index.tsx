@@ -1,159 +1,157 @@
 import { listCategories } from "@/lib/data/categories"
-import { listCollections } from "@/lib/data/collections"
 import { Text, clx } from "@medusajs/ui"
 
 import LocalizedClientLink from "@/modules/common/components/localized-client-link"
-import MedusaCTA from "@/modules/layout/components/medusa-cta"
+import Image from "next/image"
 
 export default async function Footer() {
-  const { collections } = await listCollections({
-    offset: "0",
-    limit: "6",
-  })
   const product_categories = await listCategories({
     offset: 0,
-    limit: 6,
+    limit: 8,
   })
 
   return (
-    <footer className="border-t border-ui-border-base w-full">
+    <footer className="border-t border-reno-navy/10 w-full bg-reno-cream/40">
       <div className="content-container flex flex-col w-full">
-        <div className="flex flex-col gap-y-6 xsmall:flex-row items-start justify-between py-40">
-          <div>
-            <LocalizedClientLink
-              href="/"
-              className="txt-compact-xlarge-plus text-ui-fg-subtle hover:text-ui-fg-base uppercase"
-            >
-              Medusa Store
+        <div className="flex flex-col gap-y-10 xsmall:flex-row items-start justify-between py-24">
+          <div className="flex flex-col gap-3 max-w-sm">
+            <LocalizedClientLink href="/" className="block">
+              <Image
+                src="/reno-stars-logo.png"
+                alt="Reno Stars"
+                width={200}
+                height={36}
+                className="h-9 w-auto object-contain"
+              />
             </LocalizedClientLink>
+            <p className="text-sm text-reno-navy/70 leading-relaxed">
+              Renovation materials curated by Vancouver&apos;s 5★-rated reno
+              team — vanities, faucets, fixtures, and finishes used on our
+              own projects.
+            </p>
+            <div className="text-sm text-reno-navy/80 flex flex-col gap-0.5 pt-2">
+              <a
+                href="tel:778-960-7999"
+                className="font-medium hover:text-reno-orange"
+              >
+                778-960-7999
+              </a>
+              <a
+                href="https://www.reno-stars.com/en/"
+                target="_blank"
+                rel="noreferrer"
+                className="hover:text-reno-orange"
+              >
+                www.reno-stars.com
+              </a>
+            </div>
           </div>
           <div className="text-small-regular gap-10 md:gap-x-16 grid grid-cols-2 sm:grid-cols-3">
             {product_categories && product_categories?.length > 0 && (
               <div className="flex flex-col gap-y-2">
-                <span className="txt-small-plus txt-ui-fg-base">
-                  Categories
+                <span className="text-sm font-semibold text-reno-navy">
+                  Shop by material
                 </span>
                 <ul
                   className="grid grid-cols-1 gap-2"
                   data-testid="footer-categories"
                 >
-                  {product_categories?.slice(0, 6).map((c) => {
+                  {product_categories?.slice(0, 8).map((c) => {
                     if (c.parent_category) {
                       return
                     }
 
-                    const children =
-                      c.category_children?.map((child) => ({
-                        name: child.name,
-                        handle: child.handle,
-                        id: child.id,
-                      })) || null
-
                     return (
                       <li
-                        className="flex flex-col gap-2 text-ui-fg-subtle txt-small"
+                        className="flex flex-col gap-2 text-reno-navy/70 text-sm"
                         key={c.id}
                       >
                         <LocalizedClientLink
-                          className={clx(
-                            "hover:text-ui-fg-base",
-                            children && "txt-small-plus"
-                          )}
+                          className={clx("hover:text-reno-orange")}
                           href={`/categories/${c.handle}`}
                           data-testid="category-link"
                         >
                           {c.name}
                         </LocalizedClientLink>
-                        {children && (
-                          <ul className="grid grid-cols-1 ml-3 gap-2">
-                            {children &&
-                              children.map((child) => (
-                                <li key={child.id}>
-                                  <LocalizedClientLink
-                                    className="hover:text-ui-fg-base"
-                                    href={`/categories/${child.handle}`}
-                                    data-testid="category-link"
-                                  >
-                                    {child.name}
-                                  </LocalizedClientLink>
-                                </li>
-                              ))}
-                          </ul>
-                        )}
                       </li>
                     )
                   })}
                 </ul>
               </div>
             )}
-            {collections && collections.length > 0 && (
-              <div className="flex flex-col gap-y-2">
-                <span className="txt-small-plus txt-ui-fg-base">
-                  Collections
-                </span>
-                <ul
-                  className={clx(
-                    "grid grid-cols-1 gap-2 text-ui-fg-subtle txt-small",
-                    {
-                      "grid-cols-2": (collections?.length || 0) > 3,
-                    }
-                  )}
-                >
-                  {collections?.slice(0, 6).map((c) => (
-                    <li key={c.id}>
-                      <LocalizedClientLink
-                        className="hover:text-ui-fg-base"
-                        href={`/collections/${c.handle}`}
-                      >
-                        {c.title}
-                      </LocalizedClientLink>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )}
             <div className="flex flex-col gap-y-2">
-              <span className="txt-small-plus txt-ui-fg-base">Medusa</span>
-              <ul className="grid grid-cols-1 gap-y-2 text-ui-fg-subtle txt-small">
+              <span className="text-sm font-semibold text-reno-navy">
+                For trade & retail
+              </span>
+              <ul className="grid grid-cols-1 gap-y-2 text-reno-navy/70 text-sm">
+                <li>
+                  <LocalizedClientLink href="/store" className="hover:text-reno-orange">
+                    Browse catalog
+                  </LocalizedClientLink>
+                </li>
+                <li>
+                  <LocalizedClientLink href="/account" className="hover:text-reno-orange">
+                    Account & quotes
+                  </LocalizedClientLink>
+                </li>
                 <li>
                   <a
-                    href="https://github.com/medusajs"
+                    href="https://www.reno-stars.com/en/contact/"
                     target="_blank"
                     rel="noreferrer"
-                    className="hover:text-ui-fg-base"
+                    className="hover:text-reno-orange"
                   >
-                    GitHub
+                    Open a B2B account
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div className="flex flex-col gap-y-2">
+              <span className="text-sm font-semibold text-reno-navy">
+                Reno Stars
+              </span>
+              <ul className="grid grid-cols-1 gap-y-2 text-reno-navy/70 text-sm">
+                <li>
+                  <a
+                    href="https://www.reno-stars.com/en/"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="hover:text-reno-orange"
+                  >
+                    Renovation services
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://docs.medusajs.com"
+                    href="https://www.reno-stars.com/en/projects/"
                     target="_blank"
                     rel="noreferrer"
-                    className="hover:text-ui-fg-base"
+                    className="hover:text-reno-orange"
                   >
-                    Documentation
+                    Project portfolio
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://github.com/medusajs/b2b-starter-medusa"
+                    href="https://www.reno-stars.com/en/about-us/"
                     target="_blank"
                     rel="noreferrer"
-                    className="hover:text-ui-fg-base"
+                    className="hover:text-reno-orange"
                   >
-                    Source code
+                    About us
                   </a>
                 </li>
               </ul>
             </div>
           </div>
         </div>
-        <div className="flex w-full mb-16 justify-between text-ui-fg-muted">
-          <Text className="txt-compact-small">
-            © {new Date().getFullYear()} Medusa Store. All rights reserved.
+        <div className="flex w-full mb-12 pt-6 border-t border-reno-navy/10 justify-between items-center text-reno-navy/60">
+          <Text className="text-sm">
+            © {new Date().getFullYear()} Reno Stars Construction Inc. — Vancouver, BC
           </Text>
-          <MedusaCTA />
+          <span className="text-xs uppercase tracking-wider">
+            Where Renovation Starts
+          </span>
         </div>
       </div>
     </footer>

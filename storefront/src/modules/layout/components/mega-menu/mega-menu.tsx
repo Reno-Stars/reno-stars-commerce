@@ -87,14 +87,19 @@ const MegaMenu = ({
           Products
         </LocalizedClientLink>
         {isHovered && (
-          <div className="fixed left-0 right-0 top-[60px] flex gap-32 py-10 px-20 bg-white border-b border-neutral-200 ">
-            <div className="flex flex-col gap-2">
+          // 2026-05-22: was `fixed left-0 right-0` (full-width) — covered the
+          // whole screen once Flooring grew to 18 children + Collections 19
+          // grandchildren. Now constrained to a centered max-w-6xl card with
+          // max-h-[70vh] overflow + grandchild preview cap (5 per group +
+          // "View all" link).
+          <div className="fixed left-1/2 -translate-x-1/2 top-[60px] w-[min(100vw-2rem,72rem)] max-h-[70vh] overflow-y-auto flex gap-10 py-6 px-8 bg-white border border-neutral-200 rounded-xl shadow-xl">
+            <div className="flex flex-col gap-1 shrink-0 min-w-[160px]">
               {mainCategories.map((category) => (
                 <LocalizedClientLink
                   key={category.id}
                   href={`/categories/${category.handle}`}
                   className={clx(
-                    "hover:bg-neutral-100 hover:cursor-pointer rounded-full px-3 py-2 w-fit font-medium",
+                    "hover:bg-neutral-100 hover:cursor-pointer rounded-md px-3 py-2 font-medium",
                     selectedCategory === category.id && "bg-neutral-100"
                   )}
                   onMouseEnter={() => handleCategoryHover(category.id)}
@@ -104,36 +109,55 @@ const MegaMenu = ({
                 </LocalizedClientLink>
               ))}
             </div>
-            {selectedCategory && (
-              <div className="grid grid-cols-4 gap-16">
-                {getSubCategories(selectedCategory).map((category) => (
-                  <div key={category.id} className="flex flex-col gap-2">
-                    <LocalizedClientLink
-                      className="font-medium text-zinc-500 hover:underline"
-                      href={`/categories/${category.handle}`}
-                    >
-                      {category.name}
-                    </LocalizedClientLink>
-                    <div className="flex flex-col gap-2">
-                      {getSubCategories(category.id).map((subCategory) => (
+            {selectedCategory && (() => {
+              const subs = getSubCategories(selectedCategory)
+              const SUB_CHILD_PREVIEW = 5
+              return (
+                <div className="grid grid-cols-3 gap-x-8 gap-y-5 flex-1 auto-rows-min">
+                  {subs.map((category) => {
+                    const grandkids = getSubCategories(category.id)
+                    const preview = grandkids.slice(0, SUB_CHILD_PREVIEW)
+                    const remaining = grandkids.length - preview.length
+                    return (
+                      <div key={category.id} className="flex flex-col gap-1">
                         <LocalizedClientLink
-                          key={subCategory.id}
-                          className="hover:underline"
-                          href={`/categories/${subCategory.handle}`}
+                          className="font-medium text-zinc-700 hover:underline"
+                          href={`/categories/${category.handle}`}
                         >
-                          {subCategory.name}
+                          {category.name}
                         </LocalizedClientLink>
-                      ))}
-                    </div>
-                  </div>
-                ))}
-              </div>
-            )}
+                        {preview.length > 0 && (
+                          <div className="flex flex-col gap-0.5 text-sm text-zinc-500">
+                            {preview.map((subCategory) => (
+                              <LocalizedClientLink
+                                key={subCategory.id}
+                                className="hover:underline"
+                                href={`/categories/${subCategory.handle}`}
+                              >
+                                {subCategory.name}
+                              </LocalizedClientLink>
+                            ))}
+                            {remaining > 0 && (
+                              <LocalizedClientLink
+                                className="text-xs text-reno-orange hover:underline mt-0.5"
+                                href={`/categories/${category.handle}`}
+                              >
+                                View all ({grandkids.length}) →
+                              </LocalizedClientLink>
+                            )}
+                          </div>
+                        )}
+                      </div>
+                    )
+                  })}
+                </div>
+              )
+            })()}
           </div>
         )}
       </div>
       {isHovered && (
-        <div className="fixed inset-0 mt-[60px] blur-sm backdrop-blur-sm z-[-1]" />
+        <div className="fixed inset-0 mt-[60px] bg-black/30 z-[-1]" />
       )}
     </>
   )

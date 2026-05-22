@@ -19,6 +19,7 @@ type Params = {
   searchParams: Promise<{
     sortBy?: SortOptions
     page?: string
+    q?: string
   }>
   params: Promise<{
     countryCode: string
@@ -28,10 +29,11 @@ type Params = {
 export default async function StorePage(props: Params) {
   const params = await props.params
   const searchParams = await props.searchParams
-  const { sortBy, page } = searchParams
+  const { sortBy, page, q } = searchParams
 
   const sort = sortBy || "created_at"
   const pageNumber = page ? parseInt(page) : 1
+  const searchQuery = q?.trim() || undefined
 
   const categories = await listCategories()
   const customer = await retrieveCustomer()
@@ -43,13 +45,19 @@ export default async function StorePage(props: Params) {
         data-testid="category-container"
       >
         <StoreBreadcrumb />
+        {searchQuery && (
+          <div className="text-sm text-reno-navy">
+            Search results for <span className="font-medium">&ldquo;{searchQuery}&rdquo;</span>
+          </div>
+        )}
         <div className="flex flex-col small:flex-row small:items-start gap-3">
           <RefinementList sortBy={sort} categories={categories} />
           <div className="w-full">
-            <Suspense fallback={<SkeletonProductGrid />}>
+            <Suspense fallback={<SkeletonProductGrid />} key={`${searchQuery ?? ""}-${sort}-${pageNumber}`}>
               <PaginatedProducts
                 sortBy={sort}
                 page={pageNumber}
+                searchQuery={searchQuery}
                 countryCode={params.countryCode}
                 customer={customer}
               />

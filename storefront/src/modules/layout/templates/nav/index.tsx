@@ -4,6 +4,7 @@ import LocalizedClientLink from "@/modules/common/components/localized-client-li
 import FilePlus from "@/modules/common/icons/file-plus"
 import { MegaMenuWrapper } from "@/modules/layout/components/mega-menu"
 import MobileMenu from "@/modules/layout/components/mobile-menu"
+import SearchBox from "@/modules/layout/components/search-box"
 import SkeletonAccountButton from "@/modules/skeletons/components/skeleton-account-button"
 import SkeletonMegaMenu from "@/modules/skeletons/components/skeleton-mega-menu"
 import Image from "next/image"
@@ -52,13 +53,7 @@ export async function NavigationHeader() {
           </div>
           <div className="flex justify-end items-center gap-2">
             <div className="relative mr-2 hidden small:inline-flex">
-              <input
-                disabled
-                type="text"
-                placeholder="Search materials, faucets, vanities…"
-                className="bg-white/60 text-reno-navy placeholder:text-reno-navy/40 px-4 py-2 rounded-full pr-10 border border-reno-navy/10 hidden small:inline-block hover:cursor-not-allowed"
-                title="Install a search provider to enable product search"
-              />
+              <SearchBox />
             </div>
 
             <div className="hidden small:block h-4 w-px bg-reno-navy/20" />

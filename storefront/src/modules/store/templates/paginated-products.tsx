@@ -15,6 +15,7 @@ type PaginatedProductsParams = {
   id?: string[]
   order?: string
   customer_group_id?: string
+  q?: string
 }
 
 export default async function PaginatedProducts({
@@ -24,6 +25,7 @@ export default async function PaginatedProducts({
   categoryId,
   categoryIds,
   productsIds,
+  searchQuery,
   countryCode,
   customer,
 }: {
@@ -33,6 +35,10 @@ export default async function PaginatedProducts({
   categoryId?: string
   categoryIds?: string[]
   productsIds?: string[]
+  /** Fulltext search query — forwards to Medusa's /store/products?q=
+   *  which does title/description matching. No external search provider
+   *  needed at this catalog size (~1700 products). */
+  searchQuery?: string
   countryCode: string
   customer?: B2BCustomer | null
 }) {
@@ -52,6 +58,10 @@ export default async function PaginatedProducts({
 
   if (productsIds) {
     queryParams["id"] = productsIds
+  }
+
+  if (searchQuery) {
+    queryParams["q"] = searchQuery
   }
 
   if (sortBy === "created_at") {
@@ -91,7 +101,9 @@ export default async function PaginatedProducts({
           })
         ) : (
           <Container className="text-center text-sm text-neutral-500">
-            No products found for this category.
+            {searchQuery
+              ? `No products match “${searchQuery}”. Try a broader term or browse by category.`
+              : "No products found for this category."}
           </Container>
         )}
       </ul>

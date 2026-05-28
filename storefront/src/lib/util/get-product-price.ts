@@ -11,30 +11,45 @@ export type VariantPrice = {
   currency_code: string
   price_type: string
   percentage_diff: string
+  is_contact_for_price?: boolean
 }
 
+export const CONTACT_FOR_PRICE_LABEL = "Contact for price"
+
 export const getPricesForVariant = (variant: any): VariantPrice | null => {
-  if (!variant?.calculated_price?.calculated_amount) {
+  if (variant?.calculated_price == null) {
     return null
   }
 
+  const amount = variant.calculated_price.calculated_amount
+  // Treat amount of 0 (or null) as "contact for price" — vendor pricing
+  // not yet set up. Some products (e.g. oakelcity.com imports awaiting a
+  // vendor account) also carry product.metadata.contact_for_price = true.
+  const isContactForPrice =
+    amount == null ||
+    Number(amount) === 0 ||
+    variant.product?.metadata?.contact_for_price === true
+
   return {
-    calculated_price_number: variant.calculated_price.calculated_amount,
-    calculated_price: convertToLocale({
-      amount: variant.calculated_price.calculated_amount,
-      currency_code: variant.calculated_price.currency_code,
-    }),
+    calculated_price_number: amount,
+    calculated_price: isContactForPrice
+      ? CONTACT_FOR_PRICE_LABEL
+      : convertToLocale({
+          amount,
+          currency_code: variant.calculated_price.currency_code,
+        }),
     original_price_number: variant.calculated_price.original_amount,
     original_price: convertToLocale({
       amount: variant.calculated_price.original_amount,
       currency_code: variant.calculated_price.currency_code,
     }),
     currency_code: variant.calculated_price.currency_code,
-    price_type: variant.calculated_price.calculated_price.price_list_type,
+    price_type: variant.calculated_price.calculated_price?.price_list_type,
     percentage_diff: getPercentageDiff(
       variant.calculated_price.original_amount,
-      variant.calculated_price.calculated_amount
+      amount
     ),
+    is_contact_for_price: isContactForPrice,
   }
 }
 
@@ -63,7 +78,9 @@ export function getProductPrice({
         )
       })[0]
 
-    return getPricesForVariant(cheapestVariant)
+    if (!cheapestVariant) return null
+    // Inject product so getPricesForVariant can read metadata.contact_for_price
+    return getPricesForVariant({ ...cheapestVariant, product })
   }
 
   const variantPrice = () => {
@@ -79,7 +96,7 @@ export function getProductPrice({
       return null
     }
 
-    return getPricesForVariant(variant)
+    return getPricesForVariant({ ...variant, product })
   }
 
   return {

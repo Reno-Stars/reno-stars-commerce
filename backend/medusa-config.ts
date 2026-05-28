@@ -1,6 +1,7 @@
 import { QUOTE_MODULE } from "./src/modules/quote";
 import { APPROVAL_MODULE } from "./src/modules/approval";
 import { COMPANY_MODULE } from "./src/modules/company";
+import { SUPPLY_INFO_MODULE } from "./src/modules/supply-info";
 import { loadEnv, defineConfig, Modules } from "@medusajs/framework/utils";
 
 loadEnv(process.env.NODE_ENV!, process.cwd());
@@ -39,6 +40,9 @@ module.exports = defineConfig({
     },
     [APPROVAL_MODULE]: {
       resolve: "./modules/approval",
+    },
+    [SUPPLY_INFO_MODULE]: {
+      resolve: "./modules/supply-info",
     },
     [Modules.CACHE]: {
       resolve: "@medusajs/medusa/cache-inmemory",

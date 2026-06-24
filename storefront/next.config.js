@@ -22,6 +22,11 @@ const nextConfig = {
         hostname: "localhost",
       },
       {
+        // self-hosted product images (e.g. /sunland-images/...) served from the storefront domain
+        protocol: "https",
+        hostname: "supply.reno-stars.com",
+      },
+      {
         protocol: "https",
         hostname: "medusa-public-images.s3.eu-west-1.amazonaws.com",
       },

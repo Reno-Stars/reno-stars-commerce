@@ -1,0 +1,35 @@
+# Build context exclusions for backend/Dockerfile.
+# Everything here is either regenerated inside the image or is host-only state.
+
+node_modules
+.medusa
+.yarn/cache
+.yarn/unplugged
+.yarn/install-state.gz
+.git
+.github
+.vscode
+.idea
+
+# Secrets / host env. The image gets its config from the k8s environment,
+# never from a baked-in .env file.
+.env
+.env.*
+!.env.template
+
+# Host runtime state.
+# `static/` is the local-file upload provider's storage dir. It is resolved
+# relative to the SERVER cwd (.medusa/server/static), not to this directory, so
+# the copy here is stale seed data and is never served. In k8s the upload dir
+# must be a PVC or (better) the S3 file provider — see the note in Dockerfile.
+static
+uploads
+dist
+build
+coverage
+*.log
+.DS_Store
+
+# Not needed to build or run the server
+integration-tests
+jest.config.js

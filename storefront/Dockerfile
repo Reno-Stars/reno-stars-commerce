@@ -43,6 +43,12 @@ FROM node:${NODE_VERSION} AS builder
 
 WORKDIR /app
 
+# This is a FRESH base image — corepack being enabled in the deps stage does not
+# carry over, and node:* ships yarn 1.22.22 globally. Without this, `yarn build`
+# dies with "packageManager defines yarn@4.4.0 however the current global version
+# of Yarn is 1.22.22" before Next is ever invoked.
+RUN corepack enable && corepack prepare yarn@4.4.0 --activate && yarn --version
+
 ARG NEXT_PUBLIC_MEDUSA_BACKEND_URL=http://localhost:9000
 ARG NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY
 ARG NEXT_PUBLIC_BASE_URL=http://localhost:8000

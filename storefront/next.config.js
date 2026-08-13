@@ -12,6 +12,15 @@ const nextConfig = {
   // 600 MB node_modules. Left OFF by default so the launchd `next start` path
   // on the Mac keeps building exactly as it does today.
   output: process.env.NEXT_BUILD_STANDALONE === "1" ? "standalone" : undefined,
+  // Container builds prerender 637 pages, and every one of them refetches
+  // /store/product-categories — a 5.69 MB response that exceeds Next's 2 MB data
+  // cache ceiling, so it is never cached and is paid per page. On a CI builder
+  // (no warm page cache, slower CPU than this Mac) that overruns the default
+  // 60 s staticPageGenerationTimeout and fails the build. Raised for container
+  // builds only; the Mac's launchd build keeps Next's default.
+  ...(process.env.NEXT_BUILD_STANDALONE === "1"
+    ? { staticPageGenerationTimeout: 300 }
+    : {}),
   reactStrictMode: true,
   typescript: {
     ignoreBuildErrors: true,

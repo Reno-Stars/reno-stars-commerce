@@ -6,6 +6,12 @@ checkEnvVariables()
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
+  // Container builds set NEXT_BUILD_STANDALONE=1 so `next build` also emits
+  // .next/standalone (a self-contained server.js with only the traced runtime
+  // deps) — the difference between a ~200 MB image and shipping the whole
+  // 600 MB node_modules. Left OFF by default so the launchd `next start` path
+  // on the Mac keeps building exactly as it does today.
+  output: process.env.NEXT_BUILD_STANDALONE === "1" ? "standalone" : undefined,
   reactStrictMode: true,
   typescript: {
     ignoreBuildErrors: true,

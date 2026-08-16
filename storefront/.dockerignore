@@ -1,0 +1,44 @@
+# Build context exclusions for storefront/Dockerfile.
+
+node_modules
+.next
+.swc
+.yarn/cache
+.yarn/unplugged
+.yarn/install-state.gz
+.git
+.github
+.vscode
+.idea
+.vercel
+
+# Secrets / host env. NEXT_PUBLIC_* values are supplied as build args and
+# runtime env, never baked in from a host .env file.
+.env
+.env.*
+!.env.template
+
+*.tsbuildinfo
+coverage
+test-results
+playwright-report
+blob-report
+*.log
+.DS_Store
+
+# ── Vendor product photography (2.1 GB, untracked in git) ────────────────────
+# public/{dp,neonova,htbc,oakel,sunland,pearl,triforest}-images are ~2.1 GB of
+# supplier catalogue photos that exist only on this Mac. Baking 2.1 GB of mutable
+# binary assets into every image build is the wrong shape for k8s: it bloats the
+# registry, makes rollouts slow, and the assets change independently of code.
+# They belong in object storage / a CDN (next.config.js already whitelists
+# supply.reno-stars.com in images.remotePatterns) or on a shared ReadOnlyMany PVC
+# mounted at /app/public.
+# CONSEQUENCE: images under these paths 404 in the built image until that is done.
+public/dp-images
+public/neonova-images
+public/htbc-images
+public/oakel-images
+public/sunland-images
+public/pearl-images
+public/triforest-images

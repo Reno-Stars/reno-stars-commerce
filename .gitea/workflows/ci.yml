@@ -1,0 +1,58 @@
+name: CI
+
+# This repo had NO CI at all before 2026-08-15 — nothing to port, so this is
+# written from scratch and deliberately modest: it checks what the repo actually
+# has (lint + a real build of both packages). There are no test scripts in
+# either package.json; adding tests is separate work, and a CI that pretends to
+# run tests it does not have is worse than one that admits the gap.
+#
+# RUNNER NOTES (learned the hard way on the other repos today — the workflow
+# ports verbatim between GitHub and Gitea, the RUNNER does not):
+#   * runs-on: k8s-heavy. NEVER local-deploy — its DOCKER_HOST is the
+#     PRODUCTION docker endpoint.
+#   * service containers are reachable by SERVICE NAME, not localhost.
+#   * actions/upload-artifact has no backend here; never gate on it.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  storefront:
+    runs-on: k8s-heavy
+    timeout-minutes: 25
+    defaults:
+      run:
+        working-directory: storefront
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "22" }
+      - run: npm ci || npm install
+      - name: Lint
+        run: npm run lint
+      - name: Build
+        # NEXT_PUBLIC_* are inlined at build time. These are the public
+        # production values, matching storefront/Dockerfile's ARG defaults.
+        env:
+          NEXT_PUBLIC_MEDUSA_BACKEND_URL: https://supply-admin.reno-stars.com
+        run: npm run build
+
+  backend:
+    runs-on: k8s-heavy
+    timeout-minutes: 25
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "22" }
+      - run: npm ci || npm install
+      - name: Build
+        run: npm run build

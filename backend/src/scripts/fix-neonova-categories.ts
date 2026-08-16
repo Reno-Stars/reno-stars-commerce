@@ -47,9 +47,13 @@ export default async function fixNeonovaCategories({ container }: ExecArgs) {
 
   // 3. Find all NeoNova products + their current categories
   const products = await productModule.listProducts(
+    // `metadata` is a real runtime filter but is absent from
+    // FilterableProductProps, so the cast has to sit on the whole filter object
+    // — `{ metadata: ... as any }` still trips TS2353 on the KEY and fails
+    // `medusa build`. Runtime payload is unchanged.
     {
-      metadata: { source: "neonovadecor.ca" } as any,
-    },
+      metadata: { source: "neonovadecor.ca" },
+    } as any,
     {
       take: 10000,
       relations: ["categories"],

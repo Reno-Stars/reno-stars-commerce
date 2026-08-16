@@ -1,0 +1,183 @@
+name: Build image + propose deploy
+
+# Builds BOTH commerce images and PROPOSES a deploy by opening a PR against the
+# manifests repo. It does not deploy.
+#
+# THE DEPLOY PATH, AND WHY IT STOPS AT A PR
+# -----------------------------------------
+#   build -> push registry.enteros.ai/reno-stars/invoice-service:<sha12>
+#         -> PR against reno-stars-infra bumping deploy/invoice-service.yaml
+#         -> a human merges
+#         -> cronjob/reno-stars-cd (*/5) polls main, resolves tags -> digests,
+#            applies, and asserts the rollout landed on the applied digest
+#
+# A green build must not be able to reach production on its own. Nine database
+# restores were verified by content hash during the 2026-08-14/15 migration; a
+# pipeline that can ship an unreviewed image undoes that discipline in one merge.
+# The gate is structural here — CD watches the MANIFESTS, not the registry — so
+# opening a PR rather than committing to main is what keeps a human in the loop.
+#
+# REGISTRY CONSTRAINT: Cloudflare's free-plan body cap is 100 MB PER LAYER (not
+# per image). All nine running images are node:22-slim-based, largest layer
+# 47.6 MB, which is why they push fine. Anything with a fat layer (odoo:19 at
+# 393 MB, playwright at 751 MB) CANNOT be pushed here at all. If you add a base
+# image, check its layer sizes before assuming a build will land.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: build-commerce
+  cancel-in-progress: false # never cancel a half-pushed image
+
+env:
+  REGISTRY: registry.enteros.ai
+  MANIFEST_REPO: reno-stars-infra
+
+
+# ONE COMMIT, TWO IMAGES. storefront/ and backend/ ship separately but are built
+# from the same sha, which is why the running cluster has medusa-storefront and
+# medusa-backend both at 006f9e424c4a. Both manifests are bumped in ONE PR so
+# they can never drift to different commits.
+
+jobs:
+  build:
+    runs-on: k8s-heavy   # NEVER local-deploy — production docker endpoint
+    timeout-minutes: 45
+    outputs:
+      tag: ${{ steps.meta.outputs.tag }}
+    strategy:
+      fail-fast: true
+      matrix:
+        include:
+          - { name: medusa-storefront, context: storefront }
+          - { name: medusa-backend,    context: backend }
+    steps:
+      - uses: actions/checkout@v4
+      - id: meta
+        run: echo "tag=$(echo "${{ github.sha }}" | cut -c1-12)" >> "$GITHUB_OUTPUT"
+      - name: Disk floor
+        run: |
+          avail=$(df -Pm . | awk 'NR==2{print $4}')
+          echo "available: ${avail} MB"
+          [ "$avail" -ge 6144 ] || { echo "::error::under 6 GB free — refusing (two images)"; exit 1; }
+      - uses: docker/setup-buildx-action@v3
+      - name: Registry login
+        # The registry REFUSES this credential from outside the cluster; CI is
+        # in-cluster so it works. And hit the token-exchange flow, not Basic auth
+        # at /v2/<repo>/blobs/uploads/, which 403s for every scope including admin.
+        run: |
+          printf '%s' "${{ secrets.REGISTRY_PASSWORD }}" \
+            | docker login "$REGISTRY" -u "${{ secrets.REGISTRY_USERNAME }}" --password-stdin
+      - name: Build ${{ matrix.name }}
+        run: |
+          docker buildx build --platform linux/amd64 \
+            -t "$REGISTRY/reno-stars/${{ matrix.name }}:${{ steps.meta.outputs.tag }}" \
+            --load ${{ matrix.context }}
+      - name: Layer sizes (warn only)
+        run: |
+          docker history --format '{{.Size}}\t{{.CreatedBy}}' \
+            "$REGISTRY/reno-stars/${{ matrix.name }}:${{ steps.meta.outputs.tag }}" | head -20 | cut -c1-100 || true
+          huge=$(docker history --no-trunc --format '{{.Size}}' \
+                 "$REGISTRY/reno-stars/${{ matrix.name }}:${{ steps.meta.outputs.tag }}" \
+                 | grep -oE '^[0-9.]+GB' | head -1 || true)
+          [ -n "$huge" ] && echo "::warning::a ${huge} uncompressed layer is unlikely to compress under the 100 MB per-layer cap" || true
+      - name: Push
+        run: docker push "$REGISTRY/reno-stars/${{ matrix.name }}:${{ steps.meta.outputs.tag }}"
+
+  propose-deploy:
+    needs: build
+    runs-on: k8s-heavy
+    timeout-minutes: 15
+    steps:
+      # ---------------------------------------------------------------------
+      # GATE: refuse to propose a deploy unless ci.yml went GREEN for THIS sha.
+      #
+      # ci.yml and build.yml are separate workflows on the same `push` trigger,
+      # so they RACE -- `needs:` cannot cross workflow files. On 86d6efb the
+      # tests FAILED, the build succeeded, and this job opened a deploy PR
+      # anyway. "propose-deploy succeeded" meant the image built and the PR
+      # opened; it said nothing about whether the code works, and read exactly
+      # as though it did. A gate that cannot fail.
+      #
+      # Three traps, deliberately handled:
+      #   * NOT the combined status `state` -- this Gitea computes it PER PAGE,
+      #     so a green first page reads green while a later page is red.
+      #   * ABSENT IS NOT PASS. No report yet for this sha would make
+      #     "no failure found" a universal pass. An explicit success is required.
+      #   * It is a RACE, not a lookup: build finishes before test does, so this
+      #     WAITS for a conclusion instead of sampling once.
+      # ---------------------------------------------------------------------
+      - name: Require ci.yml green for this commit
+        env:
+          GT: ${{ github.token }}
+          SHA: ${{ github.sha }}
+          API: ${{ github.server_url }}/api/v1/repos/${{ github.repository }}/actions/runs
+        run: |
+          cat > /tmp/verdict.py <<'PYEOF'
+          import json, sys, os
+          sha = os.environ['SHA']
+          try:
+              runs = json.load(sys.stdin).get('workflow_runs', [])
+          except Exception:
+              print('ERROR'); raise SystemExit(0)
+          mine = [r for r in runs
+                  if r.get('head_sha') == sha and str(r.get('path','')).startswith('ci.yml')]
+          if not mine:
+              print('ABSENT')
+          elif any(r.get('status') != 'completed' for r in mine):
+              print('PENDING')
+          elif all(r.get('conclusion') == 'success' for r in mine):
+              print('SUCCESS')
+          else:
+              print('FAILED:' + ','.join(str(r.get('conclusion')) for r in mine))
+          PYEOF
+          for i in $(seq 1 60); do
+            body=$(curl -sS -H "Authorization: token $GT" "$API?limit=50" || echo '{}')
+            verdict=$(printf '%s' "$body" | python3 /tmp/verdict.py)
+            echo "attempt $i: ci.yml for ${SHA} -> $verdict"
+            case "$verdict" in
+              SUCCESS) echo "ci.yml green - proceeding."; exit 0 ;;
+              FAILED*) echo "::error::ci.yml is RED for this commit ($verdict). Refusing to propose a deploy."; exit 1 ;;
+            esac
+            sleep 20
+          done
+          echo "::error::ci.yml never reported a conclusion for $SHA. Absent is NOT a pass. Refusing."
+          exit 1
+
+      - name: Open ONE PR bumping BOTH manifests
+        env:
+          TAG: ${{ needs.build.outputs.tag }}
+          GITEA_TOKEN: ${{ secrets.INFRA_PR_TOKEN }}
+        run: |
+          set -euo pipefail
+          git clone "https://oauth2:${GITEA_TOKEN}@git.moleculesai.app/reno-stars/${MANIFEST_REPO}.git" infra
+          cd infra
+          git config user.email "ci@reno-stars.com"
+          git config user.name  "reno-stars-ci"
+          branch="deploy/commerce-${TAG}"
+          git checkout -b "$branch"
+
+          # Rewrite ONLY each service's own image line. A blanket sed across the
+          # directory would silently retag neighbours sharing the registry prefix.
+          for pair in "medusa-storefront:deploy/medusa-storefront.yaml" \
+                      "medusa-backend:deploy/renostars-medusa-backend.yaml"; do
+            img="${pair%%:*}"; path="${pair#*:}"
+            before=$(grep -c "image: ${REGISTRY}/reno-stars/${img}:" "$path")
+            sed -i -E "s|(image: ${REGISTRY}/reno-stars/${img}):[A-Za-z0-9._-]+|\1:${TAG}|g" "$path"
+            after=$(grep -c "image: ${REGISTRY}/reno-stars/${img}:${TAG}" "$path")
+            echo "${img}: ${before} found, ${after} now at ${TAG}"
+            [ "$before" -eq "$after" ] || { echo "::error::${img} rewrite changed a different number of lines than it found"; exit 1; }
+          done
+
+          if git diff --quiet; then
+            echo "both manifests already at ${TAG} — nothing to propose"
+            exit 0
+          fi
+          git commit -am "deploy(commerce): ${TAG}"
+          git push origin "$branch"
+          curl -sS -X POST "https://git.moleculesai.app/api/v1/repos/reno-stars/${MANIFEST_REPO}/pulls" \
+            -H "Authorization: token ${GITEA_TOKEN}" -H 'Content-Type: application/json' \
+            -d "{\"head\":\"${branch}\",\"base\":\"main\",\"title\":\"deploy(commerce): ${TAG}\",\"body\":\"Automated bump of BOTH commerce images from CI, built from commit ${{ github.sha }}. Storefront and backend ship from one sha and are bumped together so they cannot drift.\"}"

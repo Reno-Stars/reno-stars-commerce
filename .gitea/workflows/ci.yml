@@ -33,15 +33,29 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: "22" }
-      - run: npm ci || npm install
+      # ⚠️ THIS REPO IS YARN 4 (BERRY), NOT npm. Both packages declare
+      # `packageManager: yarn@4.4.0` and ship yarn.lock; there is no
+      # package-lock.json, so `npm ci` fails with EUSAGE. Same mistake the
+      # invoice-service port made in the other direction (npm ci on a pnpm repo).
+      - name: Enable corepack (yarn 4)
+        run: corepack enable
+      - name: Install (immutable)
+        run: yarn install --immutable
       - name: Lint
-        run: npm run lint
+        run: yarn lint
       - name: Build
         # NEXT_PUBLIC_* are inlined at build time. These are the public
         # production values, matching storefront/Dockerfile's ARG defaults.
         env:
+          # storefront/check-env-variables.js REFUSES to build without the
+          # publishable key. It is a NEXT_PUBLIC_* — inlined into every client
+          # bundle, so public by design — but kept in a Gitea org secret rather
+          # than committed to a public repo.
           NEXT_PUBLIC_MEDUSA_BACKEND_URL: https://supply-admin.reno-stars.com
-        run: npm run build
+          NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY: ${{ secrets.NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY }}
+          NEXT_PUBLIC_BASE_URL: https://supply.reno-stars.com
+          NEXT_PUBLIC_DEFAULT_REGION: ca
+        run: yarn build
 
   backend:
     runs-on: k8s-heavy
@@ -53,6 +67,13 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: "22" }
-      - run: npm ci || npm install
+      # ⚠️ THIS REPO IS YARN 4 (BERRY), NOT npm. Both packages declare
+      # `packageManager: yarn@4.4.0` and ship yarn.lock; there is no
+      # package-lock.json, so `npm ci` fails with EUSAGE. Same mistake the
+      # invoice-service port made in the other direction (npm ci on a pnpm repo).
+      - name: Enable corepack (yarn 4)
+        run: corepack enable
+      - name: Install (immutable)
+        run: yarn install --immutable
       - name: Build
-        run: npm run build
+        run: yarn build

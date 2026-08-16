@@ -72,8 +72,17 @@ jobs:
           printf '%s' "${{ secrets.REGISTRY_PASSWORD }}" \
             | docker login "$REGISTRY" -u "${{ secrets.REGISTRY_USERNAME }}" --password-stdin
       - name: Build ${{ matrix.name }}
+        # NEXT_PUBLIC_* are INLINED INTO THE CLIENT BUNDLE at build time, so they
+        # must be build-args, not runtime env. storefront/check-env-variables.js
+        # hard-refuses without the publishable key — the first run died with
+        # "🚫 Missing required environment variables". The backend ignores these
+        # args harmlessly, so one block serves both matrix legs.
         run: |
           docker buildx build --platform linux/amd64 \
+            --build-arg NEXT_PUBLIC_MEDUSA_BACKEND_URL=https://supply-admin.reno-stars.com \
+            --build-arg NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY="${{ secrets.NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY }}" \
+            --build-arg NEXT_PUBLIC_BASE_URL=https://supply.reno-stars.com \
+            --build-arg NEXT_PUBLIC_DEFAULT_REGION=ca \
             -t "$REGISTRY/reno-stars/${{ matrix.name }}:${{ steps.meta.outputs.tag }}" \
             --load ${{ matrix.context }}
       - name: Layer sizes (warn only)

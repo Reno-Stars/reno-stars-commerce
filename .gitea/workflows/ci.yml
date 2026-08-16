@@ -26,6 +26,18 @@ jobs:
   storefront:
     runs-on: k8s-heavy
     timeout-minutes: 25
+    # JOB-LEVEL, not step-level. `next lint` loads next.config, which runs
+    # storefront/check-env-variables.js — so LINT refuses without these too, not
+    # just build. Scoping them to the build step failed with
+    # "🚫 Missing required environment variables" at Lint.
+    # NEXT_PUBLIC_* are inlined into every client bundle, so they are public by
+    # design; the publishable key is still held in a Gitea org secret rather than
+    # committed, because this repo is public on GitHub.
+    env:
+      NEXT_PUBLIC_MEDUSA_BACKEND_URL: https://supply-admin.reno-stars.com
+      NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY: ${{ secrets.NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY }}
+      NEXT_PUBLIC_BASE_URL: https://supply.reno-stars.com
+      NEXT_PUBLIC_DEFAULT_REGION: ca
     defaults:
       run:
         working-directory: storefront
@@ -46,15 +58,6 @@ jobs:
       - name: Build
         # NEXT_PUBLIC_* are inlined at build time. These are the public
         # production values, matching storefront/Dockerfile's ARG defaults.
-        env:
-          # storefront/check-env-variables.js REFUSES to build without the
-          # publishable key. It is a NEXT_PUBLIC_* — inlined into every client
-          # bundle, so public by design — but kept in a Gitea org secret rather
-          # than committed to a public repo.
-          NEXT_PUBLIC_MEDUSA_BACKEND_URL: https://supply-admin.reno-stars.com
-          NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY: ${{ secrets.NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY }}
-          NEXT_PUBLIC_BASE_URL: https://supply.reno-stars.com
-          NEXT_PUBLIC_DEFAULT_REGION: ca
         run: yarn build
 
   backend:

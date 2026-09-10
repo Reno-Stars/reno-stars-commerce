@@ -24,7 +24,7 @@ catalog['counts']={b:dict(collections.Counter(p['status'] for p in catalog['prod
 (REPO/'backend/src/scripts/data/cabinet-inventory.json').write_text(json.dumps({'snapshot_date':catalog['snapshot_date'],'products':ready},indent=2))
 fields=['id','brand','supplier_sku','title','finish','construction','status','width_mm','height_mm','depth_mm','model_url','source_url','review_reasons']
 with (ROOT/'inventory.csv').open('w',newline='') as f:
- w=csv.DictWriter(f,fieldnames=fields);w.writeheader()
+ w=csv.DictWriter(f,fieldnames=fields,lineterminator="\n");w.writeheader()
  for p in catalog['products']:
   row={k:p.get(k) for k in fields};d=p['dimensions_mm'] or {};row.update(width_mm=d.get('w'),height_mm=d.get('h'),depth_mm=d.get('d'),review_reasons='; '.join(p['review_reasons']));w.writerow(row)
 print(json.dumps(catalog['counts'],indent=2))

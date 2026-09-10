@@ -52,3 +52,9 @@ The same controls are available in the product-page iframe, which resizes to its
 Viewer source and reproducible build: `tools/cabinet-viewer/`. Run `npm ci` and `npm run build` there to rebuild the committed browser bundle. Three.js license is distributed alongside the bundle. Serve `storefront/public/cabinet-library` on port 8768, then run `npm test` in the tool directory; set `CABINET_VIEWER_URL` to test another URL. Test artifacts go into the ignored `out/` directory.
 
 Validation: all 100 SKUs load without browser errors; all nine scene/lighting combinations checked; brightness/direction changes, settings persistence, camera/light controls, PNG export, embedded view and mobile overflow checked. Rendering runs on demand and pauses while offscreen.
+
+### Real-time material and rendering refinement
+
+The per-SKU viewer uses physical satin paint with a restrained clear coat and metre-scaled roughness variation, metallic drawer hardware, a rectangular softbox highlight and softer cast shadows. GTAO contact shading adds depth to recesses and contact points, followed by a linear HDR output transform and FXAA. Oak backgrounds use 180 × 1200 mm staggered plank geometry, grain/roughness maps and a subtle bump surface; stone has roughness variation. Decorative plant leaves and pot rims have shaped geometry.
+
+These are presentation material interpretations, not measured manufacturer finish parameters. Model geometry, source dimensions and downloadable GLBs remain unchanged. All 100 products loaded without browser errors; the nine scene/preset combinations, sliders, saved settings, embedded/mobile presentation and PNG export passed browser checks after the rendering upgrade.

@@ -39,6 +39,16 @@ The working implementation is based on production source commit `fb128a2923e8`; 
 
 `/cabinet-library/home.html` adds two 2200 × 1468 Blender Cycles renders and an interactive kitchen cutaway. Ten cabinet instances use eight existing SKUs at scale 1, with separate counters, toe kicks, handles, appliances and furnishings. The room GLB is approximately 4 MB after reducing all browser textures to 1024 pixels; full-resolution material assets remain packed in the Blender scene.
 
-The individual cabinet viewer now uses a neutral daylight reflection environment, with refreshed thumbnails. The kitchen’s path-traced renders include soft window light, an exterior garden environment, under-cabinet lighting, quartz, oak, stainless steel, eased edges and depth of field. The interactive cutaway uses portable PBR materials and an optimized lighting environment; it does not reproduce all Cycles light transport.
+The kitchen’s path-traced renders include soft window light, an exterior garden environment, under-cabinet lighting, quartz, oak, stainless steel, eased edges and depth of field. The interactive cutaway uses portable PBR materials and an optimized lighting environment; it does not reproduce all Cycles light transport.
 
 Source scene: `/Users/renostars/Documents/OPPEIN-WSS-Library/scenes/OPPEIN-Home-Kitchen.blend`. Scene placement JSON is available beside the room GLB. Browser checks passed for both render tabs, GLB loading, eight SKU links and mobile layout without horizontal overflow. All ten scene cabinet roots retain scale `[1,1,1]`.
+
+## Individual cabinet scenes and lighting
+
+Every SKU now has an interactive Three.js presentation with three backgrounds (Warm oak room, Modern stone room, Slate studio) and independent Window daylight, Soft studio and Warm evening lighting presets. Brightness and light direction sliders update immediately. Settings persist across cabinet selection and reload, and are included in the URL. Users can reset the camera or lighting and download a PNG of the current view.
+
+The same controls are available in the product-page iframe, which resizes to its content using origin- and source-checked messages. Mobile controls stack without horizontal scrolling. Wall cabinets display mounted 1.45 m above the presentation floor. Background geometry and lights are presentation-only: original GLBs, placement metadata and cabinet dimensions are unchanged.
+
+Viewer source and reproducible build: `tools/cabinet-viewer/`. Run `npm ci` and `npm run build` there to rebuild the committed browser bundle. Three.js license is distributed alongside the bundle. Serve `storefront/public/cabinet-library` on port 8768, then run `npm test` in the tool directory; set `CABINET_VIEWER_URL` to test another URL. Test artifacts go into the ignored `out/` directory.
+
+Validation: all 100 SKUs load without browser errors; all nine scene/lighting combinations checked; brightness/direction changes, settings persistence, camera/light controls, PNG export, embedded view and mobile overflow checked. Rendering runs on demand and pauses while offscreen.

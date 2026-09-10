@@ -1,0 +1,16 @@
+{
+  "name": "reno-cabinet-viewer",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "esbuild src/cabinet-stage.js --bundle --minify --format=esm --outfile=../../storefront/public/cabinet-library/vendor/cabinet-stage.js",
+    "test": "node tests/presentation.cjs && node tests/all-cabinets.cjs"
+  },
+  "dependencies": {
+    "three": "0.186.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "playwright": "1.63.0"
+  }
+}

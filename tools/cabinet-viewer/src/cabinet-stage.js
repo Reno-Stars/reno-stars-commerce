@@ -48,7 +48,7 @@ export class CabinetStage {
   }catch(error){if(ticket===this.ticket){this.host.dataset.loaded='error';this.onState('Could not load this cabinet. Select it again to retry.');console.error(error);}}
  }
  finishMaterial(original){
-  const m=new THREE.MeshPhysicalMaterial();THREE.MeshStandardMaterial.prototype.copy.call(m,original);
+  const m=new THREE.MeshPhysicalMaterial();if(original.isMeshPhysicalMaterial)m.copy(original);else THREE.MeshStandardMaterial.prototype.copy.call(m,original);
   if(/satin white/i.test(m.name)){m.color.setRGB(.78,.785,.78);m.roughness=.30;m.ior=1.46;m.clearcoat=.16;m.clearcoatRoughness=.38;this.surfaceDetail(m,1800,.055);}
   else if(/plywood/i.test(m.name)){m.roughness=.48;this.surfaceDetail(m,110,.09);}
   else if(/hardware/i.test(m.name)){m.metalness=.9;m.roughness=.26;}

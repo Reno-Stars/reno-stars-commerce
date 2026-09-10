@@ -16,6 +16,7 @@ const {chromium}=require('playwright');
  await page.getByRole('button',{name:'Generic fixture'}).click();await viewer.locator('[data-loaded=true]').waitFor();
  if(await viewer.getByLabel('Lighting').inputValue()!=='evening')throw Error('Settings lost across products');
  if(await viewer.locator('canvas').count()!==1)throw Error('Leaked renderer after changing products');
+ for(const p of require('./fixtures/inventory-samples.json')){await page.getByRole('button',{name:p.id,exact:true}).click();await viewer.locator('[data-loaded=true]').waitFor();await viewer.getByLabel('Lighting').selectOption('studio');await page.waitForTimeout(350);await viewer.screenshot({path:'tools/cabinet-viewer/out/'+p.id+'.png'});}
  await page.getByRole('button',{name:'No model fixture'}).click();if(await viewer.count())throw Error('Viewer shown for product without model');
  await page.getByRole('button',{name:'Cabinet fixture'}).click();await viewer.locator('[data-loaded=true]').waitFor();
  await page.setViewportSize({width:390,height:844});await page.waitForTimeout(500);

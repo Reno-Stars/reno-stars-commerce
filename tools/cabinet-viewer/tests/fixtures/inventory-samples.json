@@ -1,0 +1,68 @@
+[
+  {
+    "id": "oppein-ply-gss-2db36",
+    "finish": "Gray Single Shaker",
+    "url": "/cabinet-inventory/models/oppein-ply-gss-2db36.glb",
+    "family": "base"
+  },
+  {
+    "id": "oppein-ply-bss-2db30",
+    "finish": "Blue Single Shaker",
+    "url": "/cabinet-inventory/models/oppein-ply-bss-2db30.glb",
+    "family": "base"
+  },
+  {
+    "id": "oppein-ply-pgw-2db36",
+    "finish": "White High Gloss",
+    "url": "/cabinet-inventory/models/oppein-ply-pgw-2db36.glb",
+    "family": "base"
+  },
+  {
+    "id": "oppein-ply-mso-2db36",
+    "finish": "Smoked Oak",
+    "url": "/cabinet-inventory/models/oppein-ply-mso-2db36.glb",
+    "family": "base"
+  },
+  {
+    "id": "oppein-ply-mnw-2db30",
+    "finish": "Natural Wood",
+    "url": "/cabinet-inventory/models/oppein-ply-mnw-2db30.glb",
+    "family": "base"
+  },
+  {
+    "id": "oppein-ply-ssw-2db30",
+    "finish": "White Slim Shaker",
+    "url": "/cabinet-inventory/models/oppein-ply-ssw-2db30.glb",
+    "family": "base"
+  },
+  {
+    "id": "oppein-pb-wss-3db36",
+    "finish": "White Single Shaker",
+    "url": "/cabinet-inventory/models/oppein-pb-wss-3db36.glb",
+    "family": "base"
+  },
+  {
+    "id": "bvc-4627",
+    "finish": "White shaker",
+    "url": "/cabinet-inventory/models/bvc-4627.glb",
+    "family": "base"
+  },
+  {
+    "id": "bvc-4626",
+    "finish": "Natural Oak",
+    "url": "/cabinet-inventory/models/bvc-4626.glb",
+    "family": "base"
+  },
+  {
+    "id": "bvc-4625",
+    "finish": "Gloss White",
+    "url": "/cabinet-inventory/models/bvc-4625.glb",
+    "family": "base"
+  },
+  {
+    "id": "bvc-4624",
+    "finish": "Dark Walnut",
+    "url": "/cabinet-inventory/models/bvc-4624.glb",
+    "family": "base"
+  }
+]

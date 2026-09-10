@@ -13,7 +13,10 @@ export default function ProductModelViewer({ product }: { product: HttpTypes.Sto
         style={{ height: 760 }}
         loading="lazy"
       />
-      <a className="inline-block mt-3 underline" href="/cabinet-library/index.html">Browse all OPPEIN cabinet sizes</a>
+      <div className="flex flex-wrap gap-5 mt-3">
+        <a className="underline" href="/cabinet-library/index.html">Browse all OPPEIN cabinet sizes</a>
+        <a className="underline" href="/cabinet-library/home.html">See a furnished kitchen</a>
+      </div>
     </section>
   )
 }

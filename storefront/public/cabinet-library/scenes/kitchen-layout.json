@@ -1,0 +1,95 @@
+{
+  "units": "metres",
+  "cabinets": [
+    {
+      "sku": "PLY-WSS-B24",
+      "position_m": [
+        0,
+        0,
+        0
+      ],
+      "rotation_degrees": 0
+    },
+    {
+      "sku": "PLY-WSS-SB30",
+      "position_m": [
+        0.6096,
+        0,
+        0
+      ],
+      "rotation_degrees": 0
+    },
+    {
+      "sku": "PLY-WSS-3DB18",
+      "position_m": [
+        1.3716,
+        0,
+        0
+      ],
+      "rotation_degrees": 0
+    },
+    {
+      "sku": "PLY-WSS-B24",
+      "position_m": [
+        2.5908,
+        0,
+        0
+      ],
+      "rotation_degrees": 0
+    },
+    {
+      "sku": "PLY-WSS-PC1884",
+      "position_m": [
+        4.1148,
+        0,
+        0
+      ],
+      "rotation_degrees": 0
+    },
+    {
+      "sku": "PLY-WSS-W2430",
+      "position_m": [
+        0,
+        0,
+        1.524
+      ],
+      "rotation_degrees": 0
+    },
+    {
+      "sku": "PLY-WSS-W3030",
+      "position_m": [
+        0.6096,
+        0,
+        1.524
+      ],
+      "rotation_degrees": 0
+    },
+    {
+      "sku": "PLY-WSS-W1830",
+      "position_m": [
+        1.3716,
+        0,
+        1.524
+      ],
+      "rotation_degrees": 0
+    },
+    {
+      "sku": "PLY-WSS-W2430",
+      "position_m": [
+        2.5908,
+        0,
+        1.524
+      ],
+      "rotation_degrees": 0
+    },
+    {
+      "sku": "PLY-WSS-W361224",
+      "position_m": [
+        3.2004,
+        0,
+        1.9812
+      ],
+      "rotation_degrees": 0
+    }
+  ]
+}

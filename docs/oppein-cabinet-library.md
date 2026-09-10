@@ -34,3 +34,11 @@ All 100 Blender-generated mesh envelopes checked against published dimensions to
 `/Users/renostars/Documents/OPPEIN-WSS-Library/` contains the original HTML evidence, catalog collector, normalization script, Blender generator, 100 `.blend` files, geometry validation, browser checks and `source/place_cabinets.py`. Source page: https://www.oppeincabinetry.ca/white-single-shaker-plywood .
 
 The working implementation is based on production source commit `fb128a2923e8`; unrelated changes in the original Mac checkout are preserved. This change has not yet been deployed or imported into the production database.
+
+## Furnished kitchen presentation
+
+`/cabinet-library/home.html` adds two 2200 × 1468 Blender Cycles renders and an interactive kitchen cutaway. Ten cabinet instances use eight existing SKUs at scale 1, with separate counters, toe kicks, handles, appliances and furnishings. The room GLB is approximately 4 MB after reducing all browser textures to 1024 pixels; full-resolution material assets remain packed in the Blender scene.
+
+The individual cabinet viewer now uses a neutral daylight reflection environment, with refreshed thumbnails. The kitchen’s path-traced renders include soft window light, an exterior garden environment, under-cabinet lighting, quartz, oak, stainless steel, eased edges and depth of field. The interactive cutaway uses portable PBR materials and an optimized lighting environment; it does not reproduce all Cycles light transport.
+
+Source scene: `/Users/renostars/Documents/OPPEIN-WSS-Library/scenes/OPPEIN-Home-Kitchen.blend`. Scene placement JSON is available beside the room GLB. Browser checks passed for both render tabs, GLB loading, eight SKU links and mobile layout without horizontal overflow. All ten scene cabinet roots retain scale `[1,1,1]`.

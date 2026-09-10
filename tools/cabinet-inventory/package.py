@@ -18,7 +18,7 @@ for p in catalog['products']:
   p['status']='model_ready';p['model_url']=r['model_url'];p['geometry_validation']=r
  if p['status']=='model_ready':
   assert (REPO/'storefront/public'/p['model_url'].lstrip('/')).is_file()
-  ready.append({k:p.get(k) for k in ['id','brand','supplier_sku','title','source_url','source_checked','finish','construction','family','dimensions_mm','model_url','legacy_variant_sku','supplier_image_url','model_spec']})
+  ready.append({k:p.get(k) for k in ['id','brand','supplier_sku','title','source_url','source_checked','finish','construction','family','dimensions_mm','model_url','legacy_variant_sku','supplier_image_url','model_spec','review_status','publication_approved','review_findings']})
 catalog['counts']={b:dict(collections.Counter(p['status'] for p in catalog['products'] if p['brand']==b)) for b in ['OPPEIN','Blue Valley','Macan']}
 (ROOT/'inventory.json').write_text(json.dumps(catalog,indent=2))
 (REPO/'backend/src/scripts/data/cabinet-inventory.json').write_text(json.dumps({'snapshot_date':catalog['snapshot_date'],'products':ready},indent=2))

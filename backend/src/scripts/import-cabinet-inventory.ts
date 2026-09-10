@@ -17,6 +17,7 @@ export default async function importCabinetInventory({ container }: ExecArgs) {
   const pending: typeof inventory.products = []
   // Complete duplicate and asset preflight before the first catalog write.
   for (const p of inventory.products) {
+    if (!p.review_status || p.publication_approved !== false) throw Error(`Review disposition missing or unsupported: ${p.id}`)
     const sku = p.legacy_variant_sku || (p.brand === "OPPEIN" ? p.supplier_sku : p.id.toUpperCase())
     if (!sku || seen.has(sku) || !p.model_url?.startsWith("/cabinet-")) throw Error(`Invalid identity/model: ${p.id}`)
     seen.add(sku)
@@ -43,18 +44,19 @@ export default async function importCabinetInventory({ container }: ExecArgs) {
     }
     const d = p.dimensions_mm!
     const size = `${d.w} W × ${d.h} H × ${d.d} D mm`
+    if (!p.review_status || p.publication_approved !== false) throw Error(`Review disposition missing or unsupported: ${p.id}`)
     const sku = p.legacy_variant_sku || (p.brand === "OPPEIN" ? p.supplier_sku! : p.id.toUpperCase())
     const image = typeof p.supplier_image_url === "string" && p.supplier_image_url.startsWith("https://") ? p.supplier_image_url : undefined
     await createProductsWorkflow(container).run({ input: { products: [{
       title: `${p.title} — ${p.finish} — ${p.supplier_sku || p.id}`,
       handle: p.id,
       description: `${p.brand} ${p.finish}. ${size}. Manufacturer-published external dimensions; internal construction and finish appearance in the 3D model are visual approximations. ${p.model_spec?.legs_mm ? `Model includes ${p.model_spec.legs_mm} mm adjustable feet below the published body height. ` : ""}Contact Reno Stars for pricing and availability.`,
-      status: ProductStatus.PUBLISHED,
+      status: ProductStatus.DRAFT,
       category_ids: [categories.get(handle)!], sales_channels: [{ id: channel.id }],
       thumbnail: image, images: image ? [{ url: image }] : [],
       options: [{ title: "Size", values: [size] }],
       variants: [{ title: size, sku, options: { Size: size }, manage_inventory: false, prices: [] }],
-      metadata: { brand: p.brand, supplier_sku: p.supplier_sku, source_url: p.source_url, source_checked: p.source_checked, finish: p.finish, construction: p.construction, model_url: `${origin}${p.model_url}`, model_family: p.family, width_mm: d.w, height_mm: d.h, depth_mm: d.d, legs_mm: p.model_spec?.legs_mm || 0, pricing_mode: "quote_only", dimension_basis: "manufacturer_published_external", model_version: 2, model_finish_basis: "visual_approximation" },
+      metadata: { brand: p.brand, supplier_sku: p.supplier_sku, source_url: p.source_url, source_checked: p.source_checked, finish: p.finish, construction: p.construction, model_url: `${origin}${p.model_url}`, model_family: p.family, width_mm: d.w, height_mm: d.h, depth_mm: d.d, legs_mm: p.model_spec?.legs_mm || 0, pricing_mode: "quote_only", dimension_basis: "manufacturer_published_external", model_version: 2, review_status: p.review_status, publication_approved: false, review_findings: p.review_findings, model_finish_basis: "visual_approximation" },
     }] } })
     logger.info(`Created ${p.id}`)
   }

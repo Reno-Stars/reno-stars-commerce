@@ -41,14 +41,14 @@ export default async function importOppein({ container }: ExecArgs) {
       title: `${p.title} — ${p.sku}`,
       handle: productHandle,
       description: `OPPEIN White Single Shaker plywood cabinet. ${p.source_dimension_text}. Dimensions refer to the cabinet body; adjustable legs and installation height are shown separately in the 3D viewer. Contact Reno Stars for pricing and availability.`,
-      status: ProductStatus.PUBLISHED,
+      status: ProductStatus.DRAFT,
       category_ids: [category!.id],
       sales_channels: [{ id: channel.id }],
       thumbnail: `${assetBase}/posters/${p.sku}.png`,
       images: [{ url: `${assetBase}/posters/${p.sku}.png` }],
       options: [{ title: "Size", values: [p.source_dimension_text] }],
       variants: [{ title: p.source_dimension_text, sku: p.sku, options: { Size: p.source_dimension_text }, manage_inventory: false, prices: [] }],
-      metadata: { brand: "OPPEIN", series: "White Single Shaker", construction: "Plywood", source_url: p.source_url, cabinet_library_sku: p.sku, model_family: p.family, model_url: `${assetBase}/${p.model_url}`, width_mm: d.w, height_mm: d.h, depth_mm: d.d, pricing_mode: "quote_only", dimension_basis: "manufacturer_published_body", model_version: 1 },
+      metadata: { brand: "OPPEIN", series: "White Single Shaker", construction: "Plywood", source_url: p.source_url, cabinet_library_sku: p.sku, model_family: p.family, model_url: `${assetBase}/${p.model_url}`, width_mm: d.w, height_mm: d.h, depth_mm: d.d, pricing_mode: "quote_only", dimension_basis: "manufacturer_published_body", model_version: 1, publication_approved: false, review_status: "draft_not_individually_approved" },
     }] } })
     created++; logger.info(`Created ${p.sku}`)
   }

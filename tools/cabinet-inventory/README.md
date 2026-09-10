@@ -1,5 +1,7 @@
 # Multi-supplier cabinet inventory
 
+**Review update: these are generated draft assets, not approved products. A catalog-wide audit found 1,066 modeled records requiring correction or clarification. Both importers now create drafts. See [the review report](review/REPORT.md).**
+
 Snapshot: 2026-09-10. This is a public **product catalog**, not warehouse stock. Prepared for the native Medusa product viewer; no standalone HTML catalog is required.
 
 | Supplier | Catalog records | Dimensioned models | Specification review |
@@ -8,7 +10,7 @@ Snapshot: 2026-09-10. This is a public **product catalog**, not warehouse stock.
 | Blue Valley | 1,029 variants + 7 simple products | 224 | 812 |
 | Macan | 105 collection photo references | 0 | 105 |
 
-The 1,734 eligible models include the original 100 OPPEIN models and 1,634 new GLBs. OPPEIN coverage includes plywood and particle board, white/blue/gray shaker, white slim shaker, natural wood, smoked oak and high gloss. Blue Valley includes white shaker, gloss white, natural oak and dark walnut. Counts describe the public snapshot, not a claim that dealer-only inventory is complete.
+The 1,734 generated models include the original 100 OPPEIN models and 1,634 new GLBs. OPPEIN coverage includes plywood and particle board, white/blue/gray shaker, white slim shaker, natural wood, smoked oak and high gloss. Blue Valley includes white shaker, gloss white, natural oak and dark walnut. Counts describe the public snapshot, not a claim that dealer-only inventory is complete.
 
 ## Accuracy and exclusions
 
@@ -24,7 +26,7 @@ Modeled **external envelopes** are checked using evaluated Blender geometry to a
 - `inventory.json`: full source evidence, eligibility and geometry checks.
 - `*-source.json`: public source snapshots; raw HTML/PDF/photo cache is ignored.
 - `model-results.json`: new model envelope checks.
-- `../../backend/src/scripts/data/cabinet-inventory.json`: eligible Medusa staging records only.
+- `../../backend/src/scripts/data/cabinet-inventory.json`: modeled Medusa draft staging records only.
 - `../../storefront/public/cabinet-inventory/models/`: portable metre-scaled GLBs with embedded textures.
 - Representative editable Blender files are saved locally under `~/Documents/Cabinet-Inventory/representative-blend/`; all models can be regenerated or imported from GLB.
 

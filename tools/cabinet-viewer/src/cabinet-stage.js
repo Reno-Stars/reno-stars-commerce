@@ -12,7 +12,8 @@ import { HDRLoader } from 'three/addons/loaders/HDRLoader.js';
 
 function disposeTree(root){const geometry=new Set(),materials=new Set();root.traverse(o=>{if(o.geometry)geometry.add(o.geometry);if(o.material)(Array.isArray(o.material)?o.material:[o.material]).forEach(m=>materials.add(m));});geometry.forEach(g=>g.dispose());materials.forEach(m=>m.dispose());}
 export class CabinetStage {
- constructor(host,onState){
+ constructor(host,onState,assetBase="./"){
+  this.disposed=false;const asset=path=>new URL(path,new URL(assetBase,document.baseURI)).href;
   this.host=host;this.onState=onState;this.mount=0;this.ticket=0;this.loaded=false;this.settings={scene:'oak',light:'daylight',brightness:100,direction:-35};
   this.renderer=new THREE.WebGLRenderer({antialias:true,preserveDrawingBuffer:true});this.renderer.setPixelRatio(Math.min(devicePixelRatio,2));this.renderer.outputColorSpace=THREE.SRGBColorSpace;this.renderer.toneMapping=THREE.ACESFilmicToneMapping;this.renderer.shadowMap.enabled=true;this.renderer.shadowMap.type=THREE.VSMShadowMap;host.append(this.renderer.domElement);this.renderer.domElement.setAttribute('aria-label','Interactive selected cabinet; drag to rotate and scroll to zoom');this.renderer.domElement.tabIndex=0;
   this.scene=new THREE.Scene();this.camera=new THREE.PerspectiveCamera(38,1,.02,60);this.controls=new OrbitControls(this.camera,this.renderer.domElement);this.controls.enableDamping=true;this.controls.enablePan=false;this.controls.minPolarAngle=.18;this.controls.maxPolarAngle=Math.PI/2-.02;
@@ -25,15 +26,15 @@ export class CabinetStage {
   this.key=new THREE.DirectionalLight(0xfff8ed,2);this.key.castShadow=true;this.key.shadow.mapSize.set(2048,2048);Object.assign(this.key.shadow.camera,{left:-2.5,right:2.5,top:3.5,bottom:-2.5,near:.1,far:15});this.key.shadow.bias=-.00003;this.key.shadow.normalBias=.0015;this.key.shadow.radius=12;this.key.shadow.blurSamples=16;this.scene.add(this.key,this.key.target);
   this.fill=new THREE.DirectionalLight(0xdfebff,.45);this.fill.position.set(3,3,4);this.scene.add(this.fill);
   this.rim=new THREE.DirectionalLight(0xffffff,.7);this.rim.position.set(0,4,-2);this.scene.add(this.rim);
-  this.pmrem=new THREE.PMREMGenerator(this.renderer);new HDRLoader().load('scenes/daylight-studio.hdr',texture=>{this.environment=this.pmrem.fromEquirectangular(texture);this.scene.environment=this.environment.texture;texture.dispose();this.applyLighting();},undefined,()=>{});
-  this.oak=new THREE.TextureLoader().load('textures/oak.jpg',()=>this.render());this.oak.colorSpace=THREE.SRGBColorSpace;this.oak.wrapS=this.oak.wrapT=THREE.RepeatWrapping;this.oak.repeat.set(1,1);this.oak.anisotropy=Math.min(8,this.renderer.capabilities.getMaxAnisotropy());
-  this.oakRoughness=new THREE.TextureLoader().load('textures/oak-roughness.jpg',()=>this.render());this.oakRoughness.wrapS=this.oakRoughness.wrapT=THREE.RepeatWrapping;this.oakRoughness.repeat.copy(this.oak.repeat);
+  this.pmrem=new THREE.PMREMGenerator(this.renderer);new HDRLoader().load(asset('scenes/daylight-studio.hdr'),texture=>{if(this.disposed){texture.dispose();return;}this.environment=this.pmrem.fromEquirectangular(texture);this.scene.environment=this.environment.texture;texture.dispose();this.applyLighting();},undefined,()=>{});
+  this.oak=new THREE.TextureLoader().load(asset('textures/oak.jpg'),()=>this.render());this.oak.colorSpace=THREE.SRGBColorSpace;this.oak.wrapS=this.oak.wrapT=THREE.RepeatWrapping;this.oak.repeat.set(1,1);this.oak.anisotropy=Math.min(8,this.renderer.capabilities.getMaxAnisotropy());
+  this.oakRoughness=new THREE.TextureLoader().load(asset('textures/oak-roughness.jpg'),()=>this.render());this.oakRoughness.wrapS=this.oakRoughness.wrapT=THREE.RepeatWrapping;this.oakRoughness.repeat.copy(this.oak.repeat);
   this.resizeObserver=new ResizeObserver(()=>this.resize());this.resizeObserver.observe(host);this.resize();this.visible=true;this.intersection=new IntersectionObserver(entries=>{this.visible=entries[0].isIntersecting});this.intersection.observe(host);
   this.needsRender=true;this.controls.addEventListener("change",()=>{this.needsRender=true});this.animate=()=>{this.frame=requestAnimationFrame(this.animate);if(this.visible&&!document.hidden){const changed=this.controls.update();if(changed||this.needsRender)this.render();}};this.animate();
   this.renderer.domElement.addEventListener('webglcontextlost',e=>{e.preventDefault();this.onState('The 3D view paused. Refresh to reload it.');});
  }
  resize(){const w=this.host.clientWidth,h=this.host.clientHeight;if(!w||!h)return;this.camera.aspect=w/h;this.camera.updateProjectionMatrix();this.renderer.setSize(w,h);this.composer.setSize(w,h);const dpr=this.renderer.getPixelRatio();this.fxaa.uniforms.resolution.value.set(1/(w*dpr),1/(h*dpr));this.needsRender=true;}
- render(){this.composer.render();this.needsRender=false}
+ render(){if(this.disposed)return;this.composer.render();this.needsRender=false}
  async load(product){
   const ticket=++this.ticket;this.loaded=false;this.host.dataset.loaded='false';this.onState('Loading cabinet…');
   try{const gltf=await new GLTFLoader().loadAsync(product.model_url);if(ticket!==this.ticket){disposeTree(gltf.scene);return;}
@@ -111,5 +112,5 @@ export class CabinetStage {
  }
  resetView(){if(!this.size)return;const target=new THREE.Vector3(0,this.mount+this.size.y*.48,0);const span=Math.max(this.size.y,this.size.x/Math.max(.7,this.camera.aspect),this.size.z, .65);this.controls.target.copy(target);this.camera.position.copy(target).add(new THREE.Vector3(span*1.15,span*.65,span*1.95));this.controls.minDistance=span*.7;this.controls.maxDistance=span*4.5;this.controls.update();}
  screenshot(){this.render();return this.renderer.domElement.toDataURL('image/png')}
- dispose(){cancelAnimationFrame(this.frame);this.resizeObserver.disconnect();this.intersection.disconnect();this.controls.dispose();disposeTree(this.room);if(this.cabinet)disposeTree(this.cabinet);this.oak.dispose();this.oakRoughness.dispose();this.ao.dispose();this.output.dispose();this.fxaa.dispose();this.composer.dispose();this.environment?.dispose();this.pmrem.dispose();this.renderer.dispose();}
+ dispose(){this.disposed=true;++this.ticket;cancelAnimationFrame(this.frame);this.resizeObserver.disconnect();this.intersection.disconnect();this.controls.dispose();disposeTree(this.room);if(this.cabinet)disposeTree(this.cabinet);this.oak.dispose();this.oakRoughness.dispose();this.ao.dispose();this.output.dispose();this.fxaa.dispose();this.composer.dispose();this.environment?.dispose();this.pmrem.dispose();this.renderer.dispose();}
 }

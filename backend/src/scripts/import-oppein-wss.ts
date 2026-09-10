@@ -48,7 +48,7 @@ export default async function importOppein({ container }: ExecArgs) {
       images: [{ url: `${assetBase}/posters/${p.sku}.png` }],
       options: [{ title: "Size", values: [p.source_dimension_text] }],
       variants: [{ title: p.source_dimension_text, sku: p.sku, options: { Size: p.source_dimension_text }, manage_inventory: false, prices: [] }],
-      metadata: { brand: "OPPEIN", series: "White Single Shaker", construction: "Plywood", source_url: p.source_url, cabinet_library_sku: p.sku, model_url: `${assetBase}/${p.model_url}`, width_mm: d.w, height_mm: d.h, depth_mm: d.d, pricing_mode: "quote_only", dimension_basis: "manufacturer_published_body", model_version: 1 },
+      metadata: { brand: "OPPEIN", series: "White Single Shaker", construction: "Plywood", source_url: p.source_url, cabinet_library_sku: p.sku, model_family: p.family, model_url: `${assetBase}/${p.model_url}`, width_mm: d.w, height_mm: d.h, depth_mm: d.d, pricing_mode: "quote_only", dimension_basis: "manufacturer_published_body", model_version: 1 },
     }] } })
     created++; logger.info(`Created ${p.sku}`)
   }

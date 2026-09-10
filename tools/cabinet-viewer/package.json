@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "scripts": {
     "build": "esbuild src/cabinet-stage.js --bundle --minify --format=esm --outfile=../../storefront/public/cabinet-library/vendor/cabinet-stage.js",
-    "test": "node tests/presentation.cjs && node tests/all-cabinets.cjs"
+    "test": "node tests/presentation.cjs && node tests/all-cabinets.cjs",
+    "test:native": "node tests/run-native.cjs"
   },
   "dependencies": {
     "three": "0.186.0"

@@ -5,7 +5,7 @@ Adds 100 OPPEIN White Single Shaker plywood cabinet sizes to a reusable asset li
 ## Viewer and data
 
 - `/cabinet-library/index.html`: public searchable 3D library, desktop/mobile orbit and zoom.
-- `/cabinet-library/index.html?embed=1&sku=PLY-WSS-B12`: embedded product viewer.
+- `/ca/products/<handle>`: native product-page 3D viewer, enabled by public product metadata.
 - `/cabinet-library/catalog.json`: public SKU/dimensions/model manifest.
 - `/cabinet-library/models/<SKU>.glb`: glTF 2.0, metres, Y up, X width, +Z front.
 - Origin: rear-left-floor for base/pantry, rear-left-bottom for wall cabinets.
@@ -21,7 +21,7 @@ Adds 100 OPPEIN White Single Shaker plywood cabinet sizes to a reusable asset li
 4. Run `OPPEIN_APPLY=1 npx medusa exec ./src/scripts/import-oppein-wss.ts` to create the category and 100 quote-only products. This requires backend database access. The importer checks deployed model and poster availability, skips existing product handles and rejects conflicting SKUs. Prices and inventory quantities are not invented.
 5. Verify the category, product preview, product embedded viewer, contact-price text and mobile navigation on the live site. Refresh Next caches through the normal deployment/revalidation mechanism.
 
-Products have `metadata.cabinet_library_sku` to enable their embedded viewer. Other products are unaffected. The storefront price utility handles `pricing_mode: quote_only` without a fake zero-priced sale or indefinite loading placeholder.
+Products have `metadata.model_url` and/or `metadata.cabinet_library_sku` to enable their native React viewer. Other products are unaffected. The storefront price utility handles `pricing_mode: quote_only` without a fake zero-priced sale or indefinite loading placeholder.
 
 ## Validation
 
@@ -47,7 +47,7 @@ Source scene: `/Users/renostars/Documents/OPPEIN-WSS-Library/scenes/OPPEIN-Home-
 
 Every SKU now has an interactive Three.js presentation with three backgrounds (Warm oak room, Modern stone room, Slate studio) and independent Window daylight, Soft studio and Warm evening lighting presets. Brightness and light direction sliders update immediately. Settings persist across cabinet selection and reload, and are included in the URL. Users can reset the camera or lighting and download a PNG of the current view.
 
-The same controls are available in the product-page iframe, which resizes to its content using origin- and source-checked messages. Mobile controls stack without horizontal scrolling. Wall cabinets display mounted 1.45 m above the presentation floor. Background geometry and lights are presentation-only: original GLBs, placement metadata and cabinet dimensions are unchanged.
+The product page renders the same engine directly in a React-managed canvas with native React controls. It does not load or iframe the standalone HTML library. Mobile controls stack without horizontal scrolling. Wall cabinets display mounted 1.45 m above the presentation floor. Background geometry and lights are presentation-only: original GLBs, placement metadata and cabinet dimensions are unchanged.
 
 Viewer source and reproducible build: `tools/cabinet-viewer/`. Run `npm ci` and `npm run build` there to rebuild the committed browser bundle. Three.js license is distributed alongside the bundle. Serve `storefront/public/cabinet-library` on port 8768, then run `npm test` in the tool directory; set `CABINET_VIEWER_URL` to test another URL. Test artifacts go into the ignored `out/` directory.
 
@@ -58,3 +58,11 @@ Validation: all 100 SKUs load without browser errors; all nine scene/lighting co
 The per-SKU viewer uses physical satin paint with a restrained clear coat and metre-scaled roughness variation, metallic drawer hardware, a rectangular softbox highlight and softer cast shadows. GTAO contact shading adds depth to recesses and contact points, followed by a linear HDR output transform and FXAA. Oak backgrounds use 180 × 1200 mm staggered plank geometry, grain/roughness maps and a subtle bump surface; stone has roughness variation. Decorative plant leaves and pot rims have shaped geometry.
 
 These are presentation material interpretations, not measured manufacturer finish parameters. Model geometry, source dimensions and downloadable GLBs remain unchanged. All 100 products loaded without browser errors; the nine scene/preset combinations, sliders, saved settings, embedded/mobile presentation and PNG export passed browser checks after the rendering upgrade.
+
+### Native Medusa product-page integration
+
+`ProductTemplate` includes `ProductModelViewer`. A valid HTTPS or root-relative `.glb` URL in `metadata.model_url` enables the viewer for any product; an OPPEIN `cabinet_library_sku` provides a local library fallback. No model metadata means no viewer section. Optional `width_mm`, `height_mm`, `depth_mm` and `model_family` supply dimension text and mounting presentation. Only positive numeric dimensions are displayed; none are inferred from visual geometry.
+
+The GPU engine loads when the product preview nears the viewport, with shared scene/lighting preferences, retry handling, PNG export and model downloads. It disposes GPU resources when changing products. All rendering assets use absolute storefront paths and the static asset directory bypasses country middleware. No local preview URL, HTML catalog or iframe is used in the product customer flow.
+
+Run `npm run test:native` in `tools/cabinet-viewer` to launch a temporary Next.js fixture using the real component. The fixture is removed afterward and is not part of the shipped app. Checks cover models from metadata, products without models, product switching, preferences, image export, mobile layout and the absence of HTML/iframe requests. Production still requires storefront deployment and the prepared Medusa product import.

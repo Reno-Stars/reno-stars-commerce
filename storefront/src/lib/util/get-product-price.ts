@@ -64,7 +64,17 @@ export function getProductPrice({
     throw new Error("No product provided")
   }
 
+  // Quote-only catalog products have no price records; do not show a loading
+  // placeholder or manufacture a zero-dollar sale price.
+  const quotePrice: VariantPrice = {
+    calculated_price_number: "", calculated_price: CONTACT_FOR_PRICE_LABEL,
+    original_price_number: "", original_price: "", currency_code: "cad",
+    price_type: "default", percentage_diff: "0", is_contact_for_price: true,
+  }
+  const quoteOnly = product.metadata?.pricing_mode === "quote_only"
+
   const cheapestPrice = () => {
+    if (quoteOnly) return quotePrice
     if (!product || !product.variants?.length) {
       return null
     }
@@ -96,6 +106,7 @@ export function getProductPrice({
       return null
     }
 
+    if (quoteOnly) return quotePrice
     return getPricesForVariant({ ...variant, product })
   }
 

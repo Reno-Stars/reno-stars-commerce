@@ -51,6 +51,7 @@ export async function NavigationHeader() {
             </nav>
           </div>
           <div className="flex justify-end items-center gap-2">
+            <a href="/cabinet-library/index.html" className="inline-flex rounded-full px-3 py-1.5 font-medium hover:bg-reno-navy/10" title="Browse dimensioned cabinets in 3D">3D cabinets</a>
             <div className="relative mr-2 hidden small:inline-flex">
               <input
                 disabled

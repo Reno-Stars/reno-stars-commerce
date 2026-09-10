@@ -43,3 +43,8 @@ test('resolved model defects have serialized evidence and preserve source confli
   assert(!codes.some(c=>c.startsWith('SOURCE_')||c==='VARIANT_DEPTH_AMBIGUITY'));
  }
 });
+
+test('production import skips source-conflicted models without writes',async()=>{
+ const old=process.env.CABINET_APPLY;process.env.CABINET_APPLY='1';
+ try{const held=data.products.filter(p=>p.review_status==='correction_required');assert.equal(held.length,125);await importer({listSalesChannels:async()=>[],listProducts:async()=>{throw Error('held record queried')},listProductVariants:async()=>{throw Error('held record queried')}},()=>{throw Error('held record written')},{products:held})()}finally{if(old===undefined)delete process.env.CABINET_APPLY;else process.env.CABINET_APPLY=old}
+});

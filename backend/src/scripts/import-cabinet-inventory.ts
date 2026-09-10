@@ -15,9 +15,11 @@ export default async function importCabinetInventory({ container }: ExecArgs) {
   if (!channel) throw Error("Default Sales Channel missing")
   const seen = new Set<string>()
   const pending: typeof inventory.products = []
+  let held = 0
   // Complete duplicate and asset preflight before the first catalog write.
   for (const p of inventory.products) {
     if (!p.review_status || p.publication_approved !== false) throw Error(`Review disposition missing or unsupported: ${p.id}`)
+    if (p.review_status !== "draft_visual_limitations") { held++; continue }
     const sku = p.legacy_variant_sku || (p.brand === "OPPEIN" ? p.supplier_sku : p.id.toUpperCase())
     if (!sku || seen.has(sku) || !p.model_url?.startsWith("/cabinet-")) throw Error(`Invalid identity/model: ${p.id}`)
     seen.add(sku)
@@ -31,7 +33,7 @@ export default async function importCabinetInventory({ container }: ExecArgs) {
     }
     pending.push(p)
   }
-  logger.info(`${apply ? "Import" : "Dry run"}: ${inventory.products.length} eligible, ${pending.length} new, ${inventory.products.length-pending.length} existing`)
+  logger.info(`${apply ? "Import" : "Dry run"}: ${inventory.products.length-held} eligible, ${pending.length} new, ${inventory.products.length-held-pending.length} existing, ${held} held`)
   if (!apply) return
   const categories = new Map<string, string>()
   for (const p of pending) {

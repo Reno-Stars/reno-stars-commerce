@@ -51,7 +51,7 @@ npx medusa exec ./src/scripts/import-cabinet-inventory.ts
 CABINET_APPLY=1 npx medusa exec ./src/scripts/import-cabinet-inventory.ts
 ```
 
-Default invocation is read-only. Apply preflights all pending model URLs before any catalog writes. Existing product handles are skipped, foreign SKU collisions stop the run, and supplier/finish/construction categories are created as needed. Existing products are not overwritten. The original 100 OPPEIN handles and variant SKUs are preserved. Blue Valley uses stable internal `BVC-<variant-id>` SKUs because supplier SKU strings can repeat across variants; the original supplier SKU remains metadata.
+Default invocation is read-only. Production import skips the 125 modeled records with unresolved source conflicts, leaving 1,609 eligible draft records. Apply preflights all pending model URLs before any catalog writes. Existing product handles are skipped, foreign SKU collisions stop the run, and supplier/finish/construction categories are created as needed. Existing products are not overwritten. The original 100 OPPEIN handles and variant SKUs are preserved. Blue Valley uses stable internal `BVC-<variant-id>` SKUs because supplier SKU strings can repeat across variants; the original supplier SKU remains metadata.
 
 Products are quote-only, with no prices and no fabricated inventory. Source price and availability remain research fields in the full snapshot. Imported `model_url`, family and dimension metadata activate the native viewer on each Medusa product page. The importer has been tested with mocked Medusa services; a live dry run and production import remain pending stack availability.
 

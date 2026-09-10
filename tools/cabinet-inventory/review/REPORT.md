@@ -14,14 +14,16 @@
 
 | Result | Records |
 | --- | ---: |
-| Modeled records requiring correction or source clarification | 1,066 |
-| Modeled records with visual limitations but no additional flagged conflict | 668 |
+| Modeled records requiring correction or source clarification | 125 |
+| Modeled records with visual limitations but no additional flagged conflict | 1,609 |
 | Records already held for specifications / missing model geometry | 1,437 |
 | Approved for customer publication | **0** |
 
-The 668 remaining draft models are not certified matches: generic finishes, unverified internal details and/or absent comparison imagery still limit them. Issue counts below overlap.
+The 1,609 remaining draft models are not certified matches: generic finishes, unverified internal details and/or absent comparison imagery still limit them. Issue counts below overlap.
 
-## Material findings
+## Original findings and subsequent corrections
+
+The following table records the original audit. The four geometry/material categories were subsequently addressed as described below; the other source and finish limitations remain.
 
 | Finding | Affected modeled records | Required action |
 | --- | ---: | --- |
@@ -46,7 +48,11 @@ Macan remains a reference-only collection: no SKU-level dimensions were establis
 - Added row-level findings and explicit `publication_approved: false` to both the inventory and Medusa staging data.
 - Changed **both** cabinet importers to create Medusa drafts. The multi-supplier importer rejects missing review dispositions. Neither importer publishes these models automatically.
 - Added review filters, per-model findings, source/render comparisons, and a searchable full review report to the local HTML preview.
-- Preserved GLBs for diagnosis. **This review has not corrected their geometry/materials.** The outstanding correction queue is the row-level CSV; do not confuse flagging a defect with fixing it.
+- Regenerated all 1,734 GLBs with generator revision 3, preserving model URLs and external dimensions. Verified fixes on 980 distinct modeled records (category counts overlap): 841 white-carcass corrections, 62 specialty rack/bin representations, 166 pantry front/divider revisions and 12 sink-shelf removals.
+- Re-inspected all 210 regenerated representative comparisons and six interior views. Multi-drawer wood fronts retain vertical grain; base top drawer grain follows the available illustration. Grain textures remain approximate.
+- Pantry front proportions follow illustrations, not dimensioned door schedules. Racks, bins and rails are fitted visual representations, not manufacturer-certified hardware. Residual approximation findings remain explicit.
+- Added a Show interior toggle to the local preview. Supplier width/depth/title conflicts remain flagged; no source dimension was guessed and no production import was performed.
+- Preserved the pre-fix report, audit CSV and inspection ledger under `history/`. Current resolved findings and verification evidence are stored in `audit.json`.
 
 ## Evidence and reproduction
 

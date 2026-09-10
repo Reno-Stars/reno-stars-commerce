@@ -29,3 +29,17 @@ test('import refuses records without review metadata before writing',async()=>{
  const old=process.env.CABINET_APPLY;delete process.env.CABINET_APPLY;
  try{const fixture={products:[{...data.products[0],review_status:null}]};await assert.rejects(importer({listProducts:async()=>[],listProductVariants:async()=>[]},()=>{throw Error('unexpected write')},fixture),/Review disposition missing/)}finally{if(old!==undefined)process.env.CABINET_APPLY=old}
 });
+
+test('resolved model defects have serialized evidence and preserve source conflicts',()=>{
+ const audit=read('tools/cabinet-inventory/review/audit.json');
+ assert.equal(audit.summary.models_with_fixes,980);
+ for(const p of audit.products.filter(p=>p.model_url)){
+  assert.equal(p.checks.generator_revision,3);assert(p.checks.serialized_envelope_error_m<.0001);
+  const codes=p.resolved_findings.map(f=>f.code),n=p.checks.mesh_nodes;
+  if(codes.includes('CARCASS_FINISH_MISMATCH'))assert.deepEqual(p.checks.material_assignments['Cabinet side'],['White cabinet carcass']);
+  if(codes.includes('SINK_SHELF_INTERFERENCE'))assert.equal(n['Adjustable shelf']||0,0);
+  if(codes.includes('SPECIALTY_INTERIOR_MISMATCH')){assert.equal(n['Adjustable shelf']||0,0);assert(n['Spice basket floor']===3||n['Trash bin bottom']===2)}
+  if(codes.includes('PANTRY_SPLIT_UNVERIFIED')){assert.equal(n['Fixed pantry divider'],1);assert(p.findings.some(f=>f.code==='PANTRY_LAYOUT_APPROXIMATION'))}
+  assert(!codes.some(c=>c.startsWith('SOURCE_')||c==='VARIANT_DEPTH_AMBIGUITY'));
+ }
+});

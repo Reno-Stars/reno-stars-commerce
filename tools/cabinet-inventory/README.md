@@ -1,6 +1,6 @@
 # Multi-supplier cabinet inventory
 
-**Review update: these are generated draft assets, not approved products. A catalog-wide audit found 1,066 modeled records requiring correction or clarification. Both importers now create drafts. See [the review report](review/REPORT.md).**
+**Review update: these are generated draft assets, not approved products. Corrections were applied to 980 models; 125 modeled records still require source clarification. All 1,734 exports were rechecked and 210 representative groups visually re-inspected. Both importers now create drafts. See [the review report](review/REPORT.md).**
 
 Snapshot: 2026-09-10. This is a public **product catalog**, not warehouse stock. Prepared for the native Medusa product viewer; no standalone HTML catalog is required.
 

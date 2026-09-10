@@ -16,7 +16,7 @@ for g in GROUPS:
 placeholder=IMAGES[2]['sha256']
 def measure(path):
  data=path.read_bytes();magic,version,total=struct.unpack_from('<4sII',data);assert magic==b'glTF' and version==2 and total==len(data)
- size,typ=struct.unpack_from('<II',data,12);assert typ==0x4e4f534a;g=json.loads(data[20:20+size]);binsize,bintype=struct.unpack_from('<II',data,20+size);assert bintype==0x004e4942;binary=data[28+size:28+size+binsize];lo=np.full(3,np.inf);hi=-lo;names=collections.Counter()
+ size,typ=struct.unpack_from('<II',data,12);assert typ==0x4e4f534a;g=json.loads(data[20:20+size]);binsize,bintype=struct.unpack_from('<II',data,20+size);assert bintype==0x004e4942;binary=data[28+size:28+size+binsize];lo=np.full(3,np.inf);hi=-lo;names=collections.Counter();assignments={};pantry_heights=[]
  def matrix(n):
   if 'matrix' in n:return np.array(n['matrix']).reshape((4,4),order='F')
   x,y,z,w=n.get('rotation',[0,0,0,1]);m=np.eye(4);m[:3,:3]=np.array([[1-2*(y*y+z*z),2*(x*y-z*w),2*(x*z+y*w)],[2*(x*y+z*w),1-2*(x*x+z*z),2*(y*z-x*w)],[2*(x*z-y*w),2*(y*z+x*w),1-2*(x*x+y*y)]])@np.diag(n.get('scale',[1,1,1]));m[:3,3]=n.get('translation',[0,0,0]);return m
@@ -24,17 +24,19 @@ def measure(path):
   nonlocal lo,hi
   n=g['nodes'][i];world=parent@matrix(n)
   if 'mesh' in n:
-   names[re.sub(r'\.\d+$','',n.get('name',''))]+=1
+   name=re.sub(r'\.\d+$','',n.get('name',''));names[name]+=1
+   assignments.setdefault(name,set()).update(g['materials'][pr['material']].get('name','') for pr in g['meshes'][n['mesh']]['primitives'] if 'material' in pr)
    for primitive in g['meshes'][n['mesh']]['primitives']:
     a=g['accessors'][primitive['attributes']['POSITION']];assert a['type']=='VEC3' and a['componentType']==5126 and 'sparse' not in a
     v=g['bufferViews'][a['bufferView']];offset=v.get('byteOffset',0)+a.get('byteOffset',0);stride=v.get('byteStride',12);points=np.ndarray((a['count'],3),dtype='<f4',buffer=binary,offset=offset,strides=(stride,4));assert np.isfinite(points).all()
     p=points@world[:3,:3].T+world[:3,3];lo=np.minimum(lo,p.min(0));hi=np.maximum(hi,p.max(0))
+    if name=='Lower pantry door':pantry_heights.append(float(p[:,1].max()-p[:,1].min()))
   for j in n.get('children',[]):walk(j,world)
  for i in g['scenes'][g.get('scene',0)]['nodes']:walk(i,np.eye(4))
- return {'envelope_xyz_m':(hi-lo).tolist(),'mesh_nodes':dict(names),'embedded_images':all('bufferView' in i for i in g.get('images',[])),'glb_sha256':hashlib.sha256(data).hexdigest()}
+ return {'generator_revision':max((n.get('extras',{}).get('generator_revision',0) for n in g['nodes']),default=0),'material_assignments':{k:sorted(v) for k,v in assignments.items()},'lower_pantry_door_heights_m':pantry_heights,'envelope_xyz_m':(hi-lo).tolist(),'mesh_nodes':dict(names),'embedded_images':all('bufferView' in i for i in g.get('images',[])),'glb_sha256':hashlib.sha256(data).hexdigest()}
 results=[]
 for p in CAT['products']:
- g=byid.get(p['id']);findings=[];checks={};model=p.get('model_url')
+ g=byid.get(p['id']);findings=[];resolved=[];checks={};model=p.get('model_url')
  def issue(code,detail):findings.append({'code':code,'detail':detail})
  if model:
   d=p['dimensions_mm'];spec=p['model_spec'];checks=measure(REPO/'storefront/public'/model.lstrip('/'));expected=[d['w']/1000,(d['h']+spec['legs_mm'])/1000,d['d']/1000];err=max(abs(a-b) for a,b in zip(checks['envelope_xyz_m'],expected));checks['serialized_envelope_error_m']=err
@@ -60,16 +62,28 @@ for p in CAT['products']:
    # Variant SKU can encode a depth which conflicts with the parent page; do not replace the explicit measurement by a guessed SKU decode.
    sku=p['supplier_sku'] or ''
    if re.match(r'(?:[23]DB|B)\d{2}21-',sku) and abs(d['d']-24*25.4)<.01:issue('VARIANT_DEPTH_AMBIGUITY','Variant SKU includes 21 while parent specifies 24-inch depth; resolve against variant-specific drawing before publication.')
+  if checks.get('generator_revision',0)>=3:
+   nodes=checks['mesh_nodes'];materials=checks['material_assignments'];codes=set()
+   if p['brand']=='OPPEIN' and nodes.get('Cabinet side')==2 and materials.get('Cabinet side')==['White cabinet carcass']:codes.add('CARCASS_FINISH_MISMATCH')
+   if p.get('source_parent_id')==2284 and not nodes.get('Adjustable shelf'):codes.add('SINK_SHELF_INTERFERENCE')
+   if not nodes.get('Adjustable shelf') and ((nodes.get('Spice basket floor')==3 and nodes.get('Pull-out slide rail')==2) or (nodes.get('Trash bin bottom')==2 and nodes.get('Pull-out slide rail')==2)):
+    codes.add('SPECIALTY_INTERIOR_MISMATCH');issue('HARDWARE_LAYOUT_APPROXIMATION','Pull-out rack/bins now represented with slide rails. Insert sizes are fitted visual approximations, not manufacturer hardware dimensions.')
+   heights=checks.get('lower_pantry_door_heights_m',[])
+   if spec['kind']=='pantry' and heights and nodes.get('Fixed pantry divider')==1 and nodes.get('Adjustable shelf')==4:
+    expected_lower=min(.762,(d['h']/1000-.006)*.45) if p['brand']=='OPPEIN' else (d['h']/1000-spec['toe_mm']/1000-.006)*(.50 if d['w']>=600 else .60)
+    if all(abs(h-expected_lower)<.0001 for h in heights):
+     codes.add('PANTRY_SPLIT_UNVERIFIED');issue('PANTRY_LAYOUT_APPROXIMATION','Door proportions now follow the reference appearance, with one fixed divider and four adjustable shelves. Exact front heights remain unverified.')
+   resolved=[f for f in findings if f['code'] in codes];findings=[f for f in findings if f['code'] not in codes]
   if not g:issue('MISSING_REVIEW_GROUP','No representative visual inspection recorded')
   elif IMAGES[g['group']].get('sha256')==placeholder:issue('REFERENCE_PLACEHOLDER','Representative supplier image is a placeholder. Configuration/finish cannot be photo-verified from it.')
   issue('FINISH_APPROXIMATION','Finish uses generic colour/texture and lacks a calibrated supplier sample; not an exact product finish match.')
   if p['finish'] in ['Natural Wood','Smoked Oak','Natural Oak','Dark Walnut']:issue('WOOD_GRAIN_APPROXIMATION','Generic oak texture/tint differs from supplier grain; drawer-front grain direction is not verified.')
  else:
   for reason in p['review_reasons']:issue('SOURCE_SPECIFICATION_HOLD',reason)
- severe=[f for f in findings if f['code'] not in ['FINISH_APPROXIMATION','WOOD_GRAIN_APPROXIMATION','REFERENCE_PLACEHOLDER']]
+ severe=[f for f in findings if f['code'] not in ['FINISH_APPROXIMATION','WOOD_GRAIN_APPROXIMATION','REFERENCE_PLACEHOLDER','HARDWARE_LAYOUT_APPROXIMATION','PANTRY_LAYOUT_APPROXIMATION']]
  state='specification_hold' if not model else 'correction_required' if severe else 'draft_visual_limitations'
- results.append({'id':p['id'],'brand':p['brand'],'supplier_sku':p['supplier_sku'],'source_url':p['source_url'],'model_url':model,'review_status':state,'publication_approved':False,'source_snapshot_date':CAT['snapshot_date'],'automated_record_checks':True,'individual_visual_inspection':bool(g and p['id']==g['representative']['id']),'representative_visual_group':g['group'] if g else None,'representative_id':g['representative']['id'] if g else None,'visual_method':'Agent inspected source/render comparison for all 210 configuration groups; grouped variants are not individually photo-approved.' if g else 'Held record; no model approved.','checks':checks,'findings':findings})
-summary={'records':len(results),'models':sum(bool(r['model_url']) for r in results),'statuses':dict(collections.Counter(r['review_status'] for r in results)),'findings':dict(collections.Counter(f['code'] for r in results for f in r['findings'])),'publication_approved':0,'visual_groups_inspected':210,'method':'All records audited; all model files measured independently from serialized vertex data. Agent visually inspected 210 representative source/render groups, not every variant individually.'}
+ results.append({'id':p['id'],'brand':p['brand'],'supplier_sku':p['supplier_sku'],'source_url':p['source_url'],'model_url':model,'review_status':state,'publication_approved':False,'source_snapshot_date':CAT['snapshot_date'],'automated_record_checks':True,'individual_visual_inspection':bool(g and p['id']==g['representative']['id']),'representative_visual_group':g['group'] if g else None,'representative_id':g['representative']['id'] if g else None,'visual_method':'Agent inspected source/render comparison for all 210 configuration groups; grouped variants are not individually photo-approved.' if g else 'Held record; no model approved.','checks':checks,'resolved_findings':resolved,'findings':findings})
+summary={'records':len(results),'models':sum(bool(r['model_url']) for r in results),'statuses':dict(collections.Counter(r['review_status'] for r in results)),'findings':dict(collections.Counter(f['code'] for r in results for f in r['findings'])),'models_with_fixes':sum(bool(r['resolved_findings']) for r in results),'resolved_findings':dict(collections.Counter(f['code'] for r in results for f in r['resolved_findings'])),'publication_approved':0,'visual_groups_inspected':210,'method':'All records audited; all model files measured independently from serialized vertex data. Agent visually inspected 210 representative source/render groups, not every variant individually.'}
 (ROOT/'review/audit.json').write_text(json.dumps({'summary':summary,'products':results},indent=2))
 with (ROOT/'review/audit.csv').open('w',newline='') as f:
  w=csv.writer(f,lineterminator='\n');w.writerow(['id','brand','supplier_sku','review_status','publication_approved','representative_group','source_url','findings'])

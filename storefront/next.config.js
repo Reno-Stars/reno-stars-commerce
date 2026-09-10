@@ -32,6 +32,8 @@ const nextConfig = {
   },
   images: {
     remotePatterns: [
+      { protocol: "https", hostname: "www.oppeincabinetry.ca" },
+      { protocol: "https", hostname: "bluevalleycabinets.ca" },
       {
         protocol: "http",
         hostname: "localhost",

@@ -1,0 +1,3243 @@
+[
+  {
+    "group": 1,
+    "representative_id": "oppein-ply-gss-2db36",
+    "model_sha256": "ca91d1b457452043b064d70d4dfe4c3e4f245e751f7364fce6f7f13bfface620",
+    "source_image_sha256": "27d0f63475e3fd555059d0a52541cab9bde9c8b30c733f6440f945d468b5138b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 2,
+    "representative_id": "oppein-ply-bss-2db30",
+    "model_sha256": "18d1670e1dc859d95334b0c45fc13992a0f8e7f1b55ad757b9ee9c10f6aa89ce",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 3,
+    "representative_id": "oppein-pb-bss-3db21",
+    "model_sha256": "cb161e5a3bde540ddf9de0c0b69ede8c30b5f7e5c00f6d3f6ee5fe33629028cb",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 4,
+    "representative_id": "oppein-ply-mso-3db18",
+    "model_sha256": "f2672b52e5053cd9969f93185a17d8696cad9f9baba6e46d89a9428441afcc0a",
+    "source_image_sha256": "59beb5465b2eba804e275f72c1722e86cdd3d1e2765525a121b0ca1af95a5512",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Re-rendered after restoring vertical grain on multi-drawer fronts to follow the source illustration."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 5,
+    "representative_id": "oppein-pb-gss-3db36",
+    "model_sha256": "939743ed66e2d04161adaeb0498e8268cae0be7bff4bf4314e6e5de50ec93e0d",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 6,
+    "representative_id": "oppein-pb-gss-3db33",
+    "model_sha256": "85222608b2d96979c9a85131f30c5939f98e1833990e5dcaa0ee413f7b2c0d8c",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 7,
+    "representative_id": "oppein-pb-gss-3db30",
+    "model_sha256": "2d75707d19eeda1877b6bee0361f13389eb54f7c53f3efe8f1efa986fea40d97",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 8,
+    "representative_id": "oppein-pb-gss-3db27",
+    "model_sha256": "8da9943453e09a81920d2b22fc5e2cd4f0508cb42424e505a3d2b012431de2e5",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 9,
+    "representative_id": "oppein-pb-gss-3db24",
+    "model_sha256": "98c7c64aef98e8957d488bf129c803408eebb01fa91b2c910fa27b29f3f385ca",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 10,
+    "representative_id": "oppein-pb-gss-3db15",
+    "model_sha256": "b9ed8c5e979ddfbbb0b1408b6e416eb7cc29c79773826833cb46fa244bf817bf",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 11,
+    "representative_id": "oppein-pb-gss-3db12",
+    "model_sha256": "f223bc8ce0c7ec9a31952354fef06aa04e013211b87c01d03fe472e02d305ca8",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 12,
+    "representative_id": "oppein-ply-bss-3db27",
+    "model_sha256": "d78d541a8453aff5bab7c81803edcb6a78134845270b241266f65df8763b62e9",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 13,
+    "representative_id": "oppein-ply-bss-3db33",
+    "model_sha256": "6286dc423d91ac663f82feb522e63516b3de03afa40d6e2a2ec04860608acae9",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 14,
+    "representative_id": "oppein-ply-gss-3db24",
+    "model_sha256": "42f3aadc806e50ff2c6781c265b2ee547ce186fa3ce03fa979290041adc93810",
+    "source_image_sha256": "b5b820d4d3466e1ba7a847a3eab634aaccc36a228126010236033484adffdc94",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 15,
+    "representative_id": "oppein-ply-gss-3db30",
+    "model_sha256": "1e4df3fcfec72c89489c49fd7b23193f9400d3949da72ef88810925f894248bc",
+    "source_image_sha256": "86cea81b279b01c74b99189d67ab01c69b0b5e31bdca27fe277afd6f09744fc9",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 16,
+    "representative_id": "oppein-ply-gss-3db36",
+    "model_sha256": "f0da36cda6426f522687e0cdaf9a50f6cfd885ab15b2c8e4a62b5b2a18c8a69f",
+    "source_image_sha256": "8bf9b317afc61d65b7d3162e49e78b9de12fcbbc5c72f0c452eec43bf7a32fa8",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 17,
+    "representative_id": "oppein-ply-ssw-b21",
+    "model_sha256": "024ea38e1e22a5d8ccfd55c695c75c3ba5cb0892cbd83919deb97309ad0ef7ab",
+    "source_image_sha256": "309066e987cee5fcf2e3ed613b69dbd0d7ef9f361bb2be9b332e9f1c212417e1",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 18,
+    "representative_id": "oppein-ply-mnw-b12",
+    "model_sha256": "b89031e0215c0a106a37b9be6ab05f4bad2e6358f9ad1f9feb01ea3ba80a5698",
+    "source_image_sha256": "77d36079cc16aaf58f4b6ba16ec203e008f206ea057c2ef1745c32b6635c505c",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 19,
+    "representative_id": "oppein-ply-bss-b15",
+    "model_sha256": "3fc9faf7bcb45e40142d2c0540cc783291e3c6257016ec189102b98b6e24e6d9",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 20,
+    "representative_id": "oppein-pb-gss-b18",
+    "model_sha256": "5b28864678efff393de55aaa6fb225d43441c0badee1f1df747acdb717bacbc8",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 21,
+    "representative_id": "oppein-pb-ssw-b30",
+    "model_sha256": "847b0ec6cdc4092d38c60006e8a1a8922050890f16141c1c24bf4ffdd5695645",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 22,
+    "representative_id": "oppein-pb-mnw-b42",
+    "model_sha256": "5de721eb7d7d5eb0f940e6ef4c4b7ebea56caf4df5d34ded1fce62dae9dbf2f3",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 23,
+    "representative_id": "oppein-ply-mnw-b24",
+    "model_sha256": "88b270c3282a20df9c3655640afac11c871fdc28edafee9340f079107a2257ec",
+    "source_image_sha256": "4a837dd42f92f9b5567134cb04c098a83ef3f54385b1340c06085a4ec3ca937a",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 24,
+    "representative_id": "oppein-ply-pgw-b27",
+    "model_sha256": "822771b35f4431a30cfab7bb73d6b0e7a01f1332769de5b94c42693a13e3e644",
+    "source_image_sha256": "99cd1be6c4f733b81cb99538138b84060dff36a5e0e9ce98f0f17ead18519549",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 25,
+    "representative_id": "oppein-ply-mso-b21",
+    "model_sha256": "c8e86c25fe316775bc8d97f3d82d06d474cf6c6d1421c17ebf1205d0f9951e44",
+    "source_image_sha256": "40bf4c16921ad86b74679974faf1b0a7d632d9ccd6daff67a346d81761d716b5",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 26,
+    "representative_id": "oppein-pb-ssw-b36",
+    "model_sha256": "7e95bf10549d20818d17d1cf4aa551c6440f2856872ca6a8fd487bb380caebc3",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 27,
+    "representative_id": "oppein-pb-wss-b33",
+    "model_sha256": "b8418913021017244148de61bee54f2841b731874d1c43c36473d4d50536d05e",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 28,
+    "representative_id": "oppein-ply-mso-b06fh",
+    "model_sha256": "2a88827d3c9f804897244810ae9cd3eba0d83a74cc0552de8274b15b25b78ee5",
+    "source_image_sha256": "0a319bc2ee8d6cee1b53f2f52ebd11f4d933386938177c0efc4ae256af37cf09",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 29,
+    "representative_id": "oppein-pb-mnw-b12fh",
+    "model_sha256": "6b6d8e954a1d8c0621bf416395f8d0221482cd642ee716da5f7c7ba1a1c93e6c",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 30,
+    "representative_id": "oppein-pb-mnw-b09fh",
+    "model_sha256": "c78f0a98bd141e1b50be4c7260434b6fed4f5c129826ee616242eb40ffecf549",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 31,
+    "representative_id": "oppein-pb-mnw-b36fh",
+    "model_sha256": "89c80016ec1fa04be118e68cde56c218279b77ad1cac01e51985c64e4846a179",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 32,
+    "representative_id": "oppein-pb-mnw-b33fh",
+    "model_sha256": "a39f8db35b6533b6ab614bd5df91de29e959125c47e8430f500f907bfd80754c",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 33,
+    "representative_id": "oppein-pb-mnw-b30fh",
+    "model_sha256": "f362db454bfa5186b572ee1ff1bc4c7b1cafcb16f27dc25cd1e193b5985013c6",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 34,
+    "representative_id": "oppein-pb-gss-b24fh",
+    "model_sha256": "438eabae46788059ea0ffb1f001c61eb2bfbc33c4740c07ed643b15d8141944b",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 35,
+    "representative_id": "oppein-pb-gss-b21fh",
+    "model_sha256": "4bad968f82ce8ffb00e7d33f950d93545c6b13cdd87991e304e5c0a665791a7d",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 36,
+    "representative_id": "oppein-pb-gss-b18fh",
+    "model_sha256": "a181110deb92514cb26fba09db59ffd856f8725e7475a35812631fa43f72d9ad",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 37,
+    "representative_id": "oppein-pb-gss-b15fh",
+    "model_sha256": "73426839b3cb9eae61e75533d90b22b52cd26014d4c264003ce1c84b750800a0",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 38,
+    "representative_id": "oppein-pb-bss-b27fh",
+    "model_sha256": "eddf1a3f3efd576069d14c92ac9a868663cb71d3abcfdaf46dcbd3c516f9928e",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 39,
+    "representative_id": "oppein-ply-pgw-bsr06",
+    "model_sha256": "179e76bfa5bff303f041e5118fb7d180ddd44ca98fb505bb225dabb81a1c0441",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 40,
+    "representative_id": "oppein-ply-bss-bsr06",
+    "model_sha256": "c8f2f358fb9e9b4fd2f3ab468d8044a3a4a0a836e8f6d44e24a6d84d839670ab",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 41,
+    "representative_id": "oppein-ply-wss-bsr12",
+    "model_sha256": "0cf6d85a6fc33cebebd29d43cbcce99633ecd3b5719339d552af9e6899f2dd7e",
+    "source_image_sha256": "18e3cc720223288316c10f0efcea032cd9a180938e2d28ec4fc5ffa1d56bba52",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Also inspected the interior with fronts hidden: rack, bins, sink clearance or pantry shelves as applicable."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 42,
+    "representative_id": "oppein-ply-pgw-bsr09",
+    "model_sha256": "1c2d4e01994fa1c82491a7d569ac9023a049475e12edaaa9706f6ef7866264d2",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 43,
+    "representative_id": "oppein-pb-wss-bsr06",
+    "model_sha256": "45601bd9cfab7bb1db3047da3be8b6c9d0af68b06f743e989d2b3660d25e2854",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 44,
+    "representative_id": "oppein-ply-ssw-bsr12",
+    "model_sha256": "d1167253b04b384e9a6148696514c4cf6927fad5c8945882dad388cbf916cb09",
+    "source_image_sha256": "7a61e04fc84ab85be651c96b0017ed8a767d95b4d73f40d5589acee828b78471",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 45,
+    "representative_id": "oppein-pb-bss-bsr09",
+    "model_sha256": "325ee4cdd2ca4b990f85cd08a073ad0a3944e1a44972a810366f3aa4f5956051",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 46,
+    "representative_id": "oppein-pb-gss-btc18",
+    "model_sha256": "5ea80a38c765ef661af2d46748dcac958d87924ae06b44801b48ea15b10b6d60",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 47,
+    "representative_id": "oppein-pb-ssw-pc2490",
+    "model_sha256": "94a45118dfcfb6b186b7d26a6bfefe251a4753471c91e9974f622f541e9d76d3",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 48,
+    "representative_id": "oppein-pb-mnw-pc3084",
+    "model_sha256": "adbcbf5f0b345e0e4a8e74c02608bf7a61b16fcf6cf8342a66372b0b3e4115b2",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 49,
+    "representative_id": "oppein-pb-mnw-pc3090",
+    "model_sha256": "77bea21b7370cb6dd5b6cd8390de698f2206a31b453e90c87911b91404de0c63",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 50,
+    "representative_id": "oppein-pb-mnw-pc3096",
+    "model_sha256": "e340df084dc7f7738a8ed017e1877a9e0137b087e8a19a6f5c3fa0bc7cdd8117",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 51,
+    "representative_id": "oppein-ply-wss-pc2484",
+    "model_sha256": "7b516e7909e5e1984dece8064e4e1bf59ded2fab2b7228ff40c5576199e19cd4",
+    "source_image_sha256": "91355f15c57112ab9561ad59b583bf03a284afec2dc6ae8d59ba05b278f348aa",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Also inspected the interior with fronts hidden: rack, bins, sink clearance or pantry shelves as applicable."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 52,
+    "representative_id": "oppein-ply-wss-pc1890",
+    "model_sha256": "69ab8aa381b97915820e441e4264b8227215dcebe0ef2f4a06b0d80dac6ceb9f",
+    "source_image_sha256": "6fa2160f675e938dcfbb718c6874c8d67862b611b84cd5e96c88382fa43b9732",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 53,
+    "representative_id": "oppein-ply-mso-pc2496",
+    "model_sha256": "495ce188a4f2665ee27895ed34a3dcc48e60dd8c2f8e62f21e0d293b40250319",
+    "source_image_sha256": "68d4b7dc5dcf05b7ddf447778cd52621853d381fed2610d2205ba2179f22ec11",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 54,
+    "representative_id": "oppein-ply-wss-pc1896",
+    "model_sha256": "cdad5924d14a242633c497c24a1b9f7c26f3d1c2d5e7a27a09305c17d59ebbfb",
+    "source_image_sha256": "e8082da4c7860e49d760991e8e1d0133b6c8d993d8b385115a0eb060e07a8634",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 55,
+    "representative_id": "oppein-pb-pgw-pc1884",
+    "model_sha256": "1658c23d0bbc9bfe478ad58b5b13498e7b419382e9ffdd13baabfd3fde81cd60",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 56,
+    "representative_id": "oppein-ply-mso-pc3096",
+    "model_sha256": "0f3e0360f49794828ee0369f86791bdec2f1b71b4df1d310807b5069150452e9",
+    "source_image_sha256": "a9aded20bc401e9ec2dfa84f9828d9e429aa932e7ac4c0c7324a69d32d730f69",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 57,
+    "representative_id": "oppein-pb-pgw-sb33",
+    "model_sha256": "1393de9ae96fd01e2da5a927678a71d78d8218251ff1437f60442dab7021c3cb",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 58,
+    "representative_id": "oppein-pb-wss-sb30",
+    "model_sha256": "dcc0670561f11b658720bf4f3409796e0465ee910a39510614bdf00013f39b11",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 59,
+    "representative_id": "oppein-pb-wss-sb36",
+    "model_sha256": "6dc830f1edb7c93f2f5845cf5cd5113ca19310cfe1f1519d25b52213c6403c36",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 60,
+    "representative_id": "oppein-pb-wss-sb42",
+    "model_sha256": "b0f4a93de39fc09ee7b48c51c91be5c2dc939cc4ca24bff76b2fc4718c2df0c0",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 61,
+    "representative_id": "oppein-ply-mnw-wbf3630",
+    "model_sha256": "41afb234f5f706821bd57f6e17779c898d260c8779cab5d577873e8ef38bdf72",
+    "source_image_sha256": "c0af4bc881694f0250dd5d49f39795a272b90ce869cc59b6fad775ee86e92bf1",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 62,
+    "representative_id": "oppein-ply-bss-wbf3030",
+    "model_sha256": "35de73ad0c0b91ceda704d13b4e5f10d78cf0da61331b23ce93e6c7508626e1c",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 63,
+    "representative_id": "oppein-ply-mnw-w2142",
+    "model_sha256": "866a15936d371daaa911e2e79feff35d59909fee58913cc635b0741bd7b15fa2",
+    "source_image_sha256": "6e403b483fd048358e33ec5268187e5f74d6fe3a67b2a9158a075f4da8776fa4",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 64,
+    "representative_id": "oppein-ply-mso-w1242",
+    "model_sha256": "60b06327d06701226302af87666002c85488447f11fd45aaf353286035de2e0d",
+    "source_image_sha256": "6f8ad7cef404c365ed5d4ca93a39d339d9e5375051c59768d59190517cbb19a2",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 65,
+    "representative_id": "oppein-ply-mnw-w1830",
+    "model_sha256": "3db435c009b0093897b1cbb956d67a8652a7ea1c0259e210644928cc42312b67",
+    "source_image_sha256": "1c83505d999661b07f32b59f545ccd45ee755cf8a034f86733746149eafe85cc",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 66,
+    "representative_id": "oppein-pb-mnw-w1236",
+    "model_sha256": "8a6cb0d966f7c47307db8f822350cb31d177b65101ee9049fadcc6f47d3eec4b",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 67,
+    "representative_id": "oppein-pb-mnw-w1230",
+    "model_sha256": "de0b7728e9157b43cef66e911ba1066be50a227003716d90e0355198e574c815",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 68,
+    "representative_id": "oppein-pb-mnw-w1212",
+    "model_sha256": "6281c15a52b9666cefb081b9db79cfa3067d9770f8c9ad81dab5241da1ca0ac2",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 69,
+    "representative_id": "oppein-pb-mnw-w0942",
+    "model_sha256": "643ec933eb06b743181638d402cad3fff5164c01be0efafc548b379283800831",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 70,
+    "representative_id": "oppein-pb-mnw-w0936",
+    "model_sha256": "569f41ae93da14d5ae9b53852ba54bc9ec03b7db49bfd0563d6812d45aa60803",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 71,
+    "representative_id": "oppein-pb-mnw-w0930",
+    "model_sha256": "3c9b78d9b790325e15be2a3a52e3457d65c714c0eace77cf040c791bc87b61dc",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 72,
+    "representative_id": "oppein-ply-mso-w2136",
+    "model_sha256": "89c03b28fcbbc83361808d3705b17e47046eae609c31d64bbac3e22a9e592b1e",
+    "source_image_sha256": "1fc8142c3bedcc13f727c55de43a1a94bd3c0a3f10f0d25fe0152fa3ed649128",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 73,
+    "representative_id": "oppein-ply-mnw-w1542",
+    "model_sha256": "3f7ed0185269830ee159c8df53fef8f06f93a623d50016e723f041f9553ea921",
+    "source_image_sha256": "09c2b581a53980da0ee74eb65df1f4169ad4d9510883f310e0406af9e3566ac0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 74,
+    "representative_id": "oppein-ply-bss-w2130",
+    "model_sha256": "d9d060183e055e7c9efab273bdd237e621f54dc186144c3a63d215aa404f9009",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 75,
+    "representative_id": "oppein-ply-bss-w1842",
+    "model_sha256": "1b8167b96a29e57326a59dd1ade4eacfd5281ceeb23b567654d618cb0632b8ea",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 76,
+    "representative_id": "oppein-ply-bss-w1836",
+    "model_sha256": "23423926eed9f0e055df4cf7cbe9b65f48f17525ee4594ce0b2e07a31c16deb3",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 77,
+    "representative_id": "oppein-ply-bss-w1536",
+    "model_sha256": "76640da328caf57b32cd18fc99fd7cbd0c21d5cb7cdf6c4368bc1bab8b278cf1",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 78,
+    "representative_id": "oppein-ply-bss-w1530",
+    "model_sha256": "80803f8cec6a8fb81214c1e3d9dbc69d3acffe3cb09b69512ebd5c1e5fa4e8d4",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 79,
+    "representative_id": "oppein-pb-mnw-w2112",
+    "model_sha256": "48175bc69c835c35cc91235128c78c79390a3b71c28e319a5798dbf5a5c2388d",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 80,
+    "representative_id": "oppein-pb-mso-w1512",
+    "model_sha256": "1f2896991cbd1be5bb826e5dc6ce814161c0f23a93f9b2163f38b55cc8a21c19",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 81,
+    "representative_id": "oppein-pb-mso-w1812",
+    "model_sha256": "fb74f985649c845257be3ec7fc25413e4249bba777f3f678d80921b9a9495987",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 82,
+    "representative_id": "oppein-ply-mnw-w3342",
+    "model_sha256": "46e9230ab61af92a0ea7a05a7f1dad1825241857223249ffc3d9b580529b23bb",
+    "source_image_sha256": "fbf529463c2b26ecfd7ad562450fc4656d84fe179c147fca6970476b89d1992a",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 83,
+    "representative_id": "oppein-ply-mnw-w3630",
+    "model_sha256": "f2947c2ff12d2a86984fcbd795d090b4e0d0f722b5434442a84710eeaa2c1421",
+    "source_image_sha256": "be9817c30557b136485d1d646674b87d33748e98eedb4892f6dcd4fc2da57160",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 84,
+    "representative_id": "oppein-ply-mnw-w3636",
+    "model_sha256": "8dcd13e12e9e27b85cb704779f867b1eeb83205470f231299616c5a60a323104",
+    "source_image_sha256": "53a166b513716c81162e1c94bbe3ececc45caf286df4a05c30ea896e0f8f5bb5",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 85,
+    "representative_id": "oppein-ply-mnw-w3642",
+    "model_sha256": "58988f4ce8ed028553a2ca2982347d947a106e4b76e759eaa7d4d2818ed4d66d",
+    "source_image_sha256": "3f1de1c94b26a54228bd2e3c285cf9e2cffed65ad7ab1492211dd3201b5be598",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 86,
+    "representative_id": "oppein-ply-mso-w3336",
+    "model_sha256": "d6d0c49ba7735c869cde821097f19ea2f46bcac1db904066d97b6c68af7a1c98",
+    "source_image_sha256": "2a66f3cb07fd6cbda1359807b243361e7776fded4d889b24ad51b4d41788d180",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 87,
+    "representative_id": "oppein-ply-mso-w3330",
+    "model_sha256": "b68aa28eaae98b195e5849b766c83bcb839b91217b87f97a212dc6589448145b",
+    "source_image_sha256": "1a925e03c35642bb8e295c49fe1ccc2f0ddc4530f9b3db8e41801a5f2a0a4770",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 88,
+    "representative_id": "oppein-ply-mso-w2430",
+    "model_sha256": "5091364de928ed3bbcb1c06b6ea15b6475a388222a9923726201c149ff94c868",
+    "source_image_sha256": "755e6fe4a7418116c7b852920a318120f445554e6368c07645903196acca5cf6",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 89,
+    "representative_id": "oppein-ply-mnw-w2736",
+    "model_sha256": "b5ce32b35916461cf3ff02c3d0fc0c11803c254b996661bbfb7b9c1188a7daec",
+    "source_image_sha256": "6773dcc50461aed19599e308c796c7839b952326c972cde71400df0b5e7f6533",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 90,
+    "representative_id": "oppein-ply-mnw-w2442",
+    "model_sha256": "dd68a4b13ac3192e5490791cfc0b07d38edf50552f11f9980ad54ae829456748",
+    "source_image_sha256": "9d3535e71c41c3fb60c5de1fc28dcfd4be89b1b30c3efc61bc06507794a91808",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 91,
+    "representative_id": "oppein-ply-mso-w2730",
+    "model_sha256": "8e919c92241786fe0b54a33f94577f6ae8861efd62d5f97c704119625b245280",
+    "source_image_sha256": "44deb144c91ddff2a2c4b8d7b764d463fde9285d091f61da25db22e98cb758ba",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 92,
+    "representative_id": "oppein-ply-mso-w2742",
+    "model_sha256": "319e3ea5c64922d12a74ae36622146c077b557e62dcb96d9c71f754b7f0de2e1",
+    "source_image_sha256": "7cfb30ab4c9760d9c4194e75ce0fcd4abdccb262cf9315ee7a15d1919a5b8828",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 93,
+    "representative_id": "oppein-ply-mso-w3042",
+    "model_sha256": "9030c3e637c00c1961d976ef3298f505bb97336eb0f0789d37643bd15d22df00",
+    "source_image_sha256": "69f9197dd6b65dc5830465394df0121f9d6bd7e3965ce156ca604eb49a8f7d6c",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 94,
+    "representative_id": "oppein-ply-mnw-w2436",
+    "model_sha256": "ff67b7c6c42cdaf545342be17ad63ef59faa0ccee01d3ab780ab3e3418e12453",
+    "source_image_sha256": "e680fecf42eb985482cd037aeb0dc8e0f029ccf931b3e58c49d34437f1bdc8b2",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 95,
+    "representative_id": "oppein-ply-pgw-w3030",
+    "model_sha256": "27747fcf22fc5f9d6c5d2c2fab45898abf45d54ebebc240c43d28c2e46a1da45",
+    "source_image_sha256": "06a77b2cb190a7b66fce0bc805cd1c5b11e80a73c457f41355dc0be348070dec",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 96,
+    "representative_id": "oppein-ply-pgw-w3036",
+    "model_sha256": "cf2089ce6d0e9eb7258eaac4de5b53d05e9b01b181f3efb4fd2aa3b7d3ec89ca",
+    "source_image_sha256": "87faee46152c81f4589a1b93036a6d9360539223dc229777e68329d666ad625c",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 97,
+    "representative_id": "oppein-ply-ssw-w3036",
+    "model_sha256": "ec6252715c0aa1e9a13e8a260a70a9cc9d25209a06cf17b58819b5b39ac4918e",
+    "source_image_sha256": "71b94b7a63469338a2b17be9e9a12bb00c691b03b075fa5fab087c3d759afbd8",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 98,
+    "representative_id": "oppein-ply-pgw-w2421",
+    "model_sha256": "fca73592d6e2443873359cec5421dd7b1b36b604cba5ddfefec86e8dc962b7db",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 99,
+    "representative_id": "oppein-ply-pgw-w2424",
+    "model_sha256": "9b8478cb734f4eb1d979d5bc2bc770c9f3d288f4433d8a1a8571dfb40d53b31f",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 100,
+    "representative_id": "oppein-ply-gss-w2442",
+    "model_sha256": "e4fce835139df5c8c70cb42432c2b6bd215a106e19009a88a5493b7a8dd750ea",
+    "source_image_sha256": "a8820856392ac67f366f665f0e01a04eb6c23c33a9ce5b30d8188e0ad686f16e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 101,
+    "representative_id": "oppein-ply-gss-w2736",
+    "model_sha256": "c84ce7f76ed981966c74cd5186b37aa536912f52639894e2e748c4613bbb79a5",
+    "source_image_sha256": "fcc8f256bcb7b4a4bdc72f20d27410ec86d5f4ef47a051554e4df647eacbd66f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 102,
+    "representative_id": "oppein-ply-gss-w2430",
+    "model_sha256": "8742d2e7c2f1f7e9854581c209f7e384788850b400d2666e431572e146a9e151",
+    "source_image_sha256": "9820a527ab575990d86c108e6bb5c2aa9a9c0ef6bd6f323081167902a4e48c6e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 103,
+    "representative_id": "oppein-ply-gss-w2742",
+    "model_sha256": "698a8a11c2828743fcb3f083d137fdfd6cba536a52d3870e15294ae055cd59c3",
+    "source_image_sha256": "4b2387c819175922eba687734e0f7e8334a03f56dd26faf46c5601bcf1e2566c",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 104,
+    "representative_id": "oppein-ply-gss-w2730",
+    "model_sha256": "46d31f7dc419a1b0651cae35829f54abad78ad630d4d72d7722f8142a7725b6a",
+    "source_image_sha256": "dc6f360a73f8d83841a7c996e763530b730a8b994e84c87d5c9aa7237bcf2974",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 105,
+    "representative_id": "oppein-ply-gss-w2436",
+    "model_sha256": "cb9b9a9e4bfd5eac0a345566922cc1220d9cc9307cfa7829e4fa5ec9ee0d106b",
+    "source_image_sha256": "d9e9aeaff096e0bb7abbf9bec97f9adfbe29bf1cfdbc561204a1b07cf7247171",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 106,
+    "representative_id": "oppein-ply-mnw-w361524",
+    "model_sha256": "d02341b5f50004e916289d645099a7acb4677eeee95553b7f66ac9dee95ae1c6",
+    "source_image_sha256": "2113a4357a273608d0752c7e92a74707f3d9bae5bf79c7e5faa7b27d33ad57d1",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 107,
+    "representative_id": "oppein-ply-mnw-w331224",
+    "model_sha256": "707926266985dbb9b271502a9fe33badfb56e4c0638cd6cffd63582b187527f1",
+    "source_image_sha256": "6c18dc07038149f122adee9952e625ec1c974db01e7ddff16f15ab53ab2bb9ad",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 108,
+    "representative_id": "oppein-ply-bss-w301224",
+    "model_sha256": "ef2a46f5c6c5d0f016bbf307764021d5997a714d77a80ef744cb0e46ef0328b4",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 109,
+    "representative_id": "oppein-ply-wss-w362424",
+    "model_sha256": "803723e03ff3132004d52f2f5c406d821167b51dc2a0127898ab2be784e772c3",
+    "source_image_sha256": "08ddb56c5a1ff83b62421100b0d6bc8b1caba63dfc9dc58ac64a20b48b1298d5",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 110,
+    "representative_id": "oppein-ply-wss-w361824",
+    "model_sha256": "69d37f1f4799b26e6080f3d75ca63e0d619fb8af55c94acdfe54cd5103c66872",
+    "source_image_sha256": "75db4a03fa8b53e19b20f085d76ac723528fc0d8d8ef208e979f1710d03a6c21",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 111,
+    "representative_id": "oppein-ply-ssw-w301524",
+    "model_sha256": "810ac87b5195ce5ce502f99edd67cd8262e2f8226b5990f51139ad3a1140313f",
+    "source_image_sha256": "307617009c8f6d0777b35123a979cc5240db1e6eb38f81599c681810d51e8d48",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 112,
+    "representative_id": "oppein-ply-ssw-w331524",
+    "model_sha256": "6ca95ccf37c5890323a9e46bec861d851c5534b5d1449f18b43fe5f85aa9f298",
+    "source_image_sha256": "1f86fccdb7e94667af4afe66d753c345d23df83538d0ce014f83dbaf53ad7e8b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 113,
+    "representative_id": "oppein-ply-ssw-w361224",
+    "model_sha256": "f47f0202b621d0bf3cd5bedad4445595492335b88e75e1864e708df414bd4950",
+    "source_image_sha256": "370c38013f4f6da0957ff2a15f117f299083dc5edfbb0f67464020c033f3bff4",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 114,
+    "representative_id": "oppein-ply-bss-w332124",
+    "model_sha256": "df42dab1265ea2a82fdf612062c39d50a9fd147399f8ccf4eb7e5ab7e64624ae",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 115,
+    "representative_id": "oppein-ply-bss-w302424",
+    "model_sha256": "f1ebf1cda1ca64335ea9393922c8da8ea2a3b5de935630cc45bab8c44111d4ef",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 116,
+    "representative_id": "oppein-ply-bss-w302124",
+    "model_sha256": "75f22b220f23e92d8fdc6e2374319264f9a4bb767cf638a04571d69f796de5cf",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 117,
+    "representative_id": "oppein-ply-gss-w331824",
+    "model_sha256": "f39bd2a403c1b921393418b46eb77566af53a7d489cf94fbcef0f2fc4d4394c9",
+    "source_image_sha256": "9d8059115a5182d57ac941054291db1fe732b88348e7bdb80b7462f86094335d",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 118,
+    "representative_id": "oppein-ply-bss-w301824",
+    "model_sha256": "7fd135c172a23217ee74f5bfbf100c54e3be91b346b96d843c9fb9167961c700",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 119,
+    "representative_id": "oppein-ply-gss-w3336",
+    "model_sha256": "e6c3fd1a04fded72a43f83d1aa6a134e2ec52c83731bfa2b1acebee2b89cd8c8",
+    "source_image_sha256": "492a37eb33c0cd36143f3c4c4a5059af1d7694a9a171952b92833cb947e27c6c",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 120,
+    "representative_id": "oppein-ply-pgw-w362124",
+    "model_sha256": "5a2869a588539e01bfa4c31d09acdb2dc5ceb84fec533f2127623b085df280f6",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 121,
+    "representative_id": "oppein-pb-gss-w332424",
+    "model_sha256": "05a1fb27031bb3ccf682cac77c4664c9a3b6a238be065b2272c964c6f1d05d68",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 122,
+    "representative_id": "oppein-ply-gss-w1512",
+    "model_sha256": "468eb9d0b7a10c55ac197844f70762752a01c49d6f7428b5ff2ae0f3ae732c1a",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 123,
+    "representative_id": "oppein-ply-gss-w3021",
+    "model_sha256": "1778019e7fb697cdfb78fa01cf85cd2690897929a6a57af5c90ddb38d069bc6a",
+    "source_image_sha256": "bb3124d386804f6eb97326f23f6bb4eaa8ca44a9438339971aa75155c3aae3cb",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 124,
+    "representative_id": "oppein-ply-gss-w3024",
+    "model_sha256": "7f947bf97215e9a5f84aa871d10b1e31af26ab3923c59e816eaf6ade37b01780",
+    "source_image_sha256": "337680c418968f26ce2ff78e574f1345caed29ceaaf714f83c1020ecf94e0964",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 125,
+    "representative_id": "oppein-ply-gss-w3312",
+    "model_sha256": "ed14b6ef00ddbb491602a7ee4c4e3307e72c07330fb3738a5376d608ce74ef07",
+    "source_image_sha256": "09e87620bbae2e8c34b6a070f1ff45fcb2c8c76641f8423bb9e2632da795864b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 126,
+    "representative_id": "oppein-ply-gss-w3018",
+    "model_sha256": "62ddd130462d8183ba42ff21224169b2ccfc6d3cc8f12118be71d81a30c140f0",
+    "source_image_sha256": "56db91ddaa5268b138d8cd7257e40e9bc5842c80fc7f9ee89a273aaee31d8067",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 127,
+    "representative_id": "oppein-ply-gss-w3012",
+    "model_sha256": "02402e7338157d4fe239bddaf48253d37789dcfc2179799c122d70e2368d9f93",
+    "source_image_sha256": "0d54b4a3b2db600df1910423914818a7b0d05034b7a0fb5180030e211d45af95",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 128,
+    "representative_id": "oppein-ply-gss-w3015",
+    "model_sha256": "ae6b7ec974dc81d79daf4525db7fae2f199ab613ebbf28d82ce2cf5fb915498c",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 129,
+    "representative_id": "oppein-ply-gss-w3612",
+    "model_sha256": "8d7b494983fe9ac4206b7c0fe94c92eed82c7ef369a4dd09a7f1f6e7f45b677f",
+    "source_image_sha256": "8371cdd800b0d71e15c4d489657bdc19e6e855909c2f310a547d50d03afe0e2b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 130,
+    "representative_id": "oppein-ply-gss-w3624",
+    "model_sha256": "236c7419f652823c0eca4ed0da4bb5426265b063da400c21059e9f3808f7317e",
+    "source_image_sha256": "e66e30f72fa668f52e38f870b2814f78c0f87518a4e24b6a0956062a2eb3098b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 131,
+    "representative_id": "oppein-ply-gss-w3615",
+    "model_sha256": "17cefcba6183aee768cca652b5a1706f453199f3afdfd4417aa886691359dec9",
+    "source_image_sha256": "9ff71d93b4e60bdd711f9f6fe6caea87698f18be9b07270b46aade7b3c691657",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 132,
+    "representative_id": "oppein-pb-gss-w2412",
+    "model_sha256": "692f95b239cd8560b5984d36a196d7d147d5714d11e0f969d2dfb0d0dc147c4c",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 133,
+    "representative_id": "oppein-pb-gss-w2415",
+    "model_sha256": "502500ee5ff9d3cecc8fce9d8c4810d5f6ef73661a83aa8096ae833d6d87f31d",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 134,
+    "representative_id": "oppein-pb-gss-w2418",
+    "model_sha256": "7c65ea4bb630eeae7d42405371de3b842c27b9c0edbb63ce7c3163d297e50543",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 135,
+    "representative_id": "oppein-pb-gss-w2421",
+    "model_sha256": "1192498629d55d691b61b8ae5117f1cea58455b703865d31bae8f2f641fa0af9",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 136,
+    "representative_id": "oppein-pb-gss-w2424",
+    "model_sha256": "68ea4c7fae555117e058f79def35b9ff306cb56feac832dad992c2e01b2bf4d7",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 137,
+    "representative_id": "oppein-pb-gss-w2430",
+    "model_sha256": "18435143f460548dca1874497a57d321c1247fb621af138c759fb5f9cea9d1a4",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 138,
+    "representative_id": "oppein-pb-gss-w2436",
+    "model_sha256": "f8be8f58730421d4a93604ff0d9859cb3ed155be0ca7a3ea7944d234380943c0",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 139,
+    "representative_id": "oppein-pb-gss-w2442",
+    "model_sha256": "441673dea1c2ecff1c6a3b0e66b5cd7970a4862bd9e9ea814834201a5a3c74df",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 140,
+    "representative_id": "oppein-pb-gss-w2712",
+    "model_sha256": "1273e002beee33c392d5b6a183ddbb0d366c125aaf28768eb6cf6b3ebe5dde9a",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 141,
+    "representative_id": "oppein-ply-gss-w3318",
+    "model_sha256": "e514916e45b4f27c5de545ca2f8ffde83c66a41eaa465f4a3431b82a4dad31cc",
+    "source_image_sha256": "26c879560ec74d17b3b58f72b78485b3b90e2059f5df8039cc6c2276384775be",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 142,
+    "representative_id": "oppein-pb-gss-w3315",
+    "model_sha256": "944abed00e582e7eea9bdebc45c9ef25e267881b89f51ef4b8320ba6095fbbdf",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 143,
+    "representative_id": "oppein-pb-gss-w3321",
+    "model_sha256": "7b5440b5b3319f74b24e2337403aa46a14104ab8c05aaf5f78bf0c5d1483ad5b",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 144,
+    "representative_id": "oppein-pb-gss-w3324",
+    "model_sha256": "a31a01dd182638f881b287963a5bdcd66fd1c969b8e1e04adc6e955fb503551a",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 145,
+    "representative_id": "oppein-pb-gss-w3618",
+    "model_sha256": "c97e7cd004403d7b5079db3a43f9cd4dea7cbf5f70c4fa6c6b125f91ed09bdd1",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 146,
+    "representative_id": "oppein-pb-gss-w3621",
+    "model_sha256": "63da5f534aa14f4bcf3d4f79be6f79a893f3671c680e8ae7b3439c1cd55134b1",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 147,
+    "representative_id": "oppein-ply-wss-w1212",
+    "model_sha256": "c56b5aebe95bbf6476fd3bb8189ca5ac0fcfaa728014baa4c96b7bb1c7d627b7",
+    "source_image_sha256": "bc52f7c520de2d733a9124baf352b9cc2f5ddad486f29bb2ff1724d04a20029e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 148,
+    "representative_id": "oppein-ply-wss-w1812",
+    "model_sha256": "5cfa7cfd5cf3ca2c2ffa8a3c118571709c887e14ff7dc54630c14bba286b861c",
+    "source_image_sha256": "1feb77ba7c744409b2ee26670e245a082b158dfb5696730b454a4682c6a06bc9",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 149,
+    "representative_id": "oppein-ply-mnw-w2112",
+    "model_sha256": "6086f10ed3159a8402b2deb1450712dd3b076f7de25b2d74d18708b0c0cab9e1",
+    "source_image_sha256": "3d1d48b6238cd8a8f35c75fa71cd6c711df2f03d4a62da4a8a65152f42e08ad0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 150,
+    "representative_id": "oppein-ply-pgw-w1542",
+    "model_sha256": "4ea10b54827a09e02042675019e7358cc63d69bfee199e48b641190750540630",
+    "source_image_sha256": "6b30c21ab1210cec4c67fc7cf98f99903201bd2a627b2361978c3c59958bda65",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 151,
+    "representative_id": "oppein-ply-ssw-wsl3015",
+    "model_sha256": "6e20054f686a94524a4c0ed7d775091d596cd6fce22648413fefc707a70a0023",
+    "source_image_sha256": "c7be2505bbe4607f95ee501da82f5adbeff5fab146fff638f7a625d83ebb9a9e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 152,
+    "representative_id": "oppein-ply-bss-wsl3018",
+    "model_sha256": "320a6d9a5f4e1c23c4d1e1fee46a588e1b96a9bcf9ae97848d8f5145e95d5dd6",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 153,
+    "representative_id": "oppein-ply-bss-wsl3615",
+    "model_sha256": "8746ec00edf52075b89ff5eba2913b27347a682e36b18852f8ff11cf1a9816b2",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Supplier placeholder image prevents source-photo comparison."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 154,
+    "representative_id": "oppein-ply-mso-wsl3618",
+    "model_sha256": "aeca217df767fff41d4406646a790413990a04b20fe450f19b50d22ceb98148a",
+    "source_image_sha256": "b6dd76f0931c0f255177108ceff69c933e6ec65c53d08e971a329faea200979e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 155,
+    "representative_id": "bvc-4627",
+    "model_sha256": "6c7ed226c29838a909e8fc75a86b7ce546eaa70acf573f6039300da1ce37c48f",
+    "source_image_sha256": "20427f456495a4e5869560e3d237a5392892c1376097077e3775135a5321456a",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 156,
+    "representative_id": "bvc-3871",
+    "model_sha256": "f2f4478fdcdd08854259e30d4d43d4372c2ccb3c7a697d32d5c015466a3ba615",
+    "source_image_sha256": "aa8a527642bb375cc05c943bf6e3581132905546c8da8968ab63d9ade823cd05",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 157,
+    "representative_id": "bvc-2402",
+    "model_sha256": "4593c40dcb797311e31d50af7470e28a7c2e134c127ad5c0b55ece3e55ab11a8",
+    "source_image_sha256": "c9db04ff0ae785e90e75f933f250ca6da2a845ca644b42665cdd178713f8d751",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Also inspected the interior with fronts hidden: rack, bins, sink clearance or pantry shelves as applicable."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 158,
+    "representative_id": "bvc-2378",
+    "model_sha256": "a740158e2f80afa4f98168404f9d6c54e0fd378587e4abf354bfa7520500a9d3",
+    "source_image_sha256": "ceda9d68e58a81fde61d21e02238a6e9e4c797e62c4096f6dff23f054353a07e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Also inspected the interior with fronts hidden: rack, bins, sink clearance or pantry shelves as applicable."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 159,
+    "representative_id": "bvc-2374",
+    "model_sha256": "867d69ff49a65446b5ad03483b9bc6a95e324b48aa911b7f2cf364207248f113",
+    "source_image_sha256": "ceda9d68e58a81fde61d21e02238a6e9e4c797e62c4096f6dff23f054353a07e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 160,
+    "representative_id": "bvc-2296",
+    "model_sha256": "1166489aec35765a700dbfbfd4e7b63d7b0a71c1793f5e2a3066bdca64a8aa79",
+    "source_image_sha256": "49e1ffe05164897cba9a63656995b98dec678461b805ffa7bff820568a36e3e8",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Also inspected the interior with fronts hidden: rack, bins, sink clearance or pantry shelves as applicable."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 161,
+    "representative_id": "bvc-2292",
+    "model_sha256": "8b751f3f2f6e26600b9b838accc1188fe41b4b119fdd70c774c255283a3be7d2",
+    "source_image_sha256": "49e1ffe05164897cba9a63656995b98dec678461b805ffa7bff820568a36e3e8",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 162,
+    "representative_id": "bvc-2288",
+    "model_sha256": "864737da32421fd24e9fe7b062578706f6c45b1705c970b89bd313bb71850c15",
+    "source_image_sha256": "49e1ffe05164897cba9a63656995b98dec678461b805ffa7bff820568a36e3e8",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 163,
+    "representative_id": "bvc-2209",
+    "model_sha256": "8c72ed5c836010d838da1405a45863cf3c10a1163e5bbd15c1bb483e98d583e0",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 164,
+    "representative_id": "bvc-2205",
+    "model_sha256": "2ae1e3f7f753bebbe9d35fb6f05e71cb60435baf1cd4a1a41e6b634c6b26163e",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 165,
+    "representative_id": "bvc-2201",
+    "model_sha256": "448f3523a174ed68f0b1c89ea346dbb3c1df170cc51d47fabc29ca8debebc580",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 166,
+    "representative_id": "bvc-2197",
+    "model_sha256": "ecea1422b77944206adeee4db2c34185c86b22b0c066de04367778c3ad0de139",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 167,
+    "representative_id": "bvc-2193",
+    "model_sha256": "3f837d48c52cdf4875e9771fc7eab03b154442ae2ee89d53eeafb1b8791d18b5",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 168,
+    "representative_id": "bvc-2189",
+    "model_sha256": "bb1a8ad6696343d857098a953d3a7a37d862db55f7f7acf4965ab50a3e9c43dc",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 169,
+    "representative_id": "bvc-2185",
+    "model_sha256": "ff0dbf48b0c37db939dfc3f76bad7b66b891cea71b71f9f5d2ef66bbce8d65bb",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 170,
+    "representative_id": "bvc-2181",
+    "model_sha256": "a5531bc00c5aa82cf1ff81695c8448a0fef092c997fe8e425094f6b19c9bf0aa",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 171,
+    "representative_id": "bvc-2177",
+    "model_sha256": "8c278d3dc5cfbd1a544ee7e51793b521912d8e9b3669fc007d84e8b7ae14b16c",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 172,
+    "representative_id": "bvc-2161",
+    "model_sha256": "cb25172997546fda82d009a5d82a524c6f297d26610311cce21439f1920f01c0",
+    "source_image_sha256": "aa8a527642bb375cc05c943bf6e3581132905546c8da8968ab63d9ade823cd05",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 173,
+    "representative_id": "bvc-2157",
+    "model_sha256": "4033789bddb0f3e4f2515e33d7d9c7403e0be06fa925dea81a5d08c526d6a343",
+    "source_image_sha256": "aa8a527642bb375cc05c943bf6e3581132905546c8da8968ab63d9ade823cd05",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 174,
+    "representative_id": "bvc-2153",
+    "model_sha256": "980c89c1c7ee15e45bf75c7dadb9a029765053b53a810c9c42e0d6dea79f6c5c",
+    "source_image_sha256": "aa8a527642bb375cc05c943bf6e3581132905546c8da8968ab63d9ade823cd05",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 175,
+    "representative_id": "bvc-2149",
+    "model_sha256": "97c626b73e80fb7e36e5c0fe980743125439bb1c23e064277a2e46c1fc0b72a0",
+    "source_image_sha256": "1505105da410abdaca9543123f0f00f07d5f4f1d0154526d10904d83437f80ed",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 176,
+    "representative_id": "bvc-2145",
+    "model_sha256": "3d2388a35b978b7ac4c2a596afdee3169854849dd3044b2699e4854d3a4e7cda",
+    "source_image_sha256": "1505105da410abdaca9543123f0f00f07d5f4f1d0154526d10904d83437f80ed",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 177,
+    "representative_id": "bvc-2099",
+    "model_sha256": "afeaea264ed5a674919af929e0703b11dc815977b8e266776aa3827fee646547",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations.",
+      "Also inspected the interior with fronts hidden: rack, bins, sink clearance or pantry shelves as applicable."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 178,
+    "representative_id": "bvc-2095",
+    "model_sha256": "72073258c6113cddebed9063ddd4167eaee37700c7c32c2f3e1ca77fb8e473d3",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 179,
+    "representative_id": "bvc-2091",
+    "model_sha256": "2b299830ee080746135bed4e64aa1bb1e07b4e7d7139b3c860f7d9825e4f6229",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 180,
+    "representative_id": "bvc-2081",
+    "model_sha256": "91cc3b4f717530d01bac16478474fb56075f23ff8a0da5292896f362fb2e1efd",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 181,
+    "representative_id": "bvc-2077",
+    "model_sha256": "8b9c56a1bb0338f4ea464f137c298170dd9728b87cb6ed8affb17cca6730bdf2",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 182,
+    "representative_id": "bvc-2073",
+    "model_sha256": "3973d52a1fbc00fbfe8ab3066d3f013400de110b4ac183a07dfbc9cabb9cc432",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 183,
+    "representative_id": "bvc-2067",
+    "model_sha256": "77742e58a35c7ee2d869fbdd7511fe86684f3162181f27a6e10071367ec6d1fe",
+    "source_image_sha256": "13238b727b591adc685a755c6625545b3e7b6db0126c353b379ef35658776528",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 184,
+    "representative_id": "bvc-2063",
+    "model_sha256": "97030c775612fb4bd74296cd5228a338c142ab00520ec0e4e98cfe9cedae0a1b",
+    "source_image_sha256": "13238b727b591adc685a755c6625545b3e7b6db0126c353b379ef35658776528",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 185,
+    "representative_id": "bvc-2057",
+    "model_sha256": "1a5497cd82c0f29563e8c7609162f4048100f3e376d4dcf650dbe2efdf2e155d",
+    "source_image_sha256": "13238b727b591adc685a755c6625545b3e7b6db0126c353b379ef35658776528",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 186,
+    "representative_id": "bvc-2053",
+    "model_sha256": "fd99db911e2bab60bea4a641f21a862d66e5d61ad57bcbc2181394d7aa65bbc9",
+    "source_image_sha256": "13238b727b591adc685a755c6625545b3e7b6db0126c353b379ef35658776528",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 187,
+    "representative_id": "bvc-1833",
+    "model_sha256": "1d08948f67a93eb94adf8aba5a00c9b477c70d1f0da9b87029670b9952ca5a79",
+    "source_image_sha256": "287915747c83cc02c6460e4446c6a6be3a7b9a896113951406962f3710d28352",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 188,
+    "representative_id": "bvc-1829",
+    "model_sha256": "9036c8bdf7b688d2f74dcc6f3e934df969ebdb00d06cf0825005a1690454bf31",
+    "source_image_sha256": "287915747c83cc02c6460e4446c6a6be3a7b9a896113951406962f3710d28352",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 189,
+    "representative_id": "bvc-1825",
+    "model_sha256": "dadfba2d69776683cf1d8452d19bb224feefd1ecd68dd57892e0ae2b9ef99f10",
+    "source_image_sha256": "287915747c83cc02c6460e4446c6a6be3a7b9a896113951406962f3710d28352",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 190,
+    "representative_id": "bvc-1821",
+    "model_sha256": "93a5fec305db68443403dd32cd91eb2984a9930ef4d0ed9ffed732d02e034241",
+    "source_image_sha256": "287915747c83cc02c6460e4446c6a6be3a7b9a896113951406962f3710d28352",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 191,
+    "representative_id": "bvc-1817",
+    "model_sha256": "fb43adb4d9b1e028aa5b946ded56a4445d618c66726b6de2a9dd15909448ac16",
+    "source_image_sha256": "287915747c83cc02c6460e4446c6a6be3a7b9a896113951406962f3710d28352",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 192,
+    "representative_id": "bvc-1806",
+    "model_sha256": "c65162f6cb1d8ccdc4520a57fadeafc2d02b706e45a145a051ab16019b70f4fe",
+    "source_image_sha256": "ea3d8ac67998c9b3eb27bf10cd838ce100bd7216c471246687eac2ab65f9c882",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 193,
+    "representative_id": "bvc-1802",
+    "model_sha256": "548398aeed1efaa9c65dfadf13eac173e9a2626d1fdc07fb7cd3c97fc61d818b",
+    "source_image_sha256": "ea3d8ac67998c9b3eb27bf10cd838ce100bd7216c471246687eac2ab65f9c882",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 194,
+    "representative_id": "bvc-1798",
+    "model_sha256": "2763da10ea7bf5273d04a232c9e136bd885436890fd16af30528d2fc566a52a3",
+    "source_image_sha256": "ea3d8ac67998c9b3eb27bf10cd838ce100bd7216c471246687eac2ab65f9c882",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 195,
+    "representative_id": "bvc-1794",
+    "model_sha256": "6c393caa07f3857245b6e48a258f5f26a6c9439dd2f777b5462e23cbd6b202c2",
+    "source_image_sha256": "ea3d8ac67998c9b3eb27bf10cd838ce100bd7216c471246687eac2ab65f9c882",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 196,
+    "representative_id": "bvc-1369",
+    "model_sha256": "af6d8b77e8be0d2138a8c6f6999b03e7555c21b024e4c251039c4e8c3877ae52",
+    "source_image_sha256": "1880b6cf4549fb2bf7012437fb6aa95430c35b5bc93f716f49e14ec172b662b0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 197,
+    "representative_id": "bvc-1365",
+    "model_sha256": "95f5729746f3616b7a42502d7f9344f23d995204e991474edc6d5bb9ad3e20fe",
+    "source_image_sha256": "1880b6cf4549fb2bf7012437fb6aa95430c35b5bc93f716f49e14ec172b662b0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 198,
+    "representative_id": "bvc-1361",
+    "model_sha256": "b0ab35ade4929a9d555f669ff9aa20bb30645712d23ead30b379500103052070",
+    "source_image_sha256": "1880b6cf4549fb2bf7012437fb6aa95430c35b5bc93f716f49e14ec172b662b0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 199,
+    "representative_id": "bvc-1357",
+    "model_sha256": "36f8e2321ffded44e2145276d68bc429f2d441c95cb33e958e65129458ce8c82",
+    "source_image_sha256": "1880b6cf4549fb2bf7012437fb6aa95430c35b5bc93f716f49e14ec172b662b0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 200,
+    "representative_id": "bvc-1353",
+    "model_sha256": "b3a2904a8b9517874ba4eed9bc7c70f2ea9cd10a6286474ee322eed29e9a42e6",
+    "source_image_sha256": "1880b6cf4549fb2bf7012437fb6aa95430c35b5bc93f716f49e14ec172b662b0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 201,
+    "representative_id": "bvc-1321",
+    "model_sha256": "3809fa4b7186258092cb6adc3221f5a781ab3be68c12a319c850b1a7cc8cd9de",
+    "source_image_sha256": "4b4bf34b76666c63a1f662168a2fdabdeaefa5eeacc0a171b62e6bf14bef1b7f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 202,
+    "representative_id": "bvc-1320",
+    "model_sha256": "6436a8a3cc709fd5eba6274c5591a0fcbe8d2683c2798ad6b99408b0601c2626",
+    "source_image_sha256": "4b4bf34b76666c63a1f662168a2fdabdeaefa5eeacc0a171b62e6bf14bef1b7f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 203,
+    "representative_id": "bvc-1319",
+    "model_sha256": "1a829e8b78a5193440cf44430702ea03faa4ea793b46c0b5253c17f92fb5f2a5",
+    "source_image_sha256": "4b4bf34b76666c63a1f662168a2fdabdeaefa5eeacc0a171b62e6bf14bef1b7f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 204,
+    "representative_id": "bvc-1318",
+    "model_sha256": "bbd6e18f12f586f11255f8d75a88203bf5dd8558025572cd6c32266a698ae6f9",
+    "source_image_sha256": "4b4bf34b76666c63a1f662168a2fdabdeaefa5eeacc0a171b62e6bf14bef1b7f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 205,
+    "representative_id": "bvc-1317",
+    "model_sha256": "59701ce98a84cb5fdbfa8a5a8bbf3532f3e2a813ece87fff3418a8bf289155bc",
+    "source_image_sha256": "4b4bf34b76666c63a1f662168a2fdabdeaefa5eeacc0a171b62e6bf14bef1b7f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 206,
+    "representative_id": "bvc-1198",
+    "model_sha256": "bfef6a982f45a76c7cc578d0b4b9143c7016f010da6a52a378036556e6019182",
+    "source_image_sha256": "291ba7d1b695f0ccd10a7797cca20350216845fdc36808ccd1325e8f74fca79b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 207,
+    "representative_id": "bvc-1197",
+    "model_sha256": "d56dab590ae6d9d11fb6dbd79209d66b8d6cc751747f7cfcc36f3c29ef82ee18",
+    "source_image_sha256": "291ba7d1b695f0ccd10a7797cca20350216845fdc36808ccd1325e8f74fca79b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 208,
+    "representative_id": "bvc-1196",
+    "model_sha256": "8b5196a66b2f930cbd25e5d1d252e0f34cec2dcdac5b5b8fea3d42d2caf055a5",
+    "source_image_sha256": "291ba7d1b695f0ccd10a7797cca20350216845fdc36808ccd1325e8f74fca79b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 209,
+    "representative_id": "bvc-1195",
+    "model_sha256": "9ffffa987eab60b3daeb1ad421999284b6de4082756005cf4fb71cce108ac15a",
+    "source_image_sha256": "291ba7d1b695f0ccd10a7797cca20350216845fdc36808ccd1325e8f74fca79b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  },
+  {
+    "group": 210,
+    "representative_id": "bvc-1194",
+    "model_sha256": "80076108967ac68ea90b0fe083d58f48758f7b81d32c55b4f5ada8bcd3c44909",
+    "source_image_sha256": "291ba7d1b695f0ccd10a7797cca20350216845fdc36808ccd1325e8f74fca79b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Re-inspected the regenerated representative render in source/render contact sheets. Grouped variants were checked automatically, not individually visually approved.",
+      "Cabinet-box finish and pantry proportions were reviewed where applicable; hardware, joinery, front dimensions and finish remain visual approximations."
+    ],
+    "generator_revision": 3,
+    "fix_review_date": "2026-09-10"
+  }
+]

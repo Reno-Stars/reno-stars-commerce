@@ -1,0 +1,5 @@
+raw/
+out/
+__pycache__/
+other-source.json
+macan-ocr.jsonl

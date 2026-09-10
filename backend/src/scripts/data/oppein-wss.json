@@ -1,0 +1,4187 @@
+{
+  "schema_version": 1,
+  "source_collection": "https://www.oppeincabinetry.ca/white-single-shaker-plywood",
+  "products": [
+    {
+      "sku": "PLY-WSS-B12",
+      "supplier_sku": "PLY-WSS-B12",
+      "title": "Base Cabinet (1 Drawer + 1 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-b12-base-cabinet-1-drawer-1-door-9944",
+      "source_dimension_text": "12\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 304.8,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-B12.glb",
+      "blend_file": "../blend/PLY-WSS-B12.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-B15",
+      "supplier_sku": "PLY-WSS-B15",
+      "title": "Base Cabinet (1 Drawer + 1 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-b15-base-cabinet-1-drawer-1-door-11386",
+      "source_dimension_text": "15\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 381.0,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-B15.glb",
+      "blend_file": "../blend/PLY-WSS-B15.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-B18",
+      "supplier_sku": "PLY-WSS-B18",
+      "title": "Base Cabinet (1 Drawer + 1 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-b18-base-cabinet-1-drawer-1-door-11387",
+      "source_dimension_text": "18\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 457.2,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-B18.glb",
+      "blend_file": "../blend/PLY-WSS-B18.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-B21",
+      "supplier_sku": "PLY-WSS-B21",
+      "title": "Base Cabinet (1 Drawer + 1 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-b21-base-cabinet-1-drawer-1-door-11388",
+      "source_dimension_text": "21\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 533.4,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-B21.glb",
+      "blend_file": "../blend/PLY-WSS-B21.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-BTC18",
+      "supplier_sku": "PLY-WSS-BTC18",
+      "title": "Base Trash Can Cabinet (1 Drawer + 1 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-btc18-base-trash-can-cabinet-1-drawer-1-door-11390",
+      "source_dimension_text": "18\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 457.2,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-BTC18.glb",
+      "blend_file": "../blend/PLY-WSS-BTC18.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-B24",
+      "supplier_sku": "PLY-WSS-B24",
+      "title": "Base Cabinet (1 Drawer + 2 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-b24-base-cabinet-1-drawer-2-door-11397",
+      "source_dimension_text": "24\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 609.6,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-B24.glb",
+      "blend_file": "../blend/PLY-WSS-B24.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-B27",
+      "supplier_sku": "PLY-WSS-B27",
+      "title": "Base Cabinet (1 Drawer + 2 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-b27-base-cabinet-1-drawer-2-door-11407",
+      "source_dimension_text": "27\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 685.8,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-B27.glb",
+      "blend_file": "../blend/PLY-WSS-B27.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-B30",
+      "supplier_sku": "PLY-WSS-B30",
+      "title": "Base Cabinet (1 Drawer + 2 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-b30-base-cabinet-1-drawer-2-door-11389",
+      "source_dimension_text": "30\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-B30.glb",
+      "blend_file": "../blend/PLY-WSS-B30.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-B33",
+      "supplier_sku": "PLY-WSS-B33",
+      "title": "Base Cabinet (1 Drawer + 2 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-b33-base-cabinet-1-drawer-2-door-9951",
+      "source_dimension_text": "33\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-B33.glb",
+      "blend_file": "../blend/PLY-WSS-B33.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-B36",
+      "supplier_sku": "PLY-WSS-B36",
+      "title": "Base Cabinet (1 Drawer + 2 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-b36-base-cabinet-1-drawer-2-door-9948",
+      "source_dimension_text": "36\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-B36.glb",
+      "blend_file": "../blend/PLY-WSS-B36.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-SB30",
+      "supplier_sku": "PLY-WSS-SB30",
+      "title": "Sink Base Cabinet (1 FK Drawer + 2 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-sb30-sink-base-cabinet-1-fk-drawer-2-door-9974",
+      "source_dimension_text": "30\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-SB30.glb",
+      "blend_file": "../blend/PLY-WSS-SB30.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-SB33",
+      "supplier_sku": "PLY-WSS-SB33",
+      "title": "Sink Base Cabinet (1 FK Drawer + 2 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-sb33-sink-base-cabinet-1-fk-drawer-2-door-11364",
+      "source_dimension_text": "33\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-SB33.glb",
+      "blend_file": "../blend/PLY-WSS-SB33.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-SB36",
+      "supplier_sku": "PLY-WSS-SB36",
+      "title": "Sink Base Cabinet (1 FK Drawer + 2 Door)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-sb36-sink-base-cabinet-1-fk-drawer-2-door-11408",
+      "source_dimension_text": "36\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-SB36.glb",
+      "blend_file": "../blend/PLY-WSS-SB36.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-3DB12",
+      "supplier_sku": "PLY-WSS-3DB12",
+      "title": "3 Drawer Base Cabinet",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-3db12-3-drawer-base-cabinet-9933",
+      "source_dimension_text": "12\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 304.8,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-3DB12.glb",
+      "blend_file": "../blend/PLY-WSS-3DB12.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-3DB15",
+      "supplier_sku": "PLY-WSS-3DB15",
+      "title": "3 Drawer Base Cabinet",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-3db15-3-drawer-base-cabinet-9932",
+      "source_dimension_text": "15\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 381.0,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-3DB15.glb",
+      "blend_file": "../blend/PLY-WSS-3DB15.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-3DB18",
+      "supplier_sku": "PLY-WSS-3DB18",
+      "title": "3 Drawer Base Cabinet",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-3db18-3-drawer-base-cabinet-9934",
+      "source_dimension_text": "18\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 457.2,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-3DB18.glb",
+      "blend_file": "../blend/PLY-WSS-3DB18.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-3DB21",
+      "supplier_sku": "PLY-WSS-3DB21",
+      "title": "3 Drawer Base Cabinet",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-3db21-3-drawer-base-cabinet-9931",
+      "source_dimension_text": "21\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 533.4,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-3DB21.glb",
+      "blend_file": "../blend/PLY-WSS-3DB21.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-3DB24",
+      "supplier_sku": "PLY-WSS-3DB24",
+      "title": "3 Drawers Base Cabinet",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-3db24-3-drawers-base-cabinet-11395",
+      "source_dimension_text": "24\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 609.6,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-3DB24.glb",
+      "blend_file": "../blend/PLY-WSS-3DB24.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-3DB30",
+      "supplier_sku": "PLY-WSS-3DB30",
+      "title": "3 Drawers Base Cabinet",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-3db30-3-drawers-base-cabinet-11398",
+      "source_dimension_text": "30\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-3DB30.glb",
+      "blend_file": "../blend/PLY-WSS-3DB30.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-3DB33",
+      "supplier_sku": "PLY-WSS-3DB33",
+      "title": "3 Drawers Base Cabinet",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-3db33-3-drawers-base-cabinet-11396",
+      "source_dimension_text": "33\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-3DB33.glb",
+      "blend_file": "../blend/PLY-WSS-3DB33.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-3DB36",
+      "supplier_sku": "PLY-WSS-3DB36",
+      "title": "3 Drawers Base Cabinet",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-3db36-3-drawers-base-cabinet-11391",
+      "source_dimension_text": "36\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-3DB36.glb",
+      "blend_file": "../blend/PLY-WSS-3DB36.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-2DB30",
+      "supplier_sku": "PLY-WSS-2DB30",
+      "title": "2 Drawer Base Cabinet",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-2db30-2-drawer-base-cabinet-9929",
+      "source_dimension_text": "30\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-2DB30.glb",
+      "blend_file": "../blend/PLY-WSS-2DB30.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-2DB36",
+      "supplier_sku": "PLY-WSS-2DB36",
+      "title": "2 Drawer Base Cabinet",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-2db36-2-drawer-base-cabinet-9930",
+      "source_dimension_text": "36\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-2DB36.glb",
+      "blend_file": "../blend/PLY-WSS-2DB36.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-BSR09",
+      "supplier_sku": "PLY-WSS-BSR09",
+      "title": "Base Spice Rack",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-bsr09-base-spice-rack-9960",
+      "source_dimension_text": "9\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 228.6,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-BSR09.glb",
+      "blend_file": "../blend/PLY-WSS-BSR09.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-BSR12",
+      "supplier_sku": "PLY-WSS-BSR12",
+      "title": "Base Spice Rack",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-bsr12-base-spice-rack-9961",
+      "source_dimension_text": "12\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 304.8,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-BSR12.glb",
+      "blend_file": "../blend/PLY-WSS-BSR12.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-B06FH",
+      "supplier_sku": "PLY-WSS-B06FH",
+      "title": "Base Cabinet (Full Height)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-b06fh-base-cabinet-full-height-11366",
+      "source_dimension_text": "6\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 152.4,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-B06FH.glb",
+      "blend_file": "../blend/PLY-WSS-B06FH.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-B09FH",
+      "supplier_sku": "PLY-WSS-B09FH",
+      "title": "Base Cabinet (Full Height)",
+      "family": "base",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-b09fh-base-cabinet-full-height-11385",
+      "source_dimension_text": "9\"W x 30\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 228.6,
+        "h": 762.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-B09FH.glb",
+      "blend_file": "../blend/PLY-WSS-B09FH.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": [
+          107.95,
+          133.35
+        ],
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W0930",
+      "supplier_sku": "PLY-WSS-W0930",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w0930-wall-cabinet-1-full-door-9992",
+      "source_dimension_text": "9\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 228.6,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W0930.glb",
+      "blend_file": "../blend/PLY-WSS-W0930.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1230",
+      "supplier_sku": "PLY-WSS-W1230",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1230-wall-cabinet-1-full-door-11375",
+      "source_dimension_text": "12\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 304.8,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1230.glb",
+      "blend_file": "../blend/PLY-WSS-W1230.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1530",
+      "supplier_sku": "PLY-WSS-W1530",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1530-wall-cabinet-1-full-door-9986",
+      "source_dimension_text": "15\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 381.0,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1530.glb",
+      "blend_file": "../blend/PLY-WSS-W1530.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1830",
+      "supplier_sku": "PLY-WSS-W1830",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1830-wall-cabinet-1-full-door-9982",
+      "source_dimension_text": "18\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 457.2,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1830.glb",
+      "blend_file": "../blend/PLY-WSS-W1830.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2130",
+      "supplier_sku": "PLY-WSS-W2130",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2130-wall-cabinet-1-full-door-11378",
+      "source_dimension_text": "21\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 533.4,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2130.glb",
+      "blend_file": "../blend/PLY-WSS-W2130.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W0936",
+      "supplier_sku": "PLY-WSS-W0936",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w0936-wall-cabinet-1-full-door-11394",
+      "source_dimension_text": "9\"W x 36\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 228.6,
+        "h": 914.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W0936.glb",
+      "blend_file": "../blend/PLY-WSS-W0936.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1236",
+      "supplier_sku": "PLY-WSS-W1236",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1236-wall-cabinet-1-full-door-11367",
+      "source_dimension_text": "21\"W x 36\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 533.4,
+        "h": 914.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1236.glb",
+      "blend_file": "../blend/PLY-WSS-W1236.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1536",
+      "supplier_sku": "PLY-WSS-W1536",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1536-wall-cabinet-1-full-door-11368",
+      "source_dimension_text": "15\"W x 36\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 381.0,
+        "h": 914.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1536.glb",
+      "blend_file": "../blend/PLY-WSS-W1536.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1836",
+      "supplier_sku": "PLY-WSS-W1836",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1836-wall-cabinet-1-full-door-11369",
+      "source_dimension_text": "18\"W x 36\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 457.2,
+        "h": 914.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1836.glb",
+      "blend_file": "../blend/PLY-WSS-W1836.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2136",
+      "supplier_sku": "PLY-WSS-W2136",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2136-wall-cabinet-1-full-door-11400",
+      "source_dimension_text": "21\"W x 36\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 533.4,
+        "h": 914.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2136.glb",
+      "blend_file": "../blend/PLY-WSS-W2136.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W0942",
+      "supplier_sku": "PLY-WSS-W0942",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w0942-wall-cabinet-1-full-door-9987",
+      "source_dimension_text": "9\"W x 42\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 228.6,
+        "h": 1066.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W0942.glb",
+      "blend_file": "../blend/PLY-WSS-W0942.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1242",
+      "supplier_sku": "PLY-WSS-W1242",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1242-wall-cabinet-1-full-door-11401",
+      "source_dimension_text": "12\"W x 42\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 304.8,
+        "h": 1066.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1242.glb",
+      "blend_file": "../blend/PLY-WSS-W1242.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1542",
+      "supplier_sku": "PLY-WSS-W1542",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1542-wall-cabinet-1-full-door-9983",
+      "source_dimension_text": "15\"W x 42\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 381.0,
+        "h": 1066.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1542.glb",
+      "blend_file": "../blend/PLY-WSS-W1542.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1842",
+      "supplier_sku": "PLY-WSS-W1842",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1842-wall-cabinet-1-full-door-11402",
+      "source_dimension_text": "18\"W x 42\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 457.2,
+        "h": 1066.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1842.glb",
+      "blend_file": "../blend/PLY-WSS-W1842.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2142",
+      "supplier_sku": "PLY-WSS-W2142",
+      "title": "Wall Cabinet 1 Full Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2142-wall-cabinet-1-full-door-9984",
+      "source_dimension_text": "21\"W x 42\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 533.4,
+        "h": 1066.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2142.glb",
+      "blend_file": "../blend/PLY-WSS-W2142.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2430",
+      "supplier_sku": "PLY-WSS-W2430",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2430-wall-cabinet-2-door-11392",
+      "source_dimension_text": "24\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 609.6,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2430.glb",
+      "blend_file": "../blend/PLY-WSS-W2430.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2730",
+      "supplier_sku": "PLY-WSS-W2730",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2730-wall-cabinet-2-door-11399",
+      "source_dimension_text": "27\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 685.8,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2730.glb",
+      "blend_file": "../blend/PLY-WSS-W2730.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3030",
+      "supplier_sku": "PLY-WSS-W3030",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3030-wall-cabinet-2-door-10007",
+      "source_dimension_text": "30\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3030.glb",
+      "blend_file": "../blend/PLY-WSS-W3030.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3330",
+      "supplier_sku": "PLY-WSS-W3330",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3330-wall-cabinet-2-door-11381",
+      "source_dimension_text": "33\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3330.glb",
+      "blend_file": "../blend/PLY-WSS-W3330.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3630",
+      "supplier_sku": "PLY-WSS-W3630",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3630-wall-cabinet-2-door-10010",
+      "source_dimension_text": "36\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3630.glb",
+      "blend_file": "../blend/PLY-WSS-W3630.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2436",
+      "supplier_sku": "PLY-WSS-W2436",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2436-wall-cabinet-2-door-10004",
+      "source_dimension_text": "24\"W x 36\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 609.6,
+        "h": 914.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2436.glb",
+      "blend_file": "../blend/PLY-WSS-W2436.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2736",
+      "supplier_sku": "PLY-WSS-W2736",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2736-wall-cabinet-2-door-10006",
+      "source_dimension_text": "27\"W x 36\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 685.8,
+        "h": 914.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2736.glb",
+      "blend_file": "../blend/PLY-WSS-W2736.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3036",
+      "supplier_sku": "PLY-WSS-W3036",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3036-wall-cabinet-2-door-10008",
+      "source_dimension_text": "33\"W x 36\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 914.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3036.glb",
+      "blend_file": "../blend/PLY-WSS-W3036.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3336",
+      "supplier_sku": "PLY-WSS-W3336",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3336-wall-cabinet-2-door-11370",
+      "source_dimension_text": "33\"W x 36\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 914.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3336.glb",
+      "blend_file": "../blend/PLY-WSS-W3336.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3636",
+      "supplier_sku": "PLY-WSS-W3636",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3636-wall-cabinet-2-door-10011",
+      "source_dimension_text": "36\"W x 36\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 914.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3636.glb",
+      "blend_file": "../blend/PLY-WSS-W3636.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2442",
+      "supplier_sku": "PLY-WSS-W2442",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2442-wall-cabinet-2-door-10005",
+      "source_dimension_text": "24\"W x 42\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 609.6,
+        "h": 1066.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2442.glb",
+      "blend_file": "../blend/PLY-WSS-W2442.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2742",
+      "supplier_sku": "PLY-WSS-W2742",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2742-wall-cabinet-2-door-11403",
+      "source_dimension_text": "27\"W x 42\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 685.8,
+        "h": 1066.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2742.glb",
+      "blend_file": "../blend/PLY-WSS-W2742.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3042",
+      "supplier_sku": "PLY-WSS-W3042",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3042-wall-cabinet-2-door-11404",
+      "source_dimension_text": "30\"W x 42\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 1066.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3042.glb",
+      "blend_file": "../blend/PLY-WSS-W3042.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3342",
+      "supplier_sku": "PLY-WSS-W3342",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3342-wall-cabinet-2-door-10009",
+      "source_dimension_text": "33\"W x 42\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 1066.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3342.glb",
+      "blend_file": "../blend/PLY-WSS-W3342.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3642",
+      "supplier_sku": "PLY-WSS-W3642",
+      "title": "Wall Cabinet 2 Door",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3642-wall-cabinet-2-door-9997",
+      "source_dimension_text": "36\"W x 42\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 1066.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3642.glb",
+      "blend_file": "../blend/PLY-WSS-W3642.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1212",
+      "supplier_sku": "PLY-WSS-W1212",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1212-wall-short-cabinet-10030",
+      "source_dimension_text": "12\"W x 12\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 304.8,
+        "h": 304.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1212.glb",
+      "blend_file": "../blend/PLY-WSS-W1212.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1512",
+      "supplier_sku": "PLY-WSS-W1512",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1512-wall-short-cabinet-10029",
+      "source_dimension_text": "15\"W x 12\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 381.0,
+        "h": 304.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1512.glb",
+      "blend_file": "../blend/PLY-WSS-W1512.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W1812",
+      "supplier_sku": "PLY-WSS-W1812",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w1812-wall-short-cabinet-10028",
+      "source_dimension_text": "18\"W x 12\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 457.2,
+        "h": 304.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W1812.glb",
+      "blend_file": "../blend/PLY-WSS-W1812.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2112",
+      "supplier_sku": "PLY-WSS-W2112",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2112-wall-short-cabinet-10047",
+      "source_dimension_text": "21\"W x 12\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 533.4,
+        "h": 304.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2112.glb",
+      "blend_file": "../blend/PLY-WSS-W2112.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2412",
+      "supplier_sku": "PLY-WSS-W2412",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2412-wall-short-cabinet-10031",
+      "source_dimension_text": "24\"W x 12\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 609.6,
+        "h": 304.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2412.glb",
+      "blend_file": "../blend/PLY-WSS-W2412.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W2712",
+      "supplier_sku": "PLY-WSS-W2712",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w2712-wall-short-cabinet-10032",
+      "source_dimension_text": "27\"W x 12\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 685.8,
+        "h": 304.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W2712.glb",
+      "blend_file": "../blend/PLY-WSS-W2712.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3012",
+      "supplier_sku": "PLY-WSS-W3012",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3012-wall-short-cabinet-11379",
+      "source_dimension_text": "30\"W x 12\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 304.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3012.glb",
+      "blend_file": "../blend/PLY-WSS-W3012.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3312",
+      "supplier_sku": "PLY-WSS-W3312",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3312-wall-short-cabinet-10035",
+      "source_dimension_text": "33\"W x 12\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 304.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3312.glb",
+      "blend_file": "../blend/PLY-WSS-W3312.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3612",
+      "supplier_sku": "PLY-WSS-W3612",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3612-wall-short-cabinet-10039",
+      "source_dimension_text": "36\"W x 12\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 304.8,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3612.glb",
+      "blend_file": "../blend/PLY-WSS-W3612.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3015",
+      "supplier_sku": "PLY-WSS-W3015",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3015-wall-short-cabinet-11371",
+      "source_dimension_text": "30\"W x 15\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 381.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3015.glb",
+      "blend_file": "../blend/PLY-WSS-W3015.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3315",
+      "supplier_sku": "PLY-WSS-W3315",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3315-wall-short-cabinet-10036",
+      "source_dimension_text": "33\"W x 15\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 381.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3315.glb",
+      "blend_file": "../blend/PLY-WSS-W3315.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3615",
+      "supplier_sku": "PLY-WSS-W3615",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3615-wall-short-cabinet-10040",
+      "source_dimension_text": "36\"W x 15\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 381.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3615.glb",
+      "blend_file": "../blend/PLY-WSS-W3615.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3018",
+      "supplier_sku": "PLY-WSS-W3018",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3018-wall-short-cabinet-11393",
+      "source_dimension_text": "30\"W x 18\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 457.2,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3018.glb",
+      "blend_file": "../blend/PLY-WSS-W3018.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3318",
+      "supplier_sku": "PLY-WSS-W3318",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3318-wall-short-cabinet-11380",
+      "source_dimension_text": "33\"W x 18\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 457.2,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3318.glb",
+      "blend_file": "../blend/PLY-WSS-W3318.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3618",
+      "supplier_sku": "PLY-WSS-W3618",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3618-wall-short-cabinet-11377",
+      "source_dimension_text": "36\"W x 18\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 457.2,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3618.glb",
+      "blend_file": "../blend/PLY-WSS-W3618.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3021",
+      "supplier_sku": "PLY-WSS-W3021",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3021-wall-short-cabinet-10033",
+      "source_dimension_text": "30\"W x 21\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 533.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3021.glb",
+      "blend_file": "../blend/PLY-WSS-W3021.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3321",
+      "supplier_sku": "PLY-WSS-W3321",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3321-wall-short-cabinet-10037",
+      "source_dimension_text": "33\"W x 21\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 533.4,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3321.glb",
+      "blend_file": "../blend/PLY-WSS-W3321.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3024",
+      "supplier_sku": "PLY-WSS-W3024",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3024-wall-short-cabinet-10034",
+      "source_dimension_text": "30\"W x 24\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 609.6,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3024.glb",
+      "blend_file": "../blend/PLY-WSS-W3024.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3324",
+      "supplier_sku": "PLY-WSS-W3324",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3324-wall-short-cabinet-10038",
+      "source_dimension_text": "33\"W x 24\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 609.6,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3324.glb",
+      "blend_file": "../blend/PLY-WSS-W3324.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W3624",
+      "supplier_sku": "PLY-WSS-W3624",
+      "title": "Wall Short Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w3624-wall-short-cabinet-10041",
+      "source_dimension_text": "36\"W x 24\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 609.6,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W3624.glb",
+      "blend_file": "../blend/PLY-WSS-W3624.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W301224",
+      "supplier_sku": "PLY-WSS-W301224",
+      "title": "Wall Fridge Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w301224-wall-fridge-cabinet-10022",
+      "source_dimension_text": "30\"W x 12\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 304.8,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W301224.glb",
+      "blend_file": "../blend/PLY-WSS-W301224.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W331224",
+      "supplier_sku": "PLY-WSS-W331224",
+      "title": "Wall Fridge Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w331224-wall-fridge-cabinet-10024",
+      "source_dimension_text": "33\"W x 12\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 304.8,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W331224.glb",
+      "blend_file": "../blend/PLY-WSS-W331224.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W361224",
+      "supplier_sku": "PLY-WSS-W361224",
+      "title": "Wall Fridge Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w361224-wall-fridge-cabinet-10023",
+      "source_dimension_text": "36\"W x 12\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 304.8,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W361224.glb",
+      "blend_file": "../blend/PLY-WSS-W361224.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W301524",
+      "supplier_sku": "PLY-WSS-W301524",
+      "title": "Wall Fridge Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w301524-wall-fridge-cabinet-10020",
+      "source_dimension_text": "30\"W x 15\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 381.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W301524.glb",
+      "blend_file": "../blend/PLY-WSS-W301524.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W331524",
+      "supplier_sku": "PLY-WSS-W331524",
+      "title": "Wall Fridge Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w331524-wall-fridge-cabinet-10021",
+      "source_dimension_text": "33\"W x 15\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 381.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W331524.glb",
+      "blend_file": "../blend/PLY-WSS-W331524.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W361524",
+      "supplier_sku": "PLY-WSS-W361524",
+      "title": "Wall Fridge Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w361524-wall-fridge-cabinet-10025",
+      "source_dimension_text": "36\"W x 15\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 381.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W361524.glb",
+      "blend_file": "../blend/PLY-WSS-W361524.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W331824",
+      "supplier_sku": "PLY-WSS-W331824",
+      "title": "Wall Fridge Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w331824-wall-fridge-cabinet-11372",
+      "source_dimension_text": "33\"W x 18\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 838.2,
+        "h": 457.2,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W331824.glb",
+      "blend_file": "../blend/PLY-WSS-W331824.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W361824",
+      "supplier_sku": "PLY-WSS-W361824",
+      "title": "Wall Fridge Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w361824-wall-fridge-cabinet-10026",
+      "source_dimension_text": "36\"W x 18\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 457.2,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W361824.glb",
+      "blend_file": "../blend/PLY-WSS-W361824.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-W362424",
+      "supplier_sku": "PLY-WSS-W362424",
+      "title": "Wall Fridge Cabinet",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-w362424-wall-fridge-cabinet-10027",
+      "source_dimension_text": "36\"W x 24\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 609.6,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-W362424.glb",
+      "blend_file": "../blend/PLY-WSS-W362424.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-WBF3030",
+      "supplier_sku": "PLY-WSS-WBF3030",
+      "title": "Wall Bi-Fold",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-wbf3030-wall-bi-fold-9978",
+      "source_dimension_text": "30\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-WBF3030.glb",
+      "blend_file": "../blend/PLY-WSS-WBF3030.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-WBF3630",
+      "supplier_sku": "PLY-WSS-WBF3630",
+      "title": "Wall Bi-Fold",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-wbf3630-wall-bi-fold-9977",
+      "source_dimension_text": "36\"W x 30\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 762.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-WBF3630.glb",
+      "blend_file": "../blend/PLY-WSS-WBF3630.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-WSL3015",
+      "supplier_sku": "PLY-WSS-WSL3015",
+      "title": "Wall Stay Lift",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-wsl3015-wall-stay-lift-10050",
+      "source_dimension_text": "30\"W x 15\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 381.0,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-WSL3015.glb",
+      "blend_file": "../blend/PLY-WSS-WSL3015.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-WSL3018",
+      "supplier_sku": "PLY-WSS-WSL3018",
+      "title": "Wall Stay Lift",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-wsl3018-wall-stay-lift-10049",
+      "source_dimension_text": "30\"W x 18\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 457.2,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-WSL3018.glb",
+      "blend_file": "../blend/PLY-WSS-WSL3018.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-WSL3618",
+      "supplier_sku": "PLY-WSS-WSL3618",
+      "title": "Wall Stay Lift",
+      "family": "wall",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-wsl3618-wall-stay-lift-10048",
+      "source_dimension_text": "36\"W x 18\"H x 12\"D",
+      "dimensions_mm": {
+        "w": 914.4,
+        "h": 457.2,
+        "d": 304.8
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-WSL3618.glb",
+      "blend_file": "../blend/PLY-WSS-WSL3618.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-bottom",
+        "default_leg_height_mm": 0,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-PC1884",
+      "supplier_sku": "PLY-WSS-PC1884",
+      "title": "Pantry Cabinet",
+      "family": "pantry",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-pc1884-pantry-cabinet-9966",
+      "source_dimension_text": "18\"W x 84\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 457.2,
+        "h": 2133.6,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-PC1884.glb",
+      "blend_file": "../blend/PLY-WSS-PC1884.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-PC1890",
+      "supplier_sku": "PLY-WSS-PC1890",
+      "title": "Pantry Cabinet",
+      "family": "pantry",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-pc1890-pantry-cabinet-9967",
+      "source_dimension_text": "18\"W x 90\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 457.2,
+        "h": 2286.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-PC1890.glb",
+      "blend_file": "../blend/PLY-WSS-PC1890.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-PC1896",
+      "supplier_sku": "PLY-WSS-PC1896",
+      "title": "Pantry Cabinet",
+      "family": "pantry",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-pc1896-pantry-cabinet-9965",
+      "source_dimension_text": "18\"W x 96\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 457.2,
+        "h": 2438.4,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-PC1896.glb",
+      "blend_file": "../blend/PLY-WSS-PC1896.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-PC2484",
+      "supplier_sku": "PLY-WSS-PC2484",
+      "title": "Pantry Cabinet",
+      "family": "pantry",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-pc2484-pantry-cabinet-9968",
+      "source_dimension_text": "24\"W x 84\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 609.6,
+        "h": 2133.6,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-PC2484.glb",
+      "blend_file": "../blend/PLY-WSS-PC2484.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-PC3084",
+      "supplier_sku": "PLY-WSS-PC3084",
+      "title": "Pantry Cabinet",
+      "family": "pantry",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-pc3084-pantry-cabinet-9971",
+      "source_dimension_text": "30\"W x 84\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 2133.6,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-PC3084.glb",
+      "blend_file": "../blend/PLY-WSS-PC3084.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-PC2490",
+      "supplier_sku": "PLY-WSS-PC2490",
+      "title": "Pantry Cabinet",
+      "family": "pantry",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-pc2490-pantry-cabinet-9969",
+      "source_dimension_text": "24\"W x 90\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 609.6,
+        "h": 2286.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-PC2490.glb",
+      "blend_file": "../blend/PLY-WSS-PC2490.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-PC3090",
+      "supplier_sku": "PLY-WSS-PC3090",
+      "title": "Pantry Cabinet",
+      "family": "pantry",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-pc3090-pantry-cabinet-9972",
+      "source_dimension_text": "30\"W x 90\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 2286.0,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-PC3090.glb",
+      "blend_file": "../blend/PLY-WSS-PC3090.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-PC2496",
+      "supplier_sku": "PLY-WSS-PC2496",
+      "title": "Pantry Cabinet",
+      "family": "pantry",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-pc2496-pantry-cabinet-9970",
+      "source_dimension_text": "24\"W x 96\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 609.6,
+        "h": 2438.4,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-PC2496.glb",
+      "blend_file": "../blend/PLY-WSS-PC2496.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    },
+    {
+      "sku": "PLY-WSS-PC3096",
+      "supplier_sku": "PLY-WSS-PC3096",
+      "title": "Pantry Cabinet",
+      "family": "pantry",
+      "finish": "White Single Shaker",
+      "construction": "Plywood",
+      "source_url": "https://www.oppeincabinetry.ca/shop/ply-wss-pc3096-pantry-cabinet-11406",
+      "source_dimension_text": "30\"W x 96\"H x 23 7/8\"D",
+      "dimensions_mm": {
+        "w": 762.0,
+        "h": 2438.4,
+        "d": 606.425
+      },
+      "status": "model_ready",
+      "review_reason": null,
+      "model_url": "models/PLY-WSS-PC3096.glb",
+      "blend_file": "../blend/PLY-WSS-PC3096.blend",
+      "pricing": "quote_only",
+      "placement": {
+        "units": "metres",
+        "gltf_axes": {
+          "width": "+X",
+          "up": "+Y",
+          "front": "+Z"
+        },
+        "origin": "rear-left-floor",
+        "default_leg_height_mm": 114.3,
+        "leg_height_range_mm": null,
+        "dimension_basis": "Published cabinet body dimensions; legs modeled separately",
+        "snap_points": [
+          "rear-left",
+          "rear-right",
+          "front-left",
+          "front-right"
+        ]
+      },
+      "model_notes": [
+        "Outer cabinet body matches published dimensions. Door profile and internal construction are visual approximations. Handles, countertop and exposed-end cover panels are separate accessories."
+      ]
+    }
+  ]
+}

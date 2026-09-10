@@ -1,0 +1,2766 @@
+[
+  {
+    "group": 1,
+    "representative_id": "oppein-ply-gss-2db36",
+    "model_sha256": "7417a3eaf715a579d45b5884f67e496550aa328ca35179120e0436f484bf6f7d",
+    "source_image_sha256": "27d0f63475e3fd555059d0a52541cab9bde9c8b30c733f6440f945d468b5138b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 2,
+    "representative_id": "oppein-ply-bss-2db30",
+    "model_sha256": "6a9c40c5cdfd658e821aeb0967ffc23f3738957fb0a07dfb724e99c477e277c1",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 3,
+    "representative_id": "oppein-pb-bss-3db21",
+    "model_sha256": "e5672169ebb0fb85b035e28a121e2cfaec69aba190c9d368753dd1e763728277",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 4,
+    "representative_id": "oppein-ply-mso-3db18",
+    "model_sha256": "41c25bb05c203b35e4da4e72672d790055b70438bbe467123a2d92710aea54ed",
+    "source_image_sha256": "59beb5465b2eba804e275f72c1722e86cdd3d1e2765525a121b0ca1af95a5512",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 5,
+    "representative_id": "oppein-pb-gss-3db36",
+    "model_sha256": "be2a2c0a161c5b77318b37a68ccd2d0d8bb0ae9a4ae0b01b1ddddc420c265bd8",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 6,
+    "representative_id": "oppein-pb-gss-3db33",
+    "model_sha256": "ac215d0d62d04ee7a18772c76dd53626b2f095219b6abb80cc150603fbeabafd",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 7,
+    "representative_id": "oppein-pb-gss-3db30",
+    "model_sha256": "31636f84db08cda949190f0744eb5eb00c35dbd3065fd50a4187d49c535a6cf6",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 8,
+    "representative_id": "oppein-pb-gss-3db27",
+    "model_sha256": "5df41e9c7e996519a42ec8695c162cae6dff1d828e8d29300c706cfdb9a5a17c",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 9,
+    "representative_id": "oppein-pb-gss-3db24",
+    "model_sha256": "3409aa671e08b6a73e32ac0b3d78e138c71678b94bc30dcd4f789e156de7ff27",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 10,
+    "representative_id": "oppein-pb-gss-3db15",
+    "model_sha256": "f041e6c015e739b9dde48c7a537835ee71d1f87d29ddf4a0c93acdf40f6ae4fd",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 11,
+    "representative_id": "oppein-pb-gss-3db12",
+    "model_sha256": "49631d08ce196fe5d699051ea579dcbef08d64f8521e0a76c1419db4da8c6465",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 12,
+    "representative_id": "oppein-ply-bss-3db27",
+    "model_sha256": "0d13021a9edea65a1511497db01489e5fb519f127030419b9137cbe1786c3cb2",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 13,
+    "representative_id": "oppein-ply-bss-3db33",
+    "model_sha256": "0133d7d855fdd94b0393faf7bec2e39b9932090fd032a93bbc59908e8f056433",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 14,
+    "representative_id": "oppein-ply-gss-3db24",
+    "model_sha256": "d04c362e8274fb887de9b516c36b2b9fb55e3e618bb510aa345ce13f0a3e21ef",
+    "source_image_sha256": "b5b820d4d3466e1ba7a847a3eab634aaccc36a228126010236033484adffdc94",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 15,
+    "representative_id": "oppein-ply-gss-3db30",
+    "model_sha256": "81094905d21b8b5a1a4c51d68004d72f63ea6e288107fb1445baef905ecc3498",
+    "source_image_sha256": "86cea81b279b01c74b99189d67ab01c69b0b5e31bdca27fe277afd6f09744fc9",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 16,
+    "representative_id": "oppein-ply-gss-3db36",
+    "model_sha256": "f1639dbd32de3f0e424cd829291c3bf73aaa515f1325d8717cd70ed616d7b033",
+    "source_image_sha256": "8bf9b317afc61d65b7d3162e49e78b9de12fcbbc5c72f0c452eec43bf7a32fa8",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 17,
+    "representative_id": "oppein-ply-ssw-b21",
+    "model_sha256": "babfd1167191bd13fde8333f1f07abbf4e7997e5998e8a1a09a3653c55da7c3b",
+    "source_image_sha256": "309066e987cee5fcf2e3ed613b69dbd0d7ef9f361bb2be9b332e9f1c212417e1",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 18,
+    "representative_id": "oppein-ply-mnw-b12",
+    "model_sha256": "b177be742988af56d5fc4341a0eded9e2d4b84a3bd5e4b0e45ad0df26af1e47f",
+    "source_image_sha256": "77d36079cc16aaf58f4b6ba16ec203e008f206ea057c2ef1745c32b6635c505c",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 19,
+    "representative_id": "oppein-ply-bss-b15",
+    "model_sha256": "00ac9a1d748dc8cbdf5d24ed45fdf2749a8599eea9314a9336869c67d5041733",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 20,
+    "representative_id": "oppein-pb-gss-b18",
+    "model_sha256": "896b5c0e3bcd0f5063bfb65a3fe903692f131dcc96da549ee6ccc9299a59a51a",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 21,
+    "representative_id": "oppein-pb-ssw-b30",
+    "model_sha256": "212d55da55205d7b8a12eea6136bebdeaa3604a67c6fe8a40bf5bd59130aaff9",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved."
+    ]
+  },
+  {
+    "group": 22,
+    "representative_id": "oppein-pb-mnw-b42",
+    "model_sha256": "c417c2c3f5d3004765acbf65cc6e957ee619bd258769579acef2ec58661f4379",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 23,
+    "representative_id": "oppein-ply-mnw-b24",
+    "model_sha256": "e91bc2f0d9629082f1798f9ab291780d49cbd75b10507db4deaaf1074cad0760",
+    "source_image_sha256": "4a837dd42f92f9b5567134cb04c098a83ef3f54385b1340c06085a4ec3ca937a",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 24,
+    "representative_id": "oppein-ply-pgw-b27",
+    "model_sha256": "f180e32bf2abd46cf6f0d84e527143ce077920e70fb3e4ff6d44cb2f77fd95ad",
+    "source_image_sha256": "99cd1be6c4f733b81cb99538138b84060dff36a5e0e9ce98f0f17ead18519549",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 25,
+    "representative_id": "oppein-ply-mso-b21",
+    "model_sha256": "4f39d49f668f299849583232847ee5535ee2470059ca0912346e3af9ba3e8222",
+    "source_image_sha256": "40bf4c16921ad86b74679974faf1b0a7d632d9ccd6daff67a346d81761d716b5",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass.",
+      "Source title says two doors; product image shows one door."
+    ]
+  },
+  {
+    "group": 26,
+    "representative_id": "oppein-pb-ssw-b36",
+    "model_sha256": "0f7486d1c9f29cbb56fc9fc7041a692adfa577246d67cd88bc489c9e288723d2",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved."
+    ]
+  },
+  {
+    "group": 27,
+    "representative_id": "oppein-pb-wss-b33",
+    "model_sha256": "1d0540510cd494966415da898311937efc7972f2313d5b376f8927d280cf1a78",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved."
+    ]
+  },
+  {
+    "group": 28,
+    "representative_id": "oppein-ply-mso-b06fh",
+    "model_sha256": "0ac2584f289d4b6b92803876cda32563de6f50b8f8efcc67ecd8b27974f60158",
+    "source_image_sha256": "0a319bc2ee8d6cee1b53f2f52ebd11f4d933386938177c0efc4ae256af37cf09",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 29,
+    "representative_id": "oppein-pb-mnw-b12fh",
+    "model_sha256": "baf9c674a419c6dd9c8c385f1762cb12cd1c8a18a8bcb3ca9f4e3dcd1b4a4512",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 30,
+    "representative_id": "oppein-pb-mnw-b09fh",
+    "model_sha256": "7328a3c51a15e90592a55b31d3222905751df5ae278a7039e1332e0200795c31",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 31,
+    "representative_id": "oppein-pb-mnw-b36fh",
+    "model_sha256": "01464acbee3a42a5227622469eaa1a23178d135cb845b7c825a8fb9a13b322e2",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 32,
+    "representative_id": "oppein-pb-mnw-b33fh",
+    "model_sha256": "67c90a962e3296498cf3c2d3d7684ab39f2414b5fa0e56a678bb91673cbe7f7e",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 33,
+    "representative_id": "oppein-pb-mnw-b30fh",
+    "model_sha256": "c0e5c8294dc03795d0b6d9ae300e1e1d56dc687e1778cb9e764ec67c22d2b059",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 34,
+    "representative_id": "oppein-pb-gss-b24fh",
+    "model_sha256": "e50c8ae6a9f3230363e4e8503e9e97a6d7cab140f06c6a011b8e782b76f924f9",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 35,
+    "representative_id": "oppein-pb-gss-b21fh",
+    "model_sha256": "b71a0c55c7ef056b2e4ddd22c5429c6ddde0d30b246adca04647d0a8cd3e3392",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 36,
+    "representative_id": "oppein-pb-gss-b18fh",
+    "model_sha256": "2ff30d2ddd66c0deb50d1fef2342eeab3b4e2f0a4420db60b984cfcb011d317a",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 37,
+    "representative_id": "oppein-pb-gss-b15fh",
+    "model_sha256": "8fdbffe0afac031034f8805fa97a51badc3fd686afb80b74de42ca666ca6a553",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 38,
+    "representative_id": "oppein-pb-bss-b27fh",
+    "model_sha256": "96adac7dfcaedc9c6e58059593a19dbf44ae70338e21ee21b8a26b45bb52ab52",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 39,
+    "representative_id": "oppein-ply-pgw-bsr06",
+    "model_sha256": "cfdbdf48b66f3fe332a4028cb976a465c856199acef6b34dff44f636c2987003",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Microwave title conflicts with BSR06 SKU and 6-inch-wide envelope."
+    ]
+  },
+  {
+    "group": 40,
+    "representative_id": "oppein-ply-bss-bsr06",
+    "model_sha256": "2215f557f70d4fa2ea8bac4a6e71009b57fcdf25df1488d8a43fab23e9d80610",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass.",
+      "Specified pull-out insert is missing from the modeled generic interior."
+    ]
+  },
+  {
+    "group": 41,
+    "representative_id": "oppein-ply-wss-bsr12",
+    "model_sha256": "ffee19f31ca2df5f16ca6d2325886a90ec831e78875e17495a657dab2575554d",
+    "source_image_sha256": "18e3cc720223288316c10f0efcea032cd9a180938e2d28ec4fc5ffa1d56bba52",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Specified pull-out insert is missing from the modeled generic interior."
+    ]
+  },
+  {
+    "group": 42,
+    "representative_id": "oppein-ply-pgw-bsr09",
+    "model_sha256": "262e492fca9d09fea5fff8565796651af324a255a5123ba11b5fbbd932d09caf",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Specified pull-out insert is missing from the modeled generic interior."
+    ]
+  },
+  {
+    "group": 43,
+    "representative_id": "oppein-pb-wss-bsr06",
+    "model_sha256": "cb7c68f22702c2ff621f2c6d018afe7bc763607c032f8c5c918ff1c7812941a7",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Specified pull-out insert is missing from the modeled generic interior."
+    ]
+  },
+  {
+    "group": 44,
+    "representative_id": "oppein-ply-ssw-bsr12",
+    "model_sha256": "8e5f273e5e28ddb53b040199fa8a309fc28eed922858a77eda2468386ef9dfac",
+    "source_image_sha256": "7a61e04fc84ab85be651c96b0017ed8a767d95b4d73f40d5589acee828b78471",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Specified pull-out insert is missing from the modeled generic interior."
+    ]
+  },
+  {
+    "group": 45,
+    "representative_id": "oppein-pb-bss-bsr09",
+    "model_sha256": "ec2e3becd9b7ba29f575f6278a4542b79ebffddad3df51698bbcc8076b4d340d",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass.",
+      "Specified pull-out insert is missing from the modeled generic interior."
+    ]
+  },
+  {
+    "group": 46,
+    "representative_id": "oppein-pb-gss-btc18",
+    "model_sha256": "625c243279bc2993ab1e73ea95e94ab14f7d9e040ec2d8637711c7ff74d76310",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass.",
+      "Specified pull-out insert is missing from the modeled generic interior."
+    ]
+  },
+  {
+    "group": 47,
+    "representative_id": "oppein-pb-ssw-pc2490",
+    "model_sha256": "5d4dfc8c8acb485c9c3ca471e2ecb01087ee659227d01616fbfc8b4639b7cbb3",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 48,
+    "representative_id": "oppein-pb-mnw-pc3084",
+    "model_sha256": "e6d9efe29e9f8b3aef008a9843ed4851c84773cac70471c486df3f63a0cd16ac",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 49,
+    "representative_id": "oppein-pb-mnw-pc3090",
+    "model_sha256": "8d4760dd11c361800b7bf13c4227b794432f2c16213bf4f34abee70691398403",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 50,
+    "representative_id": "oppein-pb-mnw-pc3096",
+    "model_sha256": "453a21442cea5556d7d1e414a3ab03de74e82b3976a712271e5bbddc817e0855",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 51,
+    "representative_id": "oppein-ply-wss-pc2484",
+    "model_sha256": "f604b28c12cc5aa2aa6ccbee43099cd1857e0957a9dbe12b7c7a8217bae8c380",
+    "source_image_sha256": "91355f15c57112ab9561ad59b583bf03a284afec2dc6ae8d59ba05b278f348aa",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 52,
+    "representative_id": "oppein-ply-wss-pc1890",
+    "model_sha256": "243dc91fdefd2db8469f236796cfd845b44998f77351fd1fa3298722065e809a",
+    "source_image_sha256": "6fa2160f675e938dcfbb718c6874c8d67862b611b84cd5e96c88382fa43b9732",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 53,
+    "representative_id": "oppein-ply-mso-pc2496",
+    "model_sha256": "2845ffe083d6ffd8df4fe79f59f2197c322a6ccf5ca15e4d58303fdce46d0ea1",
+    "source_image_sha256": "68d4b7dc5dcf05b7ddf447778cd52621853d381fed2610d2205ba2179f22ec11",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 54,
+    "representative_id": "oppein-ply-wss-pc1896",
+    "model_sha256": "7bbb16cde4e7748df437609dd552a69456d9d88d3a59d29077e98199aca2144e",
+    "source_image_sha256": "e8082da4c7860e49d760991e8e1d0133b6c8d993d8b385115a0eb060e07a8634",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 55,
+    "representative_id": "oppein-pb-pgw-pc1884",
+    "model_sha256": "6b7cc996e452da4e20030cc90abf233e17ebf9611cfa80580137cc01e76ef665",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 56,
+    "representative_id": "oppein-ply-mso-pc3096",
+    "model_sha256": "78959ab64316a361c5e04d8e29b3b971ecbde5a9231671b4ec3c95fc5094da11",
+    "source_image_sha256": "a9aded20bc401e9ec2dfa84f9828d9e429aa932e7ac4c0c7324a69d32d730f69",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently.",
+      "Two-full-door title conflicts with generated four-door split."
+    ]
+  },
+  {
+    "group": 57,
+    "representative_id": "oppein-pb-pgw-sb33",
+    "model_sha256": "44d21795dccbd13411daefdd20d2e27e49a3cd695d0e016f54d5b4aac9c98f70",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved."
+    ]
+  },
+  {
+    "group": 58,
+    "representative_id": "oppein-pb-wss-sb30",
+    "model_sha256": "69dc698a262bd0618c30c2969d2a6d050aa8062783b80ced70955626e9dc0a61",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved."
+    ]
+  },
+  {
+    "group": 59,
+    "representative_id": "oppein-pb-wss-sb36",
+    "model_sha256": "01c5b90faf239460095a0be43be3548adc63f28c805bbddffba6d32c4c769828",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved."
+    ]
+  },
+  {
+    "group": 60,
+    "representative_id": "oppein-pb-wss-sb42",
+    "model_sha256": "2e0c7ab93a8a2edd81fa274d26045dba67a048b8efa313dd97287ca5aca8bf3f",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved."
+    ]
+  },
+  {
+    "group": 61,
+    "representative_id": "oppein-ply-mnw-wbf3630",
+    "model_sha256": "1a6bd8fd9c8c91b5d54a1eff4685950ba4c4df76081999cd04dac20e1ff477a8",
+    "source_image_sha256": "c0af4bc881694f0250dd5d49f39795a272b90ce869cc59b6fad775ee86e92bf1",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 62,
+    "representative_id": "oppein-ply-bss-wbf3030",
+    "model_sha256": "2fe21f4193ef6cf6a23b6a7aa095b05e03431a4753bed83940f3d12849c934b3",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 63,
+    "representative_id": "oppein-ply-mnw-w2142",
+    "model_sha256": "a5f35b801ddb27767b561f7794dbc122d6617247c01c6d99c82c50322cca1f39",
+    "source_image_sha256": "6e403b483fd048358e33ec5268187e5f74d6fe3a67b2a9158a075f4da8776fa4",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 64,
+    "representative_id": "oppein-ply-mso-w1242",
+    "model_sha256": "04da066899b17ed081c2334c21223d7e68102296811ff7069d99d9b189af725e",
+    "source_image_sha256": "6f8ad7cef404c365ed5d4ca93a39d339d9e5375051c59768d59190517cbb19a2",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 65,
+    "representative_id": "oppein-ply-mnw-w1830",
+    "model_sha256": "03bb6f2d369831e2184c07fdfaba2764c51cef1262782dbce0859bf5c2e4daf3",
+    "source_image_sha256": "1c83505d999661b07f32b59f545ccd45ee755cf8a034f86733746149eafe85cc",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 66,
+    "representative_id": "oppein-pb-mnw-w1236",
+    "model_sha256": "9f91ec4efcbba792b4e8392d469211d0b51a7dce56ca465be5384a55a747a727",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass.",
+      "Published width conflicts with size-coded SKU; do not substitute an inferred width."
+    ]
+  },
+  {
+    "group": 67,
+    "representative_id": "oppein-pb-mnw-w1230",
+    "model_sha256": "f73314fe8d1e3b63604250a649160fc16402703c1f7d0d7ca098c3c106e5bbe6",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 68,
+    "representative_id": "oppein-pb-mnw-w1212",
+    "model_sha256": "5fccbfcba9b44f71a5cbcf37c4179d7aab4a91e760d6001419ea0e0d394cb428",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 69,
+    "representative_id": "oppein-pb-mnw-w0942",
+    "model_sha256": "499975d46ed96f4d7d49d1f7084bcbdbf17e2ec2984d9fe95fc24d51cc8a9d65",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 70,
+    "representative_id": "oppein-pb-mnw-w0936",
+    "model_sha256": "00c3fac737c6871b0e93502fb57589d2e11bb7e9e56ef6b74fe8794b7520fba6",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 71,
+    "representative_id": "oppein-pb-mnw-w0930",
+    "model_sha256": "9e4497514665afe5855e595fb7b4ba5b1b574a6267104b2217aedc14c67759f4",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 72,
+    "representative_id": "oppein-ply-mso-w2136",
+    "model_sha256": "749a8d3daf6f70ae28b44d3b49f866d151a96b81b722b1a4d90edc1bf3acdaec",
+    "source_image_sha256": "1fc8142c3bedcc13f727c55de43a1a94bd3c0a3f10f0d25fe0152fa3ed649128",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 73,
+    "representative_id": "oppein-ply-mnw-w1542",
+    "model_sha256": "7e2558403bc856b419d494673a890d8833f22c5ed980fbd7ff0fd7d34a5ddf77",
+    "source_image_sha256": "09c2b581a53980da0ee74eb65df1f4169ad4d9510883f310e0406af9e3566ac0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 74,
+    "representative_id": "oppein-ply-bss-w2130",
+    "model_sha256": "c33dd7d1cc20befbb3e2e325815dd04a79af2eb2600aeb0b337f4e68e49ab767",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 75,
+    "representative_id": "oppein-ply-bss-w1842",
+    "model_sha256": "ceb3b229b27ba9ce2a74d017608fe6df099ebced58a0d3cfd15f49c9de388187",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 76,
+    "representative_id": "oppein-ply-bss-w1836",
+    "model_sha256": "3a33d8cf63a8fe15c3522edd8d125d34e3e130bd8f16392c94155d7128ca0b0f",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 77,
+    "representative_id": "oppein-ply-bss-w1536",
+    "model_sha256": "efd447619fe94a367f95f270f433332258fd5097954f95487591223ee60b0b78",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 78,
+    "representative_id": "oppein-ply-bss-w1530",
+    "model_sha256": "d921da96bdaabd264fb2e00958a8a8fc77e5e9e0ee953ae0b565890787b3542b",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 79,
+    "representative_id": "oppein-pb-mnw-w2112",
+    "model_sha256": "baa85ecead539f47ac1576a2f4c878eaa31515ce985ae4d40f115facea743ae3",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 80,
+    "representative_id": "oppein-pb-mso-w1512",
+    "model_sha256": "3171f2ad528ce19684c6db9f6e58729fdda6279c1e9978f3a90e827f0f101ba0",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 81,
+    "representative_id": "oppein-pb-mso-w1812",
+    "model_sha256": "459315f30b283ecd5cd605850eb4901b0740d53d217abe000a9d68455dc0605e",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 82,
+    "representative_id": "oppein-ply-mnw-w3342",
+    "model_sha256": "1bd2bc3f742c51c3bad1074d16e5edfc794f0cbabee6db082ff0387920a3d1ff",
+    "source_image_sha256": "fbf529463c2b26ecfd7ad562450fc4656d84fe179c147fca6970476b89d1992a",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 83,
+    "representative_id": "oppein-ply-mnw-w3630",
+    "model_sha256": "304a0c294314baaf1a11de6bd05d3f5813ee0389c4bfb2cd427bc6a4c867b706",
+    "source_image_sha256": "be9817c30557b136485d1d646674b87d33748e98eedb4892f6dcd4fc2da57160",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 84,
+    "representative_id": "oppein-ply-mnw-w3636",
+    "model_sha256": "fe60007dd38f3628625c6c349d3d023f46b6e207dca4cfad9e577d8d2654d21d",
+    "source_image_sha256": "53a166b513716c81162e1c94bbe3ececc45caf286df4a05c30ea896e0f8f5bb5",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 85,
+    "representative_id": "oppein-ply-mnw-w3642",
+    "model_sha256": "d5e109d96c18b51a5e00bfc3c8bc854f22dbae82360954237f4a8a29ee7c11e1",
+    "source_image_sha256": "3f1de1c94b26a54228bd2e3c285cf9e2cffed65ad7ab1492211dd3201b5be598",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 86,
+    "representative_id": "oppein-ply-mso-w3336",
+    "model_sha256": "03c107d041f6238b8118769fadb78cdbc0512c189a1d9c503748024e8a7319ed",
+    "source_image_sha256": "2a66f3cb07fd6cbda1359807b243361e7776fded4d889b24ad51b4d41788d180",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 87,
+    "representative_id": "oppein-ply-mso-w3330",
+    "model_sha256": "5558d2446b91d1b0648a9885abf85c20fb0975f2d596adb782ab22f80e5a2523",
+    "source_image_sha256": "1a925e03c35642bb8e295c49fe1ccc2f0ddc4530f9b3db8e41801a5f2a0a4770",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 88,
+    "representative_id": "oppein-ply-mso-w2430",
+    "model_sha256": "369f3f1e55d04626d86f4bfe5143aa2a9281033bbb2145083f60a72d12d7d208",
+    "source_image_sha256": "755e6fe4a7418116c7b852920a318120f445554e6368c07645903196acca5cf6",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 89,
+    "representative_id": "oppein-ply-mnw-w2736",
+    "model_sha256": "e85e1505f61876aa73462791b37d1c21d9b19a19b5da74d10b0aef6686b588db",
+    "source_image_sha256": "6773dcc50461aed19599e308c796c7839b952326c972cde71400df0b5e7f6533",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 90,
+    "representative_id": "oppein-ply-mnw-w2442",
+    "model_sha256": "6c7c7a8c144c7edca00ecb4fedfd22dc9460bd2c32a3ae87d816c4d4cf50d7ee",
+    "source_image_sha256": "9d3535e71c41c3fb60c5de1fc28dcfd4be89b1b30c3efc61bc06507794a91808",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 91,
+    "representative_id": "oppein-ply-mso-w2730",
+    "model_sha256": "3966228f207e7839f0d778ccd7a29011da0ea5772775f2c89f6896bc62cf2806",
+    "source_image_sha256": "44deb144c91ddff2a2c4b8d7b764d463fde9285d091f61da25db22e98cb758ba",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 92,
+    "representative_id": "oppein-ply-mso-w2742",
+    "model_sha256": "3c7c351c5ebb44ce0a58fd1dda53d067b75fd4f2355de83be53694c38ad2df79",
+    "source_image_sha256": "7cfb30ab4c9760d9c4194e75ce0fcd4abdccb262cf9315ee7a15d1919a5b8828",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 93,
+    "representative_id": "oppein-ply-mso-w3042",
+    "model_sha256": "7ddd0019832e03b31d925b120cca2efd4e1681fcb3fea3432b1224f889cae4e0",
+    "source_image_sha256": "69f9197dd6b65dc5830465394df0121f9d6bd7e3965ce156ca604eb49a8f7d6c",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 94,
+    "representative_id": "oppein-ply-mnw-w2436",
+    "model_sha256": "bf89ae32bba869ee8a12f13c4858a7c86e5c90670ea89bf7ca06567f942f6c9a",
+    "source_image_sha256": "e680fecf42eb985482cd037aeb0dc8e0f029ccf931b3e58c49d34437f1bdc8b2",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 95,
+    "representative_id": "oppein-ply-pgw-w3030",
+    "model_sha256": "3a42187e00a44981f9484fc1307084430fad37f7eda2fab43dcf027958101f0c",
+    "source_image_sha256": "06a77b2cb190a7b66fce0bc805cd1c5b11e80a73c457f41355dc0be348070dec",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 96,
+    "representative_id": "oppein-ply-pgw-w3036",
+    "model_sha256": "640e9536a40cf65c17d98a5dc5d02a30c076398aaf6ff1b19fc93719f18777bc",
+    "source_image_sha256": "87faee46152c81f4589a1b93036a6d9360539223dc229777e68329d666ad625c",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 97,
+    "representative_id": "oppein-ply-ssw-w3036",
+    "model_sha256": "6f4fd55ae488f860112c70fd36b44c83a6060011aa8a35fedff3a274a993c52d",
+    "source_image_sha256": "71b94b7a63469338a2b17be9e9a12bb00c691b03b075fa5fab087c3d759afbd8",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Published width conflicts with size-coded SKU; do not substitute an inferred width."
+    ]
+  },
+  {
+    "group": 98,
+    "representative_id": "oppein-ply-pgw-w2421",
+    "model_sha256": "a6dfe176f9ec7f480d43dc00945b0756a486951a7c40a9c0138b29a2f2b16ec8",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved."
+    ]
+  },
+  {
+    "group": 99,
+    "representative_id": "oppein-ply-pgw-w2424",
+    "model_sha256": "d01c03c66a34c4d86925fd9ce9375b1588a0b72ec058fcf0a1d7d6a7084878dd",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved."
+    ]
+  },
+  {
+    "group": 100,
+    "representative_id": "oppein-ply-gss-w2442",
+    "model_sha256": "fbb6ac0bf9339096c66833045e3b185e9a10897948e7e94260bcb9a9f8a142e7",
+    "source_image_sha256": "a8820856392ac67f366f665f0e01a04eb6c23c33a9ce5b30d8188e0ad686f16e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 101,
+    "representative_id": "oppein-ply-gss-w2736",
+    "model_sha256": "2dcb88398c338cb37babfe6497e49f7a2715c12c10c94c53efc2fdae30702573",
+    "source_image_sha256": "fcc8f256bcb7b4a4bdc72f20d27410ec86d5f4ef47a051554e4df647eacbd66f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 102,
+    "representative_id": "oppein-ply-gss-w2430",
+    "model_sha256": "628a64362159fa44c93ccf9ca3b42d1eb1adcab6f830b3f1b2b5bd6bf7440fe6",
+    "source_image_sha256": "9820a527ab575990d86c108e6bb5c2aa9a9c0ef6bd6f323081167902a4e48c6e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 103,
+    "representative_id": "oppein-ply-gss-w2742",
+    "model_sha256": "259c1ab8ee5db737ad41f9a26bfa0294da422802c1cd96dece31c11d0e5734d6",
+    "source_image_sha256": "4b2387c819175922eba687734e0f7e8334a03f56dd26faf46c5601bcf1e2566c",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 104,
+    "representative_id": "oppein-ply-gss-w2730",
+    "model_sha256": "c58bddb884d50cc1e8d13b03f3fb3cc5a3378e0c017c04ca50874ba4e0634b32",
+    "source_image_sha256": "dc6f360a73f8d83841a7c996e763530b730a8b994e84c87d5c9aa7237bcf2974",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 105,
+    "representative_id": "oppein-ply-gss-w2436",
+    "model_sha256": "4c8d06c171f500e865d8ad5a0a0a6b2a46489bbd47a9c33d6ebf002307e5ec82",
+    "source_image_sha256": "d9e9aeaff096e0bb7abbf9bec97f9adfbe29bf1cfdbc561204a1b07cf7247171",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 106,
+    "representative_id": "oppein-ply-mnw-w361524",
+    "model_sha256": "624449f2939eac608f3ef1ce350ee3c9a526bbac49c0b52a967937a067077d96",
+    "source_image_sha256": "2113a4357a273608d0752c7e92a74707f3d9bae5bf79c7e5faa7b27d33ad57d1",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 107,
+    "representative_id": "oppein-ply-mnw-w331224",
+    "model_sha256": "eb05960c388295b91b285c06eded74f0dd13b8963bdaf88478a5b914f6e609b6",
+    "source_image_sha256": "6c18dc07038149f122adee9952e625ec1c974db01e7ddff16f15ab53ab2bb9ad",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 108,
+    "representative_id": "oppein-ply-bss-w301224",
+    "model_sha256": "7d39436027246bbbdea73481efe3cf37d1350a91056e83401f40d9813e508807",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 109,
+    "representative_id": "oppein-ply-wss-w362424",
+    "model_sha256": "8a4816b3c8991cd8276306fe0cab28e208fb9cc324ebe89bef7c747e5fab3f40",
+    "source_image_sha256": "08ddb56c5a1ff83b62421100b0d6bc8b1caba63dfc9dc58ac64a20b48b1298d5",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 110,
+    "representative_id": "oppein-ply-wss-w361824",
+    "model_sha256": "24ab536760e90a52729a62f84fed8e20ec0530b242841dc914843a8e4ffa3aa6",
+    "source_image_sha256": "75db4a03fa8b53e19b20f085d76ac723528fc0d8d8ef208e979f1710d03a6c21",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 111,
+    "representative_id": "oppein-ply-ssw-w301524",
+    "model_sha256": "3c2c3760fa1d7832cd2b62f67b903d098222b3a021a1ca015a627d267d12d3ba",
+    "source_image_sha256": "307617009c8f6d0777b35123a979cc5240db1e6eb38f81599c681810d51e8d48",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 112,
+    "representative_id": "oppein-ply-ssw-w331524",
+    "model_sha256": "d8e83c94776b89c0df74857a36c2d15d675e5b63c1e04ab1c5ce9317835971b2",
+    "source_image_sha256": "1f86fccdb7e94667af4afe66d753c345d23df83538d0ce014f83dbaf53ad7e8b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 113,
+    "representative_id": "oppein-ply-ssw-w361224",
+    "model_sha256": "ccb523f08a67e19629be1f44514874de12186fff677be77f0323ee32023dd23c",
+    "source_image_sha256": "370c38013f4f6da0957ff2a15f117f299083dc5edfbb0f67464020c033f3bff4",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 114,
+    "representative_id": "oppein-ply-bss-w332124",
+    "model_sha256": "17f08ab4cee94e9cc278d21df34136c95a0451fd3aad31e7d11d205e86d8b552",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 115,
+    "representative_id": "oppein-ply-bss-w302424",
+    "model_sha256": "076a909e9556601c3412a7cf245f5813e5eedad00d2badb441df6f0533bea7d3",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 116,
+    "representative_id": "oppein-ply-bss-w302124",
+    "model_sha256": "f5a81508a2050d86efc8e558aa2c72437301e5b5e699a704453e929b05114925",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 117,
+    "representative_id": "oppein-ply-gss-w331824",
+    "model_sha256": "d88bd7b78714a02bd145ab6d2c0e3a796f03de28e54c52762625a147b7f06042",
+    "source_image_sha256": "9d8059115a5182d57ac941054291db1fe732b88348e7bdb80b7462f86094335d",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 118,
+    "representative_id": "oppein-ply-bss-w301824",
+    "model_sha256": "9aef40ea9e51ce633087cfc28bf08e656157e7bd2e0a33ac7937b80442635981",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 119,
+    "representative_id": "oppein-ply-gss-w3336",
+    "model_sha256": "d197c590c931da693c61bf39c16b367e5cd6b4e3b8fcd163b8963a62aad5d544",
+    "source_image_sha256": "492a37eb33c0cd36143f3c4c4a5059af1d7694a9a171952b92833cb947e27c6c",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass.",
+      "Fridge title conflicts with shallow wall-cabinet configuration."
+    ]
+  },
+  {
+    "group": 120,
+    "representative_id": "oppein-ply-pgw-w362124",
+    "model_sha256": "fc037834947e5854d005bda149326e0556c984d94f83f703a394ccf73ea03c8a",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved."
+    ]
+  },
+  {
+    "group": 121,
+    "representative_id": "oppein-pb-gss-w332424",
+    "model_sha256": "92be84beda8e32db1aa1bc26ff307cddead392a0ad804de1c1d404716b5f43eb",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 122,
+    "representative_id": "oppein-ply-gss-w1512",
+    "model_sha256": "7c8508101bd5dcdcb80afd3846971840e4b4bc125b8356cea240a75ed335dab4",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 123,
+    "representative_id": "oppein-ply-gss-w3021",
+    "model_sha256": "56b2b157df5626909683a81dd8eefb40c49536bbc80a04dddfc3722b8c30529e",
+    "source_image_sha256": "bb3124d386804f6eb97326f23f6bb4eaa8ca44a9438339971aa75155c3aae3cb",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 124,
+    "representative_id": "oppein-ply-gss-w3024",
+    "model_sha256": "4e38f2724a1003c7c9e1f5ae491eb802ae68000a899124df143f58907a166fb8",
+    "source_image_sha256": "337680c418968f26ce2ff78e574f1345caed29ceaaf714f83c1020ecf94e0964",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 125,
+    "representative_id": "oppein-ply-gss-w3312",
+    "model_sha256": "22ad9921fd20a0d67079dfd529c65f7b175ec492c3b7d347ecdd4c3fad8e7f83",
+    "source_image_sha256": "09e87620bbae2e8c34b6a070f1ff45fcb2c8c76641f8423bb9e2632da795864b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 126,
+    "representative_id": "oppein-ply-gss-w3018",
+    "model_sha256": "24560d1ed612ff5a0aa4771cd9163542e487913b547fc61596140820223008b0",
+    "source_image_sha256": "56db91ddaa5268b138d8cd7257e40e9bc5842c80fc7f9ee89a273aaee31d8067",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 127,
+    "representative_id": "oppein-ply-gss-w3012",
+    "model_sha256": "d91f4924c0f2ec3fc3ccceca3916a060684093a0dffab85f17a4abbb674bd343",
+    "source_image_sha256": "0d54b4a3b2db600df1910423914818a7b0d05034b7a0fb5180030e211d45af95",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 128,
+    "representative_id": "oppein-ply-gss-w3015",
+    "model_sha256": "e69137d742e62842f0cf0e1cee76be8205babef4657cc2af6a1959d5e13c7c1f",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 129,
+    "representative_id": "oppein-ply-gss-w3612",
+    "model_sha256": "2d4c35b55734114c4613417f9962fbf0ccf7e80599ca228094b0166062bf915f",
+    "source_image_sha256": "8371cdd800b0d71e15c4d489657bdc19e6e855909c2f310a547d50d03afe0e2b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 130,
+    "representative_id": "oppein-ply-gss-w3624",
+    "model_sha256": "37728e5bd965060548f5278809a4dbf0810c12a0b85106617f45d34c02a20f97",
+    "source_image_sha256": "e66e30f72fa668f52e38f870b2814f78c0f87518a4e24b6a0956062a2eb3098b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 131,
+    "representative_id": "oppein-ply-gss-w3615",
+    "model_sha256": "9aaafec7fb43b353307eece12684917465beb8ca8146b5e0e8b7cc702e77dd17",
+    "source_image_sha256": "9ff71d93b4e60bdd711f9f6fe6caea87698f18be9b07270b46aade7b3c691657",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 132,
+    "representative_id": "oppein-pb-gss-w2412",
+    "model_sha256": "e936b44bdf75a300388d0a4591c7e36c96fd9ecfc4d30e4ac5897b19d819a5d2",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 133,
+    "representative_id": "oppein-pb-gss-w2415",
+    "model_sha256": "3b39a8fd506a53f646f1667bc955d1ac05acdd75fef9b3c0f4d2a5b5da7e6dbb",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 134,
+    "representative_id": "oppein-pb-gss-w2418",
+    "model_sha256": "af857d4c83aa6399427e013f2197223b1ec263dab61e26fef9de72cad286c0ff",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 135,
+    "representative_id": "oppein-pb-gss-w2421",
+    "model_sha256": "e0971a9187d20d360e96c721cea494d7ca72ed659e7e6c59f648a7d5c094b16b",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 136,
+    "representative_id": "oppein-pb-gss-w2424",
+    "model_sha256": "c713497dec59cfd75cdb3b742b7dfd9725ab9d8c1b427f09647c17dd932f9559",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 137,
+    "representative_id": "oppein-pb-gss-w2430",
+    "model_sha256": "6445662e815415a547f4a1ac69ce108f423f675149aa7cb31efcca4c2c63122b",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 138,
+    "representative_id": "oppein-pb-gss-w2436",
+    "model_sha256": "3f84a6dc3649e3612c44b390e9fa1c754a17a1f7b2df454a8b80a00348370d8f",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 139,
+    "representative_id": "oppein-pb-gss-w2442",
+    "model_sha256": "e1bbd17a0dffbaf8176055bba52130b1215a81ea36affa6681b5f1f904b104dc",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 140,
+    "representative_id": "oppein-pb-gss-w2712",
+    "model_sha256": "8e40f9ffe4b6eb728fb6a637c6680f7ba5079b10d28bfbb64b443123ee7af7ff",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 141,
+    "representative_id": "oppein-ply-gss-w3318",
+    "model_sha256": "3ec3d0c25d14905597cca8d16e0aecb4b996f91bec66b63be31255891126496b",
+    "source_image_sha256": "26c879560ec74d17b3b58f72b78485b3b90e2059f5df8039cc6c2276384775be",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 142,
+    "representative_id": "oppein-pb-gss-w3315",
+    "model_sha256": "d2bd832d613d566aae069a844b93b787cd403fbe6f728c33023bd259a4ce95b2",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 143,
+    "representative_id": "oppein-pb-gss-w3321",
+    "model_sha256": "9cebaf8e63227aaa57610f1e20a576db41c6ba5ebabc29d5ca517125e98c9044",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 144,
+    "representative_id": "oppein-pb-gss-w3324",
+    "model_sha256": "f6eaf84f7233843f1e9cdf86f409ec55856eadfd1dba2bfb5abdb4588293cea6",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 145,
+    "representative_id": "oppein-pb-gss-w3618",
+    "model_sha256": "6dfe5cccb0570400c2a72edf23eb66e793e3368242b9375935f1183bd49060f2",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 146,
+    "representative_id": "oppein-pb-gss-w3621",
+    "model_sha256": "1c4bcf47b2ee23d10bdd6144da80ef22e6dbd77abd684cfcaf6e0b93ebda6600",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 147,
+    "representative_id": "oppein-ply-wss-w1212",
+    "model_sha256": "fff887ed202869c7f85fe97cebb46df0471048fe458bbd2e095f4dc2c4c86747",
+    "source_image_sha256": "bc52f7c520de2d733a9124baf352b9cc2f5ddad486f29bb2ff1724d04a20029e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 148,
+    "representative_id": "oppein-ply-wss-w1812",
+    "model_sha256": "9ca665a2d5f50eddc913192d0a13b5372850f0fa0c97a837a2cab19dce5d9d9a",
+    "source_image_sha256": "1feb77ba7c744409b2ee26670e245a082b158dfb5696730b454a4682c6a06bc9",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 149,
+    "representative_id": "oppein-ply-mnw-w2112",
+    "model_sha256": "fd245b7ea734ca216fb5fb85b881a0057311daf103a12bf6f1fd2bb9d9907c0c",
+    "source_image_sha256": "3d1d48b6238cd8a8f35c75fa71cd6c711df2f03d4a62da4a8a65152f42e08ad0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 150,
+    "representative_id": "oppein-ply-pgw-w1542",
+    "model_sha256": "68b2a49f30329f4d5b38b4ac74e5f020d67acc09dccecf9c5c36f0e39af90700",
+    "source_image_sha256": "6b30c21ab1210cec4c67fc7cf98f99903201bd2a627b2361978c3c59958bda65",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 151,
+    "representative_id": "oppein-ply-ssw-wsl3015",
+    "model_sha256": "7c8a2acaf80b7bc33a1309bde547cd6701b65e73d6bbad165ecdc2fc0a9f36e1",
+    "source_image_sha256": "c7be2505bbe4607f95ee501da82f5adbeff5fab146fff638f7a625d83ebb9a9e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "SSW product references artwork labelled WSS; slim profile not independently established."
+    ]
+  },
+  {
+    "group": 152,
+    "representative_id": "oppein-ply-bss-wsl3018",
+    "model_sha256": "6abf8662b9784f523fb9508c3794f093ed1a1cacb9a454ae689961133c59a611",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 153,
+    "representative_id": "oppein-ply-bss-wsl3615",
+    "model_sha256": "4d862e519db2c5ee6c8df2387923efebf5723aaea89a23b668edb2786e314c3c",
+    "source_image_sha256": "efc2fd772e31c470f1696be93219390b07c1830461fd73aa7014bdabaf960871",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": false,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Supplier image is a placeholder; no source-photo configuration or finish match can be approved.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 154,
+    "representative_id": "oppein-ply-mso-wsl3618",
+    "model_sha256": "ab0a3f599ba3369a585d651909a003021e7a2a018785b37025cf3920a070fd95",
+    "source_image_sha256": "b6dd76f0931c0f255177108ceff69c933e6ec65c53d08e971a329faea200979e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Model applies door finish to cabinet sides; available OPPEIN illustrations use a white carcass."
+    ]
+  },
+  {
+    "group": 155,
+    "representative_id": "bvc-4627",
+    "model_sha256": "ae8b994377010cf3747b298e1e25044849d6b3f2ec968bcb4bb4369dd1a6ff1f",
+    "source_image_sha256": "20427f456495a4e5869560e3d237a5392892c1376097077e3775135a5321456a",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 156,
+    "representative_id": "bvc-3871",
+    "model_sha256": "73ef5b168e8d00cb8223facd50bfe9b249f492b18f5a720cd118a8d967d168cc",
+    "source_image_sha256": "aa8a527642bb375cc05c943bf6e3581132905546c8da8968ab63d9ade823cd05",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 157,
+    "representative_id": "bvc-2402",
+    "model_sha256": "70212cc5a886ce661c4dc2afedb62d5c7119c413e85ba28ccfe74bbda739a714",
+    "source_image_sha256": "c9db04ff0ae785e90e75f933f250ca6da2a845ca644b42665cdd178713f8d751",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Specified pull-out insert is missing from the modeled generic interior."
+    ]
+  },
+  {
+    "group": 158,
+    "representative_id": "bvc-2378",
+    "model_sha256": "fbc23218e37038fab658b8490908bade7e436c7e20359a0c4fcefcf54ec1cacd",
+    "source_image_sha256": "ceda9d68e58a81fde61d21e02238a6e9e4c797e62c4096f6dff23f054353a07e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Specified pull-out insert is missing from the modeled generic interior."
+    ]
+  },
+  {
+    "group": 159,
+    "representative_id": "bvc-2374",
+    "model_sha256": "c4b883b80216bd9af909a49224c681f9175dc9450cb9ba7aad19f750ca410b79",
+    "source_image_sha256": "ceda9d68e58a81fde61d21e02238a6e9e4c797e62c4096f6dff23f054353a07e",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Specified pull-out insert is missing from the modeled generic interior."
+    ]
+  },
+  {
+    "group": 160,
+    "representative_id": "bvc-2296",
+    "model_sha256": "89fb5c38383ef8ba4c87853d046024dc5acec224ca4acb77fc69b7695e7d26b4",
+    "source_image_sha256": "49e1ffe05164897cba9a63656995b98dec678461b805ffa7bff820568a36e3e8",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Remove generic shelf from full-height sink base before reuse for sink placement."
+    ]
+  },
+  {
+    "group": 161,
+    "representative_id": "bvc-2292",
+    "model_sha256": "ee3dd85ce9a8a26928d2ca79c4fce04a8c7acd05c4a0b5e2f87955f403a05b31",
+    "source_image_sha256": "49e1ffe05164897cba9a63656995b98dec678461b805ffa7bff820568a36e3e8",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Remove generic shelf from full-height sink base before reuse for sink placement."
+    ]
+  },
+  {
+    "group": 162,
+    "representative_id": "bvc-2288",
+    "model_sha256": "6b995ecdadc9ce95e09c4cfbb9b4e46063809bb3b0d6a2d5c94ed018cd0d4d0f",
+    "source_image_sha256": "49e1ffe05164897cba9a63656995b98dec678461b805ffa7bff820568a36e3e8",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Remove generic shelf from full-height sink base before reuse for sink placement."
+    ]
+  },
+  {
+    "group": 163,
+    "representative_id": "bvc-2209",
+    "model_sha256": "d3a49da1008a7f3ec4ab5edafbbfeccaaf82441fa9d666ec858ead1759087bfd",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 164,
+    "representative_id": "bvc-2205",
+    "model_sha256": "b231ec7b195d02b01aaf2f0e8b6accbda789d2a1ade0ef1a09b290714facfe1d",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 165,
+    "representative_id": "bvc-2201",
+    "model_sha256": "452b6a12926f2d7e90b89ec01277d8334ebdaf5111a86f52ef45e9a990ecdc92",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 166,
+    "representative_id": "bvc-2197",
+    "model_sha256": "694ef65e728c1db75b2f6800f7d1aeed19ea4459b3ea601d453a724126860970",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 167,
+    "representative_id": "bvc-2193",
+    "model_sha256": "6828f253e811d5d57286fc971994dd1af55b4e6dc4752037fb863dfb4c2c5f67",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 168,
+    "representative_id": "bvc-2189",
+    "model_sha256": "dce96424bbf58a323ab15bc2df326481d383310e9c4121ab429adb3b9b67174c",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 169,
+    "representative_id": "bvc-2185",
+    "model_sha256": "facb0915426223fa73416aa696bdeec1b0716ea75a37098e0f13249f5a10c045",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 170,
+    "representative_id": "bvc-2181",
+    "model_sha256": "6f8f2ffcc7bcc14d6ab3cfc2aa7157d9123a00cd60004e8524aee3218d871ff8",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 171,
+    "representative_id": "bvc-2177",
+    "model_sha256": "90282d1cd6f238d58b69f926e344434592ee1c5ab195c07da8b3b5adcd7e056b",
+    "source_image_sha256": "9040b1db57d138b9e628346c7758ad0427f6a106184c687e1ab7cdfe6ec0fc93",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 172,
+    "representative_id": "bvc-2161",
+    "model_sha256": "2f40d80a35141f5f787397012a04a9631fd428f81bf36f6a031345916a6c6590",
+    "source_image_sha256": "aa8a527642bb375cc05c943bf6e3581132905546c8da8968ab63d9ade823cd05",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 173,
+    "representative_id": "bvc-2157",
+    "model_sha256": "6383140838380b012dd3c9330447a175c400964ff614715fceb46417bfd17afa",
+    "source_image_sha256": "aa8a527642bb375cc05c943bf6e3581132905546c8da8968ab63d9ade823cd05",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 174,
+    "representative_id": "bvc-2153",
+    "model_sha256": "fcd5fe4a06c6a78c4d04a524efc9d5fd1da0144e6df4c6d9e6f50fa3cef8db24",
+    "source_image_sha256": "aa8a527642bb375cc05c943bf6e3581132905546c8da8968ab63d9ade823cd05",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 175,
+    "representative_id": "bvc-2149",
+    "model_sha256": "8bdd21a96d951a576d83ae6912d370f14a782b89905b472de29c5055ab24e921",
+    "source_image_sha256": "1505105da410abdaca9543123f0f00f07d5f4f1d0154526d10904d83437f80ed",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 176,
+    "representative_id": "bvc-2145",
+    "model_sha256": "64f1c13bb13d19a7ddfb361b112f61b0de66f32cfe620e659c3acf22ea3816df",
+    "source_image_sha256": "1505105da410abdaca9543123f0f00f07d5f4f1d0154526d10904d83437f80ed",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 177,
+    "representative_id": "bvc-2099",
+    "model_sha256": "d31f2c5be3f4b8c9fc182adb03e5212cff647b91ae8d71a31be411b04deed0a9",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 178,
+    "representative_id": "bvc-2095",
+    "model_sha256": "f3b797bd377242796c3d4593fa441cdb05bc5fb63ee5f19141fd9c17feb81b9a",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 179,
+    "representative_id": "bvc-2091",
+    "model_sha256": "1dd45e6b5086699f58b5e260c4064cb6c2b94c7b4d412f7fd250725f01004bad",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 180,
+    "representative_id": "bvc-2081",
+    "model_sha256": "1a8a266dd2e96113bf15e42bffe8db7c6a735d5408c09d98b2f4bace81a223f1",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 181,
+    "representative_id": "bvc-2077",
+    "model_sha256": "5a81ef4fe5e1665cae01f6736449c8dce046f173de71e3f50e484d7b6d5b0b64",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 182,
+    "representative_id": "bvc-2073",
+    "model_sha256": "498a300a43df5b52e11dbcd4d51962f85562553d1356884d321191b00fcf4d87",
+    "source_image_sha256": "58c5f285b2ebbd982715de375063e810986f5de9c35feb3d49db012367414906",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 183,
+    "representative_id": "bvc-2067",
+    "model_sha256": "1631ae26e3699ecc63de3b78297d709948e6d7f921834850b1494f2582a8763f",
+    "source_image_sha256": "13238b727b591adc685a755c6625545b3e7b6db0126c353b379ef35658776528",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 184,
+    "representative_id": "bvc-2063",
+    "model_sha256": "860d1da928a69cf2ec9207a897ff8cc0e6571c12eeca119de2aebc05a96e22f8",
+    "source_image_sha256": "13238b727b591adc685a755c6625545b3e7b6db0126c353b379ef35658776528",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 185,
+    "representative_id": "bvc-2057",
+    "model_sha256": "1ddd73f4bc69247ed4035a371d66852fc3caad423b0e5b87433566c765f93c1d",
+    "source_image_sha256": "13238b727b591adc685a755c6625545b3e7b6db0126c353b379ef35658776528",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 186,
+    "representative_id": "bvc-2053",
+    "model_sha256": "56f1b53512b7320ccf2fbaba4a50052da196a5004f9982903bf3ab3c5737ad09",
+    "source_image_sha256": "13238b727b591adc685a755c6625545b3e7b6db0126c353b379ef35658776528",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation.",
+      "Re-inspected with uncropped render. Generic door-height split lacks a supplier schedule and does not match source proportions sufficiently."
+    ]
+  },
+  {
+    "group": 187,
+    "representative_id": "bvc-1833",
+    "model_sha256": "8c5a6512d9dbbe7f257a9dbfa998bfb7f8ccb21d0cc150306773d307e1946e8e",
+    "source_image_sha256": "287915747c83cc02c6460e4446c6a6be3a7b9a896113951406962f3710d28352",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 188,
+    "representative_id": "bvc-1829",
+    "model_sha256": "00590a0a8c535f6c80d47cd244d50003b4c94beaaa058fbf980b7a21626f7d6e",
+    "source_image_sha256": "287915747c83cc02c6460e4446c6a6be3a7b9a896113951406962f3710d28352",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 189,
+    "representative_id": "bvc-1825",
+    "model_sha256": "f764813dca681dcf888d1fe823009205b132570ca9ea448a1b87c5ed13e28dbd",
+    "source_image_sha256": "287915747c83cc02c6460e4446c6a6be3a7b9a896113951406962f3710d28352",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 190,
+    "representative_id": "bvc-1821",
+    "model_sha256": "3a69e04f3aa39a25a46c195d483f533e1f163d301aabbfbd68cc9988df199cad",
+    "source_image_sha256": "287915747c83cc02c6460e4446c6a6be3a7b9a896113951406962f3710d28352",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 191,
+    "representative_id": "bvc-1817",
+    "model_sha256": "8064c063c8b43efcc40e93928b6897ae6c2440df3db64d20054a163efe67425a",
+    "source_image_sha256": "287915747c83cc02c6460e4446c6a6be3a7b9a896113951406962f3710d28352",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 192,
+    "representative_id": "bvc-1806",
+    "model_sha256": "8c41acb204d463678b0bc3f58ef964ff730f74dacce9b39d5c04ffaf29e17c0f",
+    "source_image_sha256": "ea3d8ac67998c9b3eb27bf10cd838ce100bd7216c471246687eac2ab65f9c882",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 193,
+    "representative_id": "bvc-1802",
+    "model_sha256": "bda8ccfadb782124c9c1d5ba09bb4587abf237e90071642b43806373282014a2",
+    "source_image_sha256": "ea3d8ac67998c9b3eb27bf10cd838ce100bd7216c471246687eac2ab65f9c882",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 194,
+    "representative_id": "bvc-1798",
+    "model_sha256": "20524901f145bea6e703021db53ca1976f110aa823f23a21010f466c2b177ff7",
+    "source_image_sha256": "ea3d8ac67998c9b3eb27bf10cd838ce100bd7216c471246687eac2ab65f9c882",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 195,
+    "representative_id": "bvc-1794",
+    "model_sha256": "f076d88d30ca68e724fc7d54eebf703ad78b8df48fa436d6bae3529015869768",
+    "source_image_sha256": "ea3d8ac67998c9b3eb27bf10cd838ce100bd7216c471246687eac2ab65f9c882",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 196,
+    "representative_id": "bvc-1369",
+    "model_sha256": "cf53b0c5122be718354d84ba0e5104d30127aa7e758922286151724293625604",
+    "source_image_sha256": "1880b6cf4549fb2bf7012437fb6aa95430c35b5bc93f716f49e14ec172b662b0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 197,
+    "representative_id": "bvc-1365",
+    "model_sha256": "4ca5c01ea0850c596bef37bf093e9728a05d79544b73b65502fb1eb6b66e2dc5",
+    "source_image_sha256": "1880b6cf4549fb2bf7012437fb6aa95430c35b5bc93f716f49e14ec172b662b0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 198,
+    "representative_id": "bvc-1361",
+    "model_sha256": "e6c9cfc7f477046dc5f02115e79180cc3aa8c78a3262abaa516fb57b70c86cc9",
+    "source_image_sha256": "1880b6cf4549fb2bf7012437fb6aa95430c35b5bc93f716f49e14ec172b662b0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 199,
+    "representative_id": "bvc-1357",
+    "model_sha256": "7c1d7bfa031ca1d9923e82b87d4f5084d0e6ee8642bd16545d3c6d418e74016e",
+    "source_image_sha256": "1880b6cf4549fb2bf7012437fb6aa95430c35b5bc93f716f49e14ec172b662b0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 200,
+    "representative_id": "bvc-1353",
+    "model_sha256": "bb22e0bafcf9accb711dc306a5262c3b08612a8bbc0702addd46cd979cef9b9e",
+    "source_image_sha256": "1880b6cf4549fb2bf7012437fb6aa95430c35b5bc93f716f49e14ec172b662b0",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 201,
+    "representative_id": "bvc-1321",
+    "model_sha256": "c124c0591eeeb2d1a03763eb33e53cebeff5577a403d091e11f247875cc10a42",
+    "source_image_sha256": "4b4bf34b76666c63a1f662168a2fdabdeaefa5eeacc0a171b62e6bf14bef1b7f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 202,
+    "representative_id": "bvc-1320",
+    "model_sha256": "b483a3e8b70e78fe7c9deccb316f3179f9d3ce04b2fab0531b3677f61b76d16b",
+    "source_image_sha256": "4b4bf34b76666c63a1f662168a2fdabdeaefa5eeacc0a171b62e6bf14bef1b7f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 203,
+    "representative_id": "bvc-1319",
+    "model_sha256": "2c404531acbcc9731354682f49671a7f4a147f2ce4014dd81ed2b58cff57b6c4",
+    "source_image_sha256": "4b4bf34b76666c63a1f662168a2fdabdeaefa5eeacc0a171b62e6bf14bef1b7f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 204,
+    "representative_id": "bvc-1318",
+    "model_sha256": "806f6de9986086815956008a1caebe4d3801c84a77a9439e3540c181375a4846",
+    "source_image_sha256": "4b4bf34b76666c63a1f662168a2fdabdeaefa5eeacc0a171b62e6bf14bef1b7f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 205,
+    "representative_id": "bvc-1317",
+    "model_sha256": "977ea9b58c82729df47940e8d1c85e1f7a38bc5479613c76266057800993f4f6",
+    "source_image_sha256": "4b4bf34b76666c63a1f662168a2fdabdeaefa5eeacc0a171b62e6bf14bef1b7f",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 206,
+    "representative_id": "bvc-1198",
+    "model_sha256": "0d084459c9fbdcbb7c019d39722ec88deef34d7a9475528f3a01ecf8e9f20685",
+    "source_image_sha256": "291ba7d1b695f0ccd10a7797cca20350216845fdc36808ccd1325e8f74fca79b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 207,
+    "representative_id": "bvc-1197",
+    "model_sha256": "0069a9900589e1ee9fd5c8eb1198939d4345508aee9e6fffe64de1f458ddcc24",
+    "source_image_sha256": "291ba7d1b695f0ccd10a7797cca20350216845fdc36808ccd1325e8f74fca79b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 208,
+    "representative_id": "bvc-1196",
+    "model_sha256": "7d57afe0299277c2a4ea984832c3d656e03e596c549d7288818c8fee609c1c4e",
+    "source_image_sha256": "291ba7d1b695f0ccd10a7797cca20350216845fdc36808ccd1325e8f74fca79b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 209,
+    "representative_id": "bvc-1195",
+    "model_sha256": "f17e0075db38d32fb314bde97bf64a23d8794eaaceaf32edbb40ba18df3b608c",
+    "source_image_sha256": "291ba7d1b695f0ccd10a7797cca20350216845fdc36808ccd1325e8f74fca79b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  },
+  {
+    "group": 210,
+    "representative_id": "bvc-1194",
+    "model_sha256": "97d732fbb5f8318a61df0082199f34e162b4e61d9fe69921c204a77b0ce3b270",
+    "source_image_sha256": "291ba7d1b695f0ccd10a7797cca20350216845fdc36808ccd1325e8f74fca79b",
+    "agent_visual_inspection": true,
+    "source_comparison_possible": true,
+    "publication_approved": false,
+    "notes": [
+      "Inspected the source/render comparison. This inspection covers the displayed representative only; grouped variants require their own finish confirmation."
+    ]
+  }
+]

@@ -1,3 +1,4 @@
+import ProductModelViewer from "../components/product-model-viewer"
 import { HttpTypes } from "@medusajs/types"
 import ImageGallery from "@/modules/products/components/image-gallery"
 import ProductActions from "@/modules/products/components/product-actions"
@@ -42,6 +43,7 @@ const ProductTemplate: React.FC<ProductTemplateProps> = ({
           <ProductFacts product={product} />
         </div>
       </div>
+      <ProductModelViewer product={product} />
       <div className="content-container">
         <ProductTabs product={product} />
       </div>

@@ -54,3 +54,15 @@ Do not reuse them blindly after collecting a changed/reordered collection. Recon
 stable Shopify product IDs against `source/families.json`, preserve/rebuild the family map,
 and review new or changed specifications before generating or publishing replacements.
 Existing deployed GLBs remain independent of subsequent supplier website changes.
+
+## Knob revision 2
+
+The first knob release used generic profile families. Customer feedback identified clear
+silhouette mismatches despite passing envelope checks. `knobs_v2.py` replaces all 37 knob
+finishes with 15 individual photo-derived profiles. Versioned `-v2.glb` paths avoid stale
+browser assets. Old files remain for existing links. Dimension checks do not establish
+visual fidelity; compare the actual profile and supplier photograph separately.
+
+`update-eurofit-hardware-v2.ts` renames the public category to Hardware (stable URL retained),
+removes Cabinet from all supplier titles, and updates only the 37 knob assets. It preserves
+unrelated metadata and requires exact prior or new hashes before any write.

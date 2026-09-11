@@ -5933,7 +5933,7 @@
       25.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 57140
+    "bytes": 132408
   },
   {
     "id": "eurofit-k-179bk",
@@ -5949,7 +5949,7 @@
       25.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 57172
+    "bytes": 132440
   },
   {
     "id": "eurofit-k-179bss",
@@ -5965,7 +5965,7 @@
       25.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 57144
+    "bytes": 132412
   },
   {
     "id": "eurofit-k-264bk",
@@ -5981,7 +5981,7 @@
       22.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 51464
+    "bytes": 57292
   },
   {
     "id": "eurofit-k-264bss",
@@ -5997,7 +5997,7 @@
       22.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 51432
+    "bytes": 57260
   },
   {
     "id": "eurofit-k-264cp",
@@ -6013,7 +6013,7 @@
       22.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 51412
+    "bytes": 57236
   },
   {
     "id": "eurofit-k-323aih",
@@ -6029,7 +6029,7 @@
       27.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 96968
+    "bytes": 98972
   },
   {
     "id": "eurofit-k-323orb",
@@ -6045,7 +6045,7 @@
       27.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 97004
+    "bytes": 99008
   },
   {
     "id": "eurofit-k-360ai",
@@ -6061,7 +6061,7 @@
       23.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 96936
+    "bytes": 97780
   },
   {
     "id": "eurofit-k-360as",
@@ -6077,7 +6077,7 @@
       23.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 96976
+    "bytes": 97780
   },
   {
     "id": "eurofit-k-360bk",
@@ -6093,7 +6093,7 @@
       23.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 96968
+    "bytes": 97812
   },
   {
     "id": "eurofit-k-360bss",
@@ -6109,7 +6109,7 @@
       23.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 96936
+    "bytes": 97780
   },
   {
     "id": "eurofit-k-388bss",
@@ -6125,7 +6125,7 @@
       24.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 121484
+    "bytes": 58536
   },
   {
     "id": "eurofit-k-388cp",
@@ -6141,7 +6141,7 @@
       24.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 121460
+    "bytes": 58512
   },
   {
     "id": "eurofit-k-417bk",
@@ -6157,7 +6157,7 @@
       18.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 72124
+    "bytes": 79348
   },
   {
     "id": "eurofit-k-417sb",
@@ -6173,7 +6173,7 @@
       18.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 72088
+    "bytes": 79312
   },
   {
     "id": "eurofit-k-417bss",
@@ -6189,7 +6189,7 @@
       18.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 72092
+    "bytes": 79316
   },
   {
     "id": "eurofit-k-417cp",
@@ -6205,7 +6205,7 @@
       18.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 72068
+    "bytes": 79296
   },
   {
     "id": "eurofit-k-420bss",
@@ -6221,7 +6221,7 @@
       28.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 49576
+    "bytes": 57260
   },
   {
     "id": "eurofit-k-420cp",
@@ -6237,7 +6237,7 @@
       28.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 49552
+    "bytes": 57236
   },
   {
     "id": "eurofit-k-420bk",
@@ -6253,7 +6253,7 @@
       28.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 49608
+    "bytes": 57292
   },
   {
     "id": "eurofit-k-61368bss",
@@ -6269,7 +6269,7 @@
       26.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 32968
+    "bytes": 83956
   },
   {
     "id": "eurofit-k-61368mbc",
@@ -6285,7 +6285,7 @@
       26.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 33012
+    "bytes": 83960
   },
   {
     "id": "eurofit-k-61709bss",
@@ -6301,7 +6301,7 @@
       28.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 51244
+    "bytes": 56264
   },
   {
     "id": "eurofit-k-61709sb",
@@ -6317,7 +6317,7 @@
       28.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 51240
+    "bytes": 56260
   },
   {
     "id": "eurofit-k-61711bss",
@@ -6325,15 +6325,15 @@
     "envelope_mm": [
       35.0,
       20.0,
-      27.0
+      27.03
     ],
     "expected_mm": [
       35.0,
       20.0,
       27.0
     ],
-    "max_error_mm": 0.0,
-    "bytes": 70832
+    "max_error_mm": 0.03,
+    "bytes": 48840
   },
   {
     "id": "eurofit-k-61711sb",
@@ -6341,15 +6341,15 @@
     "envelope_mm": [
       35.0,
       20.0,
-      27.0
+      27.03
     ],
     "expected_mm": [
       35.0,
       20.0,
       27.0
     ],
-    "max_error_mm": 0.0,
-    "bytes": 70828
+    "max_error_mm": 0.03,
+    "bytes": 48840
   },
   {
     "id": "eurofit-k-62217bss",
@@ -6365,7 +6365,7 @@
       29.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 73084
+    "bytes": 60852
   },
   {
     "id": "eurofit-k-62217rg",
@@ -6381,7 +6381,7 @@
       29.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 73120
+    "bytes": 60848
   },
   {
     "id": "eurofit-k-62231rg",
@@ -6397,7 +6397,7 @@
       32.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 75816
+    "bytes": 93128
   },
   {
     "id": "eurofit-k-62301borb",
@@ -6413,7 +6413,7 @@
       30.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 50248
+    "bytes": 114008
   },
   {
     "id": "eurofit-k-62301bss",
@@ -6429,7 +6429,7 @@
       30.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 50208
+    "bytes": 113968
   },
   {
     "id": "eurofit-k-62301rg",
@@ -6445,7 +6445,7 @@
       30.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 50244
+    "bytes": 113968
   },
   {
     "id": "eurofit-k-62343bss",
@@ -6461,7 +6461,7 @@
       33.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 50200
+    "bytes": 132392
   },
   {
     "id": "eurofit-k-62343rg",
@@ -6477,7 +6477,7 @@
       33.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 50236
+    "bytes": 132392
   },
   {
     "id": "eurofit-k-62861bss",
@@ -6493,7 +6493,7 @@
       29.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 72980
+    "bytes": 72492
   },
   {
     "id": "eurofit-k-62861rg",
@@ -6509,6 +6509,6 @@
       29.0
     ],
     "max_error_mm": 0.0,
-    "bytes": 73016
+    "bytes": 72488
   }
 ]

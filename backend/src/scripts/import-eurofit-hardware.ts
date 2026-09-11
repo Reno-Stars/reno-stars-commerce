@@ -49,20 +49,20 @@ export default async function importEurofitHardware({ container }: ExecArgs) {
     else if(!c.is_active||c.is_internal)c=await products.updateProductCategories(c.id,{is_active:true,is_internal:false})
     return c.id
   }
-  const root=await category("Cabinet Hardware","cabinet-hardware")
+  const root=await category("Hardware","cabinet-hardware")
   const brand=await category("Eurofit","cabinet-hardware-eurofit",root)
   const categories=new Map<string,string>()
   for(const type of new Set(pending.map(p=>p.type)))categories.set(type,await category(type,"eurofit-"+type.toLowerCase().replace(/ /g,"-"),brand))
   for(const p of pending){
     const d=p.dimensions_mm,size=`${d.length} × ${d.width} × ${d.projection} mm`
-    const name=`Eurofit ${p.supplier_sku} ${p.type === "Knobs" ? "Cabinet Knob" : "Cabinet Handle"}`
+    const name=`Eurofit ${p.supplier_sku} ${p.type === "Knobs" ? "Knob" : "Handle"}`
     const image=p.supplier_image_url.startsWith("https://")?p.supplier_image_url:undefined
     await createProductsWorkflow(container).run({input:{products:[{
       title:`${name} — ${p.finish}`,handle:p.id,status:ProductStatus.PUBLISHED,
       description:`Eurofit Canada ${p.type.toLowerCase()}. ${p.finish}. Overall length ${d.length} mm, width ${d.width} mm, projection ${d.projection} mm.${p.mounting_centres_mm?` Mounting centres: ${p.mounting_centres_mm} mm.`:" Single mounting point."} ${p.model_limitations} Contact Reno Stars for pricing and availability.`,
       category_ids:[categories.get(p.type)!],sales_channels:[{id:channel.id}],thumbnail:image,images:image?[{url:image}]:[],
       options:[{title:"Size",values:[size]}],variants:[{title:size,sku:p.supplier_sku,options:{Size:size},manage_inventory:false,prices:[]}],
-      metadata:{brand:"Eurofit Canada",supplier_sku:p.supplier_sku,source_url:p.source_url,source_checked:p.source_checked,finish:p.finish,hardware_type:p.type,model_url:origin+p.model_url,model_family:"hardware",width_mm:d.length,height_mm:d.width,depth_mm:d.projection,mounting_centres_mm:p.mounting_centres_mm||0,pricing_mode:"quote_only",dimension_basis:"supplier_published",model_version:1,model_sha256:p.sha256,model_profile:p.model_profile,model_limitations:p.model_limitations,review_status:"published_dimensions_visual_approximation"}
+      metadata:{brand:"Eurofit Canada",supplier_sku:p.supplier_sku,source_url:p.source_url,source_checked:p.source_checked,finish:p.finish,hardware_type:p.type,model_url:origin+p.model_url,model_family:"hardware",width_mm:d.length,height_mm:d.width,depth_mm:d.projection,mounting_centres_mm:p.mounting_centres_mm||0,pricing_mode:"quote_only",dimension_basis:"supplier_published",model_version:p.type === "Knobs" ? 2 : 1,model_sha256:p.sha256,model_profile:p.model_profile,model_limitations:p.model_limitations,review_status:"published_dimensions_visual_approximation"}
     }]}})
     logger.info(`Created ${p.id}`)
   }

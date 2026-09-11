@@ -1,0 +1,21 @@
+{
+  "commit": "db6365d27d164595fa5b3f9010e7b0059803b426",
+  "models": 407,
+  "handles": 370,
+  "knobs": 37,
+  "families_with_models": 89,
+  "held_options": 374,
+  "glb_envelopes": "pass",
+  "mounting_anchors": "pass",
+  "import_preflight_and_idempotence": "pass",
+  "backend_typecheck": "pass",
+  "native_viewer": {
+    "errors": [],
+    "hardware": true,
+    "cabinet_regression": true,
+    "preferences": true,
+    "download": true,
+    "mobile": true
+  },
+  "storefront_typecheck": "Existing unrelated cart/icon type errors; no errors in changed files. Native Next.js compilation passed."
+}

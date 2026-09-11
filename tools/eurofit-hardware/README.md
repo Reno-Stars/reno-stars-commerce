@@ -46,3 +46,11 @@ identities, existing products and exact deployed GLB bytes before any write. Set
 `EUROFIT_APPLY=1` only when deployed assets and visual review are ready. The import uses
 Cabinet Hardware → Eurofit → Handles / Knobs, the Default Sales Channel, published
 status, and quote-only pricing. A rerun skips exact matching records and rejects conflicts.
+
+## Refreshing the supplier snapshot
+
+The family-index review/profile maps belong to this frozen 2026-09-11 collection ordering.
+Do not reuse them blindly after collecting a changed/reordered collection. Reconcile the
+stable Shopify product IDs against `source/families.json`, preserve/rebuild the family map,
+and review new or changed specifications before generating or publishing replacements.
+Existing deployed GLBs remain independent of subsequent supplier website changes.

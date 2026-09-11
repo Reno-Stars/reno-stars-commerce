@@ -1,0 +1,174 @@
+{
+  "apiVersion": "v1",
+  "kind": "List",
+  "items": [
+    {
+      "apiVersion": "v1",
+      "kind": "ConfigMap",
+      "metadata": {
+        "name": "supply-cabinet-publication-v1",
+        "namespace": "reno-stars"
+      },
+      "data": {
+        "publish-cabinet-inventory.js": "/* One-time, idempotent publication of the reviewed inventory; read-only by default. */\nconst inventory = require('/app/src/scripts/data/cabinet-inventory.json');\nmodule.exports.default = async function ({ container }) {\n  const service = container.resolve('product');\n  const apply = process.env.CABINET_PUBLISH === '1';\n  const eligible = inventory.products.filter(p => p.review_status === 'draft_visual_limitations');\n  const held = inventory.products.filter(p => p.review_status !== 'draft_visual_limitations');\n  if (eligible.length !== 1609 || held.length !== 125) throw Error('Unexpected inventory revision');\n  const plan = [];\n  const categoryPlan = new Map();\n  // Validate every candidate before the first write. Never publish an unmatched record.\n  for (const p of eligible) {\n    const matches = await service.listProducts({ handle: p.id }, { relations: ['categories', 'variants'] });\n    if (matches.length !== 1) throw Error(`Expected exactly one product: ${p.id}`);\n    const product = matches[0], m = product.metadata || {}, d = p.dimensions_mm;\n    if (!['draft','published'].includes(product.status) || m.review_status !== p.review_status || m.pricing_mode !== 'quote_only' || m.model_finish_basis !== 'visual_approximation' || m.model_url !== `https://supply.reno-stars.com${p.model_url}` || m.width_mm !== d.w || m.height_mm !== d.h || m.depth_mm !== d.d) throw Error(`Product preflight mismatch: ${p.id}`);\n    const categoryName = [p.brand,p.finish,p.construction].filter(Boolean).join(' \u2014 ');\n    const handle = categoryName.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/-$/,'');\n    const category = product.categories.find(c => c.handle === handle);\n    if (!category) throw Error(`Category mismatch: ${p.id}`);\n    categoryPlan.set(category.id, { id: category.id, name: [p.finish,p.construction].filter(Boolean).join(' \u2014 '), brand: p.brand });\n    plan.push(product);\n  }\n  for (const p of held) {\n    if ((await service.listProducts({ handle:p.id })).some(v => v.status === 'published')) throw Error(`Held product already published: ${p.id}`);\n  }\n  console.log(JSON.stringify({phase:'preflight',apply,eligible:plan.length,drafts:plan.filter(p=>p.status==='draft').length,published:plan.filter(p=>p.status==='published').length,held:held.length,categories:categoryPlan.size}));\n  if (!apply) return;\n  async function ensureCategory(handle,name,parent) {\n    let [category] = await service.listProductCategories({handle});\n    if (!category) category = await service.createProductCategories({handle,name,is_active:true,is_internal:false,parent_category_id:parent || null});\n    else if (category.parent_category_id !== (parent || null)) throw Error(`Unexpected parent for ${handle}`);\n    return category;\n  }\n  const root = await ensureCategory('cabinets','Cabinets');\n  const brands = new Map();\n  for (const c of categoryPlan.values()) {\n    if (!brands.has(c.brand)) brands.set(c.brand,await ensureCategory(`cabinets-${c.brand.toLowerCase().replace(/[^a-z0-9]+/g,'-')}`,c.brand,root.id));\n    await service.updateProductCategories(c.id,{name:c.name,parent_category_id:brands.get(c.brand).id,is_active:true,is_internal:false});\n  }\n  for (const p of plan) {\n    await service.updateProducts(p.id,{status:'published',metadata:{...p.metadata,publication_approved:true,publication_basis:'customer_requested_public_visualization',published_for_catalog_at:p.metadata.published_for_catalog_at || new Date().toISOString()}});\n    console.log(`Published ${p.handle}`);\n  }\n  let verified = 0;\n  for (const p of plan) {\n    const [actual] = await service.listProducts({id:p.id});\n    if (actual.status !== 'published' || actual.metadata.pricing_mode !== 'quote_only' || actual.metadata.publication_approved !== true) throw Error(`Verification failed: ${p.handle}`);\n    verified++;\n  }\n  console.log(JSON.stringify({phase:'complete',published:verified,held:held.length,root:root.handle,brands:[...brands.keys()]}));\n};\n"
+      }
+    },
+    {
+      "apiVersion": "batch/v1",
+      "kind": "Job",
+      "metadata": {
+        "name": "supply-cabinets-publish-v1",
+        "namespace": "reno-stars",
+        "labels": {
+          "app.kubernetes.io/name": "supply-cabinet-import"
+        }
+      },
+      "spec": {
+        "backoffLimit": 0,
+        "activeDeadlineSeconds": 3600,
+        "template": {
+          "metadata": {
+            "labels": {
+              "app.kubernetes.io/name": "supply-cabinet-import"
+            }
+          },
+          "spec": {
+            "restartPolicy": "Never",
+            "automountServiceAccountToken": false,
+            "containers": [
+              {
+                "name": "catalog-import",
+                "image": "registry.enteros.ai/reno-stars/medusa-backend:814b43ec8ffc",
+                "imagePullPolicy": "IfNotPresent",
+                "workingDir": "/app",
+                "command": [
+                  "/bin/sh",
+                  "-c"
+                ],
+                "args": [
+                  "./node_modules/.bin/medusa exec ./src/scripts/publish-cabinet-inventory.js && CABINET_PUBLISH=1 ./node_modules/.bin/medusa exec ./src/scripts/publish-cabinet-inventory.js"
+                ],
+                "env": [
+                  {
+                    "name": "DB_NAME",
+                    "value": "medusa_commerce"
+                  },
+                  {
+                    "name": "STORE_CORS",
+                    "value": "http://localhost:8000,https://supply.reno-stars.com"
+                  },
+                  {
+                    "name": "ADMIN_CORS",
+                    "value": "http://localhost:5173,http://localhost:9000,http://localhost:7000,http://localhost:7001,https://supply-admin.reno-stars.com"
+                  },
+                  {
+                    "name": "AUTH_CORS",
+                    "value": "http://localhost:5173,http://localhost:9000,http://localhost:7000,http://localhost:7001,http://localhost:8000,https://supply.reno-stars.com,https://supply-admin.reno-stars.com"
+                  },
+                  {
+                    "name": "DATABASE_URL",
+                    "valueFrom": {
+                      "secretKeyRef": {
+                        "key": "DATABASE_URL",
+                        "name": "renostars-medusa-backend-secrets"
+                      }
+                    }
+                  },
+                  {
+                    "name": "REDIS_URL",
+                    "valueFrom": {
+                      "secretKeyRef": {
+                        "key": "REDIS_URL",
+                        "name": "renostars-medusa-backend-secrets"
+                      }
+                    }
+                  },
+                  {
+                    "name": "COOKIE_SECRET",
+                    "valueFrom": {
+                      "secretKeyRef": {
+                        "key": "COOKIE_SECRET",
+                        "name": "renostars-medusa-backend-secrets"
+                      }
+                    }
+                  },
+                  {
+                    "name": "JWT_SECRET",
+                    "valueFrom": {
+                      "secretKeyRef": {
+                        "key": "JWT_SECRET",
+                        "name": "renostars-medusa-backend-secrets"
+                      }
+                    }
+                  }
+                ],
+                "resources": {
+                  "requests": {
+                    "cpu": "100m",
+                    "memory": "512Mi"
+                  },
+                  "limits": {
+                    "cpu": "1",
+                    "memory": "2Gi"
+                  }
+                },
+                "volumeMounts": [
+                  {
+                    "name": "publication-script",
+                    "mountPath": "/app/src/scripts/publish-cabinet-inventory.js",
+                    "subPath": "publish-cabinet-inventory.js",
+                    "readOnly": true
+                  }
+                ]
+              }
+            ],
+            "securityContext": {
+              "runAsGroup": 1000,
+              "runAsNonRoot": true,
+              "runAsUser": 1000
+            },
+            "nodeSelector": {
+              "kubernetes.io/hostname": "robot-2",
+              "molecule.node-pool": "standard-tenant"
+            },
+            "affinity": {
+              "nodeAffinity": {
+                "requiredDuringSchedulingIgnoredDuringExecution": {
+                  "nodeSelectorTerms": [
+                    {
+                      "matchExpressions": [
+                        {
+                          "key": "kubernetes.io/arch",
+                          "operator": "In",
+                          "values": [
+                            "amd64"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            },
+            "tolerations": [
+              {
+                "effect": "NoSchedule",
+                "key": "molecule.node-pool",
+                "operator": "Equal",
+                "value": "standard-tenant"
+              }
+            ],
+            "volumes": [
+              {
+                "name": "publication-script",
+                "configMap": {
+                  "name": "supply-cabinet-publication-v1"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

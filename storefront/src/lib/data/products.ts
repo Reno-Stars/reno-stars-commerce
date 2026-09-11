@@ -130,10 +130,7 @@ export const listProducts = async ({
     })
 }
 
-/**
- * This will fetch 100 products to the Next.js cache and sort them based on the sortBy parameter.
- * It will then return the paginated products based on the page and limit parameters.
- */
+/** Page latest arrivals in the API; collect all matches only for client-side price sorting. */
 export const listProductsWithSort = async ({
   page = 0,
   queryParams,
@@ -150,32 +147,36 @@ export const listProductsWithSort = async ({
   queryParams?: HttpTypes.FindParams & HttpTypes.StoreProductParams
 }> => {
   const limit = queryParams?.limit || 12
+  const currentPage = Math.max(page, 1)
+  if (sortBy === "created_at") {
+    return listProducts({
+      pageParam: currentPage,
+      queryParams: { ...queryParams, limit, order: "-created_at" },
+      countryCode,
+    })
+  }
 
-  const {
-    response: { products, count },
-  } = await listProducts({
-    pageParam: 0,
-    queryParams: {
-      ...queryParams,
-      limit: 100,
-    },
-    countryCode,
-  })
-
-  const sortedProducts = sortProducts(products, sortBy)
-
-  const pageParam = (page - 1) * limit
-
-  const nextPage = count > pageParam + limit ? pageParam + limit : null
-
-  const paginatedProducts = sortedProducts.slice(pageParam, pageParam + limit)
-
+  // Medusa cannot sort calculated prices. Read every matching page so price
+  // sorting and pagination include products beyond the first 100 records.
+  const products: HttpTypes.StoreProduct[] = []
+  let count = 0
+  for (let batch = 1; ; batch++) {
+    const result = await listProducts({
+      pageParam: batch,
+      queryParams: { ...queryParams, limit: 100, order: "id" },
+      countryCode,
+    })
+    count = result.response.count
+    products.push(...result.response.products)
+    if (!result.nextPage || !result.response.products.length) break
+  }
+  const offset = (currentPage - 1) * limit
   return {
     response: {
-      products: paginatedProducts,
+      products: sortProducts(products, sortBy).slice(offset, offset + limit),
       count,
     },
-    nextPage,
+    nextPage: count > offset + limit ? currentPage + 1 : null,
     queryParams,
   }
 }

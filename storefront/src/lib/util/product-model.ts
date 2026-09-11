@@ -29,7 +29,8 @@ export function getProductModel(metadata?: Record<string, unknown> | null) {
   const family =
     metadata?.model_family === "wall" ||
     metadata?.model_family === "base" ||
-    metadata?.model_family === "pantry"
+    metadata?.model_family === "pantry" ||
+    metadata?.model_family === "hardware"
       ? metadata.model_family
       : /^W/.test(code)
       ? "wall"
@@ -45,6 +46,7 @@ export function getProductModel(metadata?: Record<string, unknown> | null) {
     url,
     sku,
     family,
+    mountingCentres: typeof metadata?.mounting_centres_mm === "number" && metadata.mounting_centres_mm > 0 ? metadata.mounting_centres_mm : null,
     dimensions: dimensions.every(
       (v) => typeof v === "number" && Number.isFinite(v) && v > 0
     )

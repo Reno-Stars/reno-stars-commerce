@@ -20,6 +20,7 @@ export const getProductsById = async ({
 
   const next = {
     ...(await getCacheOptions("products")),
+    revalidate: 60,
   }
 
   return sdk.client
@@ -46,6 +47,7 @@ export const getProductByHandle = async (handle: string, regionId: string) => {
 
   const next = {
     ...(await getCacheOptions("products")),
+    revalidate: 60,
   }
 
   return sdk.client
@@ -96,6 +98,7 @@ export const listProducts = async ({
 
   const next = {
     ...(await getCacheOptions("products")),
+    revalidate: 60,
   }
 
   return sdk.client

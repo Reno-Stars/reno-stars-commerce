@@ -1,0 +1,7 @@
+source/images/
+source/catalogue-pages/
+source/contact-*.jpg
+source/schematics-*.jpg
+source/eurofit-catalogue-2024.pdf
+__pycache__/
+source/catalogue-text.txt

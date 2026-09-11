@@ -1,0 +1,141 @@
+{
+  "apiVersion": "batch/v1",
+  "kind": "Job",
+  "metadata": {
+    "name": "supply-eurofit-import-db6365d27d16",
+    "namespace": "reno-stars",
+    "labels": {
+      "app.kubernetes.io/name": "supply-eurofit-import"
+    }
+  },
+  "spec": {
+    "backoffLimit": 0,
+    "activeDeadlineSeconds": 3600,
+    "template": {
+      "metadata": {
+        "labels": {
+          "app.kubernetes.io/name": "supply-eurofit-import"
+        }
+      },
+      "spec": {
+        "restartPolicy": "Never",
+        "automountServiceAccountToken": false,
+        "containers": [
+          {
+            "name": "catalog-import",
+            "image": "registry.enteros.ai/reno-stars/medusa-backend:db6365d27d16",
+            "imagePullPolicy": "IfNotPresent",
+            "workingDir": "/app",
+            "command": [
+              "/bin/sh",
+              "-c"
+            ],
+            "args": [
+              "set -eu\nready=0\nfor attempt in $(seq 1 40); do\n  if EUROFIT_APPLY=0 ./node_modules/.bin/medusa exec ./src/scripts/import-eurofit-hardware.js; then ready=1; break; fi\n  echo \"Waiting for deployed Eurofit assets; attempt $attempt\"\n  sleep 30\ndone\n[ \"$ready\" = 1 ]\nEUROFIT_APPLY=1 ./node_modules/.bin/medusa exec ./src/scripts/import-eurofit-hardware.js\nEUROFIT_APPLY=0 ./node_modules/.bin/medusa exec ./src/scripts/import-eurofit-hardware.js"
+            ],
+            "env": [
+              {
+                "name": "DB_NAME",
+                "value": "medusa_commerce"
+              },
+              {
+                "name": "STORE_CORS",
+                "value": "http://localhost:8000,https://supply.reno-stars.com"
+              },
+              {
+                "name": "ADMIN_CORS",
+                "value": "http://localhost:5173,http://localhost:9000,http://localhost:7000,http://localhost:7001,https://supply-admin.reno-stars.com"
+              },
+              {
+                "name": "AUTH_CORS",
+                "value": "http://localhost:5173,http://localhost:9000,http://localhost:7000,http://localhost:7001,http://localhost:8000,https://supply.reno-stars.com,https://supply-admin.reno-stars.com"
+              },
+              {
+                "name": "DATABASE_URL",
+                "valueFrom": {
+                  "secretKeyRef": {
+                    "key": "DATABASE_URL",
+                    "name": "renostars-medusa-backend-secrets"
+                  }
+                }
+              },
+              {
+                "name": "REDIS_URL",
+                "valueFrom": {
+                  "secretKeyRef": {
+                    "key": "REDIS_URL",
+                    "name": "renostars-medusa-backend-secrets"
+                  }
+                }
+              },
+              {
+                "name": "COOKIE_SECRET",
+                "valueFrom": {
+                  "secretKeyRef": {
+                    "key": "COOKIE_SECRET",
+                    "name": "renostars-medusa-backend-secrets"
+                  }
+                }
+              },
+              {
+                "name": "JWT_SECRET",
+                "valueFrom": {
+                  "secretKeyRef": {
+                    "key": "JWT_SECRET",
+                    "name": "renostars-medusa-backend-secrets"
+                  }
+                }
+              }
+            ],
+            "resources": {
+              "requests": {
+                "cpu": "100m",
+                "memory": "512Mi"
+              },
+              "limits": {
+                "cpu": "1",
+                "memory": "2Gi"
+              }
+            }
+          }
+        ],
+        "securityContext": {
+          "runAsGroup": 1000,
+          "runAsNonRoot": true,
+          "runAsUser": 1000
+        },
+        "nodeSelector": {
+          "kubernetes.io/hostname": "robot-2",
+          "molecule.node-pool": "standard-tenant"
+        },
+        "affinity": {
+          "nodeAffinity": {
+            "requiredDuringSchedulingIgnoredDuringExecution": {
+              "nodeSelectorTerms": [
+                {
+                  "matchExpressions": [
+                    {
+                      "key": "kubernetes.io/arch",
+                      "operator": "In",
+                      "values": [
+                        "amd64"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "tolerations": [
+          {
+            "effect": "NoSchedule",
+            "key": "molecule.node-pool",
+            "operator": "Equal",
+            "value": "standard-tenant"
+          }
+        ]
+      }
+    }
+  }
+}

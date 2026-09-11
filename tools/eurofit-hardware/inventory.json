@@ -43456,8 +43456,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-179ai.glb",
-      "model_profile": "round_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-179ai-v2.glb",
+      "model_profile": "photo_profile_119_v2"
     },
     {
       "id": "eurofit-k-179bk",
@@ -43518,8 +43518,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-179bk.glb",
-      "model_profile": "round_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-179bk-v2.glb",
+      "model_profile": "photo_profile_119_v2"
     },
     {
       "id": "eurofit-k-179bss",
@@ -43580,8 +43580,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-179bss.glb",
-      "model_profile": "round_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-179bss-v2.glb",
+      "model_profile": "photo_profile_119_v2"
     },
     {
       "id": "eurofit-k-264bk",
@@ -43642,8 +43642,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-264bk.glb",
-      "model_profile": "pyramid_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-264bk-v2.glb",
+      "model_profile": "photo_profile_120_v2"
     },
     {
       "id": "eurofit-k-264bss",
@@ -43704,8 +43704,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-264bss.glb",
-      "model_profile": "pyramid_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-264bss-v2.glb",
+      "model_profile": "photo_profile_120_v2"
     },
     {
       "id": "eurofit-k-264cp",
@@ -43766,8 +43766,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-264cp.glb",
-      "model_profile": "pyramid_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-264cp-v2.glb",
+      "model_profile": "photo_profile_120_v2"
     },
     {
       "id": "eurofit-k-323aih",
@@ -43824,8 +43824,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-323aih.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-323aih-v2.glb",
+      "model_profile": "photo_profile_121_v2"
     },
     {
       "id": "eurofit-k-323orb",
@@ -43882,8 +43882,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-323orb.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-323orb-v2.glb",
+      "model_profile": "photo_profile_121_v2"
     },
     {
       "id": "eurofit-7890337792223-finish-brushed-nickel-bss",
@@ -44378,8 +44378,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-360ai.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-360ai-v2.glb",
+      "model_profile": "photo_profile_126_v2"
     },
     {
       "id": "eurofit-k-360as",
@@ -44440,8 +44440,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-360as.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-360as-v2.glb",
+      "model_profile": "photo_profile_126_v2"
     },
     {
       "id": "eurofit-k-360bk",
@@ -44502,8 +44502,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-360bk.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-360bk-v2.glb",
+      "model_profile": "photo_profile_126_v2"
     },
     {
       "id": "eurofit-k-360bss",
@@ -44564,8 +44564,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-360bss.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-360bss-v2.glb",
+      "model_profile": "photo_profile_126_v2"
     },
     {
       "id": "eurofit-k-388bss",
@@ -44626,8 +44626,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-388bss.glb",
-      "model_profile": "crescent_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-388bss-v2.glb",
+      "model_profile": "photo_profile_127_v2"
     },
     {
       "id": "eurofit-k-388cp",
@@ -44688,8 +44688,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-388cp.glb",
-      "model_profile": "crescent_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-388cp-v2.glb",
+      "model_profile": "photo_profile_127_v2"
     },
     {
       "id": "eurofit-7796696023263-finish-brushed-nickel-bss",
@@ -44812,8 +44812,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-417bk.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-417bk-v2.glb",
+      "model_profile": "photo_profile_129_v2"
     },
     {
       "id": "eurofit-k-417sb",
@@ -44874,8 +44874,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-417sb.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-417sb-v2.glb",
+      "model_profile": "photo_profile_129_v2"
     },
     {
       "id": "eurofit-k-417bss",
@@ -44936,8 +44936,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-417bss.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-417bss-v2.glb",
+      "model_profile": "photo_profile_129_v2"
     },
     {
       "id": "eurofit-k-417cp",
@@ -44998,8 +44998,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-417cp.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-417cp-v2.glb",
+      "model_profile": "photo_profile_129_v2"
     },
     {
       "id": "eurofit-k-419cp",
@@ -45180,8 +45180,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-420bss.glb",
-      "model_profile": "pyramid_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-420bss-v2.glb",
+      "model_profile": "photo_profile_131_v2"
     },
     {
       "id": "eurofit-k-420cp",
@@ -45238,8 +45238,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-420cp.glb",
-      "model_profile": "pyramid_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-420cp-v2.glb",
+      "model_profile": "photo_profile_131_v2"
     },
     {
       "id": "eurofit-k-420bk",
@@ -45296,8 +45296,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-420bk.glb",
-      "model_profile": "pyramid_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-420bk-v2.glb",
+      "model_profile": "photo_profile_131_v2"
     },
     {
       "id": "eurofit-k-581cp",
@@ -45771,8 +45771,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-61368bss.glb",
-      "model_profile": "round_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-61368bss-v2.glb",
+      "model_profile": "photo_profile_134_v2"
     },
     {
       "id": "eurofit-k-61368mbc",
@@ -45832,8 +45832,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-61368mbc.glb",
-      "model_profile": "round_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-61368mbc-v2.glb",
+      "model_profile": "photo_profile_134_v2"
     },
     {
       "id": "eurofit-k-61703bk",
@@ -46249,8 +46249,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-61709bss.glb",
-      "model_profile": "pyramid_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-61709bss-v2.glb",
+      "model_profile": "photo_profile_137_v2"
     },
     {
       "id": "eurofit-k-61709sb",
@@ -46309,8 +46309,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-61709sb.glb",
-      "model_profile": "pyramid_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-61709sb-v2.glb",
+      "model_profile": "photo_profile_137_v2"
     },
     {
       "id": "eurofit-k-61711bss",
@@ -46369,8 +46369,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-61711bss.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-61711bss-v2.glb",
+      "model_profile": "photo_profile_138_v2"
     },
     {
       "id": "eurofit-k-61711sb",
@@ -46429,8 +46429,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-61711sb.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-61711sb-v2.glb",
+      "model_profile": "photo_profile_138_v2"
     },
     {
       "id": "eurofit-k-62123bss",
@@ -46609,8 +46609,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-62217bss.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-62217bss-v2.glb",
+      "model_profile": "photo_profile_140_v2"
     },
     {
       "id": "eurofit-k-62217rg",
@@ -46671,8 +46671,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-62217rg.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-62217rg-v2.glb",
+      "model_profile": "photo_profile_140_v2"
     },
     {
       "id": "eurofit-k-62231rg",
@@ -46731,8 +46731,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-62231rg.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-62231rg-v2.glb",
+      "model_profile": "photo_profile_141_v2"
     },
     {
       "id": "eurofit-k-62301borb",
@@ -46793,8 +46793,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-62301borb.glb",
-      "model_profile": "round_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-62301borb-v2.glb",
+      "model_profile": "photo_profile_142_v2"
     },
     {
       "id": "eurofit-k-62301bss",
@@ -46855,8 +46855,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-62301bss.glb",
-      "model_profile": "round_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-62301bss-v2.glb",
+      "model_profile": "photo_profile_142_v2"
     },
     {
       "id": "eurofit-k-62301rg",
@@ -46917,8 +46917,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-62301rg.glb",
-      "model_profile": "round_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-62301rg-v2.glb",
+      "model_profile": "photo_profile_142_v2"
     },
     {
       "id": "eurofit-k-62343bss",
@@ -46979,8 +46979,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-62343bss.glb",
-      "model_profile": "round_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-62343bss-v2.glb",
+      "model_profile": "photo_profile_143_v2"
     },
     {
       "id": "eurofit-k-62343rg",
@@ -47041,8 +47041,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-62343rg.glb",
-      "model_profile": "round_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-62343rg-v2.glb",
+      "model_profile": "photo_profile_143_v2"
     },
     {
       "id": "eurofit-k-62861bss",
@@ -47103,8 +47103,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-62861bss.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-62861bss-v2.glb",
+      "model_profile": "photo_profile_144_v2"
     },
     {
       "id": "eurofit-k-62861rg",
@@ -47165,8 +47165,8 @@
       "source_checked": "2026-09-11",
       "dimension_basis": "supplier_product_table_mm",
       "model_limitations": "External envelope and mounting centres use published dimensions. Unspecified grip sections, edge radii, internal threads and finish appearance are visual approximations; not a fabrication drawing.",
-      "model_url": "/eurofit-hardware/models/eurofit-k-62861rg.glb",
-      "model_profile": "square_knob"
+      "model_url": "/eurofit-hardware/models/eurofit-k-62861rg-v2.glb",
+      "model_profile": "photo_profile_144_v2"
     },
     {
       "id": "eurofit-k-65804bk",

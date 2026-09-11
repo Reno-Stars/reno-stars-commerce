@@ -1,0 +1,50 @@
+{
+  "verified_at": "2026-09-11T22:55:30.535Z",
+  "products": 407,
+  "all_metadata_and_skus": true,
+  "categories": [
+    {
+      "path": "/ca/categories/cabinet-hardware",
+      "status": 200,
+      "products": 12
+    },
+    {
+      "path": "/ca/categories/cabinet-hardware-eurofit",
+      "status": 200,
+      "products": 12
+    },
+    {
+      "path": "/ca/categories/eurofit-handles",
+      "status": 200,
+      "products": 12
+    },
+    {
+      "path": "/ca/categories/eurofit-knobs",
+      "status": 200,
+      "products": 12
+    },
+    {
+      "path": "/ca/categories/eurofit-handles?page=31",
+      "status": 200,
+      "products": 10
+    },
+    {
+      "path": "/ca/categories/eurofit-knobs?page=4",
+      "status": 200,
+      "products": 1
+    }
+  ],
+  "previews": [
+    {
+      "id": "eurofit-h-022-128bk",
+      "loaded": true,
+      "download": "https://supply.reno-stars.com/eurofit-hardware/models/eurofit-h-022-128bk.glb"
+    },
+    {
+      "id": "eurofit-k-179ai",
+      "loaded": true,
+      "download": "https://supply.reno-stars.com/eurofit-hardware/models/eurofit-k-179ai.glb"
+    }
+  ],
+  "errors": []
+}

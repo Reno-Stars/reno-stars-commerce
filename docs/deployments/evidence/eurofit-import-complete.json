@@ -1,0 +1,14 @@
+{
+  "job": "supply-eurofit-import-db6365d27d16",
+  "started": "2026-09-11T22:52:56Z",
+  "completed": "2026-09-11T22:53:32Z",
+  "created": 407,
+  "unique": 407,
+  "exact_manifest_match": true,
+  "summaries": [
+    "{\"supplier\":\"Eurofit Canada\",\"apply\":false,\"eligible\":407,\"pending\":407,\"existing\":0,\"held\":374,\"asset_preflight\":\"passed\"}",
+    "{\"supplier\":\"Eurofit Canada\",\"apply\":true,\"eligible\":407,\"pending\":407,\"existing\":0,\"held\":374,\"asset_preflight\":\"passed\"}",
+    "Eurofit complete: 407 created; 0 already present; 374 held.",
+    "{\"supplier\":\"Eurofit Canada\",\"apply\":false,\"eligible\":407,\"pending\":0,\"existing\":407,\"held\":374,\"asset_preflight\":\"passed\"}"
+  ]
+}

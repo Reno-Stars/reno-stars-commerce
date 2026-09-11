@@ -14,6 +14,8 @@ profiles={
  'round_knob':[119,134,142,143], 'pyramid_knob':[120,131,137],
  'square_knob':[121,126,129,138,140,141,144], 'crescent_knob':[127]}
 profile_for={i:k for k,v in profiles.items() for i in v}
+sys.path.insert(0,str(R))
+from knobs_v2 import build_knob
 def mesh(name,verts,faces,material,bevel=0):
  me=bpy.data.meshes.new(name);me.from_pydata(verts,[],faces);me.update();o=bpy.data.objects.new(name,me);bpy.context.collection.objects.link(o);me.materials.append(material)
  if bevel:
@@ -54,28 +56,7 @@ def hardware(r):
  global mat
  d=r['dimensions_mm'];L,W,H=[d[k]/1000 for k in ('length','width','projection')];C=(r['mounting_centres_mm'] or 0)/1000;i=r['family_index'];kind=profile_for[i]
  if kind.endswith('knob'):
-  if kind=='round_knob':
-   profile=[(0,L*.20),(.001,L*.23),(H*.1,L*.24),(H*.16,L*.18),(H*.55,L*.13),(H*.68,L*.25),(H*.78,L*.46),(H*.82,L*.5),(H*.91,L*.5),(H*.96,L*.45),(H,L*.36)]
-   if i==143:profile += [(H,L*.32),(H*.97,L*.30),(H*.97,0)]
-   elif i==142:profile += [(H*.94,L*.28),(H*.87,L*.24),(H*.87,0)]
-   if i==119:profile += [(H,L*.31),(H-.001,L*.31),(H-.001,L*.24),(H,L*.24),(H,0)]
-   if i==134:profile=[(0,L*.24),(.001,L*.27),(H*.10,L*.27),(H*.15,L*.21),(H*.55,L*.12),(H*.75,L*.18),(H*.85,L*.5),(H,L*.5),(H,0)]
-   lathe('Turned knob with stepped rim',profile)
-  else:
-   if i in [120,126,129,131,137,138,140,144]:
-    box('Knob base',(0,0,H*.09),(L*.55,W*.62,H*.18),.001)
-    box('Square tapered stem',(0,0,H*.43),(L*.37,W*.40,H*.62),.0015)
-   else:
-    cylinder('Knob mounting foot',0,0,H*.13,min(L,W)*.20,H*.26)
-    cylinder('Knob stem',0,0,H*.48,min(L,W)*.125,H*.60,r2=min(L,W)*.24)
-   if kind=='pyramid_knob':
-    z=H*.75;verts=[(-L/2,-W/2,z),(L/2,-W/2,z),(L/2,W/2,z),(-L/2,W/2,z),(0,0,H)]
-    mesh('Pyramid cap',verts,[(0,3,2,1),(0,1,4),(1,2,4),(2,3,4),(3,0,4)],mat,0)
-   elif kind=='crescent_knob':
-    path=[(-L/2+L*n/48,H-.004-abs(2*n/48-1)**2*.005) for n in range(49)];strip('Curved oval grip',path,[W*(.4+.6*math.sin(math.pi*n/48)) for n in range(49)],.008)
-   else:
-    box('Knob cap',(0,0,H-.003),(L,W,.006),min(.0018,W*.05))
-    if i in [121,126]:box('Cap lower step',(0,0,H-.008),(L*.87,W*.87,.004))
+  build_knob(i,L,W,H,mat)
  elif kind=='cup':
   # Open underside, domed shell and flanged mounting feet.
   N=64;M=16;vs=[];fs=[];t=.0015
@@ -158,7 +139,10 @@ def hardware(r):
 
 def finish(name):
  f=name.lower();color=(.55,.57,.59);metal=1;rough=.28
- if 'black nickel' in f:color=(.07,.075,.08);rough=.19
+ if 'black chrome' in f:color=(.065,.07,.075);rough=.18
+ elif 'honey' in f:color=(.31,.235,.115);rough=.32
+ elif 'antique black' in f:color=(.045,.04,.033);rough=.34
+ elif 'black nickel' in f:color=(.07,.075,.08);rough=.19
  elif 'black' in f:color=(.014,.016,.018);metal=.05;rough=.32
  elif 'rose' in f:color=(.69,.36,.23);rough=.26
  elif 'gold' in f:color=(.68,.46,.18);rough=.24
@@ -191,7 +175,7 @@ for r in p['products']:
  tolerance=.00012
  error=max(abs(a-b) for a,b in zip(actual,expected))
  if error>tolerance:raise RuntimeError((r['id'],kind,'envelope mismatch',actual,expected,error))
- bpy.ops.object.empty_add();root=bpy.context.object;root.name=r['id'];root['supplier']='Eurofit Canada';root['supplier_sku']=r['supplier_sku'];root['source_url']=r['source_url'];root['dimensions_mm']=json.dumps(r['dimensions_mm']);root['mounting_centres_mm']=r['mounting_centres_mm'] or 0;root['model_limitations']=r['model_limitations'];root['model_version']=1
+ bpy.ops.object.empty_add();root=bpy.context.object;root.name=r['id'];root['supplier']='Eurofit Canada';root['supplier_sku']=r['supplier_sku'];root['source_url']=r['source_url'];root['dimensions_mm']=json.dumps(r['dimensions_mm']);root['mounting_centres_mm']=r['mounting_centres_mm'] or 0;root['model_limitations']=r['model_limitations'];root['model_version']=2 if r['type']=='Knobs' else 1
  for o in list(bpy.context.scene.objects):
   if o!=root:o.parent=root
  # Blender Z-up -> glTF Y-up. Cancel exporter rotation: GLB axes are X=length,
@@ -199,9 +183,12 @@ for r in p['products']:
  root.rotation_euler.x=math.pi/2
  bpy.context.scene.unit_settings.system='METRIC';bpy.context.scene.unit_settings.scale_length=1
  if r['family_index'] not in saved:bpy.ops.wm.save_as_mainfile(filepath=str(BLEND/(r['id']+'.blend')),compress=True);saved.add(r['family_index'])
- dest=OUT/(r['id']+'.glb');bpy.ops.export_scene.gltf(filepath=str(dest),export_format='GLB',export_apply=True,export_extras=True)
- r['model_url']='/eurofit-hardware/models/'+dest.name;r['model_status']='built';r['model_profile']=kind
+ dest=OUT/(r['id']+('-v2' if r['type']=='Knobs' else '')+'.glb');bpy.ops.export_scene.gltf(filepath=str(dest),export_format='GLB',export_apply=True,export_extras=True)
+ r['model_url']='/eurofit-hardware/models/'+dest.name;r['model_status']='built';r['model_profile']=('photo_profile_'+str(r['family_index'])+'_v2') if r['type']=='Knobs' else kind
  reports.append({'id':r['id'],'profile':kind,'envelope_mm':[round(v*1000,4) for v in actual],'expected_mm':[v*1000 for v in expected],'max_error_mm':round(error*1000,4),'bytes':dest.stat().st_size})
-if not selected:
- (R/'inventory.json').write_text(json.dumps(p,indent=2)+'\n');(R/'model-results.json').write_text(json.dumps(reports,indent=2)+'\n')
+if not selected or os.environ.get('EUROFIT_SAVE_SELECTED')=='1':
+ (R/'inventory.json').write_text(json.dumps(p,indent=2)+'\n')
+ if selected:
+  old=json.loads((R/'model-results.json').read_text());reports=[x for x in old if x['id'] not in selected]+reports
+ (R/'model-results.json').write_text(json.dumps(reports,indent=2)+'\n')
 print('BUILT',len(reports))

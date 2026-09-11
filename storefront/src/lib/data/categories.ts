@@ -38,7 +38,7 @@ export const listCategories = async (
           ...query,
         },
         next,
-        cache: "force-cache",
+        cache: "no-store",
       }
     )
     .then(({ product_categories }) => product_categories)
@@ -63,7 +63,7 @@ export const getCategoryByHandle = async (
           handle,
         },
         next,
-        cache: "force-cache",
+        cache: "no-store",
       }
     )
     .then(({ product_categories }) => product_categories[0])

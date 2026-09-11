@@ -1,0 +1,145 @@
+{
+  "apiVersion": "batch/v1",
+  "kind": "Job",
+  "metadata": {
+    "name": "supply-cabinets-import-814b43ec",
+    "namespace": "reno-stars",
+    "labels": {
+      "app.kubernetes.io/name": "supply-cabinet-import"
+    }
+  },
+  "spec": {
+    "backoffLimit": 0,
+    "activeDeadlineSeconds": 3600,
+    "template": {
+      "metadata": {
+        "labels": {
+          "app.kubernetes.io/name": "supply-cabinet-import"
+        }
+      },
+      "spec": {
+        "restartPolicy": "Never",
+        "automountServiceAccountToken": false,
+        "containers": [
+          {
+            "name": "catalog-import",
+            "image": "registry.enteros.ai/reno-stars/medusa-backend:814b43ec8ffc",
+            "imagePullPolicy": "IfNotPresent",
+            "workingDir": "/app",
+            "command": [
+              "/bin/sh",
+              "-c"
+            ],
+            "args": [
+              "sleep 8; ./node_modules/.bin/medusa exec ./src/scripts/import-cabinet-inventory.js && CABINET_APPLY=0 ./node_modules/.bin/medusa exec ./src/scripts/import-cabinet-inventory.js"
+            ],
+            "env": [
+              {
+                "name": "DB_NAME",
+                "value": "medusa_commerce"
+              },
+              {
+                "name": "STORE_CORS",
+                "value": "http://localhost:8000,https://supply.reno-stars.com"
+              },
+              {
+                "name": "ADMIN_CORS",
+                "value": "http://localhost:5173,http://localhost:9000,http://localhost:7000,http://localhost:7001,https://supply-admin.reno-stars.com"
+              },
+              {
+                "name": "AUTH_CORS",
+                "value": "http://localhost:5173,http://localhost:9000,http://localhost:7000,http://localhost:7001,http://localhost:8000,https://supply.reno-stars.com,https://supply-admin.reno-stars.com"
+              },
+              {
+                "name": "DATABASE_URL",
+                "valueFrom": {
+                  "secretKeyRef": {
+                    "key": "DATABASE_URL",
+                    "name": "renostars-medusa-backend-secrets"
+                  }
+                }
+              },
+              {
+                "name": "REDIS_URL",
+                "valueFrom": {
+                  "secretKeyRef": {
+                    "key": "REDIS_URL",
+                    "name": "renostars-medusa-backend-secrets"
+                  }
+                }
+              },
+              {
+                "name": "COOKIE_SECRET",
+                "valueFrom": {
+                  "secretKeyRef": {
+                    "key": "COOKIE_SECRET",
+                    "name": "renostars-medusa-backend-secrets"
+                  }
+                }
+              },
+              {
+                "name": "JWT_SECRET",
+                "valueFrom": {
+                  "secretKeyRef": {
+                    "key": "JWT_SECRET",
+                    "name": "renostars-medusa-backend-secrets"
+                  }
+                }
+              },
+              {
+                "name": "CABINET_APPLY",
+                "value": "1"
+              }
+            ],
+            "resources": {
+              "requests": {
+                "cpu": "100m",
+                "memory": "512Mi"
+              },
+              "limits": {
+                "cpu": "1",
+                "memory": "2Gi"
+              }
+            }
+          }
+        ],
+        "securityContext": {
+          "runAsGroup": 1000,
+          "runAsNonRoot": true,
+          "runAsUser": 1000
+        },
+        "nodeSelector": {
+          "kubernetes.io/hostname": "robot-2",
+          "molecule.node-pool": "standard-tenant"
+        },
+        "affinity": {
+          "nodeAffinity": {
+            "requiredDuringSchedulingIgnoredDuringExecution": {
+              "nodeSelectorTerms": [
+                {
+                  "matchExpressions": [
+                    {
+                      "key": "kubernetes.io/arch",
+                      "operator": "In",
+                      "values": [
+                        "amd64"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "tolerations": [
+          {
+            "effect": "NoSchedule",
+            "key": "molecule.node-pool",
+            "operator": "Equal",
+            "value": "standard-tenant"
+          }
+        ]
+      }
+    }
+  }
+}

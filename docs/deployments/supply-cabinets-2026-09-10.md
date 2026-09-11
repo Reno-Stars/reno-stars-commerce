@@ -27,3 +27,13 @@ Git fetch recovered and was verified with an authenticated shallow fetch. CI run
 Three sampled live cabinet GLBs and the viewer bundle matched the reviewed local files byte-for-byte; hashes and built image digests are in `evidence/`.
 
 Dry-run infrastructure PR #216 completed successfully: 1,609 eligible, 1,609 new, zero existing, 125 held. Eligible split: OPPEIN 1,477; Blue Valley 132. Import PR #218 completed successfully on 2026-09-11 at 00:03 UTC (September 10 local time). Verified all 1,609 Created log entries are unique and exactly match the eligible ID set, with no held products included. The second dry run reports 1,609 existing, zero pending and 125 held. Kubernetes Job status is Complete (1/1). Products remain quote-only drafts; no customer publication was performed. Evidence: `evidence/supply-import-complete-2026-09-10.json`.
+
+## Customer-visible publication
+
+The user reported that the cabinets were missing from the public store. Infrastructure PRs #219/#220 published all 1,609 eligible records, preserved quote-only pricing and visual-approximation disclosures, and grouped the 18 existing finish categories under Cabinets > OPPEIN / Blue Valley. The 125 source-conflicted records remain excluded. Job `supply-cabinets-publish-v1` completed successfully after a complete read-only preflight. All 1,609 unique Published entries exactly match the eligible inventory; per-product verification passed. Evidence is in `evidence/supply-publication-complete-2026-09-10.json`.
+
+Live OPPEIN and Blue Valley product pages both returned HTTP 200, loaded native 3D viewers with no browser errors, switched background and lighting, provided model downloads and quote requests, and displayed the visual-approximation disclosure in Description. Evidence: `evidence/supply-models-live-2026-09-10.json`.
+
+Application PR #9 (`dc6426e5ecb5649a3f6a2da492c0081aa3796a61`) fixes the store's first-100-product pagination bug and stale category reads. Two pagination tests cover later/final pages; the existing 11 inventory/model tests also pass. Enter OS CI run 706608 and build run 706607 passed; automated infrastructure PR #221 was merged for deployment.
+
+As of 00:44 UTC September 11 (5:44 PM September 10 Vancouver), the storefront update remains unapplied. CD state is still the successful publication commit `2fba0336` from 00:28 UTC; both services remain on the previous image digests. PR #223 preserves the completed publication Job's original representation. The client cannot patch deployments or inspect CI namespace pods, so further deployment diagnosis needs the operator. See `supply-storefront-operator-handoff.md`. Final store hierarchy/pagination browser checks remain pending; individual live cabinet viewer checks passed.

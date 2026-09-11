@@ -1,0 +1,36 @@
+{
+  "published": 1609,
+  "unique": 1609,
+  "matches_eligible_inventory": true,
+  "held": 125,
+  "events": [
+    {
+      "phase": "preflight",
+      "apply": false,
+      "eligible": 1609,
+      "drafts": 1609,
+      "published": 0,
+      "held": 125,
+      "categories": 18
+    },
+    {
+      "phase": "preflight",
+      "apply": true,
+      "eligible": 1609,
+      "drafts": 1609,
+      "published": 0,
+      "held": 125,
+      "categories": 18
+    },
+    {
+      "phase": "complete",
+      "published": 1609,
+      "held": 125,
+      "root": "cabinets",
+      "brands": [
+        "OPPEIN",
+        "Blue Valley"
+      ]
+    }
+  ]
+}

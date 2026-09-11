@@ -1,0 +1,24 @@
+[
+  {
+    "handle": "oppein-ply-gss-2db36",
+    "status": 200,
+    "loaded": true,
+    "scene": "stone",
+    "lighting": "evening",
+    "quote": true,
+    "approximation": true,
+    "download": "https://supply.reno-stars.com/cabinet-inventory/models/oppein-ply-gss-2db36.glb",
+    "errors": []
+  },
+  {
+    "handle": "bvc-2402",
+    "status": 200,
+    "loaded": true,
+    "scene": "stone",
+    "lighting": "evening",
+    "quote": true,
+    "approximation": true,
+    "download": "https://supply.reno-stars.com/cabinet-inventory/models/bvc-2402.glb",
+    "errors": []
+  }
+]

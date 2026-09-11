@@ -89,13 +89,25 @@ const ProductSpecificationsTab = ({ product }: ProductTabsProps) => {
           )}
 
           {product.metadata &&
-            Object.entries(product.metadata).map(([key, value]) => (
+            Object.entries(product.metadata)
+              .filter(([key, value]) =>
+                !/^(model_|review_|source_|publication_|pricing_mode$|dimension_basis$|cabinet_library_sku$|legacy_)/.test(key) &&
+                (typeof value === "string" || typeof value === "number") &&
+                !(key === "mounting_centres_mm" && !value)
+              )
+              .map(([key, value]) => (
               <Table.Row key={key}>
                 <Table.Cell className="border-r">
-                  <span className="font-semibold">{key}</span>
+                  <span className="font-semibold">{
+                    product.metadata?.model_family === "hardware" && key === "width_mm" ? "Overall length" :
+                    product.metadata?.model_family === "hardware" && key === "height_mm" ? "Width" :
+                    key === "depth_mm" && product.metadata?.model_family === "hardware" ? "Projection" :
+                    key === "supplier_sku" ? "Supplier SKU" :
+                    key.replace(/_mm$/, "").replace(/_/g, " ").replace(/^./, c => c.toUpperCase())
+                  }</span>
                 </Table.Cell>
                 <Table.Cell className="px-4">
-                  <p>{value as string}</p>
+                  <p>{String(value)}{key.endsWith("_mm") ? " mm" : ""}</p>
                 </Table.Cell>
               </Table.Row>
             ))}

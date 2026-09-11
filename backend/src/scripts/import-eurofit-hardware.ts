@@ -55,10 +55,10 @@ export default async function importEurofitHardware({ container }: ExecArgs) {
   for(const type of new Set(pending.map(p=>p.type)))categories.set(type,await category(type,"eurofit-"+type.toLowerCase().replace(/ /g,"-"),brand))
   for(const p of pending){
     const d=p.dimensions_mm,size=`${d.length} × ${d.width} × ${d.projection} mm`
-    const name=p.family_title.split(" - ")[0]
+    const name=`Eurofit ${p.supplier_sku} ${p.type === "Knobs" ? "Cabinet Knob" : "Cabinet Handle"}`
     const image=p.supplier_image_url.startsWith("https://")?p.supplier_image_url:undefined
     await createProductsWorkflow(container).run({input:{products:[{
-      title:`${name} — ${p.finish} — ${p.supplier_sku}`,handle:p.id,status:ProductStatus.PUBLISHED,
+      title:`${name} — ${p.finish}`,handle:p.id,status:ProductStatus.PUBLISHED,
       description:`Eurofit Canada ${p.type.toLowerCase()}. ${p.finish}. Overall length ${d.length} mm, width ${d.width} mm, projection ${d.projection} mm.${p.mounting_centres_mm?` Mounting centres: ${p.mounting_centres_mm} mm.`:" Single mounting point."} ${p.model_limitations} Contact Reno Stars for pricing and availability.`,
       category_ids:[categories.get(p.type)!],sales_channels:[{id:channel.id}],thumbnail:image,images:image?[{url:image}]:[],
       options:[{title:"Size",values:[size]}],variants:[{title:size,sku:p.supplier_sku,options:{Size:size},manage_inventory:false,prices:[]}],

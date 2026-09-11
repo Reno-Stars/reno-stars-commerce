@@ -1,0 +1,373 @@
+[
+  {
+    "path": "/ca/store",
+    "status": 200,
+    "product_count": 12,
+    "titles": [
+      "Base Cabinets — White shaker — B09-WS",
+      "Base Cabinets — White shaker — B12-WS",
+      "Base Cabinets — White shaker — B15-WS",
+      "Base Cabinets — White shaker — B18-WS",
+      "Base Cabinets — White shaker — B21-WS",
+      "Base Cabinets — Natural Oak — B09-NO",
+      "Base Cabinets — Natural Oak — B12-NO",
+      "Base Cabinets — Natural Oak — B15-NO",
+      "Base Cabinets — Natural Oak — B18-NO",
+      "Base Cabinets — Natural Oak — B21-NO",
+      "Base Cabinets — Dark Walnut — B09",
+      "Base Cabinets — Dark Walnut — B12"
+    ],
+    "categories": [
+      {
+        "text": "Tile\n880",
+        "href": "/ca/categories/tile"
+      },
+      {
+        "text": "Flooring\n503",
+        "href": "/ca/categories/flooring"
+      },
+      {
+        "text": "Cabinets\n1609",
+        "href": "/ca/categories/cabinets"
+      }
+    ]
+  },
+  {
+    "path": "/ca/categories/cabinets",
+    "status": 200,
+    "product_count": 12,
+    "titles": [
+      "Base Cabinets — White shaker — B09-WS",
+      "Base Cabinets — White shaker — B12-WS",
+      "Base Cabinets — White shaker — B15-WS",
+      "Base Cabinets — White shaker — B18-WS",
+      "Base Cabinets — White shaker — B21-WS",
+      "Base Cabinets — Natural Oak — B09-NO",
+      "Base Cabinets — Natural Oak — B12-NO",
+      "Base Cabinets — Natural Oak — B15-NO",
+      "Base Cabinets — Natural Oak — B18-NO",
+      "Base Cabinets — Natural Oak — B21-NO",
+      "Base Cabinets — Dark Walnut — B09",
+      "Base Cabinets — Dark Walnut — B12"
+    ],
+    "categories": [
+      {
+        "text": "Cabinets",
+        "href": "/ca/categories/cabinets"
+      },
+      {
+        "text": "Tile\n880",
+        "href": "/ca/categories/tile"
+      },
+      {
+        "text": "Flooring\n503",
+        "href": "/ca/categories/flooring"
+      },
+      {
+        "text": "Cabinets\n1609",
+        "href": "/ca/categories/cabinets"
+      },
+      {
+        "text": "OPPEIN\n1477",
+        "href": "/ca/categories/cabinets-oppein"
+      },
+      {
+        "text": "Blue Valley\n132",
+        "href": "/ca/categories/cabinets-blue-valley"
+      }
+    ]
+  },
+  {
+    "path": "/ca/categories/cabinets-oppein",
+    "status": 200,
+    "product_count": 12,
+    "titles": [
+      "Wall Stay Lift — White Slim Shaker — PLY-SSW-WSL3018",
+      "Wall Stay Lift — White Slim Shaker — PLY-SSW-WSL3618",
+      "Wall Stay Lift — White High Gloss — PLY-PGW-WSL3615",
+      "Wall Stay Lift — White High Gloss — PLY-PGW-WSL3618",
+      "Wall Stay Lift — White High Gloss — PLY-PGW-WSL3018",
+      "Wall Stay Lift — White High Gloss — PLY-PGW-WSL3015",
+      "Wall Stay Lift — Gray Single Shaker — PLY-GSS-WSL3618",
+      "Wall Stay Lift — White Single Shaker — PLY-WSS-WSL3618",
+      "Wall Stay Lift — Gray Single Shaker — PLY-GSS-WSL3018",
+      "Wall Stay Lift — Blue Single Shaker — PLY-BSS-WSL3618",
+      "Wall Stay Lift — Natural Wood — PLY-MNW-WSL3615",
+      "Wall Stay Lift — Natural Wood — PLY-MNW-WSL3618"
+    ],
+    "categories": [
+      {
+        "text": "Cabinets",
+        "href": "/ca/categories/cabinets"
+      },
+      {
+        "text": "OPPEIN",
+        "href": "/ca/categories/cabinets-oppein"
+      },
+      {
+        "text": "Tile\n880",
+        "href": "/ca/categories/tile"
+      },
+      {
+        "text": "Flooring\n503",
+        "href": "/ca/categories/flooring"
+      },
+      {
+        "text": "Cabinets\n1609",
+        "href": "/ca/categories/cabinets"
+      },
+      {
+        "text": "OPPEIN\n1477",
+        "href": "/ca/categories/cabinets-oppein"
+      },
+      {
+        "text": "Gray Single Shaker — Plywood\n98",
+        "href": "/ca/categories/oppein-gray-single-shaker-plywood"
+      },
+      {
+        "text": "Natural Wood — Plywood\n100",
+        "href": "/ca/categories/oppein-natural-wood-plywood"
+      },
+      {
+        "text": "White Slim Shaker — Plywood\n98",
+        "href": "/ca/categories/oppein-white-slim-shaker-plywood"
+      },
+      {
+        "text": "Smoked Oak — Plywood\n97",
+        "href": "/ca/categories/oppein-smoked-oak-plywood"
+      },
+      {
+        "text": "White High Gloss — Plywood\n113",
+        "href": "/ca/categories/oppein-white-high-gloss-plywood"
+      },
+      {
+        "text": "Blue Single Shaker — Plywood\n114",
+        "href": "/ca/categories/oppein-blue-single-shaker-plywood"
+      },
+      {
+        "text": "Gray Single Shaker — Particle board\n112",
+        "href": "/ca/categories/oppein-gray-single-shaker-particle-board"
+      },
+      {
+        "text": "White Slim Shaker — Particle board\n115",
+        "href": "/ca/categories/oppein-white-slim-shaker-particle-board"
+      },
+      {
+        "text": "White Single Shaker — Plywood\n99",
+        "href": "/ca/categories/oppein-white-single-shaker-plywood"
+      },
+      {
+        "text": "Natural Wood — Particle board\n115",
+        "href": "/ca/categories/oppein-natural-wood-particle-board"
+      },
+      {
+        "text": "White High Gloss — Particle board\n115",
+        "href": "/ca/categories/oppein-white-high-gloss-particle-board"
+      },
+      {
+        "text": "White Single Shaker — Particle board\n115",
+        "href": "/ca/categories/oppein-white-single-shaker-particle-board"
+      },
+      {
+        "text": "Smoked Oak — Particle board\n71",
+        "href": "/ca/categories/oppein-smoked-oak-particle-board"
+      },
+      {
+        "text": "Blue Single Shaker — Particle board\n115",
+        "href": "/ca/categories/oppein-blue-single-shaker-particle-board"
+      },
+      {
+        "text": "Blue Valley\n132",
+        "href": "/ca/categories/cabinets-blue-valley"
+      }
+    ]
+  },
+  {
+    "path": "/ca/categories/oppein-white-single-shaker-plywood",
+    "status": 200,
+    "product_count": 12,
+    "titles": [
+      "Wall Stay Lift — White Single Shaker — PLY-WSS-WSL3618",
+      "Wall Stay Lift — White Single Shaker — PLY-WSS-WSL3015",
+      "Wall Stay Lift — White Single Shaker — PLY-WSS-WSL3018",
+      "Wall Short Cabinet — White Single Shaker — PLY-WSS-W2112",
+      "Wall Short Cabinet — White Single Shaker — PLY-WSS-W2412",
+      "Wall Short Cabinet — White Single Shaker — PLY-WSS-W3612",
+      "Wall Short Cabinet — White Single Shaker — PLY-WSS-W3015",
+      "Wall Short Cabinet — White Single Shaker — PLY-WSS-W1812",
+      "Wall Short Cabinet — White Single Shaker — PLY-WSS-W3618",
+      "Wall Short Cabinet — White Single Shaker — PLY-WSS-W3012",
+      "Wall Short Cabinet — White Single Shaker — PLY-WSS-W3318",
+      "Wall Short Cabinet — White Single Shaker — PLY-WSS-W1512"
+    ],
+    "categories": [
+      {
+        "text": "Cabinets",
+        "href": "/ca/categories/cabinets"
+      },
+      {
+        "text": "OPPEIN",
+        "href": "/ca/categories/cabinets-oppein"
+      },
+      {
+        "text": "White Single Shaker — Plywood",
+        "href": "/ca/categories/oppein-white-single-shaker-plywood"
+      },
+      {
+        "text": "Tile\n880",
+        "href": "/ca/categories/tile"
+      },
+      {
+        "text": "Flooring\n503",
+        "href": "/ca/categories/flooring"
+      },
+      {
+        "text": "Cabinets\n1609",
+        "href": "/ca/categories/cabinets"
+      },
+      {
+        "text": "OPPEIN\n1477",
+        "href": "/ca/categories/cabinets-oppein"
+      },
+      {
+        "text": "Gray Single Shaker — Plywood\n98",
+        "href": "/ca/categories/oppein-gray-single-shaker-plywood"
+      },
+      {
+        "text": "Natural Wood — Plywood\n100",
+        "href": "/ca/categories/oppein-natural-wood-plywood"
+      },
+      {
+        "text": "White Slim Shaker — Plywood\n98",
+        "href": "/ca/categories/oppein-white-slim-shaker-plywood"
+      },
+      {
+        "text": "Smoked Oak — Plywood\n97",
+        "href": "/ca/categories/oppein-smoked-oak-plywood"
+      },
+      {
+        "text": "White High Gloss — Plywood\n113",
+        "href": "/ca/categories/oppein-white-high-gloss-plywood"
+      },
+      {
+        "text": "Blue Single Shaker — Plywood\n114",
+        "href": "/ca/categories/oppein-blue-single-shaker-plywood"
+      },
+      {
+        "text": "Gray Single Shaker — Particle board\n112",
+        "href": "/ca/categories/oppein-gray-single-shaker-particle-board"
+      },
+      {
+        "text": "White Slim Shaker — Particle board\n115",
+        "href": "/ca/categories/oppein-white-slim-shaker-particle-board"
+      },
+      {
+        "text": "White Single Shaker — Plywood\n99",
+        "href": "/ca/categories/oppein-white-single-shaker-plywood"
+      },
+      {
+        "text": "Natural Wood — Particle board\n115",
+        "href": "/ca/categories/oppein-natural-wood-particle-board"
+      },
+      {
+        "text": "White High Gloss — Particle board\n115",
+        "href": "/ca/categories/oppein-white-high-gloss-particle-board"
+      },
+      {
+        "text": "White Single Shaker — Particle board\n115",
+        "href": "/ca/categories/oppein-white-single-shaker-particle-board"
+      },
+      {
+        "text": "Smoked Oak — Particle board\n71",
+        "href": "/ca/categories/oppein-smoked-oak-particle-board"
+      },
+      {
+        "text": "Blue Single Shaker — Particle board\n115",
+        "href": "/ca/categories/oppein-blue-single-shaker-particle-board"
+      },
+      {
+        "text": "Blue Valley\n132",
+        "href": "/ca/categories/cabinets-blue-valley"
+      }
+    ]
+  },
+  {
+    "path": "/ca/categories/cabinets?page=11",
+    "status": 200,
+    "product_count": 12,
+    "titles": [
+      "Spice Rack Cabinet — Dark Walnut — SP12",
+      "Spice Rack Cabinet — Gloss White — SP12-GW",
+      "Spice Rack Cabinet — Natural Oak — SP12-NO",
+      "Spice Rack Cabinet — White shaker — SP12-WS",
+      "Spice Rack Cabinet — Dark Walnut — SP09",
+      "Spice Rack Cabinet — Gloss White — SP09-GW",
+      "Spice Rack Cabinet — Natural Oak — SP09-NO",
+      "Spice Rack Cabinet — White shaker — SP09-WS",
+      "Trash Cabinet 18\" Width – Double Bin — Dark Walnut — BWBK18",
+      "Trash Cabinet 18\" Width – Double Bin — Gloss White — BWBK18-GW",
+      "Trash Cabinet 18\" Width – Double Bin — Natural Oak — BWBK18-NO",
+      "Trash Cabinet 18\" Width – Double Bin — White shaker — BWBK18-WS"
+    ],
+    "categories": [
+      {
+        "text": "Cabinets",
+        "href": "/ca/categories/cabinets"
+      },
+      {
+        "text": "Tile\n880",
+        "href": "/ca/categories/tile?page=11"
+      },
+      {
+        "text": "Flooring\n503",
+        "href": "/ca/categories/flooring?page=11"
+      },
+      {
+        "text": "Cabinets\n1609",
+        "href": "/ca/categories/cabinets?page=11"
+      },
+      {
+        "text": "OPPEIN\n1477",
+        "href": "/ca/categories/cabinets-oppein?page=11"
+      },
+      {
+        "text": "Blue Valley\n132",
+        "href": "/ca/categories/cabinets-blue-valley?page=11"
+      }
+    ]
+  },
+  {
+    "path": "/ca/categories/cabinets?page=135",
+    "status": 200,
+    "product_count": 1,
+    "titles": [
+      "2 Drawer Base Cabinet — Gray Single Shaker — PLY-GSS-2DB36"
+    ],
+    "categories": [
+      {
+        "text": "Cabinets",
+        "href": "/ca/categories/cabinets"
+      },
+      {
+        "text": "Tile\n880",
+        "href": "/ca/categories/tile?page=135"
+      },
+      {
+        "text": "Flooring\n503",
+        "href": "/ca/categories/flooring?page=135"
+      },
+      {
+        "text": "Cabinets\n1609",
+        "href": "/ca/categories/cabinets?page=135"
+      },
+      {
+        "text": "OPPEIN\n1477",
+        "href": "/ca/categories/cabinets-oppein?page=135"
+      },
+      {
+        "text": "Blue Valley\n132",
+        "href": "/ca/categories/cabinets-blue-valley?page=135"
+      }
+    ]
+  }
+]

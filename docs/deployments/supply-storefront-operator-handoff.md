@@ -1,5 +1,7 @@
 # Supply storefront deployment handoff — September 10, 2026
 
+**Resolved:** CD applied current main at 00:48:33 UTC. Live category hierarchy and full pagination verified. No further rollout action is needed. The client-ops namespace access limitation remains; provide the intended namespace administration connection separately.
+
 Please check/reconcile the Reno Stars CD controller against the current `Reno-Stars/reno-stars-infra` main branch on Enter OS. The approved commerce update has not reached the running deployments.
 
 - Current infra main at the last check: `a1e77b664e16da15a3ced6d8ff40c5e319f9199f` (PR #223).

@@ -202,8 +202,8 @@ function Viewer({
             value={settings.scene}
             onChange={(e) => update({ scene: e.target.value })}
           >
-            <option value="oak">Warm oak room</option>
-            <option value="stone">Modern stone room</option>
+            <option value="oak">{model.family === "hardware" ? "Oak cabinet door" : "Warm oak room"}</option>
+            <option value="stone">{model.family === "hardware" ? "White shaker door" : "Modern stone room"}</option>
             <option value="studio">Slate studio</option>
           </select>
         </label>
@@ -301,8 +301,7 @@ function Viewer({
       </div>
       {model.dimensions && (
         <p className="mt-3 text-sm text-neutral-600">
-          {model.sku ? "Cabinet body" : "Dimensions"}: {model.dimensions[0]} mm
-          wide × {model.dimensions[1]} mm high × {model.dimensions[2]} mm deep.
+          {model.family === "hardware" ? <>Overall length {model.dimensions[0]} mm × width {model.dimensions[1]} mm × projection {model.dimensions[2]} mm.{model.mountingCentres ? ` Mounting centres: ${model.mountingCentres} mm.` : " Single mounting point."}</> : <>{model.sku ? "Cabinet body" : "Dimensions"}: {model.dimensions[0]} mm wide × {model.dimensions[1]} mm high × {model.dimensions[2]} mm deep.</>}
         </p>
       )}
       <p className="mt-2 text-xs text-neutral-500">

@@ -15,7 +15,7 @@ export class CabinetStage {
  constructor(host,onState,assetBase="./"){
   this.disposed=false;const asset=path=>new URL(path,new URL(assetBase,document.baseURI)).href;
   this.host=host;this.onState=onState;this.mount=0;this.ticket=0;this.loaded=false;this.settings={scene:'oak',light:'daylight',brightness:100,direction:-35};
-  this.renderer=new THREE.WebGLRenderer({antialias:true,preserveDrawingBuffer:true});this.renderer.setPixelRatio(Math.min(devicePixelRatio,2));this.renderer.outputColorSpace=THREE.SRGBColorSpace;this.renderer.toneMapping=THREE.ACESFilmicToneMapping;this.renderer.shadowMap.enabled=true;this.renderer.shadowMap.type=THREE.VSMShadowMap;host.append(this.renderer.domElement);this.renderer.domElement.setAttribute('aria-label','Interactive selected cabinet; drag to rotate and scroll to zoom');this.renderer.domElement.tabIndex=0;
+  this.renderer=new THREE.WebGLRenderer({antialias:true,preserveDrawingBuffer:true});this.renderer.setPixelRatio(Math.min(devicePixelRatio,2));this.renderer.outputColorSpace=THREE.SRGBColorSpace;this.renderer.toneMapping=THREE.ACESFilmicToneMapping;this.renderer.shadowMap.enabled=true;this.renderer.shadowMap.type=THREE.VSMShadowMap;host.append(this.renderer.domElement);this.renderer.domElement.setAttribute('aria-label','Interactive selected product; drag to rotate and scroll to zoom');this.renderer.domElement.tabIndex=0;
   this.scene=new THREE.Scene();this.camera=new THREE.PerspectiveCamera(38,1,.02,60);this.controls=new OrbitControls(this.camera,this.renderer.domElement);this.controls.enableDamping=true;this.controls.enablePan=false;this.controls.minPolarAngle=.18;this.controls.maxPolarAngle=Math.PI/2-.02;
   // Render in linear HDR; apply contact occlusion before the final display transform.
   const target=new THREE.WebGLRenderTarget(1,1,{type:THREE.HalfFloatType,samples:4});
@@ -36,21 +36,22 @@ export class CabinetStage {
  resize(){const w=this.host.clientWidth,h=this.host.clientHeight;if(!w||!h)return;this.camera.aspect=w/h;this.camera.updateProjectionMatrix();this.renderer.setSize(w,h);this.composer.setSize(w,h);const dpr=this.renderer.getPixelRatio();this.fxaa.uniforms.resolution.value.set(1/(w*dpr),1/(h*dpr));this.needsRender=true;}
  render(){if(this.disposed)return;this.composer.render();this.needsRender=false}
  async load(product){
-  const ticket=++this.ticket;this.loaded=false;this.host.dataset.loaded='false';this.onState('Loading cabinet…');
+  const ticket=++this.ticket;this.loaded=false;this.host.dataset.loaded='false';this.onState('Loading product…');
   try{const gltf=await new GLTFLoader().loadAsync(product.model_url);if(ticket!==this.ticket){disposeTree(gltf.scene);return;}
    if(this.cabinet){this.scene.remove(this.cabinet);disposeTree(this.cabinet)}this.product=product;this.cabinet=gltf.scene;
-   const bounds=new THREE.Box3().setFromObject(this.cabinet);this.size=bounds.getSize(new THREE.Vector3());this.mount=product.family==='wall'?1.45:0;
+   const bounds=new THREE.Box3().setFromObject(this.cabinet);this.size=bounds.getSize(new THREE.Vector3());this.hardware=product.family==='hardware';this.renderer.shadowMap.type=this.hardware?THREE.PCFSoftShadowMap:THREE.VSMShadowMap;this.mount=this.hardware?1:product.family==='wall'?1.45:0;this.camera.near=this.hardware?.001:.02;this.camera.updateProjectionMatrix();this.ao.enabled=!this.hardware;const extent=this.hardware?Math.max(.18,this.size.x):2.5;Object.assign(this.key.shadow.camera,{left:-extent,right:extent,top:this.hardware?extent:3.5,bottom:-extent});this.key.shadow.camera.updateProjectionMatrix();this.key.shadow.normalBias=this.hardware?.00008:.0015;this.key.shadow.radius=this.hardware?3:12;
    this.cabinet.position.set(-(bounds.min.x+bounds.max.x)/2,-bounds.min.y+this.mount,-(bounds.min.z+bounds.max.z)/2);
    const replacements=new Map();this.cabinet.traverse(o=>{if(o.isMesh){o.castShadow=true;o.receiveShadow=false;
     const upgrade=original=>{if(!replacements.has(original))replacements.set(original,this.finishMaterial(original));return replacements.get(original)};
     o.material=Array.isArray(o.material)?o.material.map(upgrade):upgrade(o.material);
    }});for(const material of replacements.keys())material.dispose();this.scene.add(this.cabinet);this.buildRoom();this.resetView();this.applyLighting();this.loaded=true;this.host.dataset.loaded='true';this.host.dataset.sku=product.sku;this.onState('Drag to rotate · Scroll or pinch to zoom');
-  }catch(error){if(ticket===this.ticket){this.host.dataset.loaded='error';this.onState('Could not load this cabinet. Select it again to retry.');console.error(error);}}
+  }catch(error){if(ticket===this.ticket){this.host.dataset.loaded='error';this.onState('Could not load this product. Select it again to retry.');console.error(error);}}
  }
  finishMaterial(original){
   const m=new THREE.MeshPhysicalMaterial();if(original.isMeshPhysicalMaterial)m.copy(original);else THREE.MeshStandardMaterial.prototype.copy.call(m,original);
   if(/satin white/i.test(m.name)){m.color.setRGB(.78,.785,.78);m.roughness=.30;m.ior=1.46;m.clearcoat=.16;m.clearcoatRoughness=.38;this.surfaceDetail(m,1800,.055);}
   else if(/plywood/i.test(m.name)){m.roughness=.48;this.surfaceDetail(m,110,.09);}
+  else if(/Eurofit finish/i.test(m.name)){this.surfaceDetail(m,6000,.012);}
   else if(/hardware/i.test(m.name)){m.metalness=.9;m.roughness=.26;}
   return m;
  }
@@ -82,6 +83,7 @@ export class CabinetStage {
  }
  buildRoom(){
   disposeTree(this.room);this.room.clear();if(!this.size)return;const kind=this.settings.scene;const back=-this.size.z/2-.035;const roomHeight=Math.max(3.15,this.size.y+this.mount+.35);
+  if(this.hardware){this.buildHardwareRoom(kind,back);return;}
   const bg=kind==='studio'?0x727985:kind==='oak'?0xc3b8a8:0x888d90;this.scene.background=new THREE.Color(bg);this.scene.fog=new THREE.Fog(bg,9,22);
   const floorMat=this.material(kind==='studio'?0x646b75:kind==='oak'?0x665241:0xa8a69f,.62,{});
   const floor=new THREE.Mesh(new THREE.PlaneGeometry(30,30),floorMat);floor.name='Presentation floor';floor.rotation.x=-Math.PI/2;floor.position.y=-.005;floor.receiveShadow=true;this.room.add(floor);if(kind==='oak')this.oakFloor();else if(kind==='stone')this.surfaceDetail(floorMat,140,.18);
@@ -104,13 +106,27 @@ export class CabinetStage {
   const foliage=this.material(0x344a2a,.44,{side:THREE.DoubleSide});const stem=this.material(0x5b5140,.8);
   for(let i=0;i<9;i++){const angle=i*2.4;const y=.40+i*.024;const leafGeometry=new THREE.PlaneGeometry(.20,.085,16,8);const points=leafGeometry.attributes.position;for(let v=0;v<points.count;v++){const x=points.getX(v),y=points.getY(v);const taper=Math.sqrt(Math.max(0,1-(x/.1)**2));points.setXYZ(v,x,y*taper,.018*(x/.1)**2-.009*Math.abs(y/.0425));}leafGeometry.computeVertexNormals();const leaf=new THREE.Mesh(leafGeometry,foliage);leaf.rotation.x=-Math.PI/2;leaf.position.set(px+Math.cos(angle)*.16,y,pz+Math.sin(angle)*.13);leaf.rotation.set(.3,angle,.45);leaf.castShadow=true;this.room.add(leaf);const twig=new THREE.Mesh(new THREE.CylinderGeometry(.003,.004,y-.2,8),stem);twig.position.set(px,(y+.20)/2,pz);this.room.add(twig);}
  }
+ buildHardwareRoom(kind,back){
+  const bg=kind==='studio'?0x626b77:kind==='oak'?0xb7a590:0xb8b9b6;this.scene.background=new THREE.Color(bg);this.scene.fog=null;
+  this.controls.minAzimuthAngle=kind==='studio'?-Infinity:-Math.PI*.44;this.controls.maxAzimuthAngle=kind==='studio'?Infinity:Math.PI*.44;
+  if(kind==='studio')return;
+  const front=-this.size.z/2-.0002,cy=this.mount+this.size.y/2,w=Math.max(.48,this.size.x+.16),h=Math.max(.48,this.size.y+.25);
+  const finish=kind==='oak'?this.material(0xc6b399,.40,{map:this.oak,roughnessMap:this.oakRoughness}):this.material(0xe0e1df,.32);
+  this.box('Cabinet door presentation panel',0,cy,front-.009,w,h,.018,finish).castShadow=false;
+  const edge=kind==='oak'?this.material(0x806346,.48):finish;this.box('Adjacent cabinet door',w+.003,cy,front-.009,w,h,.018,edge).castShadow=false;
+  if(kind==='stone'){
+   const rim=.055;
+   for(const y of [cy-h/2+rim/2,cy+h/2-rim/2])this.box('Shaker rail',0,y,front+.001,w,rim,.002,finish);
+   for(const x of [-w/2+rim/2,w/2-rim/2])this.box('Shaker stile',x,cy,front+.001,rim,h,.002,finish);
+  }
+ }
  setSettings(settings){const old=this.settings.scene;this.settings={...this.settings,...settings};if(old!==this.settings.scene){this.buildRoom();if(this.settings.scene!=='studio'&&Math.abs(this.controls.getAzimuthalAngle())>Math.PI*.46)this.resetView();}this.applyLighting();}
  applyLighting(){
   const presets={daylight:{key:2.2,fill:.12,hemi:.22,rim:.3,color:0xfff8ef,env:.38},studio:{key:1.9,fill:.30,hemi:.25,rim:.5,color:0xffffff,env:.48},evening:{key:1.65,fill:.22,hemi:.22,rim:.35,color:0xffddb5,env:.45}};
   const p=presets[this.settings.light]||presets.daylight;const t=this.settings.direction*Math.PI/180;const targetY=this.mount+(this.size?.y||1)*.5;
-  this.key.position.set(Math.sin(t)*4,targetY+3.5,Math.cos(t)*4);this.key.target.position.set(0,targetY,0);this.key.color.setHex(p.color);this.key.intensity=p.key*.78;this.softbox.position.set(Math.sin(t)*3,targetY+1.5,Math.cos(t)*3);this.softbox.lookAt(0,targetY,0);this.softbox.color.setHex(p.color);this.softbox.intensity=this.settings.light==='studio'?3:1.5;this.fill.intensity=p.fill;this.hemi.intensity=p.hemi;this.rim.intensity=p.rim;this.scene.environmentIntensity=p.env;this.scene.environmentRotation.y=t;this.renderer.toneMappingExposure=this.settings.brightness/100;this.needsRender=true;
+  this.key.position.set(Math.sin(t)*4,targetY+3.5,Math.cos(t)*4);this.key.target.position.set(0,targetY,0);this.key.color.setHex(p.color);this.key.intensity=p.key*.78;this.softbox.position.set(Math.sin(t)*3,targetY+1.5,Math.cos(t)*3);this.softbox.lookAt(0,targetY,0);this.softbox.color.setHex(p.color);this.softbox.intensity=this.settings.light==='studio'?3:1.5;this.fill.intensity=p.fill;this.hemi.intensity=p.hemi;this.rim.intensity=p.rim;this.scene.environmentIntensity=this.hardware?p.env*1.6:p.env;this.scene.environmentRotation.y=t;this.renderer.toneMappingExposure=this.settings.brightness/100;this.needsRender=true;
  }
- resetView(){if(!this.size)return;const target=new THREE.Vector3(0,this.mount+this.size.y*.48,0);const span=Math.max(this.size.y,this.size.x/Math.max(.7,this.camera.aspect),this.size.z, .65);this.controls.target.copy(target);this.camera.position.copy(target).add(new THREE.Vector3(span*1.15,span*.65,span*1.95));this.controls.minDistance=span*.7;this.controls.maxDistance=span*4.5;this.controls.update();}
+ resetView(){if(!this.size)return;const target=new THREE.Vector3(0,this.mount+this.size.y*.48,0);const span=Math.max(this.size.y,this.size.x/Math.max(.7,this.camera.aspect),this.size.z, this.hardware?.035:.65);this.controls.target.copy(target);this.camera.position.copy(target).add(new THREE.Vector3(span*(this.hardware?1.10:1.15),span*(this.hardware?.85:.65),span*(this.hardware?1.95:1.95)));this.controls.minDistance=span*.7;this.controls.maxDistance=span*4.5;this.controls.update();}
  screenshot(){this.render();return this.renderer.domElement.toDataURL('image/png')}
  dispose(){this.disposed=true;++this.ticket;cancelAnimationFrame(this.frame);this.resizeObserver.disconnect();this.intersection.disconnect();this.controls.dispose();disposeTree(this.room);if(this.cabinet)disposeTree(this.cabinet);this.oak.dispose();this.oakRoughness.dispose();this.ao.dispose();this.output.dispose();this.fxaa.dispose();this.composer.dispose();this.environment?.dispose();this.pmrem.dispose();this.renderer.dispose();}
 }

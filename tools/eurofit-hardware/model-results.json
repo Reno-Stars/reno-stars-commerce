@@ -1,0 +1,6514 @@
+[
+  {
+    "id": "eurofit-h-002-96bss",
+    "profile": "tube_bend",
+    "envelope_mm": [
+      103.0,
+      8.0,
+      30.0
+    ],
+    "expected_mm": [
+      103.0,
+      8.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 104168
+  },
+  {
+    "id": "eurofit-h-002-96cp",
+    "profile": "tube_bend",
+    "envelope_mm": [
+      103.0,
+      8.0,
+      30.0
+    ],
+    "expected_mm": [
+      103.0,
+      8.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 104144
+  },
+  {
+    "id": "eurofit-h-002-128bss",
+    "profile": "tube_bend",
+    "envelope_mm": [
+      135.0,
+      8.0,
+      30.0
+    ],
+    "expected_mm": [
+      135.0,
+      8.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 104168
+  },
+  {
+    "id": "eurofit-h-002-128cp",
+    "profile": "tube_bend",
+    "envelope_mm": [
+      135.0,
+      8.0,
+      30.0
+    ],
+    "expected_mm": [
+      135.0,
+      8.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 104148
+  },
+  {
+    "id": "eurofit-h-009-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      165.0,
+      14.9282,
+      25.0
+    ],
+    "expected_mm": [
+      165.0,
+      15.0,
+      25.0
+    ],
+    "max_error_mm": 0.0718,
+    "bytes": 138216
+  },
+  {
+    "id": "eurofit-h-009-128bn",
+    "profile": "bow",
+    "envelope_mm": [
+      165.0,
+      14.9282,
+      25.0
+    ],
+    "expected_mm": [
+      165.0,
+      15.0,
+      25.0
+    ],
+    "max_error_mm": 0.0718,
+    "bytes": 138216
+  },
+  {
+    "id": "eurofit-h-017-96bss",
+    "profile": "bow",
+    "envelope_mm": [
+      108.0,
+      19.0,
+      21.0
+    ],
+    "expected_mm": [
+      108.0,
+      19.0,
+      21.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 133940
+  },
+  {
+    "id": "eurofit-h-017-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      140.0,
+      19.0,
+      21.0
+    ],
+    "expected_mm": [
+      140.0,
+      19.0,
+      21.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 136160
+  },
+  {
+    "id": "eurofit-h-017-160bss",
+    "profile": "bow",
+    "envelope_mm": [
+      172.0,
+      19.0,
+      21.0
+    ],
+    "expected_mm": [
+      172.0,
+      19.0,
+      21.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 133668
+  },
+  {
+    "id": "eurofit-h-019-128",
+    "profile": "round_rail",
+    "envelope_mm": [
+      165.0,
+      14.0,
+      37.0
+    ],
+    "expected_mm": [
+      165.0,
+      14.0,
+      37.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 116704
+  },
+  {
+    "id": "eurofit-h-019-160",
+    "profile": "round_rail",
+    "envelope_mm": [
+      195.0,
+      14.0,
+      37.0
+    ],
+    "expected_mm": [
+      195.0,
+      14.0,
+      37.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 116704
+  },
+  {
+    "id": "eurofit-h-019-224",
+    "profile": "round_rail",
+    "envelope_mm": [
+      260.0,
+      14.0,
+      37.0
+    ],
+    "expected_mm": [
+      260.0,
+      14.0,
+      37.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 116696
+  },
+  {
+    "id": "eurofit-h-019-256",
+    "profile": "round_rail",
+    "envelope_mm": [
+      290.0,
+      14.0,
+      37.0
+    ],
+    "expected_mm": [
+      290.0,
+      14.0,
+      37.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 116704
+  },
+  {
+    "id": "eurofit-h-019-320",
+    "profile": "round_rail",
+    "envelope_mm": [
+      355.0,
+      14.0,
+      37.0
+    ],
+    "expected_mm": [
+      355.0,
+      14.0,
+      37.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 116696
+  },
+  {
+    "id": "eurofit-h-022-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      136.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      136.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71104
+  },
+  {
+    "id": "eurofit-h-022-128cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      136.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      136.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71084
+  },
+  {
+    "id": "eurofit-h-022-128orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      136.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      136.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71140
+  },
+  {
+    "id": "eurofit-h-022-128sb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      136.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      136.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71100
+  },
+  {
+    "id": "eurofit-h-022-128bk",
+    "profile": "rect_u",
+    "envelope_mm": [
+      136.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      136.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71136
+  },
+  {
+    "id": "eurofit-h-022-160bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      168.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      168.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69856
+  },
+  {
+    "id": "eurofit-h-022-160cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      168.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      168.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69836
+  },
+  {
+    "id": "eurofit-h-022-160orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      168.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      168.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69892
+  },
+  {
+    "id": "eurofit-h-022-160sb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      168.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      168.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69852
+  },
+  {
+    "id": "eurofit-h-022-160bk",
+    "profile": "rect_u",
+    "envelope_mm": [
+      168.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      168.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69888
+  },
+  {
+    "id": "eurofit-h-022-224bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      232.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      232.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68188
+  },
+  {
+    "id": "eurofit-h-022-224cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      232.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      232.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68168
+  },
+  {
+    "id": "eurofit-h-022-224orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      232.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      232.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68224
+  },
+  {
+    "id": "eurofit-h-022-224sb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      232.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      232.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68184
+  },
+  {
+    "id": "eurofit-h-022-224bk",
+    "profile": "rect_u",
+    "envelope_mm": [
+      232.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      232.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68220
+  },
+  {
+    "id": "eurofit-h-022-320bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      328.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      328.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69016
+  },
+  {
+    "id": "eurofit-h-022-320cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      328.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      328.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68996
+  },
+  {
+    "id": "eurofit-h-022-320orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      328.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      328.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69052
+  },
+  {
+    "id": "eurofit-h-022-320sb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      328.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      328.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69012
+  },
+  {
+    "id": "eurofit-h-022-320bk",
+    "profile": "rect_u",
+    "envelope_mm": [
+      328.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      328.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69048
+  },
+  {
+    "id": "eurofit-h-022-416bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      424.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      424.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70496
+  },
+  {
+    "id": "eurofit-h-022-416cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      424.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      424.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70476
+  },
+  {
+    "id": "eurofit-h-022-416orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      424.0,
+      14.0,
+      31.0
+    ],
+    "expected_mm": [
+      424.0,
+      14.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70532
+  },
+  {
+    "id": "eurofit-h-033-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      135.0,
+      12.0,
+      26.0
+    ],
+    "expected_mm": [
+      135.0,
+      12.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71488
+  },
+  {
+    "id": "eurofit-h-033-128cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      135.0,
+      12.0,
+      26.0
+    ],
+    "expected_mm": [
+      135.0,
+      12.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71464
+  },
+  {
+    "id": "eurofit-h-033-160bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      171.0,
+      12.0,
+      26.0
+    ],
+    "expected_mm": [
+      171.0,
+      12.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70272
+  },
+  {
+    "id": "eurofit-h-033-160cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      171.0,
+      12.0,
+      26.0
+    ],
+    "expected_mm": [
+      171.0,
+      12.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70248
+  },
+  {
+    "id": "eurofit-h-033-192bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      200.0,
+      12.0,
+      26.0
+    ],
+    "expected_mm": [
+      200.0,
+      12.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68160
+  },
+  {
+    "id": "eurofit-h-033-192cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      200.0,
+      12.0,
+      26.0
+    ],
+    "expected_mm": [
+      200.0,
+      12.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68136
+  },
+  {
+    "id": "eurofit-h-033-224bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      230.0,
+      12.0,
+      26.0
+    ],
+    "expected_mm": [
+      230.0,
+      12.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68764
+  },
+  {
+    "id": "eurofit-h-033-224cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      230.0,
+      12.0,
+      26.0
+    ],
+    "expected_mm": [
+      230.0,
+      12.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68740
+  },
+  {
+    "id": "eurofit-h-033-320bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      326.0,
+      12.0,
+      26.0
+    ],
+    "expected_mm": [
+      326.0,
+      12.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67740
+  },
+  {
+    "id": "eurofit-h-033-320cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      326.0,
+      12.0,
+      26.0
+    ],
+    "expected_mm": [
+      326.0,
+      12.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67716
+  },
+  {
+    "id": "eurofit-h-033-416bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      424.0,
+      12.0,
+      26.0
+    ],
+    "expected_mm": [
+      424.0,
+      12.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69152
+  },
+  {
+    "id": "eurofit-h-048-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      157.0,
+      12.9346,
+      27.0
+    ],
+    "expected_mm": [
+      157.0,
+      13.0,
+      27.0
+    ],
+    "max_error_mm": 0.0654,
+    "bytes": 134316
+  },
+  {
+    "id": "eurofit-h-048-192bss",
+    "profile": "bow",
+    "envelope_mm": [
+      227.0,
+      12.9547,
+      27.0
+    ],
+    "expected_mm": [
+      227.0,
+      13.0,
+      27.0
+    ],
+    "max_error_mm": 0.0453,
+    "bytes": 139280
+  },
+  {
+    "id": "eurofit-h-064-128bss",
+    "profile": "round_rail",
+    "envelope_mm": [
+      194.0,
+      11.0,
+      28.0
+    ],
+    "expected_mm": [
+      194.0,
+      11.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71684
+  },
+  {
+    "id": "eurofit-h-064-192bss",
+    "profile": "round_rail",
+    "envelope_mm": [
+      257.0,
+      11.0,
+      28.0
+    ],
+    "expected_mm": [
+      257.0,
+      11.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71684
+  },
+  {
+    "id": "eurofit-h-068-128bn",
+    "profile": "bow",
+    "envelope_mm": [
+      153.0,
+      13.9277,
+      28.0
+    ],
+    "expected_mm": [
+      153.0,
+      14.0,
+      28.0
+    ],
+    "max_error_mm": 0.0723,
+    "bytes": 139388
+  },
+  {
+    "id": "eurofit-h-068-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      153.0,
+      13.9277,
+      28.0
+    ],
+    "expected_mm": [
+      153.0,
+      14.0,
+      28.0
+    ],
+    "max_error_mm": 0.0723,
+    "bytes": 139392
+  },
+  {
+    "id": "eurofit-h-068-96bn",
+    "profile": "bow",
+    "envelope_mm": [
+      124.0,
+      13.9109,
+      28.0
+    ],
+    "expected_mm": [
+      124.0,
+      14.0,
+      28.0
+    ],
+    "max_error_mm": 0.0891,
+    "bytes": 138524
+  },
+  {
+    "id": "eurofit-h-068-96bss",
+    "profile": "bow",
+    "envelope_mm": [
+      124.0,
+      13.9109,
+      28.0
+    ],
+    "expected_mm": [
+      124.0,
+      14.0,
+      28.0
+    ],
+    "max_error_mm": 0.0891,
+    "bytes": 138524
+  },
+  {
+    "id": "eurofit-h-101-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      135.0,
+      21.0,
+      25.0
+    ],
+    "expected_mm": [
+      135.0,
+      21.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67700
+  },
+  {
+    "id": "eurofit-h-101-320bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      328.0,
+      21.0,
+      25.0
+    ],
+    "expected_mm": [
+      328.0,
+      21.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 63372
+  },
+  {
+    "id": "eurofit-h-101-416bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      428.0,
+      21.0,
+      25.0
+    ],
+    "expected_mm": [
+      428.0,
+      21.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68500
+  },
+  {
+    "id": "eurofit-h-108-96bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      135.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      135.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67092
+  },
+  {
+    "id": "eurofit-h-108-96sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      135.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      135.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67088
+  },
+  {
+    "id": "eurofit-h-108-96bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      135.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      135.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67124
+  },
+  {
+    "id": "eurofit-h-108-128bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      155.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      155.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66584
+  },
+  {
+    "id": "eurofit-h-108-128sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      155.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      155.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66580
+  },
+  {
+    "id": "eurofit-h-108-128bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      155.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      155.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66616
+  },
+  {
+    "id": "eurofit-h-108-128cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      155.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      155.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66560
+  },
+  {
+    "id": "eurofit-h-108-160bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      187.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      187.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65880
+  },
+  {
+    "id": "eurofit-h-108-160sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      187.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      187.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65876
+  },
+  {
+    "id": "eurofit-h-108-160bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      187.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      187.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65912
+  },
+  {
+    "id": "eurofit-h-108-160cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      187.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      187.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65856
+  },
+  {
+    "id": "eurofit-h-108-192bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      220.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      220.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66552
+  },
+  {
+    "id": "eurofit-h-108-224bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      253.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      253.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65936
+  },
+  {
+    "id": "eurofit-h-108-224sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      253.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      253.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65932
+  },
+  {
+    "id": "eurofit-h-108-224bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      253.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      253.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65968
+  },
+  {
+    "id": "eurofit-h-108-224cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      253.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      253.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65916
+  },
+  {
+    "id": "eurofit-h-108-320bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      348.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      348.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66036
+  },
+  {
+    "id": "eurofit-h-108-320sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      348.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      348.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66032
+  },
+  {
+    "id": "eurofit-h-108-320bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      348.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      348.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66068
+  },
+  {
+    "id": "eurofit-h-108-320cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      348.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      348.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66012
+  },
+  {
+    "id": "eurofit-h-108-416bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      445.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      445.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66228
+  },
+  {
+    "id": "eurofit-h-108-416cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      445.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      445.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66208
+  },
+  {
+    "id": "eurofit-h-108-192sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      220.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      220.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66516
+  },
+  {
+    "id": "eurofit-h-108-192bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      220.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      220.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66520
+  },
+  {
+    "id": "eurofit-h-151-160bss",
+    "profile": "bow",
+    "envelope_mm": [
+      195.0,
+      28.0,
+      29.0
+    ],
+    "expected_mm": [
+      195.0,
+      28.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 126248
+  },
+  {
+    "id": "eurofit-h-201-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      135.0,
+      20.0,
+      33.0
+    ],
+    "expected_mm": [
+      135.0,
+      20.0,
+      33.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 137508
+  },
+  {
+    "id": "eurofit-h-201-160bss",
+    "profile": "bow",
+    "envelope_mm": [
+      168.0,
+      20.0,
+      33.0
+    ],
+    "expected_mm": [
+      168.0,
+      20.0,
+      33.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 137168
+  },
+  {
+    "id": "eurofit-h-201-224bss",
+    "profile": "bow",
+    "envelope_mm": [
+      232.0,
+      20.0,
+      33.0
+    ],
+    "expected_mm": [
+      232.0,
+      20.0,
+      33.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 144396
+  },
+  {
+    "id": "eurofit-h-201-320bss",
+    "profile": "bow",
+    "envelope_mm": [
+      325.0,
+      20.0,
+      33.0
+    ],
+    "expected_mm": [
+      325.0,
+      20.0,
+      33.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 141768
+  },
+  {
+    "id": "eurofit-h-201-416bss",
+    "profile": "bow",
+    "envelope_mm": [
+      420.0,
+      20.0,
+      33.0
+    ],
+    "expected_mm": [
+      420.0,
+      20.0,
+      33.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 138132
+  },
+  {
+    "id": "eurofit-h-208-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      135.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      135.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 137448
+  },
+  {
+    "id": "eurofit-h-208-160bss",
+    "profile": "bow",
+    "envelope_mm": [
+      165.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      165.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 138128
+  },
+  {
+    "id": "eurofit-h-208-224bss",
+    "profile": "bow",
+    "envelope_mm": [
+      231.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      231.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 144500
+  },
+  {
+    "id": "eurofit-h-208-320bss",
+    "profile": "bow",
+    "envelope_mm": [
+      327.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      327.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 142672
+  },
+  {
+    "id": "eurofit-h-208-416bss",
+    "profile": "bow",
+    "envelope_mm": [
+      425.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      425.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 133988
+  },
+  {
+    "id": "eurofit-h-213-160bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      179.0,
+      14.0,
+      17.0
+    ],
+    "expected_mm": [
+      179.0,
+      14.0,
+      17.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68448
+  },
+  {
+    "id": "eurofit-h-213-160cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      179.0,
+      14.0,
+      17.0
+    ],
+    "expected_mm": [
+      179.0,
+      14.0,
+      17.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68424
+  },
+  {
+    "id": "eurofit-h-213-320bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      339.0,
+      14.0,
+      17.0
+    ],
+    "expected_mm": [
+      339.0,
+      14.0,
+      17.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67516
+  },
+  {
+    "id": "eurofit-h-213-320cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      339.0,
+      14.0,
+      17.0
+    ],
+    "expected_mm": [
+      339.0,
+      14.0,
+      17.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67492
+  },
+  {
+    "id": "eurofit-h-2205-242bss",
+    "profile": "bow",
+    "envelope_mm": [
+      245.0,
+      40.0,
+      26.0
+    ],
+    "expected_mm": [
+      245.0,
+      40.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 131368
+  },
+  {
+    "id": "eurofit-h-2205-242cp",
+    "profile": "bow",
+    "envelope_mm": [
+      245.0,
+      40.0,
+      26.0
+    ],
+    "expected_mm": [
+      245.0,
+      40.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 131344
+  },
+  {
+    "id": "eurofit-h-254-128bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      182.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      182.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68624
+  },
+  {
+    "id": "eurofit-h-254-128bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      182.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      182.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68656
+  },
+  {
+    "id": "eurofit-h-254-128sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      182.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      182.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68620
+  },
+  {
+    "id": "eurofit-h-254-128cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      182.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      182.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68600
+  },
+  {
+    "id": "eurofit-h-254-160bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      219.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      219.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67568
+  },
+  {
+    "id": "eurofit-h-254-160sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      219.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      219.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67564
+  },
+  {
+    "id": "eurofit-h-254-160cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      219.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      219.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67544
+  },
+  {
+    "id": "eurofit-h-254-160bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      219.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      219.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67600
+  },
+  {
+    "id": "eurofit-h-254-224bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      282.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      282.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67052
+  },
+  {
+    "id": "eurofit-h-254-224cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      282.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      282.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67028
+  },
+  {
+    "id": "eurofit-h-254-224bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      282.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      282.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67084
+  },
+  {
+    "id": "eurofit-h-254-320bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      372.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      372.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66636
+  },
+  {
+    "id": "eurofit-h-254-320sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      372.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      372.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66632
+  },
+  {
+    "id": "eurofit-h-254-320cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      372.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      372.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66612
+  },
+  {
+    "id": "eurofit-h-254-320bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      372.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      372.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66664
+  },
+  {
+    "id": "eurofit-h-254-416bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      474.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      474.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68176
+  },
+  {
+    "id": "eurofit-h-254-416cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      474.0,
+      8.0,
+      28.0
+    ],
+    "expected_mm": [
+      474.0,
+      8.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68152
+  },
+  {
+    "id": "eurofit-h-301-128",
+    "profile": "rect_u",
+    "envelope_mm": [
+      132.0,
+      16.0,
+      29.0
+    ],
+    "expected_mm": [
+      132.0,
+      16.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69576
+  },
+  {
+    "id": "eurofit-h-301-160",
+    "profile": "rect_u",
+    "envelope_mm": [
+      164.0,
+      16.0,
+      29.0
+    ],
+    "expected_mm": [
+      164.0,
+      16.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68936
+  },
+  {
+    "id": "eurofit-h-301-192",
+    "profile": "rect_u",
+    "envelope_mm": [
+      198.0,
+      16.0,
+      29.0
+    ],
+    "expected_mm": [
+      198.0,
+      16.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66188
+  },
+  {
+    "id": "eurofit-h-301-256",
+    "profile": "rect_u",
+    "envelope_mm": [
+      261.0,
+      16.0,
+      29.0
+    ],
+    "expected_mm": [
+      261.0,
+      16.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68364
+  },
+  {
+    "id": "eurofit-h-303-160bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      167.0,
+      16.0,
+      38.0
+    ],
+    "expected_mm": [
+      167.0,
+      16.0,
+      38.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 92036
+  },
+  {
+    "id": "eurofit-h-303-160cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      167.0,
+      16.0,
+      38.0
+    ],
+    "expected_mm": [
+      167.0,
+      16.0,
+      38.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 92012
+  },
+  {
+    "id": "eurofit-h-324-128aih",
+    "profile": "bow",
+    "envelope_mm": [
+      137.0,
+      19.0,
+      38.0
+    ],
+    "expected_mm": [
+      137.0,
+      19.0,
+      38.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 137916
+  },
+  {
+    "id": "eurofit-h-324-128orb",
+    "profile": "bow",
+    "envelope_mm": [
+      137.0,
+      19.0,
+      38.0
+    ],
+    "expected_mm": [
+      137.0,
+      19.0,
+      38.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 137952
+  },
+  {
+    "id": "eurofit-h-324-224orb",
+    "profile": "bow",
+    "envelope_mm": [
+      236.0,
+      19.0,
+      38.0
+    ],
+    "expected_mm": [
+      236.0,
+      19.0,
+      38.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 131432
+  },
+  {
+    "id": "eurofit-h-324-320orb",
+    "profile": "bow",
+    "envelope_mm": [
+      332.0,
+      19.0,
+      38.0
+    ],
+    "expected_mm": [
+      332.0,
+      19.0,
+      38.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 132248
+  },
+  {
+    "id": "eurofit-h-324-416orb",
+    "profile": "bow",
+    "envelope_mm": [
+      428.0,
+      19.0,
+      38.0
+    ],
+    "expected_mm": [
+      428.0,
+      19.0,
+      38.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 133284
+  },
+  {
+    "id": "eurofit-h-344-128aih",
+    "profile": "rect_u",
+    "envelope_mm": [
+      136.0,
+      17.0,
+      36.0
+    ],
+    "expected_mm": [
+      136.0,
+      17.0,
+      36.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 109872
+  },
+  {
+    "id": "eurofit-h-344-128orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      136.0,
+      17.0,
+      36.0
+    ],
+    "expected_mm": [
+      136.0,
+      17.0,
+      36.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 109908
+  },
+  {
+    "id": "eurofit-h-355-128bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66972
+  },
+  {
+    "id": "eurofit-h-355-128sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66968
+  },
+  {
+    "id": "eurofit-h-355-128cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66948
+  },
+  {
+    "id": "eurofit-h-355-128orb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67008
+  },
+  {
+    "id": "eurofit-h-355-160sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      192.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      192.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66232
+  },
+  {
+    "id": "eurofit-h-355-128mbc",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67016
+  },
+  {
+    "id": "eurofit-h-355-128bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      159.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67004
+  },
+  {
+    "id": "eurofit-h-355-160bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      192.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      192.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66236
+  },
+  {
+    "id": "eurofit-h-355-160bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      192.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      192.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66268
+  },
+  {
+    "id": "eurofit-h-355-160cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      192.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      192.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66216
+  },
+  {
+    "id": "eurofit-h-355-192bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      222.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      222.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65756
+  },
+  {
+    "id": "eurofit-h-355-192bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      222.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      222.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65788
+  },
+  {
+    "id": "eurofit-h-355-192sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      222.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      222.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65752
+  },
+  {
+    "id": "eurofit-h-355-224bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65048
+  },
+  {
+    "id": "eurofit-h-355-224cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65028
+  },
+  {
+    "id": "eurofit-h-355-224orb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65084
+  },
+  {
+    "id": "eurofit-h-355-224sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65044
+  },
+  {
+    "id": "eurofit-h-355-224mbc",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65096
+  },
+  {
+    "id": "eurofit-h-355-224bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      256.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65080
+  },
+  {
+    "id": "eurofit-h-355-320bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65240
+  },
+  {
+    "id": "eurofit-h-355-320cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65220
+  },
+  {
+    "id": "eurofit-h-355-320orb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65276
+  },
+  {
+    "id": "eurofit-h-355-320sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65236
+  },
+  {
+    "id": "eurofit-h-355-320mbc",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65288
+  },
+  {
+    "id": "eurofit-h-355-320bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      350.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65272
+  },
+  {
+    "id": "eurofit-h-355-416bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      446.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      446.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65276
+  },
+  {
+    "id": "eurofit-h-355-96bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      127.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      127.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 64604
+  },
+  {
+    "id": "eurofit-h-355-96sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      127.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      127.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 64600
+  },
+  {
+    "id": "eurofit-h-355-96bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      127.0,
+      10.0,
+      28.0
+    ],
+    "expected_mm": [
+      127.0,
+      10.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 64632
+  },
+  {
+    "id": "eurofit-h-359-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      140.0,
+      15.0,
+      26.0
+    ],
+    "expected_mm": [
+      140.0,
+      15.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 133316
+  },
+  {
+    "id": "eurofit-h-359-128as",
+    "profile": "bow",
+    "envelope_mm": [
+      140.0,
+      15.0,
+      26.0
+    ],
+    "expected_mm": [
+      140.0,
+      15.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 133316
+  },
+  {
+    "id": "eurofit-h-359-128orb",
+    "profile": "bow",
+    "envelope_mm": [
+      140.0,
+      15.0,
+      26.0
+    ],
+    "expected_mm": [
+      140.0,
+      15.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 133352
+  },
+  {
+    "id": "eurofit-h-359-128bk",
+    "profile": "bow",
+    "envelope_mm": [
+      140.0,
+      15.0,
+      26.0
+    ],
+    "expected_mm": [
+      140.0,
+      15.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 133348
+  },
+  {
+    "id": "eurofit-h-401-416",
+    "profile": "rect_u",
+    "envelope_mm": [
+      428.0,
+      12.0,
+      31.0
+    ],
+    "expected_mm": [
+      428.0,
+      12.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71796
+  },
+  {
+    "id": "eurofit-h-401-608",
+    "profile": "rect_u",
+    "envelope_mm": [
+      620.0,
+      12.0,
+      31.0
+    ],
+    "expected_mm": [
+      620.0,
+      12.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 72720
+  },
+  {
+    "id": "eurofit-h-444-128bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      155.0,
+      12.0,
+      35.0
+    ],
+    "expected_mm": [
+      155.0,
+      12.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69108
+  },
+  {
+    "id": "eurofit-h-444-128cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      155.0,
+      12.0,
+      35.0
+    ],
+    "expected_mm": [
+      155.0,
+      12.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69084
+  },
+  {
+    "id": "eurofit-h-444-160bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      190.0,
+      12.0,
+      35.0
+    ],
+    "expected_mm": [
+      190.0,
+      12.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68880
+  },
+  {
+    "id": "eurofit-h-444-160cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      190.0,
+      12.0,
+      35.0
+    ],
+    "expected_mm": [
+      190.0,
+      12.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68856
+  },
+  {
+    "id": "eurofit-h-444-224bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      250.0,
+      12.0,
+      35.0
+    ],
+    "expected_mm": [
+      250.0,
+      12.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67636
+  },
+  {
+    "id": "eurofit-h-444-224cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      250.0,
+      12.0,
+      35.0
+    ],
+    "expected_mm": [
+      250.0,
+      12.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67612
+  },
+  {
+    "id": "eurofit-h-444-320bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      348.0,
+      12.0,
+      35.0
+    ],
+    "expected_mm": [
+      348.0,
+      12.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67728
+  },
+  {
+    "id": "eurofit-h-444-416bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      444.0,
+      12.0,
+      35.0
+    ],
+    "expected_mm": [
+      444.0,
+      12.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68852
+  },
+  {
+    "id": "eurofit-h-448-128bss",
+    "profile": "oval_plate",
+    "envelope_mm": [
+      140.0,
+      23.0,
+      23.0
+    ],
+    "expected_mm": [
+      140.0,
+      23.0,
+      23.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 112756
+  },
+  {
+    "id": "eurofit-h-448-128cp",
+    "profile": "oval_plate",
+    "envelope_mm": [
+      140.0,
+      23.0,
+      23.0
+    ],
+    "expected_mm": [
+      140.0,
+      23.0,
+      23.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 112732
+  },
+  {
+    "id": "eurofit-h-448-128vbh",
+    "profile": "oval_plate",
+    "envelope_mm": [
+      140.0,
+      23.0,
+      23.0
+    ],
+    "expected_mm": [
+      140.0,
+      23.0,
+      23.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 112800
+  },
+  {
+    "id": "eurofit-h-448-96bss",
+    "profile": "oval_plate",
+    "envelope_mm": [
+      108.0,
+      23.0,
+      23.0
+    ],
+    "expected_mm": [
+      108.0,
+      23.0,
+      23.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 112992
+  },
+  {
+    "id": "eurofit-h-448-96cp",
+    "profile": "oval_plate",
+    "envelope_mm": [
+      108.0,
+      23.0,
+      23.0
+    ],
+    "expected_mm": [
+      108.0,
+      23.0,
+      23.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 112972
+  },
+  {
+    "id": "eurofit-h-448-96vbh",
+    "profile": "oval_plate",
+    "envelope_mm": [
+      108.0,
+      23.0,
+      23.0
+    ],
+    "expected_mm": [
+      108.0,
+      23.0,
+      23.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 113036
+  },
+  {
+    "id": "eurofit-h-459-76bss",
+    "profile": "cup",
+    "envelope_mm": [
+      120.0,
+      37.0,
+      20.0
+    ],
+    "expected_mm": [
+      120.0,
+      37.0,
+      20.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 126040
+  },
+  {
+    "id": "eurofit-h-459-76vbh",
+    "profile": "cup",
+    "envelope_mm": [
+      120.0,
+      37.0,
+      20.0
+    ],
+    "expected_mm": [
+      120.0,
+      37.0,
+      20.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 126084
+  },
+  {
+    "id": "eurofit-h-463-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      140.0,
+      9.0,
+      35.0
+    ],
+    "expected_mm": [
+      140.0,
+      9.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70084
+  },
+  {
+    "id": "eurofit-h-463-128orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      140.0,
+      9.0,
+      35.0
+    ],
+    "expected_mm": [
+      140.0,
+      9.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70120
+  },
+  {
+    "id": "eurofit-h-463-160bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      179.0,
+      9.0,
+      35.0
+    ],
+    "expected_mm": [
+      179.0,
+      9.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70496
+  },
+  {
+    "id": "eurofit-h-463-224bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      237.0,
+      9.0,
+      35.0
+    ],
+    "expected_mm": [
+      237.0,
+      9.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70488
+  },
+  {
+    "id": "eurofit-h-463-320bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      332.0,
+      9.0,
+      35.0
+    ],
+    "expected_mm": [
+      332.0,
+      9.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68416
+  },
+  {
+    "id": "eurofit-h-463-320orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      332.0,
+      9.0,
+      35.0
+    ],
+    "expected_mm": [
+      332.0,
+      9.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68452
+  },
+  {
+    "id": "eurofit-h-463-416bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      428.0,
+      9.0,
+      35.0
+    ],
+    "expected_mm": [
+      428.0,
+      9.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71236
+  },
+  {
+    "id": "eurofit-h-471-76bss",
+    "profile": "cup",
+    "envelope_mm": [
+      95.0,
+      30.0,
+      16.0
+    ],
+    "expected_mm": [
+      95.0,
+      30.0,
+      16.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 122520
+  },
+  {
+    "id": "eurofit-h-471-76cp",
+    "profile": "cup",
+    "envelope_mm": [
+      95.0,
+      30.0,
+      16.0
+    ],
+    "expected_mm": [
+      95.0,
+      30.0,
+      16.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 122496
+  },
+  {
+    "id": "eurofit-h-503-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      136.0,
+      20.0,
+      31.0
+    ],
+    "expected_mm": [
+      136.0,
+      20.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 72536
+  },
+  {
+    "id": "eurofit-h-503-224bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      232.0,
+      20.0,
+      31.0
+    ],
+    "expected_mm": [
+      232.0,
+      20.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70292
+  },
+  {
+    "id": "eurofit-h-503-320bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      330.0,
+      20.0,
+      31.0
+    ],
+    "expected_mm": [
+      330.0,
+      20.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69332
+  },
+  {
+    "id": "eurofit-h-503-416bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      425.0,
+      20.0,
+      31.0
+    ],
+    "expected_mm": [
+      425.0,
+      20.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 72408
+  },
+  {
+    "id": "eurofit-h-503-608bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      617.0,
+      20.0,
+      31.0
+    ],
+    "expected_mm": [
+      617.0,
+      20.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71480
+  },
+  {
+    "id": "eurofit-h-508-416",
+    "profile": "round_rail",
+    "envelope_mm": [
+      431.0,
+      14.0,
+      36.0
+    ],
+    "expected_mm": [
+      431.0,
+      14.0,
+      36.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 73308
+  },
+  {
+    "id": "eurofit-h-508-608",
+    "profile": "round_rail",
+    "envelope_mm": [
+      623.0,
+      14.0,
+      36.0
+    ],
+    "expected_mm": [
+      623.0,
+      14.0,
+      36.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 73308
+  },
+  {
+    "id": "eurofit-h-533-128",
+    "profile": "bow",
+    "envelope_mm": [
+      163.0,
+      18.908,
+      23.0
+    ],
+    "expected_mm": [
+      163.0,
+      19.0,
+      23.0
+    ],
+    "max_error_mm": 0.092,
+    "bytes": 135676
+  },
+  {
+    "id": "eurofit-h-533-160",
+    "profile": "bow",
+    "envelope_mm": [
+      195.0,
+      18.9231,
+      23.0
+    ],
+    "expected_mm": [
+      195.0,
+      19.0,
+      23.0
+    ],
+    "max_error_mm": 0.0769,
+    "bytes": 135692
+  },
+  {
+    "id": "eurofit-h-533-192",
+    "profile": "bow",
+    "envelope_mm": [
+      226.0,
+      18.9336,
+      23.0
+    ],
+    "expected_mm": [
+      226.0,
+      19.0,
+      23.0
+    ],
+    "max_error_mm": 0.0664,
+    "bytes": 136372
+  },
+  {
+    "id": "eurofit-h-533-224",
+    "profile": "bow",
+    "envelope_mm": [
+      260.0,
+      18.9422,
+      23.0
+    ],
+    "expected_mm": [
+      260.0,
+      19.0,
+      23.0
+    ],
+    "max_error_mm": 0.0578,
+    "bytes": 132848
+  },
+  {
+    "id": "eurofit-h-55178-256bss",
+    "profile": "bow",
+    "envelope_mm": [
+      278.0,
+      14.9573,
+      26.0
+    ],
+    "expected_mm": [
+      278.0,
+      15.0,
+      26.0
+    ],
+    "max_error_mm": 0.0427,
+    "bytes": 134700
+  },
+  {
+    "id": "eurofit-h-55178-256cp",
+    "profile": "bow",
+    "envelope_mm": [
+      278.0,
+      14.9573,
+      26.0
+    ],
+    "expected_mm": [
+      278.0,
+      15.0,
+      26.0
+    ],
+    "max_error_mm": 0.0427,
+    "bytes": 134676
+  },
+  {
+    "id": "eurofit-h-55178-320bss",
+    "profile": "bow",
+    "envelope_mm": [
+      342.0,
+      14.9653,
+      26.0
+    ],
+    "expected_mm": [
+      342.0,
+      15.0,
+      26.0
+    ],
+    "max_error_mm": 0.0347,
+    "bytes": 133560
+  },
+  {
+    "id": "eurofit-h-55178-320cp",
+    "profile": "bow",
+    "envelope_mm": [
+      342.0,
+      14.9653,
+      26.0
+    ],
+    "expected_mm": [
+      342.0,
+      15.0,
+      26.0
+    ],
+    "max_error_mm": 0.0347,
+    "bytes": 133536
+  },
+  {
+    "id": "eurofit-h-55632-160cp",
+    "profile": "bow",
+    "envelope_mm": [
+      176.0,
+      14.0,
+      29.0
+    ],
+    "expected_mm": [
+      176.0,
+      14.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 143496
+  },
+  {
+    "id": "eurofit-h-55632-256cp",
+    "profile": "bow",
+    "envelope_mm": [
+      272.0,
+      14.0,
+      29.0
+    ],
+    "expected_mm": [
+      272.0,
+      14.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 142348
+  },
+  {
+    "id": "eurofit-h-55632-256bss",
+    "profile": "bow",
+    "envelope_mm": [
+      272.0,
+      14.0,
+      29.0
+    ],
+    "expected_mm": [
+      272.0,
+      14.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 142372
+  },
+  {
+    "id": "eurofit-h-55632-320cp",
+    "profile": "bow",
+    "envelope_mm": [
+      336.0,
+      14.0,
+      29.0
+    ],
+    "expected_mm": [
+      336.0,
+      14.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 143100
+  },
+  {
+    "id": "eurofit-h-55632-320bss",
+    "profile": "bow",
+    "envelope_mm": [
+      336.0,
+      14.0,
+      29.0
+    ],
+    "expected_mm": [
+      336.0,
+      14.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 143124
+  },
+  {
+    "id": "eurofit-h-61158-160cp",
+    "profile": "twisted",
+    "envelope_mm": [
+      204.0,
+      11.0,
+      30.0
+    ],
+    "expected_mm": [
+      204.0,
+      11.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 199600
+  },
+  {
+    "id": "eurofit-h-61158-160bss",
+    "profile": "twisted",
+    "envelope_mm": [
+      204.0,
+      11.0,
+      30.0
+    ],
+    "expected_mm": [
+      204.0,
+      11.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 199624
+  },
+  {
+    "id": "eurofit-h-61226-128bk",
+    "profile": "bow",
+    "envelope_mm": [
+      165.0,
+      17.9139,
+      25.0
+    ],
+    "expected_mm": [
+      165.0,
+      18.0,
+      25.0
+    ],
+    "max_error_mm": 0.0861,
+    "bytes": 138788
+  },
+  {
+    "id": "eurofit-h-61228-128bk",
+    "profile": "bow",
+    "envelope_mm": [
+      165.0,
+      19.9044,
+      28.0
+    ],
+    "expected_mm": [
+      165.0,
+      20.0,
+      28.0
+    ],
+    "max_error_mm": 0.0956,
+    "bytes": 135404
+  },
+  {
+    "id": "eurofit-h-61364-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      150.0,
+      12.0,
+      27.0
+    ],
+    "expected_mm": [
+      150.0,
+      12.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 113008
+  },
+  {
+    "id": "eurofit-h-61364-128mbc",
+    "profile": "rect_u",
+    "envelope_mm": [
+      150.0,
+      12.0,
+      27.0
+    ],
+    "expected_mm": [
+      150.0,
+      12.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 113056
+  },
+  {
+    "id": "eurofit-h-61364-160bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      176.0,
+      12.0,
+      27.0
+    ],
+    "expected_mm": [
+      176.0,
+      12.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 107664
+  },
+  {
+    "id": "eurofit-h-61364-160mbc",
+    "profile": "rect_u",
+    "envelope_mm": [
+      176.0,
+      12.0,
+      27.0
+    ],
+    "expected_mm": [
+      176.0,
+      12.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 107708
+  },
+  {
+    "id": "eurofit-h-61364-160orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      176.0,
+      12.0,
+      27.0
+    ],
+    "expected_mm": [
+      176.0,
+      12.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 107700
+  },
+  {
+    "id": "eurofit-h-61415-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      137.0,
+      10.0,
+      35.0
+    ],
+    "expected_mm": [
+      137.0,
+      10.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70148
+  },
+  {
+    "id": "eurofit-h-61415-128orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      137.0,
+      10.0,
+      35.0
+    ],
+    "expected_mm": [
+      137.0,
+      10.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70184
+  },
+  {
+    "id": "eurofit-h-61415-192bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      201.0,
+      10.0,
+      35.0
+    ],
+    "expected_mm": [
+      201.0,
+      10.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68292
+  },
+  {
+    "id": "eurofit-h-61415-192orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      201.0,
+      10.0,
+      35.0
+    ],
+    "expected_mm": [
+      201.0,
+      10.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68328
+  },
+  {
+    "id": "eurofit-h-61415-320bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      328.0,
+      10.0,
+      35.0
+    ],
+    "expected_mm": [
+      328.0,
+      10.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68124
+  },
+  {
+    "id": "eurofit-h-61415-320orb",
+    "profile": "rect_u",
+    "envelope_mm": [
+      328.0,
+      10.0,
+      35.0
+    ],
+    "expected_mm": [
+      328.0,
+      10.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68160
+  },
+  {
+    "id": "eurofit-h-61704-160cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      183.0,
+      14.0,
+      35.0
+    ],
+    "expected_mm": [
+      183.0,
+      14.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 110076
+  },
+  {
+    "id": "eurofit-h-61710-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      151.0,
+      21.0,
+      25.0
+    ],
+    "expected_mm": [
+      151.0,
+      21.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 123168
+  },
+  {
+    "id": "eurofit-h-61710-128sb",
+    "profile": "bow",
+    "envelope_mm": [
+      151.0,
+      21.0,
+      25.0
+    ],
+    "expected_mm": [
+      151.0,
+      21.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 123164
+  },
+  {
+    "id": "eurofit-h-61712-128bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      146.0,
+      16.0,
+      28.0
+    ],
+    "expected_mm": [
+      146.0,
+      16.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67536
+  },
+  {
+    "id": "eurofit-h-61712-128sb",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      146.0,
+      16.0,
+      28.0
+    ],
+    "expected_mm": [
+      146.0,
+      16.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67532
+  },
+  {
+    "id": "eurofit-h-62006-160",
+    "profile": "rect_u",
+    "envelope_mm": [
+      175.0,
+      14.0,
+      35.0
+    ],
+    "expected_mm": [
+      175.0,
+      14.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 113864
+  },
+  {
+    "id": "eurofit-h-62006-224",
+    "profile": "rect_u",
+    "envelope_mm": [
+      240.0,
+      14.0,
+      35.0
+    ],
+    "expected_mm": [
+      240.0,
+      14.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 115104
+  },
+  {
+    "id": "eurofit-h-62006-320",
+    "profile": "rect_u",
+    "envelope_mm": [
+      335.0,
+      14.0,
+      35.0
+    ],
+    "expected_mm": [
+      335.0,
+      14.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 112672
+  },
+  {
+    "id": "eurofit-h-62006-416",
+    "profile": "rect_u",
+    "envelope_mm": [
+      432.0,
+      14.0,
+      35.0
+    ],
+    "expected_mm": [
+      432.0,
+      14.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 115652
+  },
+  {
+    "id": "eurofit-h-62027-128bss",
+    "profile": "round_rail",
+    "envelope_mm": [
+      166.0,
+      10.0,
+      34.0
+    ],
+    "expected_mm": [
+      166.0,
+      10.0,
+      34.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 114476
+  },
+  {
+    "id": "eurofit-h-62027-128bl",
+    "profile": "round_rail",
+    "envelope_mm": [
+      166.0,
+      10.0,
+      34.0
+    ],
+    "expected_mm": [
+      166.0,
+      10.0,
+      34.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 114508
+  },
+  {
+    "id": "eurofit-h-62027-192bss",
+    "profile": "round_rail",
+    "envelope_mm": [
+      230.0,
+      10.0,
+      34.0
+    ],
+    "expected_mm": [
+      230.0,
+      10.0,
+      34.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 114476
+  },
+  {
+    "id": "eurofit-h-62027-192bl",
+    "profile": "round_rail",
+    "envelope_mm": [
+      230.0,
+      10.0,
+      34.0
+    ],
+    "expected_mm": [
+      230.0,
+      10.0,
+      34.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 114508
+  },
+  {
+    "id": "eurofit-h-62027-224bss",
+    "profile": "round_rail",
+    "envelope_mm": [
+      264.0,
+      10.0,
+      34.0
+    ],
+    "expected_mm": [
+      264.0,
+      10.0,
+      34.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 114468
+  },
+  {
+    "id": "eurofit-h-62027-224bl",
+    "profile": "round_rail",
+    "envelope_mm": [
+      264.0,
+      10.0,
+      34.0
+    ],
+    "expected_mm": [
+      264.0,
+      10.0,
+      34.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 114500
+  },
+  {
+    "id": "eurofit-h-62027-320bss",
+    "profile": "round_rail",
+    "envelope_mm": [
+      360.0,
+      10.0,
+      34.0
+    ],
+    "expected_mm": [
+      360.0,
+      10.0,
+      34.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 114468
+  },
+  {
+    "id": "eurofit-h-62027-320bl",
+    "profile": "round_rail",
+    "envelope_mm": [
+      360.0,
+      10.0,
+      34.0
+    ],
+    "expected_mm": [
+      360.0,
+      10.0,
+      34.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 114500
+  },
+  {
+    "id": "eurofit-h-62033-192bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      198.0,
+      13.0,
+      26.0
+    ],
+    "expected_mm": [
+      198.0,
+      13.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67548
+  },
+  {
+    "id": "eurofit-h-62033-288bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      297.0,
+      13.0,
+      26.0
+    ],
+    "expected_mm": [
+      297.0,
+      13.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65304
+  },
+  {
+    "id": "eurofit-h-62158-160bss",
+    "profile": "bow",
+    "envelope_mm": [
+      175.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      175.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 134272
+  },
+  {
+    "id": "eurofit-h-62204-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      141.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      141.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69792
+  },
+  {
+    "id": "eurofit-h-62204-160bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      173.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      173.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68800
+  },
+  {
+    "id": "eurofit-h-62204-192bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      201.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      201.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 64836
+  },
+  {
+    "id": "eurofit-h-62204-320bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      332.0,
+      12.0,
+      30.0
+    ],
+    "expected_mm": [
+      332.0,
+      12.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66976
+  },
+  {
+    "id": "eurofit-h-62219-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      168.0,
+      17.0,
+      35.0
+    ],
+    "expected_mm": [
+      168.0,
+      17.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 133612
+  },
+  {
+    "id": "eurofit-h-62219-160bss",
+    "profile": "bow",
+    "envelope_mm": [
+      200.0,
+      17.0,
+      35.0
+    ],
+    "expected_mm": [
+      200.0,
+      17.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 133292
+  },
+  {
+    "id": "eurofit-h-62219-320bss",
+    "profile": "bow",
+    "envelope_mm": [
+      368.0,
+      17.0,
+      35.0
+    ],
+    "expected_mm": [
+      368.0,
+      17.0,
+      35.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 130988
+  },
+  {
+    "id": "eurofit-h-62346-160bss",
+    "profile": "bow",
+    "envelope_mm": [
+      191.0,
+      21.0,
+      26.0
+    ],
+    "expected_mm": [
+      191.0,
+      21.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 127044
+  },
+  {
+    "id": "eurofit-h-62356-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      146.0,
+      7.0,
+      33.0
+    ],
+    "expected_mm": [
+      146.0,
+      7.0,
+      33.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70748
+  },
+  {
+    "id": "eurofit-h-62501-128bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      136.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      136.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69024
+  },
+  {
+    "id": "eurofit-h-62501-128bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      136.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      136.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69052
+  },
+  {
+    "id": "eurofit-h-62501-160bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      169.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      169.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69056
+  },
+  {
+    "id": "eurofit-h-62501-160bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      169.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      169.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69084
+  },
+  {
+    "id": "eurofit-h-62501-160rg",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      169.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      169.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69052
+  },
+  {
+    "id": "eurofit-h-62501-128rg",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      136.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      136.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69020
+  },
+  {
+    "id": "eurofit-h-62501-192rg",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      200.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      200.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69692
+  },
+  {
+    "id": "eurofit-h-62501-224rg",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      234.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      234.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67544
+  },
+  {
+    "id": "eurofit-h-62501-256rg",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      265.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      265.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68188
+  },
+  {
+    "id": "eurofit-h-62501-192bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      200.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      200.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69696
+  },
+  {
+    "id": "eurofit-h-62501-192bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      200.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      200.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69724
+  },
+  {
+    "id": "eurofit-h-62501-224bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      234.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      234.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67548
+  },
+  {
+    "id": "eurofit-h-62501-224bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      234.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      234.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67576
+  },
+  {
+    "id": "eurofit-h-62501-256bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      265.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      265.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68192
+  },
+  {
+    "id": "eurofit-h-62501-256bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      265.0,
+      11.0,
+      31.0
+    ],
+    "expected_mm": [
+      265.0,
+      11.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68220
+  },
+  {
+    "id": "eurofit-h-64510-224bss",
+    "profile": "bow",
+    "envelope_mm": [
+      242.0,
+      11.9608,
+      25.0
+    ],
+    "expected_mm": [
+      242.0,
+      12.0,
+      25.0
+    ],
+    "max_error_mm": 0.0392,
+    "bytes": 132080
+  },
+  {
+    "id": "eurofit-h-64510-352bss",
+    "profile": "bow",
+    "envelope_mm": [
+      380.0,
+      11.975,
+      25.0
+    ],
+    "expected_mm": [
+      380.0,
+      12.0,
+      25.0
+    ],
+    "max_error_mm": 0.025,
+    "bytes": 134992
+  },
+  {
+    "id": "eurofit-h-64978-160bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      200.0,
+      8.0,
+      40.0
+    ],
+    "expected_mm": [
+      200.0,
+      8.0,
+      40.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65976
+  },
+  {
+    "id": "eurofit-h-64978-160cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      200.0,
+      8.0,
+      40.0
+    ],
+    "expected_mm": [
+      200.0,
+      8.0,
+      40.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65952
+  },
+  {
+    "id": "eurofit-h-65013-128bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      162.0,
+      8.0,
+      27.0
+    ],
+    "expected_mm": [
+      162.0,
+      8.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69844
+  },
+  {
+    "id": "eurofit-h-65013-128rg",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      162.0,
+      8.0,
+      27.0
+    ],
+    "expected_mm": [
+      162.0,
+      8.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69840
+  },
+  {
+    "id": "eurofit-h-65013-128bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      162.0,
+      8.0,
+      27.0
+    ],
+    "expected_mm": [
+      162.0,
+      8.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69876
+  },
+  {
+    "id": "eurofit-h-65013-192bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      227.0,
+      8.0,
+      27.0
+    ],
+    "expected_mm": [
+      227.0,
+      8.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68340
+  },
+  {
+    "id": "eurofit-h-65013-192rg",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      227.0,
+      8.0,
+      27.0
+    ],
+    "expected_mm": [
+      227.0,
+      8.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68336
+  },
+  {
+    "id": "eurofit-h-65013-192bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      227.0,
+      8.0,
+      27.0
+    ],
+    "expected_mm": [
+      227.0,
+      8.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68372
+  },
+  {
+    "id": "eurofit-h-65013-224bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      259.0,
+      8.0,
+      27.0
+    ],
+    "expected_mm": [
+      259.0,
+      8.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66736
+  },
+  {
+    "id": "eurofit-h-65013-224bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      259.0,
+      8.0,
+      27.0
+    ],
+    "expected_mm": [
+      259.0,
+      8.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66768
+  },
+  {
+    "id": "eurofit-h-65013-320bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      355.0,
+      8.0,
+      27.0
+    ],
+    "expected_mm": [
+      355.0,
+      8.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68240
+  },
+  {
+    "id": "eurofit-h-65013-320rg",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      355.0,
+      8.0,
+      27.0
+    ],
+    "expected_mm": [
+      355.0,
+      8.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68236
+  },
+  {
+    "id": "eurofit-h-65013-320bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      355.0,
+      8.0,
+      27.0
+    ],
+    "expected_mm": [
+      355.0,
+      8.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68272
+  },
+  {
+    "id": "eurofit-h-65040b-96",
+    "profile": "round_rail",
+    "envelope_mm": [
+      146.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      146.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71648
+  },
+  {
+    "id": "eurofit-h-65040b-96bk",
+    "profile": "round_rail",
+    "envelope_mm": [
+      146.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      146.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71688
+  },
+  {
+    "id": "eurofit-h-65040b-96gl",
+    "profile": "round_rail",
+    "envelope_mm": [
+      146.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      146.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71648
+  },
+  {
+    "id": "eurofit-h-65040b-128",
+    "profile": "round_rail",
+    "envelope_mm": [
+      178.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      178.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71656
+  },
+  {
+    "id": "eurofit-h-65040b-128bk",
+    "profile": "round_rail",
+    "envelope_mm": [
+      178.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      178.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71692
+  },
+  {
+    "id": "eurofit-h-65040b-128gl",
+    "profile": "round_rail",
+    "envelope_mm": [
+      178.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      178.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71652
+  },
+  {
+    "id": "eurofit-h-040b-128rg",
+    "profile": "round_rail",
+    "envelope_mm": [
+      178.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      178.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71656
+  },
+  {
+    "id": "eurofit-h-65040b-160",
+    "profile": "round_rail",
+    "envelope_mm": [
+      210.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      210.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71656
+  },
+  {
+    "id": "eurofit-h-040b-160rg",
+    "profile": "round_rail",
+    "envelope_mm": [
+      210.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      210.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71656
+  },
+  {
+    "id": "eurofit-h-65040b-192",
+    "profile": "round_rail",
+    "envelope_mm": [
+      242.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      242.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71656
+  },
+  {
+    "id": "eurofit-h-65040b-224",
+    "profile": "round_rail",
+    "envelope_mm": [
+      274.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      274.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71652
+  },
+  {
+    "id": "eurofit-h-65040b-224bk",
+    "profile": "round_rail",
+    "envelope_mm": [
+      274.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      274.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71688
+  },
+  {
+    "id": "eurofit-h-65040b-224gl",
+    "profile": "round_rail",
+    "envelope_mm": [
+      274.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      274.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71648
+  },
+  {
+    "id": "eurofit-h-040b-224rg",
+    "profile": "round_rail",
+    "envelope_mm": [
+      274.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      274.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71652
+  },
+  {
+    "id": "eurofit-h-65040b-320",
+    "profile": "round_rail",
+    "envelope_mm": [
+      370.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      370.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71648
+  },
+  {
+    "id": "eurofit-h-65040b-320bk",
+    "profile": "round_rail",
+    "envelope_mm": [
+      370.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      370.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71684
+  },
+  {
+    "id": "eurofit-h-65040b-320gl",
+    "profile": "round_rail",
+    "envelope_mm": [
+      370.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      370.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71644
+  },
+  {
+    "id": "eurofit-h-040b-320rg",
+    "profile": "round_rail",
+    "envelope_mm": [
+      370.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      370.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71648
+  },
+  {
+    "id": "eurofit-h-65040b-416",
+    "profile": "round_rail",
+    "envelope_mm": [
+      466.0,
+      12.0,
+      32.0
+    ],
+    "expected_mm": [
+      466.0,
+      12.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71652
+  },
+  {
+    "id": "eurofit-h-65355-128bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      160.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      160.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68728
+  },
+  {
+    "id": "eurofit-h-65355-128bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      160.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      160.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68760
+  },
+  {
+    "id": "eurofit-h-65355-128cp",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      160.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      160.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68704
+  },
+  {
+    "id": "eurofit-h-65355-128rg",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      160.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      160.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68720
+  },
+  {
+    "id": "eurofit-h-65355-160bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      190.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      190.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67512
+  },
+  {
+    "id": "eurofit-h-65355-160bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      190.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      190.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67540
+  },
+  {
+    "id": "eurofit-h-65355-192bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      222.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      222.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65976
+  },
+  {
+    "id": "eurofit-h-65355-192bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      222.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      222.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66008
+  },
+  {
+    "id": "eurofit-h-65355-192rg",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      222.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      222.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65968
+  },
+  {
+    "id": "eurofit-h-65355-224bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      255.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      255.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66740
+  },
+  {
+    "id": "eurofit-h-65355-224bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      255.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      255.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66768
+  },
+  {
+    "id": "eurofit-h-65355-320bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      350.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      350.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66516
+  },
+  {
+    "id": "eurofit-h-65355-320bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      350.0,
+      12.0,
+      28.0
+    ],
+    "expected_mm": [
+      350.0,
+      12.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66548
+  },
+  {
+    "id": "eurofit-h-65804-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      145.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      145.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69024
+  },
+  {
+    "id": "eurofit-h-65804-128bk",
+    "profile": "rect_u",
+    "envelope_mm": [
+      145.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      145.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69056
+  },
+  {
+    "id": "eurofit-h-65804-192bk",
+    "profile": "rect_u",
+    "envelope_mm": [
+      208.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      208.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68768
+  },
+  {
+    "id": "eurofit-h-65804-128cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      145.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      145.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69000
+  },
+  {
+    "id": "eurofit-h-65804-128gl",
+    "profile": "rect_u",
+    "envelope_mm": [
+      145.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      145.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69016
+  },
+  {
+    "id": "eurofit-h-65804-192bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      208.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      208.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68736
+  },
+  {
+    "id": "eurofit-h-65804-192cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      208.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      208.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68712
+  },
+  {
+    "id": "eurofit-h-65804-192gl",
+    "profile": "rect_u",
+    "envelope_mm": [
+      208.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      208.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68728
+  },
+  {
+    "id": "eurofit-h-66723-128bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      138.0,
+      12.0,
+      27.0
+    ],
+    "expected_mm": [
+      138.0,
+      12.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68268
+  },
+  {
+    "id": "eurofit-h-66723-192bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      200.0,
+      12.0,
+      27.0
+    ],
+    "expected_mm": [
+      200.0,
+      12.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68656
+  },
+  {
+    "id": "eurofit-h-66723-320bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      328.0,
+      12.0,
+      27.0
+    ],
+    "expected_mm": [
+      328.0,
+      12.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67432
+  },
+  {
+    "id": "eurofit-h-66732-192bss",
+    "profile": "bow",
+    "envelope_mm": [
+      250.0,
+      9.9723,
+      32.0
+    ],
+    "expected_mm": [
+      250.0,
+      10.0,
+      32.0
+    ],
+    "max_error_mm": 0.0277,
+    "bytes": 132416
+  },
+  {
+    "id": "eurofit-h-66732-256bss",
+    "profile": "bow",
+    "envelope_mm": [
+      330.0,
+      9.979,
+      32.0
+    ],
+    "expected_mm": [
+      330.0,
+      10.0,
+      32.0
+    ],
+    "max_error_mm": 0.021,
+    "bytes": 133236
+  },
+  {
+    "id": "eurofit-h-66749-128bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      155.0,
+      12.0,
+      31.0
+    ],
+    "expected_mm": [
+      155.0,
+      12.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70036
+  },
+  {
+    "id": "eurofit-h-66749-160bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      190.0,
+      12.0,
+      31.0
+    ],
+    "expected_mm": [
+      190.0,
+      12.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69780
+  },
+  {
+    "id": "eurofit-h-66749-320bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      350.0,
+      12.0,
+      31.0
+    ],
+    "expected_mm": [
+      350.0,
+      12.0,
+      31.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69584
+  },
+  {
+    "id": "eurofit-h-66751-192bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      239.0,
+      6.0,
+      30.0
+    ],
+    "expected_mm": [
+      239.0,
+      6.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65940
+  },
+  {
+    "id": "eurofit-h-66751-320bss",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      366.0,
+      6.0,
+      30.0
+    ],
+    "expected_mm": [
+      366.0,
+      6.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65264
+  },
+  {
+    "id": "eurofit-h-66796-160bss",
+    "profile": "twisted",
+    "envelope_mm": [
+      185.0,
+      9.0,
+      28.0
+    ],
+    "expected_mm": [
+      185.0,
+      9.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 209732
+  },
+  {
+    "id": "eurofit-h-66796-160cp",
+    "profile": "twisted",
+    "envelope_mm": [
+      185.0,
+      9.0,
+      28.0
+    ],
+    "expected_mm": [
+      185.0,
+      9.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 209712
+  },
+  {
+    "id": "eurofit-h-66796-320bss",
+    "profile": "twisted",
+    "envelope_mm": [
+      360.0,
+      9.0,
+      28.0
+    ],
+    "expected_mm": [
+      360.0,
+      9.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 206392
+  },
+  {
+    "id": "eurofit-h-66796-320cp",
+    "profile": "twisted",
+    "envelope_mm": [
+      360.0,
+      9.0,
+      28.0
+    ],
+    "expected_mm": [
+      360.0,
+      9.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 206368
+  },
+  {
+    "id": "eurofit-h-69013-320bk",
+    "profile": "rect_u",
+    "envelope_mm": [
+      338.0,
+      8.0,
+      34.0
+    ],
+    "expected_mm": [
+      338.0,
+      8.0,
+      34.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 71224
+  },
+  {
+    "id": "eurofit-h-69480-160bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      184.0,
+      7.0,
+      21.0
+    ],
+    "expected_mm": [
+      184.0,
+      7.0,
+      21.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69532
+  },
+  {
+    "id": "eurofit-h-69480-192bk",
+    "profile": "blade_feet",
+    "envelope_mm": [
+      216.0,
+      7.0,
+      21.0
+    ],
+    "expected_mm": [
+      216.0,
+      7.0,
+      21.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68824
+  },
+  {
+    "id": "eurofit-h-69501-224bk",
+    "profile": "rect_u",
+    "envelope_mm": [
+      235.0,
+      14.0,
+      30.0
+    ],
+    "expected_mm": [
+      235.0,
+      14.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67804
+  },
+  {
+    "id": "eurofit-h-71106-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      134.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      134.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 69664
+  },
+  {
+    "id": "eurofit-h-71106-160bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      168.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      168.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 67584
+  },
+  {
+    "id": "eurofit-h-71106-224bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      232.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      232.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66204
+  },
+  {
+    "id": "eurofit-h-71107-128mbc",
+    "profile": "rect_u",
+    "envelope_mm": [
+      138.0,
+      10.0,
+      32.0
+    ],
+    "expected_mm": [
+      138.0,
+      10.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 111808
+  },
+  {
+    "id": "eurofit-h-71260-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      167.0,
+      7.9735,
+      30.0
+    ],
+    "expected_mm": [
+      167.0,
+      8.0,
+      30.0
+    ],
+    "max_error_mm": 0.0265,
+    "bytes": 135684
+  },
+  {
+    "id": "eurofit-h-71260-160bss",
+    "profile": "bow",
+    "envelope_mm": [
+      198.0,
+      7.9776,
+      30.0
+    ],
+    "expected_mm": [
+      198.0,
+      8.0,
+      30.0
+    ],
+    "max_error_mm": 0.0224,
+    "bytes": 138336
+  },
+  {
+    "id": "eurofit-h-71260-160cp",
+    "profile": "bow",
+    "envelope_mm": [
+      198.0,
+      7.9776,
+      30.0
+    ],
+    "expected_mm": [
+      198.0,
+      8.0,
+      30.0
+    ],
+    "max_error_mm": 0.0224,
+    "bytes": 138312
+  },
+  {
+    "id": "eurofit-h-71260-224bss",
+    "profile": "bow",
+    "envelope_mm": [
+      286.0,
+      7.9845,
+      30.0
+    ],
+    "expected_mm": [
+      286.0,
+      8.0,
+      30.0
+    ],
+    "max_error_mm": 0.0155,
+    "bytes": 136364
+  },
+  {
+    "id": "eurofit-h-71260-224cp",
+    "profile": "bow",
+    "envelope_mm": [
+      286.0,
+      7.9845,
+      30.0
+    ],
+    "expected_mm": [
+      286.0,
+      8.0,
+      30.0
+    ],
+    "max_error_mm": 0.0155,
+    "bytes": 136344
+  },
+  {
+    "id": "eurofit-h-71267-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      152.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      152.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 135464
+  },
+  {
+    "id": "eurofit-h-71267-128cp",
+    "profile": "bow",
+    "envelope_mm": [
+      152.0,
+      20.0,
+      30.0
+    ],
+    "expected_mm": [
+      152.0,
+      20.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 135440
+  },
+  {
+    "id": "eurofit-h-71461-128cp-mn",
+    "profile": "rect_u",
+    "envelope_mm": [
+      157.0,
+      17.0,
+      28.0
+    ],
+    "expected_mm": [
+      157.0,
+      17.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 105880
+  },
+  {
+    "id": "eurofit-h-71461-128cp-w",
+    "profile": "rect_u",
+    "envelope_mm": [
+      157.0,
+      17.0,
+      28.0
+    ],
+    "expected_mm": [
+      157.0,
+      17.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 105872
+  },
+  {
+    "id": "eurofit-h-71632-128bss",
+    "profile": "bow",
+    "envelope_mm": [
+      145.0,
+      14.9183,
+      30.0
+    ],
+    "expected_mm": [
+      145.0,
+      15.0,
+      30.0
+    ],
+    "max_error_mm": 0.0817,
+    "bytes": 134104
+  },
+  {
+    "id": "eurofit-h-71726-224bk",
+    "profile": "rect_u",
+    "envelope_mm": [
+      242.0,
+      15.0,
+      30.0
+    ],
+    "expected_mm": [
+      242.0,
+      15.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 64984
+  },
+  {
+    "id": "eurofit-h-71726-320bk",
+    "profile": "rect_u",
+    "envelope_mm": [
+      338.0,
+      15.0,
+      30.0
+    ],
+    "expected_mm": [
+      338.0,
+      15.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 65368
+  },
+  {
+    "id": "eurofit-h-71808-128bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      138.0,
+      8.0,
+      25.0
+    ],
+    "expected_mm": [
+      138.0,
+      8.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66944
+  },
+  {
+    "id": "eurofit-h-71808-128cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      138.0,
+      8.0,
+      25.0
+    ],
+    "expected_mm": [
+      138.0,
+      8.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66920
+  },
+  {
+    "id": "eurofit-h-71808-160bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      167.0,
+      8.0,
+      25.0
+    ],
+    "expected_mm": [
+      167.0,
+      8.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68352
+  },
+  {
+    "id": "eurofit-h-71808-160cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      167.0,
+      8.0,
+      25.0
+    ],
+    "expected_mm": [
+      167.0,
+      8.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 68332
+  },
+  {
+    "id": "eurofit-h-71808-224bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      231.0,
+      8.0,
+      25.0
+    ],
+    "expected_mm": [
+      231.0,
+      8.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66748
+  },
+  {
+    "id": "eurofit-h-71808-224cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      231.0,
+      8.0,
+      25.0
+    ],
+    "expected_mm": [
+      231.0,
+      8.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66728
+  },
+  {
+    "id": "eurofit-h-71808-320bss",
+    "profile": "rect_u",
+    "envelope_mm": [
+      327.0,
+      8.0,
+      25.0
+    ],
+    "expected_mm": [
+      327.0,
+      8.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66300
+  },
+  {
+    "id": "eurofit-h-71808-320cp",
+    "profile": "rect_u",
+    "envelope_mm": [
+      327.0,
+      8.0,
+      25.0
+    ],
+    "expected_mm": [
+      327.0,
+      8.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 66280
+  },
+  {
+    "id": "eurofit-h-72061-128bk",
+    "profile": "oval_plate",
+    "envelope_mm": [
+      148.0,
+      20.0,
+      26.0
+    ],
+    "expected_mm": [
+      148.0,
+      20.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 112584
+  },
+  {
+    "id": "eurofit-h-72061-128bss",
+    "profile": "oval_plate",
+    "envelope_mm": [
+      148.0,
+      20.0,
+      26.0
+    ],
+    "expected_mm": [
+      148.0,
+      20.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 112556
+  },
+  {
+    "id": "eurofit-h-72061-160bk",
+    "profile": "oval_plate",
+    "envelope_mm": [
+      180.0,
+      20.0,
+      26.0
+    ],
+    "expected_mm": [
+      180.0,
+      20.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 109080
+  },
+  {
+    "id": "eurofit-h-72061-160bss",
+    "profile": "oval_plate",
+    "envelope_mm": [
+      180.0,
+      20.0,
+      26.0
+    ],
+    "expected_mm": [
+      180.0,
+      20.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 109052
+  },
+  {
+    "id": "eurofit-k-179ai",
+    "profile": "round_knob",
+    "envelope_mm": [
+      32.0,
+      32.0,
+      25.0
+    ],
+    "expected_mm": [
+      32.0,
+      32.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 57140
+  },
+  {
+    "id": "eurofit-k-179bk",
+    "profile": "round_knob",
+    "envelope_mm": [
+      32.0,
+      32.0,
+      25.0
+    ],
+    "expected_mm": [
+      32.0,
+      32.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 57172
+  },
+  {
+    "id": "eurofit-k-179bss",
+    "profile": "round_knob",
+    "envelope_mm": [
+      32.0,
+      32.0,
+      25.0
+    ],
+    "expected_mm": [
+      32.0,
+      32.0,
+      25.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 57144
+  },
+  {
+    "id": "eurofit-k-264bk",
+    "profile": "pyramid_knob",
+    "envelope_mm": [
+      32.0,
+      32.0,
+      22.0
+    ],
+    "expected_mm": [
+      32.0,
+      32.0,
+      22.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 51464
+  },
+  {
+    "id": "eurofit-k-264bss",
+    "profile": "pyramid_knob",
+    "envelope_mm": [
+      32.0,
+      32.0,
+      22.0
+    ],
+    "expected_mm": [
+      32.0,
+      32.0,
+      22.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 51432
+  },
+  {
+    "id": "eurofit-k-264cp",
+    "profile": "pyramid_knob",
+    "envelope_mm": [
+      32.0,
+      32.0,
+      22.0
+    ],
+    "expected_mm": [
+      32.0,
+      32.0,
+      22.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 51412
+  },
+  {
+    "id": "eurofit-k-323aih",
+    "profile": "square_knob",
+    "envelope_mm": [
+      37.0,
+      20.0,
+      27.0
+    ],
+    "expected_mm": [
+      37.0,
+      20.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 96968
+  },
+  {
+    "id": "eurofit-k-323orb",
+    "profile": "square_knob",
+    "envelope_mm": [
+      37.0,
+      20.0,
+      27.0
+    ],
+    "expected_mm": [
+      37.0,
+      20.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 97004
+  },
+  {
+    "id": "eurofit-k-360ai",
+    "profile": "square_knob",
+    "envelope_mm": [
+      30.0,
+      30.0,
+      23.0
+    ],
+    "expected_mm": [
+      30.0,
+      30.0,
+      23.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 96936
+  },
+  {
+    "id": "eurofit-k-360as",
+    "profile": "square_knob",
+    "envelope_mm": [
+      30.0,
+      30.0,
+      23.0
+    ],
+    "expected_mm": [
+      30.0,
+      30.0,
+      23.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 96976
+  },
+  {
+    "id": "eurofit-k-360bk",
+    "profile": "square_knob",
+    "envelope_mm": [
+      30.0,
+      30.0,
+      23.0
+    ],
+    "expected_mm": [
+      30.0,
+      30.0,
+      23.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 96968
+  },
+  {
+    "id": "eurofit-k-360bss",
+    "profile": "square_knob",
+    "envelope_mm": [
+      30.0,
+      30.0,
+      23.0
+    ],
+    "expected_mm": [
+      30.0,
+      30.0,
+      23.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 96936
+  },
+  {
+    "id": "eurofit-k-388bss",
+    "profile": "crescent_knob",
+    "envelope_mm": [
+      39.0,
+      32.0,
+      24.0
+    ],
+    "expected_mm": [
+      39.0,
+      32.0,
+      24.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 121484
+  },
+  {
+    "id": "eurofit-k-388cp",
+    "profile": "crescent_knob",
+    "envelope_mm": [
+      39.0,
+      32.0,
+      24.0
+    ],
+    "expected_mm": [
+      39.0,
+      32.0,
+      24.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 121460
+  },
+  {
+    "id": "eurofit-k-417bk",
+    "profile": "square_knob",
+    "envelope_mm": [
+      37.0,
+      23.0,
+      18.0
+    ],
+    "expected_mm": [
+      37.0,
+      23.0,
+      18.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 72124
+  },
+  {
+    "id": "eurofit-k-417sb",
+    "profile": "square_knob",
+    "envelope_mm": [
+      37.0,
+      23.0,
+      18.0
+    ],
+    "expected_mm": [
+      37.0,
+      23.0,
+      18.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 72088
+  },
+  {
+    "id": "eurofit-k-417bss",
+    "profile": "square_knob",
+    "envelope_mm": [
+      37.0,
+      23.0,
+      18.0
+    ],
+    "expected_mm": [
+      37.0,
+      23.0,
+      18.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 72092
+  },
+  {
+    "id": "eurofit-k-417cp",
+    "profile": "square_knob",
+    "envelope_mm": [
+      37.0,
+      23.0,
+      18.0
+    ],
+    "expected_mm": [
+      37.0,
+      23.0,
+      18.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 72068
+  },
+  {
+    "id": "eurofit-k-420bss",
+    "profile": "pyramid_knob",
+    "envelope_mm": [
+      48.0,
+      30.0,
+      28.0
+    ],
+    "expected_mm": [
+      48.0,
+      30.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 49576
+  },
+  {
+    "id": "eurofit-k-420cp",
+    "profile": "pyramid_knob",
+    "envelope_mm": [
+      48.0,
+      30.0,
+      28.0
+    ],
+    "expected_mm": [
+      48.0,
+      30.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 49552
+  },
+  {
+    "id": "eurofit-k-420bk",
+    "profile": "pyramid_knob",
+    "envelope_mm": [
+      48.0,
+      30.0,
+      28.0
+    ],
+    "expected_mm": [
+      48.0,
+      30.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 49608
+  },
+  {
+    "id": "eurofit-k-61368bss",
+    "profile": "round_knob",
+    "envelope_mm": [
+      33.0,
+      33.0,
+      26.0
+    ],
+    "expected_mm": [
+      33.0,
+      33.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 32968
+  },
+  {
+    "id": "eurofit-k-61368mbc",
+    "profile": "round_knob",
+    "envelope_mm": [
+      33.0,
+      33.0,
+      26.0
+    ],
+    "expected_mm": [
+      33.0,
+      33.0,
+      26.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 33012
+  },
+  {
+    "id": "eurofit-k-61709bss",
+    "profile": "pyramid_knob",
+    "envelope_mm": [
+      30.0,
+      24.0,
+      28.0
+    ],
+    "expected_mm": [
+      30.0,
+      24.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 51244
+  },
+  {
+    "id": "eurofit-k-61709sb",
+    "profile": "pyramid_knob",
+    "envelope_mm": [
+      30.0,
+      24.0,
+      28.0
+    ],
+    "expected_mm": [
+      30.0,
+      24.0,
+      28.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 51240
+  },
+  {
+    "id": "eurofit-k-61711bss",
+    "profile": "square_knob",
+    "envelope_mm": [
+      35.0,
+      20.0,
+      27.0
+    ],
+    "expected_mm": [
+      35.0,
+      20.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70832
+  },
+  {
+    "id": "eurofit-k-61711sb",
+    "profile": "square_knob",
+    "envelope_mm": [
+      35.0,
+      20.0,
+      27.0
+    ],
+    "expected_mm": [
+      35.0,
+      20.0,
+      27.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 70828
+  },
+  {
+    "id": "eurofit-k-62217bss",
+    "profile": "square_knob",
+    "envelope_mm": [
+      25.0,
+      25.0,
+      29.0
+    ],
+    "expected_mm": [
+      25.0,
+      25.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 73084
+  },
+  {
+    "id": "eurofit-k-62217rg",
+    "profile": "square_knob",
+    "envelope_mm": [
+      25.0,
+      25.0,
+      29.0
+    ],
+    "expected_mm": [
+      25.0,
+      25.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 73120
+  },
+  {
+    "id": "eurofit-k-62231rg",
+    "profile": "square_knob",
+    "envelope_mm": [
+      34.0,
+      34.0,
+      32.0
+    ],
+    "expected_mm": [
+      34.0,
+      34.0,
+      32.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 75816
+  },
+  {
+    "id": "eurofit-k-62301borb",
+    "profile": "round_knob",
+    "envelope_mm": [
+      32.0,
+      32.0,
+      30.0
+    ],
+    "expected_mm": [
+      32.0,
+      32.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 50248
+  },
+  {
+    "id": "eurofit-k-62301bss",
+    "profile": "round_knob",
+    "envelope_mm": [
+      32.0,
+      32.0,
+      30.0
+    ],
+    "expected_mm": [
+      32.0,
+      32.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 50208
+  },
+  {
+    "id": "eurofit-k-62301rg",
+    "profile": "round_knob",
+    "envelope_mm": [
+      32.0,
+      32.0,
+      30.0
+    ],
+    "expected_mm": [
+      32.0,
+      32.0,
+      30.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 50244
+  },
+  {
+    "id": "eurofit-k-62343bss",
+    "profile": "round_knob",
+    "envelope_mm": [
+      33.0,
+      33.0,
+      33.0
+    ],
+    "expected_mm": [
+      33.0,
+      33.0,
+      33.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 50200
+  },
+  {
+    "id": "eurofit-k-62343rg",
+    "profile": "round_knob",
+    "envelope_mm": [
+      33.0,
+      33.0,
+      33.0
+    ],
+    "expected_mm": [
+      33.0,
+      33.0,
+      33.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 50236
+  },
+  {
+    "id": "eurofit-k-62861bss",
+    "profile": "square_knob",
+    "envelope_mm": [
+      31.0,
+      31.0,
+      29.0
+    ],
+    "expected_mm": [
+      31.0,
+      31.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 72980
+  },
+  {
+    "id": "eurofit-k-62861rg",
+    "profile": "square_knob",
+    "envelope_mm": [
+      31.0,
+      31.0,
+      29.0
+    ],
+    "expected_mm": [
+      31.0,
+      31.0,
+      29.0
+    ],
+    "max_error_mm": 0.0,
+    "bytes": 73016
+  }
+]

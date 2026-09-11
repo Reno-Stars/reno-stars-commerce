@@ -1,0 +1,14 @@
+{
+  "job": "supply-cabinets-import-814b43ec",
+  "completion_time": "2026-09-11T00:03:18Z",
+  "created_count": 1609,
+  "exact_eligible_id_set_match": true,
+  "held_records_imported": 0,
+  "summaries": [
+    "Import: 1609 eligible, 1609 new, 0 existing, 125 held",
+    "Dry run: 1609 eligible, 0 new, 1609 existing, 125 held"
+  ],
+  "status": "Complete",
+  "product_status": "draft",
+  "publication_performed": false
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "url": "/cabinet-inventory/models/oppein-ply-gss-2db36.glb",
+    "bytes": 102372,
+    "sha256": "ca91d1b457452043b064d70d4dfe4c3e4f245e751f7364fce6f7f13bfface620",
+    "matches_reviewed_file": true
+  },
+  {
+    "url": "/cabinet-inventory/models/bvc-2402.glb",
+    "bytes": 120340,
+    "sha256": "4593c40dcb797311e31d50af7470e28a7c2e134c127ad5c0b55ece3e55ab11a8",
+    "matches_reviewed_file": true
+  },
+  {
+    "url": "/cabinet-inventory/models/oppein-ply-bss-bsr06.glb",
+    "bytes": 225972,
+    "sha256": "c8f2f358fb9e9b4fd2f3ab468d8044a3a4a0a836e8f6d44e24a6d84d839670ab",
+    "matches_reviewed_file": true
+  },
+  {
+    "url": "/cabinet-library/vendor/cabinet-stage.js",
+    "bytes": 952631,
+    "sha256": "da97d1882149b79c0e6af9db87135857c68aec432221f1b41bf490b8977bc25b",
+    "matches_reviewed_file": true
+  }
+]

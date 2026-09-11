@@ -1,0 +1,8 @@
+redisUrl not found. A fake redis instance will be used.
+{"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2026-09-10 23:43:09"}
+{"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2026-09-10 23:43:09"}
+{"level":"info","message":"No subscriber to load from /app/src/subscribers. skipped.","timestamp":"2026-09-10 23:43:09"}
+{"level":"info","message":"No job to load from /app/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2026-09-10 23:43:09"}
+{"level":"info","message":"No job to load from /app/src/jobs. skipped.","timestamp":"2026-09-10 23:43:09"}
+{"level":"info","message":"Dry run: 1609 eligible, 1609 new, 0 existing, 125 held","timestamp":"2026-09-10 23:43:12"}
+{"level":"info","message":"Finished executing script.","timestamp":"2026-09-10 23:43:12"}

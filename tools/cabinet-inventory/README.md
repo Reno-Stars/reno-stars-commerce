@@ -42,7 +42,7 @@ npm run test:native --prefix tools/cabinet-viewer
 
 Use the actual local Blender executable when installed elsewhere. `package.py` applies portable wood tints and checks source-spec hashes before attaching models; it is required after generation. The native browser suite checks representative models across all eleven supplier/finish combinations, settings, downloads, mobile, and products with no model.
 
-## Medusa import when the stack returns
+## Medusa production import
 
 Deploy storefront assets first, then from `backend`:
 
@@ -53,6 +53,6 @@ CABINET_APPLY=1 npx medusa exec ./src/scripts/import-cabinet-inventory.ts
 
 Default invocation is read-only. Production import skips the 125 modeled records with unresolved source conflicts, leaving 1,609 eligible draft records. Apply preflights all pending model URLs before any catalog writes. Existing product handles are skipped, foreign SKU collisions stop the run, and supplier/finish/construction categories are created as needed. Existing products are not overwritten. The original 100 OPPEIN handles and variant SKUs are preserved. Blue Valley uses stable internal `BVC-<variant-id>` SKUs because supplier SKU strings can repeat across variants; the original supplier SKU remains metadata.
 
-Products are quote-only, with no prices and no fabricated inventory. Source price and availability remain research fields in the full snapshot. Imported `model_url`, family and dimension metadata activate the native viewer on each Medusa product page. The importer has been tested with mocked Medusa services; a live dry run and production import remain pending stack availability.
+Products are quote-only, with no prices and no fabricated inventory. Source price and availability remain research fields in the full snapshot. Imported `model_url`, family and dimension metadata activate the native viewer on each Medusa product page. The live import completed on September 10, 2026: 1,609 quote-only drafts created (1,477 OPPEIN; 132 Blue Valley), with 125 source-conflicted modeled records excluded. A second dry run verified zero pending and 1,609 existing. Native viewer code and model assets are deployed. Products remain drafts, so they are not visible in the public catalog until separately approved and published. Deployment evidence is in `../../docs/deployments/`.
 
 Sources: https://www.oppeincabinetry.ca/ ; https://bluevalleycabinets.ca/ ; https://macancabinets.com/products/ ; https://macancabinets.com/doityourself/

@@ -9,7 +9,7 @@ export default async function updateEurofit({container}: ExecArgs) {
  const logger=container.resolve(ContainerRegistrationKeys.LOGGER)
  const service:IProductModuleService=container.resolve(Modules.PRODUCT)
  const apply=process.env.EUROFIT_APPLY==='1'
- const [category]=await service.listProductCategories({handle:'cabinet-hardware'})
+ const [category]=await service.listProductCategories({handle:'cabinet-hardware'},{select:['id','name','handle']})
  if(!category || !['Cabinet Hardware','Hardware'].includes(category.name))throw Error('Unexpected hardware category')
  const updates: Array<{id:string;title:string;metadata:Record<string,unknown>}> = []
  for(const p of inventory.products){

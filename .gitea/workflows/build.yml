@@ -94,7 +94,14 @@ jobs:
                  | grep -oE '^[0-9.]+GB' | head -1 || true)
           [ -n "$huge" ] && echo "::warning::a ${huge} uncompressed layer is unlikely to compress under the 100 MB per-layer cap" || true
       - name: Push
-        run: docker push "$REGISTRY/reno-stars/${{ matrix.name }}:${{ steps.meta.outputs.tag }}"
+        env:
+          REGISTRY_USERNAME: ${{ secrets.REGISTRY_USERNAME }}
+          REGISTRY_PASSWORD: ${{ secrets.REGISTRY_PASSWORD }}
+        # Sequential 4 MiB Registry V2 chunks avoid the proxy's HTTP 524 write
+        # timeout. Every layer diff ID and the published manifest are verified.
+        run: |
+          python3 scripts/tests/test-chunked-upload.py
+          python3 scripts/push-image-chunked.py "$REGISTRY/reno-stars/${{ matrix.name }}:${{ steps.meta.outputs.tag }}"
 
   propose-deploy:
     needs: build

@@ -1,5 +1,5 @@
 """Blender: metre-scale product envelopes, separate mounting anchors, glTF PBR."""
-import bpy,json,math,os,sys,hashlib
+import bpy,json,math,os,sys,hashlib,bmesh
 from pathlib import Path
 from mathutils import Vector
 R=Path(__file__).resolve().parent;REPO=R.parent.parent
@@ -16,6 +16,7 @@ profiles={
 profile_for={i:k for k,v in profiles.items() for i in v}
 sys.path.insert(0,str(R))
 from knobs_v2 import build_knob
+from handles_v2 import build_handle
 def mesh(name,verts,faces,material,bevel=0):
  me=bpy.data.meshes.new(name);me.from_pydata(verts,[],faces);me.update();o=bpy.data.objects.new(name,me);bpy.context.collection.objects.link(o);me.materials.append(material)
  if bevel:
@@ -57,81 +58,8 @@ def hardware(r):
  d=r['dimensions_mm'];L,W,H=[d[k]/1000 for k in ('length','width','projection')];C=(r['mounting_centres_mm'] or 0)/1000;i=r['family_index'];kind=profile_for[i]
  if kind.endswith('knob'):
   build_knob(i,L,W,H,mat)
- elif kind=='cup':
-  # Open underside, domed shell and flanged mounting feet.
-  N=64;M=16;vs=[];fs=[];t=.0015
-  for side in [0,1]:
-   for a in range(N+1):
-    angle=math.pi*a/N
-    for b in range(M+1):
-     phi=math.pi*b/(2*M);vs.append(((L/2-t*side)*math.cos(angle)*math.cos(phi),-W/2+(W-t*side)*math.sin(angle)*math.cos(phi),t+(H-t-t*side)*math.sin(phi)))
-  grid=(N+1)*(M+1)
-  for side in range(2):
-   for a in range(N):
-    for b in range(M):
-     j=side*grid+a*(M+1)+b;f=(j,j+1,j+M+2,j+M+1);fs.append(f if not side else tuple(reversed(f)))
-  o=mesh('Hollow cup shell',vs,fs,mat)
-  for f in o.data.polygons:f.use_smooth=True
-  for x in [-C/2,C/2]:box('Cup mounting flange',(x,0,.001),(min(.012,L-C),W*.60,.002))
- elif kind=='round_rail':
-  radius=W/2;z=H-radius;cylinder('Cylindrical grip',0,0,z,radius,L,'x')
-  for x in [-C/2,C/2]:
-   foot=min(W*.75,L-C)
-   if i in [5,43]:box('Square standoff',(x,0,z/2),(foot,W*.85,z))
-   else:cylinder('Round standoff',x,0,z/2,W*.28,z)
-   if i in [5,66]:cylinder('Grip collar',x,0,z,radius*.98,min(W*.40,(L-C)*.8),'x')
- elif kind=='tube_bend':
-  # Radius of the 90-degree corners is visual; end centres retain C-C.
-  rad=W/2;turn=min(.008,H*.27);vs=[];path=[]
-  for n in range(13):path.append((-C/2,H-rad-turn if n==12 else (H-rad-turn)*n/12))
-  for n in range(1,17):a=math.pi-n*math.pi/32;path.append((-C/2+turn+turn*math.cos(a),H-rad-turn+turn*math.sin(a)))
-  for n in range(1,33):path.append((-C/2+turn+(C-2*turn)*n/32,H-rad))
-  for n in range(1,17):a=math.pi/2-n*math.pi/32;path.append((C/2-turn+turn*math.cos(a),H-rad-turn+turn*math.sin(a)))
-  for n in range(1,13):path.append((C/2,(H-rad-turn)*(1-n/12)))
-  for n,(x,z) in enumerate(path):
-   a=Vector(path[min(n+1,len(path)-1)])-Vector(path[max(n-1,0)]);a.normalize()
-   for j in range(32):ang=j*math.pi/16;vs.append((x-((L-C)/2)*a.y*math.cos(ang),rad*math.sin(ang),z+rad*a.x*math.cos(ang)))
-  fs=[]
-  for n in range(len(path)-1):
-   for j in range(32):fs.append((n*32+j,n*32+(j+1)%32,(n+1)*32+(j+1)%32,(n+1)*32+j))
-  o=mesh('Bent tubular grip',vs,fs,mat)
-  for f in o.data.polygons:f.use_smooth=True
- elif kind in ['bow','twisted']:
-  thickness=min(.006,W*.35);path=[];widths=[]
-  leaf=i in [1,9,11,46,47,54,55,76,89,105,109]
-  strap=i in [18,19,48,54,106]
-  base=thickness/2 if leaf or strap else H*.65
-  def elevation(u):
-   rise=min(1,math.sin(math.pi*u)*4) if strap else math.sin(math.pi*u)**.8
-   return base+(H-thickness/2-base)*rise
-  for n in range(65):
-   u=n/64;x=-L/2+u*L;arch=math.sin(math.pi*u)**.65
-   path.append((x,elevation(u)));widths.append(W*(1-.42*math.sin(math.pi*u)) if leaf else W)
-  strip('Sculpted arch grip',path,widths,thickness,kind=='twisted')
-  for x in [-C/2,C/2]:
-   u=(x+L/2)/L;h=elevation(u)
-   box('Mounting foot',(x,0,h/2),(max(.002,min(.015,L-C)),W*.52,h))
- elif kind=='oval_plate':
-  # Capsule grip extruded as a continuous plate.
-  rad=W/2;vs=[]
-  for z in [H-.005,H]:
-   for n in range(96):a=n*math.pi/48;vs.append(((L/2-rad)*(1 if math.cos(a)>=0 else -1)+rad*math.cos(a),rad*math.sin(a),z))
-  fs=[tuple(reversed(range(96))),tuple(range(96,192))]+[(n,(n+1)%96,(n+1)%96+96,n+96) for n in range(96)]
-  mesh('Oval plate grip',vs,fs,mat,.0005)
-  for x in [-C/2,C/2]:cylinder('Plate post',x,0,(H-.004)/2,min(W*.25,(L-C)/2),(H-.004))
  else:
-  t={7:.006,24:.013,42:.009}.get(i,min(H*.32,.009));foot={14:.030,20:.024,24:.033,35:.020,63:.024,88:.028}.get(i,min(max(.003,(L-C)*.65),.026));foot=min(foot,L-C)
-  if kind=='blade_feet':
-   gripwidth=W*.70 if i in [35,88,91] else W
-   box('Blade grip',(0,0,H-t/2),(L,gripwidth,t))
-  else:box('Rectangular grip',(0,0,H-t/2),(L,W,t),.0012 if i in [38,86] else .0004)
-  for x in [-C/2,C/2]:
-   box('Mounting standoff',(x,0,(H-t)/2),(foot,W,H-t),.0012 if i in [38,86] else .0004)
-   if i in [61,65]:box('Foot plinth',(x,0,.001),(min(L-C,foot*1.2),W,.002))
-  if i in [30,56,104,107]:
-   # Recessed narrow channels on the broad grip; geometric seam, no painted stripe.
-   for sy in [-1,1]:box('Raised grip edge',(0,sy*(W/2-.0007),H-.0007),(L-.001,.0014,.0014),.0002)
-  if i==27:box('Lower loop return',(0,0,.002),(L,W,.004))
+  kind=build_handle(i,L,W,H,C,mat)
  # Mount origins are independent markers; projection starts at the cabinet face.
  for x in ([-C/2,C/2] if C else [0]):
   bpy.ops.object.empty_add(location=(x,0,0));bpy.context.object.name='Mounting centre';bpy.context.object['purpose']='mounting_anchor';bpy.context.object['thread_spec']='not supplied'
@@ -175,7 +103,19 @@ for r in p['products']:
  tolerance=.00012
  error=max(abs(a-b) for a,b in zip(actual,expected))
  if error>tolerance:raise RuntimeError((r['id'],kind,'envelope mismatch',actual,expected,error))
- bpy.ops.object.empty_add();root=bpy.context.object;root.name=r['id'];root['supplier']='Eurofit Canada';root['supplier_sku']=r['supplier_sku'];root['source_url']=r['source_url'];root['dimensions_mm']=json.dumps(r['dimensions_mm']);root['mounting_centres_mm']=r['mounting_centres_mm'] or 0;root['model_limitations']=r['model_limitations'];root['model_version']=2 if r['type']=='Knobs' else 1
+ # Weld collapsed parametric poles, remove zero-area faces and orient closed
+ # shells consistently before export; material double-sidedness cannot mask this.
+ for o in list(bpy.context.scene.objects):
+  if o.type!='MESH':continue
+  bpy.context.view_layer.objects.active=o
+  for mod in list(o.modifiers):bpy.ops.object.modifier_apply(modifier=mod.name)
+  bm=bmesh.new();bm.from_mesh(o.data)
+  bmesh.ops.remove_doubles(bm,verts=list(bm.verts),dist=1e-8)
+  bmesh.ops.triangulate(bm,faces=list(bm.faces))
+  bad=[f for f in bm.faces if f.calc_area()<1e-14]
+  if bad:bmesh.ops.delete(bm,geom=bad,context='FACES_ONLY')
+  bmesh.ops.recalc_face_normals(bm,faces=list(bm.faces));bm.to_mesh(o.data);bm.free();o.data.update()
+ bpy.ops.object.empty_add();root=bpy.context.object;root.name=r['id'];root['supplier']='Eurofit Canada';root['supplier_sku']=r['supplier_sku'];root['source_url']=r['source_url'];root['dimensions_mm']=json.dumps(r['dimensions_mm']);root['mounting_centres_mm']=r['mounting_centres_mm'] or 0;root['model_limitations']=r['model_limitations'];root['model_version']=3
  for o in list(bpy.context.scene.objects):
   if o!=root:o.parent=root
  # Blender Z-up -> glTF Y-up. Cancel exporter rotation: GLB axes are X=length,
@@ -183,7 +123,7 @@ for r in p['products']:
  root.rotation_euler.x=math.pi/2
  bpy.context.scene.unit_settings.system='METRIC';bpy.context.scene.unit_settings.scale_length=1
  if r['family_index'] not in saved:bpy.ops.wm.save_as_mainfile(filepath=str(BLEND/(r['id']+'.blend')),compress=True);saved.add(r['family_index'])
- dest=OUT/(r['id']+('-v2' if r['type']=='Knobs' else '')+'.glb');bpy.ops.export_scene.gltf(filepath=str(dest),export_format='GLB',export_apply=True,export_extras=True)
+ dest=OUT/(r['id']+'-v3.glb');bpy.ops.export_scene.gltf(filepath=str(dest),export_format='GLB',export_apply=True,export_extras=True)
  r['model_url']='/eurofit-hardware/models/'+dest.name;r['model_status']='built';r['model_profile']=('photo_profile_'+str(r['family_index'])+'_v2') if r['type']=='Knobs' else kind
  reports.append({'id':r['id'],'profile':kind,'envelope_mm':[round(v*1000,4) for v in actual],'expected_mm':[v*1000 for v in expected],'max_error_mm':round(error*1000,4),'bytes':dest.stat().st_size})
 if not selected or os.environ.get('EUROFIT_SAVE_SELECTED')=='1':

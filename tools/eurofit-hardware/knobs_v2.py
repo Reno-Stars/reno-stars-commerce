@@ -79,12 +79,14 @@ def build_knob(i,L,W,H,mat):
   for j in range(N):
    a=2*math.pi*j/N;x=math.cos(a);y=.5*math.sin(a)+.45*x*x;boundary.append((x,y))
   ymin=min(y for x,y in boundary);ymax=max(y for x,y in boundary)
-  for scale,zoffset in [(1,-.14),(1,0),(.94,.018),(.65,.018),(0,.018)]:
+  for scale,zoffset in [(1,-.14),(1,0),(.94,.018),(.65,.018),(.25,.018)]:
    for x,y in boundary:
-    vs.append((L*.5*x*scale,W*((y-ymin)/(ymax-ymin)-.5)*scale,H*(.8974+.09*x*x*scale+zoffset)))
+    vs.append((L*.5*x*scale,W*((y-ymin)/(ymax-ymin)-.5)*scale,H*(.902476+.09*x*x*scale*scale+zoffset)))
   fs=[tuple(reversed(range(N)))]
   for k in range(4):
    for j in range(N):fs.append((k*N+j,k*N+(j+1)%N,(k+1)*N+(j+1)%N,(k+1)*N+j))
+  centre=len(vs);vs.append((0,0,H*(.902476+.018)))
+  for j in range(N):fs.append((4*N+j,4*N+(j+1)%N,centre))
   me=bpy.data.meshes.new('Kidney crown');me.from_pydata(vs,[],fs);me.update();o=bpy.data.objects.new('K388 kidney shaped scoop',me);bpy.context.collection.objects.link(o);me.materials.append(mat)
   for f in me.polygons:f.use_smooth=True
  else:raise ValueError(i)

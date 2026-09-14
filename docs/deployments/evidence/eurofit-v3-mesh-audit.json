@@ -1,0 +1,3665 @@
+[
+  {
+    "id": "eurofit-h-002-128bss",
+    "triangles": 10844,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-002-128cp",
+    "triangles": 10844,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-002-96bss",
+    "triangles": 10844,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-002-96cp",
+    "triangles": 10844,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-009-128bn",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-009-128bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-017-128bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-017-160bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-017-96bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-019-128",
+    "triangles": 2132,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-019-160",
+    "triangles": 2132,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-019-224",
+    "triangles": 2132,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-019-256",
+    "triangles": 2132,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-019-320",
+    "triangles": 2132,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-128bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-128cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-128orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-128sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-160bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-160cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-160orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-160sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-224bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-224cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-224orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-224sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-320bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-320cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-320orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-320sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-416bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-416cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-022-416orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-033-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-033-128cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-033-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-033-160cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-033-192bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-033-192cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-033-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-033-224cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-033-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-033-320cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-033-416bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-040b-128rg",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-040b-160rg",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-040b-224rg",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-040b-320rg",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-048-128bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-048-192bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-064-128bss",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-064-192bss",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-068-128bn",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-068-128bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-068-96bn",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-068-96bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-101-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-101-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-101-416bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-128bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-128cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-128sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-160bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-160cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-160sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-192bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-192bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-192sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-224bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-224cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-224sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-320bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-320cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-320sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-416bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-416cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-96bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-96bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-108-96sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-151-160bss",
+    "triangles": 9108,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-201-128bss",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-201-160bss",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-201-224bss",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-201-320bss",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-201-416bss",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-208-128bss",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-208-160bss",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-208-224bss",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-208-320bss",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-208-416bss",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-213-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-213-160cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-213-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-213-320cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-2205-242bss",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-2205-242cp",
+    "triangles": 7228,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-128bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-128cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-128sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-160bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-160cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-160sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-224bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-224cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-320bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-320cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-320sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-416bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-254-416cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-301-128",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-301-160",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-301-192",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-301-256",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-303-160bss",
+    "triangles": 3264,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-303-160cp",
+    "triangles": 3264,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-324-128aih",
+    "triangles": 25612,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-324-128orb",
+    "triangles": 25612,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-324-224orb",
+    "triangles": 25612,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-324-320orb",
+    "triangles": 25612,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-324-416orb",
+    "triangles": 25612,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-344-128aih",
+    "triangles": 1716,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-344-128orb",
+    "triangles": 1716,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-128bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-128cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-128mbc",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-128orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-128sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-160bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-160cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-160sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-192bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-192bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-192sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-224bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-224cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-224mbc",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-224orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-224sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-320bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-320cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-320mbc",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-320orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-320sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-416bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-96bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-96bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-355-96sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-359-128as",
+    "triangles": 9108,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-359-128bk",
+    "triangles": 9108,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-359-128bss",
+    "triangles": 9108,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-359-128orb",
+    "triangles": 9108,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-401-416",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-401-608",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-444-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-444-128cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-444-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-444-160cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-444-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-444-224cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-444-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-444-416bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-448-128bss",
+    "triangles": 4852,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-448-128cp",
+    "triangles": 4852,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-448-128vbh",
+    "triangles": 4852,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-448-96bss",
+    "triangles": 4852,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-448-96cp",
+    "triangles": 4852,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-448-96vbh",
+    "triangles": 4852,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-459-76bss",
+    "triangles": 14320,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-459-76vbh",
+    "triangles": 14320,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-463-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-463-128orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-463-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-463-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-463-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-463-320orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-463-416bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-471-76bss",
+    "triangles": 14320,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-471-76cp",
+    "triangles": 14320,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-503-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-503-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-503-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-503-416bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-503-608bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-508-416",
+    "triangles": 2132,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-508-608",
+    "triangles": 2132,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-533-128",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-533-160",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-533-192",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-533-224",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-55178-256bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-55178-256cp",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-55178-320bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-55178-320cp",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-55632-160cp",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-55632-256bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-55632-256cp",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-55632-320bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-55632-320cp",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61158-160bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61158-160cp",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61226-128bk",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61228-128bk",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61364-128bss",
+    "triangles": 1716,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61364-128mbc",
+    "triangles": 1716,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61364-160bss",
+    "triangles": 1716,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61364-160mbc",
+    "triangles": 1716,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61364-160orb",
+    "triangles": 1716,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61415-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61415-128orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61415-192bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61415-192orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61415-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61415-320orb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61704-160cp",
+    "triangles": 1716,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61710-128bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61710-128sb",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61712-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-61712-128sb",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62006-160",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62006-224",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62006-320",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62006-416",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62027-128bl",
+    "triangles": 6380,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62027-128bss",
+    "triangles": 6380,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62027-192bl",
+    "triangles": 6380,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62027-192bss",
+    "triangles": 6380,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62027-224bl",
+    "triangles": 6380,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62027-224bss",
+    "triangles": 6380,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62027-320bl",
+    "triangles": 6380,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62027-320bss",
+    "triangles": 6380,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62033-192bss",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62033-288bss",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62158-160bss",
+    "triangles": 25612,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62204-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62204-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62204-192bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62204-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62219-128bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62219-160bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62219-320bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62346-160bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62356-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-128bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-128rg",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-160bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-160rg",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-192bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-192bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-192rg",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-224bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-224rg",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-256bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-256bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-62501-256rg",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-64510-224bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-64510-352bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-64978-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-64978-160cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65013-128bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65013-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65013-128rg",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65013-192bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65013-192bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65013-192rg",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65013-224bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65013-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65013-320bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65013-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65013-320rg",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-128",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-128bk",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-128gl",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-160",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-192",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-224",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-224bk",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-224gl",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-320",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-320bk",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-320gl",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-416",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-96",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-96bk",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65040b-96gl",
+    "triangles": 3828,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-128bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-128cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-128rg",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-160bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-192bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-192bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-192rg",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-224bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-320bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65355-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65804-128bk",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65804-128bss",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65804-128cp",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65804-128gl",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65804-192bk",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65804-192bss",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65804-192cp",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-65804-192gl",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66723-128bss",
+    "triangles": 2980,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66723-192bss",
+    "triangles": 2980,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66723-320bss",
+    "triangles": 2980,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66732-192bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66732-256bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66749-128bss",
+    "triangles": 2980,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66749-160bss",
+    "triangles": 2980,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66749-320bss",
+    "triangles": 2980,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66751-192bss",
+    "triangles": 10772,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66751-320bss",
+    "triangles": 10772,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66796-160bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66796-160cp",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66796-320bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-66796-320cp",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-69013-320bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-69480-160bk",
+    "triangles": 1284,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-69480-192bk",
+    "triangles": 1284,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-69501-224bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71106-128bss",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71106-160bss",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71106-224bss",
+    "triangles": 3412,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71107-128mbc",
+    "triangles": 1716,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71260-128bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71260-160bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71260-160cp",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71260-224bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71260-224cp",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71267-128bss",
+    "triangles": 5540,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71267-128cp",
+    "triangles": 5540,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71461-128cp-mn",
+    "triangles": 1716,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71461-128cp-w",
+    "triangles": 1716,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71632-128bss",
+    "triangles": 10804,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71726-224bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71726-320bk",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71808-128bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71808-128cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71808-160bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71808-160cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71808-224bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71808-224cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71808-320bss",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-71808-320cp",
+    "triangles": 860,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-72061-128bk",
+    "triangles": 4852,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-72061-128bss",
+    "triangles": 4852,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-72061-160bk",
+    "triangles": 4852,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-h-72061-160bss",
+    "triangles": 4852,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-179ai",
+    "triangles": 6908,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-179bk",
+    "triangles": 6908,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-179bss",
+    "triangles": 6908,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-264bk",
+    "triangles": 2300,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-264bss",
+    "triangles": 2300,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-264cp",
+    "triangles": 2300,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-323aih",
+    "triangles": 4592,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-323orb",
+    "triangles": 4592,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-360ai",
+    "triangles": 4600,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-360as",
+    "triangles": 4600,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-360bk",
+    "triangles": 4600,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-360bss",
+    "triangles": 4600,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-388bss",
+    "triangles": 2810,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-388cp",
+    "triangles": 2810,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-417bk",
+    "triangles": 3576,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-417bss",
+    "triangles": 3576,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-417cp",
+    "triangles": 3576,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-417sb",
+    "triangles": 3576,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-420bk",
+    "triangles": 2300,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-420bss",
+    "triangles": 2300,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-420cp",
+    "triangles": 2300,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-61368bss",
+    "triangles": 3832,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-61368mbc",
+    "triangles": 3832,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-61709bss",
+    "triangles": 2296,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-61709sb",
+    "triangles": 2296,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-61711bss",
+    "triangles": 1796,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-61711sb",
+    "triangles": 1796,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-62217bss",
+    "triangles": 2552,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-62217rg",
+    "triangles": 2552,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-62231rg",
+    "triangles": 4344,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-62301borb",
+    "triangles": 5884,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-62301bss",
+    "triangles": 5884,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-62301rg",
+    "triangles": 5884,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-62343bss",
+    "triangles": 6908,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-62343rg",
+    "triangles": 6908,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-62861bss",
+    "triangles": 3580,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  },
+  {
+    "id": "eurofit-k-62861rg",
+    "triangles": 3580,
+    "degenerate_triangles": 0,
+    "opposed_vertex_normals": 0,
+    "nonfinite_values": 0,
+    "negative_volume_primitives": 0,
+    "details": []
+  }
+]

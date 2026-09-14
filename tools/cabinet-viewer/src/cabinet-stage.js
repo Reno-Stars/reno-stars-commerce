@@ -126,7 +126,17 @@ export class CabinetStage {
   const p=presets[this.settings.light]||presets.daylight;const t=this.settings.direction*Math.PI/180;const targetY=this.mount+(this.size?.y||1)*.5;
   this.key.position.set(Math.sin(t)*4,targetY+3.5,Math.cos(t)*4);this.key.target.position.set(0,targetY,0);this.key.color.setHex(p.color);this.key.intensity=p.key*.78;this.softbox.position.set(Math.sin(t)*3,targetY+1.5,Math.cos(t)*3);this.softbox.lookAt(0,targetY,0);this.softbox.color.setHex(p.color);this.softbox.intensity=this.settings.light==='studio'?3:1.5;this.fill.intensity=p.fill;this.hemi.intensity=p.hemi;this.rim.intensity=p.rim;this.scene.environmentIntensity=this.hardware?p.env*1.6:p.env;this.scene.environmentRotation.y=t;this.renderer.toneMappingExposure=this.settings.brightness/100;this.needsRender=true;
  }
- resetView(){if(!this.size)return;const target=new THREE.Vector3(0,this.mount+this.size.y*.48,0);const span=Math.max(this.size.y,this.size.x/Math.max(.7,this.camera.aspect),this.size.z, this.hardware?.035:.65);this.controls.target.copy(target);this.camera.position.copy(target).add(new THREE.Vector3(span*(this.hardware?1.10:1.15),span*(this.hardware?.85:.65),span*(this.hardware?1.95:1.95)));this.controls.minDistance=span*.7;this.controls.maxDistance=span*4.5;this.controls.update();}
+ resetView(){if(!this.size)return;const target=new THREE.Vector3(0,this.mount+this.size.y*.5,0);this.controls.target.copy(target);
+  if(this.hardware){
+   // Fit the enclosing sphere, so a long horizontal pull also fits when rotated.
+   const radius=this.size.length()/2,vertical=this.camera.fov*Math.PI/360;
+   const limiting=Math.min(vertical,Math.atan(Math.tan(vertical)*this.camera.aspect));
+   const distance=radius/Math.sin(limiting)*1.12;
+   this.camera.position.copy(target).add(new THREE.Vector3(1.10,.85,1.95).normalize().multiplyScalar(distance));
+   this.controls.minDistance=Math.max(.015,radius*.8);this.controls.maxDistance=distance*3;
+  }else{const span=Math.max(this.size.y,this.size.x/Math.max(.7,this.camera.aspect),this.size.z,.65);this.camera.position.copy(target).add(new THREE.Vector3(span*1.15,span*.65,span*1.95));this.controls.minDistance=span*.7;this.controls.maxDistance=span*4.5;}
+  this.controls.update();
+ }
  screenshot(){this.render();return this.renderer.domElement.toDataURL('image/png')}
  dispose(){this.disposed=true;++this.ticket;cancelAnimationFrame(this.frame);this.resizeObserver.disconnect();this.intersection.disconnect();this.controls.dispose();disposeTree(this.room);if(this.cabinet)disposeTree(this.cabinet);this.oak.dispose();this.oakRoughness.dispose();this.ao.dispose();this.output.dispose();this.fxaa.dispose();this.composer.dispose();this.environment?.dispose();this.pmrem.dispose();this.renderer.dispose();}
 }

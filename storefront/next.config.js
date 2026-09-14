@@ -81,6 +81,12 @@ const nextConfig = {
         hostname: "images.ctfassets.net",
       },
       {
+        // Reno Stars' own public R2 bucket — showroom tile photos uploaded by
+        // hand (supply/tiles/*.jpg) live here, not on the PVC image service.
+        protocol: "https",
+        hostname: "pub-b88db8c50fd64a9a87f60a4486a4a488.r2.dev",
+      },
+      {
         protocol: "https",
         hostname: "monalisatile.ca",
       },

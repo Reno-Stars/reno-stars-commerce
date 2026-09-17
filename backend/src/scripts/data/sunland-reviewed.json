@@ -1,0 +1,2020 @@
+{
+  "products": [
+    {
+      "id": "sunland-d103-800x800-chrome-6mm",
+      "supplier_sku": "D103",
+      "variant_sku": "SUNLAND-D103-800X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931737.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D103 \u2014 Shower Enclosure, 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height",
+      "description": "Sunland D103. Selected configuration: 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Chrome. Glass thickness: 6 mm. Overall width/depth/height, tray height and drain centre follow manufacturer poster. Glass panel divisions, track cross-sections, knob dimensions and tray recess depth are photo-based approximations. Curved corner radius is inferred from plan; no manufacturer radius supplied. Model shows closed doors; no animation or concealed roller mechanism. R denotes photo orientation, not a verified supplier handing designation. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1950,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 800.000011920929,
+        "depth": 800.000011920929,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d103-800x800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d103-800x800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d103-800x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d103-800x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d103-800x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 43976,
+          "sha256": "d566702d52e03cd58c667d915f921b796b3fbdc8056116ac5be4d7e32698696a"
+        },
+        "model.blend.gz": {
+          "bytes": 201686,
+          "sha256": "8074bb0b0906e30dc230420cc5e5ed288d696a290cf86b3c0173c88ccb502c4d"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1173475,
+          "sha256": "916614fa2d0d32ec44964e6bbfe4fc18df03423d943870e7a5c79825ed6f47eb"
+        },
+        "model.glb": {
+          "bytes": 375832,
+          "sha256": "55074892b890ec3f4c8ae52a8e178cc0b4c612d167f55578f43bd49378653866"
+        },
+        "specification.json": {
+          "bytes": 2259,
+          "sha256": "e2444c9678b256884b352c4cea70ed37607f4ce02fdb48203feffa450638cf79"
+        }
+      },
+      "model_limitations": "Overall width/depth/height, tray height and drain centre follow manufacturer poster. Glass panel divisions, track cross-sections, knob dimensions and tray recess depth are photo-based approximations. Curved corner radius is inferred from plan; no manufacturer radius supplied. Model shows closed doors; no animation or concealed roller mechanism. R denotes photo orientation, not a verified supplier handing designation.",
+      "dimension_scope": "Published tray footprint and full assembly height; projecting knobs reported separately in full bounds"
+    },
+    {
+      "id": "sunland-d105-r-1200x800-chrome-6mm",
+      "supplier_sku": "D105",
+      "variant_sku": "SUNLAND-D105-R-1200X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931743.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D105 \u2014 Shower Enclosure, 1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height",
+      "description": "Sunland D105. Selected configuration: 1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Chrome. Glass thickness: 6 mm. Overall width/depth/height, tray height and drain centre follow manufacturer poster. Glass panel divisions, track cross-sections, knob dimensions and tray recess depth are photo-based approximations. Curved corner radius is inferred from plan; no manufacturer radius supplied. Model shows closed doors; no animation or concealed roller mechanism. R denotes photo orientation, not a verified supplier handing designation. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1950,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 811.5521436557174,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d105-r-1200x800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d105-r-1200x800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d105-r-1200x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d105-r-1200x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d105-r-1200x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 47575,
+          "sha256": "36e28382d1fe21f203229bc937cab88d588e452d7a4bb41cfc2fc77b4a64a395"
+        },
+        "model.blend.gz": {
+          "bytes": 195492,
+          "sha256": "0f25bc379f0ffb57095fb760f4e39b26e5d99940f96a921ba5ac1012db93e39a"
+        },
+        "manufacturer.jpg": {
+          "bytes": 892152,
+          "sha256": "40e9d5ea18f107d0c1474a31a7a75b5e3ebe93f3f7199034ef37d4c4426e1ed7"
+        },
+        "model.glb": {
+          "bytes": 364776,
+          "sha256": "07b46f35ffcfe14c4183e2ece4c0804fbe9ebbf0a23f6eca3998109aabf985c2"
+        },
+        "specification.json": {
+          "bytes": 2286,
+          "sha256": "fa29c66d9f60cacba2a64730726a136fc3ca00437d78d0bfdf9e2fbf2fcc4f18"
+        }
+      },
+      "model_limitations": "Overall width/depth/height, tray height and drain centre follow manufacturer poster. Glass panel divisions, track cross-sections, knob dimensions and tray recess depth are photo-based approximations. Curved corner radius is inferred from plan; no manufacturer radius supplied. Model shows closed doors; no animation or concealed roller mechanism. R denotes photo orientation, not a verified supplier handing designation.",
+      "dimension_scope": "Published tray footprint and full assembly height; projecting knobs reported separately in full bounds"
+    },
+    {
+      "id": "sunland-d106-1000x800-chrome-6mm",
+      "supplier_sku": "D106",
+      "variant_sku": "SUNLAND-D106-1000X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931731.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D106 \u2014 Shower Enclosure, 1000 mm width \u00d7 800 mm depth \u00d7 1950 mm height",
+      "description": "Sunland D106. Selected configuration: 1000 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Chrome. Glass thickness: 6 mm. Overall width/depth/height, tray height and drain centre follow manufacturer poster. Glass panel divisions, track cross-sections, knob dimensions and tray recess depth are photo-based approximations. Curved corner radius is inferred from plan; no manufacturer radius supplied. Model shows closed doors; no animation or concealed roller mechanism. R denotes photo orientation, not a verified supplier handing designation. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1000,
+        "height": 1950,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 1042.0000553131104,
+        "depth": 842.0000076293945,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d106-1000x800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d106-1000x800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d106-1000x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d106-1000x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d106-1000x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 47188,
+          "sha256": "d83ebfadde874ed9f360cd68ee81e9bd417c713530f408121d5ab7bfd2d90635"
+        },
+        "model.blend.gz": {
+          "bytes": 186167,
+          "sha256": "77ed69e775eb4954d4bb4969d8e4f0ef68a0fd56260e334acdcc0edd39ead58f"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1060605,
+          "sha256": "e0f4f02f5115639b7163c14f4af9724e92054c1b58c31511960f537193520370"
+        },
+        "model.glb": {
+          "bytes": 311584,
+          "sha256": "dde222777dad05f1fb51d4a1bfb50954f9b0f5abab7aac374083634576a89236"
+        },
+        "specification.json": {
+          "bytes": 2272,
+          "sha256": "d39df849dd9c2e65bf18e7f27285f9ae22e269bc2f1ae291003970913331ab20"
+        }
+      },
+      "model_limitations": "Overall width/depth/height, tray height and drain centre follow manufacturer poster. Glass panel divisions, track cross-sections, knob dimensions and tray recess depth are photo-based approximations. Curved corner radius is inferred from plan; no manufacturer radius supplied. Model shows closed doors; no animation or concealed roller mechanism. R denotes photo orientation, not a verified supplier handing designation.",
+      "dimension_scope": "Published tray footprint and full assembly height; projecting knobs reported separately in full bounds"
+    },
+    {
+      "id": "sunland-d107-r-1200x800-chrome-6mm",
+      "supplier_sku": "D107",
+      "variant_sku": "SUNLAND-D107-R-1200X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931735.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D107 \u2014 Shower Enclosure, 1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height",
+      "description": "Sunland D107. Selected configuration: 1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Chrome. Glass thickness: 6 mm. Overall width/depth/height, tray height and drain centre follow manufacturer poster. Glass panel divisions, track cross-sections, knob dimensions and tray recess depth are photo-based approximations. Curved corner radius is inferred from plan; no manufacturer radius supplied. Model shows closed doors; no animation or concealed roller mechanism. R denotes photo orientation, not a verified supplier handing designation. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1950,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 811.5521436557174,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d107-r-1200x800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d107-r-1200x800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d107-r-1200x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d107-r-1200x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d107-r-1200x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 46508,
+          "sha256": "5dbc342c6fdb0c1a0e1e41842b3ad6fab1692f6d23968dbef6848c39986a44b4"
+        },
+        "model.blend.gz": {
+          "bytes": 195520,
+          "sha256": "2e80c1026752586c7bab723dd935231000d22777369d8b20daa90a72c4577249"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1280393,
+          "sha256": "cd9d549d87e3916bcb8a2194d7bf3d6267baf3247a17c68e598c16825a135a7d"
+        },
+        "model.glb": {
+          "bytes": 364804,
+          "sha256": "c7d82d956b1c2d68ccf354ecdf7c24f96b99dbe24dee01be8eaf41eeecf50b31"
+        },
+        "specification.json": {
+          "bytes": 2286,
+          "sha256": "b91099130c71a6ea39fb706f45a7d3e355b940962c24850646562724b45b2e15"
+        }
+      },
+      "model_limitations": "Overall width/depth/height, tray height and drain centre follow manufacturer poster. Glass panel divisions, track cross-sections, knob dimensions and tray recess depth are photo-based approximations. Curved corner radius is inferred from plan; no manufacturer radius supplied. Model shows closed doors; no animation or concealed roller mechanism. R denotes photo orientation, not a verified supplier handing designation.",
+      "dimension_scope": "Published tray footprint and full assembly height; projecting knobs reported separately in full bounds"
+    },
+    {
+      "id": "sunland-d201-900-chrome-6mm",
+      "supplier_sku": "D201",
+      "variant_sku": "SUNLAND-D201-900-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931729.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D201 \u2014 Shower Screen, 900 mm width \u00d7 1900 mm height",
+      "description": "Sunland D201. Selected configuration: 900 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Support rod diameter, clamps and channel profile are inferred from photo Frame projection is not manufacturer-dimensioned Glass sizing must be confirmed for fabrication Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 900,
+        "height": 1900,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 899.9999761581421,
+        "depth": 913.4999765083194,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "d201-900 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d201-900-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d201-900-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d201-900-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d201-900-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 30940,
+          "sha256": "e3b22be2031b8c74f999c3d85c16597792c6d23c679337f0db4ec4e33aeaf354"
+        },
+        "model.blend.gz": {
+          "bytes": 104028,
+          "sha256": "408808a89f806ee504f51ca7259aae611e4cc28e4eaae58053a95f5a33b68a52"
+        },
+        "manufacturer.jpg": {
+          "bytes": 272866,
+          "sha256": "0b161078e3d838d9caa53782df5a1dfd20767cad046a110396ba09224f49a0e2"
+        },
+        "model.glb": {
+          "bytes": 19560,
+          "sha256": "a4b2ca65b7278ba43dcec94959e4917e9a6a6ab3f778d1786fd7f10e1323477e"
+        },
+        "specification.json": {
+          "bytes": 1598,
+          "sha256": "4728e00169d63726dec7006f13f6cd0378a4a05b4342acc11b32b22630f43314"
+        }
+      },
+      "model_limitations": "Support rod diameter, clamps and channel profile are inferred from photo Frame projection is not manufacturer-dimensioned Glass sizing must be confirmed for fabrication",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-d302-800x800-chrome-6mm",
+      "supplier_sku": "D302",
+      "variant_sku": "SUNLAND-D302-800X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931693.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D302 \u2014 Shower Enclosure, 800 mm width \u00d7 800 mm depth \u00d7 1900 mm height",
+      "description": "Sunland D302. Selected configuration: 800 mm width \u00d7 800 mm depth \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Hardware dimensions and glass partition proportions are visual approximations Closed-door configuration; hinges and folding leaves are separate meshes Base/plinth excluded; door height 1900 mm after subtracting the drawing\u2019s 60 mm plinth where present Use supplier drawing for fabrication and operating clearances Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1900,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 800.9999990463257,
+        "depth": 800.000011920929,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d302-800x800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d302-800x800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d302-800x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d302-800x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d302-800x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 40723,
+          "sha256": "fc538875c5ba3d45010d486b0cbf75d5fb897c54e1fb3cd90a2507f3fd306221"
+        },
+        "model.blend.gz": {
+          "bytes": 112233,
+          "sha256": "4af7e19d0d35beb23f4a4a0b8de068ea2d698dc77772ec1f553ab44e22d2dfa7"
+        },
+        "manufacturer.jpg": {
+          "bytes": 745953,
+          "sha256": "4970ae143a1851e021df16955effd6b75181bfca05b587f8de10f9a7cb0b9aab"
+        },
+        "model.glb": {
+          "bytes": 120400,
+          "sha256": "ea648d93c5e8d27d362ab6358eb7981b244c0917f57da96421280734dd5ac124"
+        },
+        "specification.json": {
+          "bytes": 2040,
+          "sha256": "c77bfe215e49d43c52fb8c9ba86046551f6c3d24711a428dd58e7b360d7d727c"
+        }
+      },
+      "model_limitations": "Hardware dimensions and glass partition proportions are visual approximations Closed-door configuration; hinges and folding leaves are separate meshes Base/plinth excluded; door height 1900 mm after subtracting the drawing\u2019s 60 mm plinth where present Use supplier drawing for fabrication and operating clearances",
+      "dimension_scope": "Wall mounting footprint; projecting hinges and pulls reported separately in full bounds"
+    },
+    {
+      "id": "sunland-d304-800x800-chrome-6mm",
+      "supplier_sku": "D304",
+      "variant_sku": "SUNLAND-D304-800X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931697.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D304 \u2014 Shower Enclosure, 800 mm width \u00d7 800 mm depth \u00d7 1900 mm height",
+      "description": "Sunland D304. Selected configuration: 800 mm width \u00d7 800 mm depth \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Hardware dimensions and glass partition proportions are visual approximations Closed-door configuration; hinges and folding leaves are separate meshes Base/plinth excluded; door height 1900 mm after subtracting the drawing\u2019s 60 mm plinth where present Use supplier drawing for fabrication and operating clearances Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1900,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 800.9999990463257,
+        "depth": 822.7591589093208,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d304-800x800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d304-800x800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d304-800x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d304-800x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d304-800x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 37147,
+          "sha256": "620d275b177d518a78045b119a0b603a4700c6ffefb5e1a98ae67138d50bf4d0"
+        },
+        "model.blend.gz": {
+          "bytes": 107787,
+          "sha256": "bbb23399ea07576102c3389c4d15d1e60ab06cfeaea7108c136cf100219fc67c"
+        },
+        "manufacturer.jpg": {
+          "bytes": 692569,
+          "sha256": "735b7c6fa87f9f40a332d9cd8156de3ab8860a25627017bfb381d09cf46836cc"
+        },
+        "model.glb": {
+          "bytes": 75316,
+          "sha256": "515d97e89899707850520b4415f321bd9ae847fe85a60caccee7ab08f12e0f48"
+        },
+        "specification.json": {
+          "bytes": 2041,
+          "sha256": "c81ad3f56d89808b219ea3a1d3a3b5723ba745f39f45f42ef278892a28d64df5"
+        }
+      },
+      "model_limitations": "Hardware dimensions and glass partition proportions are visual approximations Closed-door configuration; hinges and folding leaves are separate meshes Base/plinth excluded; door height 1900 mm after subtracting the drawing\u2019s 60 mm plinth where present Use supplier drawing for fabrication and operating clearances",
+      "dimension_scope": "Wall mounting footprint; projecting hinges and pulls reported separately in full bounds"
+    },
+    {
+      "id": "sunland-d306-1000x800-chrome-6mm",
+      "supplier_sku": "D306",
+      "variant_sku": "SUNLAND-D306-1000X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931669.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D306 \u2014 Shower Enclosure, 1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height",
+      "description": "Sunland D306. Selected configuration: 1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Hardware dimensions and glass partition proportions are visual approximations Closed-door configuration; hinges and folding leaves are separate meshes Base/plinth excluded; door height 1900 mm after subtracting the drawing\u2019s 60 mm plinth where present Use supplier drawing for fabrication and operating clearances Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1000,
+        "height": 1900,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 1001.0000467300415,
+        "depth": 800.000011920929,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d306-1000x800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d306-1000x800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d306-1000x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d306-1000x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d306-1000x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 37392,
+          "sha256": "ebaafe01120f8dd1c1f4dbe01ec98d85677ac1424a2a70c84743165a2b003718"
+        },
+        "model.blend.gz": {
+          "bytes": 107948,
+          "sha256": "e7853be2f88d027af645e44e2a8ed9dfab757175b09683fe2792a0e18de4b39d"
+        },
+        "manufacturer.jpg": {
+          "bytes": 894341,
+          "sha256": "4114143f2f5e49362c8583d5a668886a9dca8f75ec520392027b3973477283fd"
+        },
+        "model.glb": {
+          "bytes": 75036,
+          "sha256": "a97aad53caf87d491c202d75a525ef3470d23a612d85a694b1f88a6c66727d18"
+        },
+        "specification.json": {
+          "bytes": 2051,
+          "sha256": "785488df83dd8fcaf649049c0ccc9adf5913a52a56a411c7615a11bbcf569db8"
+        }
+      },
+      "model_limitations": "Hardware dimensions and glass partition proportions are visual approximations Closed-door configuration; hinges and folding leaves are separate meshes Base/plinth excluded; door height 1900 mm after subtracting the drawing\u2019s 60 mm plinth where present Use supplier drawing for fabrication and operating clearances",
+      "dimension_scope": "Wall mounting footprint; projecting hinges and pulls reported separately in full bounds"
+    },
+    {
+      "id": "sunland-d311-800x800-chrome-6mm",
+      "supplier_sku": "D311",
+      "variant_sku": "SUNLAND-D311-800X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931725.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D311 \u2014 Shower Enclosure, 800 mm width \u00d7 800 mm depth \u00d7 1900 mm height",
+      "description": "Sunland D311. Selected configuration: 800 mm width \u00d7 800 mm depth \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Hardware dimensions and glass partition proportions are visual approximations Closed-door configuration; hinges and folding leaves are separate meshes Base/plinth excluded; door height 1900 mm after subtracting the drawing\u2019s 60 mm plinth where present Use supplier drawing for fabrication and operating clearances Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1900,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 800.4999756813049,
+        "depth": 800.5000120028853,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d311-800x800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d311-800x800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d311-800x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d311-800x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d311-800x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 40422,
+          "sha256": "eccbb9df018696aa6e3c427a6ef35a8144c9b4cd4c67b67bce1ade6e8798ba4f"
+        },
+        "model.blend.gz": {
+          "bytes": 107989,
+          "sha256": "4beb3071b56347c178636b179b0d0e7a375723092e1e99e5c3d0e5d130cdb9ee"
+        },
+        "manufacturer.jpg": {
+          "bytes": 473828,
+          "sha256": "10bb394d010dcb1e00350ebe5431618efa86452daa1e792a0bdb1659b1bf2f2b"
+        },
+        "model.glb": {
+          "bytes": 92608,
+          "sha256": "eab1d88cfffeb3bdb50e3dc100c4d06b35b45f33383225483c9bff41c3eb936f"
+        },
+        "specification.json": {
+          "bytes": 2041,
+          "sha256": "8778490c620d39d98272ca6b19abda4a0790ce4fc62b62a4bb3f6f48105fd903"
+        }
+      },
+      "model_limitations": "Hardware dimensions and glass partition proportions are visual approximations Closed-door configuration; hinges and folding leaves are separate meshes Base/plinth excluded; door height 1900 mm after subtracting the drawing\u2019s 60 mm plinth where present Use supplier drawing for fabrication and operating clearances",
+      "dimension_scope": "Wall mounting footprint; projecting hinges and pulls reported separately in full bounds"
+    },
+    {
+      "id": "sunland-d511-800-chrome-6mm",
+      "supplier_sku": "D511",
+      "variant_sku": "SUNLAND-D511-800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931675.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D511 \u2014 Shower Enclosure, 800 mm width \u00d7 1900 mm height",
+      "description": "Sunland D511. Selected configuration: 800 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Glass division, hardware profile, handle dimensions and tint intensity inferred from photo Manufacturer confirmation needed for installation clearances Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1900,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 800.000011920929,
+        "depth": 61.500003561377525,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d511-800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d511-800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d511-800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d511-800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d511-800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 33772,
+          "sha256": "a98c957252842eed056b964d92eaf958a2f7cfdaacf2e60a46ebcb0b0b95c7d6"
+        },
+        "model.blend.gz": {
+          "bytes": 105268,
+          "sha256": "ae2bb8d2a51dab49ae47135870e9f23001a9bd661295be52fbfdfbdd8a20e807"
+        },
+        "manufacturer.jpg": {
+          "bytes": 514686,
+          "sha256": "6116f93976acf40dfaeca73322493d2f648a392b7f90bc5fd84849a06c153c2f"
+        },
+        "model.glb": {
+          "bytes": 35176,
+          "sha256": "0549ba1e13abbcb868e4a8dd4bde068e66ee80bb97489188157c6520d09530aa"
+        },
+        "specification.json": {
+          "bytes": 1587,
+          "sha256": "96eeec3f66b91258b70e8de1fe5e0b8bcea192b1cf1aabc0851ffd7ff972d251"
+        }
+      },
+      "model_limitations": "Glass division, hardware profile, handle dimensions and tint intensity inferred from photo Manufacturer confirmation needed for installation clearances",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-d513-1500-chrome-6mm",
+      "supplier_sku": "D513",
+      "variant_sku": "SUNLAND-D513-1500-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931691.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D513 \u2014 Shower Enclosure, 1500 mm width \u00d7 1900 mm height",
+      "description": "Sunland D513. Selected configuration: 1500 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Glass division, hardware profile, handle dimensions and tint intensity inferred from photo Manufacturer confirmation needed for installation clearances Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1500,
+        "height": 1900,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 1500.0,
+        "depth": 208.76676961779594,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d513-1500 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d513-1500-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d513-1500-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d513-1500-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d513-1500-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 40419,
+          "sha256": "9fa988142561fb55313186ace5e6c392c06a13b19557cc1ef001dcfdaf882368"
+        },
+        "model.blend.gz": {
+          "bytes": 109116,
+          "sha256": "0226d26333bbcfb030de7580238281c870b4877fbd05eda85598b3acd0887efb"
+        },
+        "manufacturer.jpg": {
+          "bytes": 695948,
+          "sha256": "e0aa5f1deb8fd3588a0b1fed1a08022c6114fb0fe31730ed3e38d23fd5dac16f"
+        },
+        "model.glb": {
+          "bytes": 62776,
+          "sha256": "527fd104023e5791a1ffdefa31df19bc7c43fb7d42df533b02443925c342e6ed"
+        },
+        "specification.json": {
+          "bytes": 1587,
+          "sha256": "f0971f6c313f5f45ed774870b4696d5fb9f80f999143ddbab7020ec94ca529fb"
+        }
+      },
+      "model_limitations": "Glass division, hardware profile, handle dimensions and tint intensity inferred from photo Manufacturer confirmation needed for installation clearances",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-d711-1500-chrome-6mm",
+      "supplier_sku": "D711",
+      "variant_sku": "SUNLAND-D711-1500-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931685.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D711 \u2014 Shower Enclosure, 1500 mm width \u00d7 1900 mm height",
+      "description": "Sunland D711. Selected configuration: 1500 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Glass division, hardware profile, handle dimensions and tint intensity inferred from photo Manufacturer confirmation needed for installation clearances Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1500,
+        "height": 1900,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 1500.0,
+        "depth": 101.5000008046627,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d711-1500 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d711-1500-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d711-1500-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d711-1500-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d711-1500-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 46582,
+          "sha256": "35524d2685c1558e63609c6a66363d0a93a890da13da41d5fd8d426e3579a30d"
+        },
+        "model.blend.gz": {
+          "bytes": 106778,
+          "sha256": "878776407d40aee19872b78fb856cf9ef346215f3b6a2f4026e2d4d5ec763c32"
+        },
+        "manufacturer.jpg": {
+          "bytes": 722730,
+          "sha256": "a6e2bcebebe0881087cf5ba06b4dd75ffb0cfeb859d2cad3d1f11cb57b3901de"
+        },
+        "model.glb": {
+          "bytes": 38716,
+          "sha256": "7b6812beef2f2e15fefae42f176daa1d0ab6abe9b29e31cc54c07555152513f8"
+        },
+        "specification.json": {
+          "bytes": 1586,
+          "sha256": "97c1492636461e9452d4268903d390f4a372e12210e5949fe77be4249e24613a"
+        }
+      },
+      "model_limitations": "Glass division, hardware profile, handle dimensions and tint intensity inferred from photo Manufacturer confirmation needed for installation clearances",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-d712-1200-chrome-6mm",
+      "supplier_sku": "D712",
+      "variant_sku": "SUNLAND-D712-1200-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931683.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D712 \u2014 Shower Enclosure, 1200 mm width \u00d7 1900 mm height",
+      "description": "Sunland D712. Selected configuration: 1200 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Glass division, hardware profile, handle dimensions and tint intensity inferred from photo Manufacturer confirmation needed for installation clearances Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1900,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 106.49999603629112,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d712-1200 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d712-1200-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d712-1200-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d712-1200-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d712-1200-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 54583,
+          "sha256": "78fcd5e533a249a6ffa6b331b2aa09cb1974de2b19fc99f701278e52f6722f33"
+        },
+        "model.blend.gz": {
+          "bytes": 127241,
+          "sha256": "7183ab8b80ecb8c1b5a235e557840783866976904d7704478b4865a1fd8595bc"
+        },
+        "manufacturer.jpg": {
+          "bytes": 736717,
+          "sha256": "8ad8ce8078ce8b8efcf49b784a8a8c73f7f55780a049a4ae5ae388f66dc39746"
+        },
+        "model.glb": {
+          "bytes": 141612,
+          "sha256": "dfb296288cd0c2bd96d476409b14e3cca58405525770ba73d66bf16185b9d72b"
+        },
+        "specification.json": {
+          "bytes": 1599,
+          "sha256": "a9f3447e10da662413acfe991a9af451c6ee64c67c2b20c100d103973ad92c1e"
+        }
+      },
+      "model_limitations": "Glass division, hardware profile, handle dimensions and tint intensity inferred from photo Manufacturer confirmation needed for installation clearances",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-d801-800x800-chrome-6mm",
+      "supplier_sku": "D801",
+      "variant_sku": "SUNLAND-D801-800X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931629.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D801 \u2014 Shower Enclosure, 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height",
+      "description": "Sunland D801. Selected configuration: 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Chrome. Glass thickness: 6 mm. Published overall dimensions, tray height and drain centre retained. Track profiles, bowed handle cross-sections, glazing divisions, tray recess and corner radius are photograph-based approximations. Closed door configuration; hidden rollers and installation hardware are not modelled. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1950,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 800.000011920929,
+        "depth": 800.000011920929,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d801-800x800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d801-800x800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d801-800x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d801-800x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d801-800x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 45793,
+          "sha256": "39eda18484c93887dc18be44bc162985a54a0c78c727a7bfb7ed065a3c97238d"
+        },
+        "model.blend.gz": {
+          "bytes": 218634,
+          "sha256": "83778de7a5919f05ba9d2e85610ccd78783748f52dcf48e1ca5c04cc978c953a"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1151420,
+          "sha256": "c01d8b4d9a867016aa2d906fdebfa141f0a498b611df77dfe75b6a75c6798595"
+        },
+        "model.glb": {
+          "bytes": 703164,
+          "sha256": "b18a27a42e4170602790488d3320a189937d715a9e3a171506efb66742336fa1"
+        },
+        "specification.json": {
+          "bytes": 1989,
+          "sha256": "73dbc83890855281a80d8a5719b7477cd660b7bd5d411d462b3f6a4529dea478"
+        }
+      },
+      "model_limitations": "Published overall dimensions, tray height and drain centre retained. Track profiles, bowed handle cross-sections, glazing divisions, tray recess and corner radius are photograph-based approximations. Closed door configuration; hidden rollers and installation hardware are not modelled.",
+      "dimension_scope": "Published tray footprint and full assembly height; projecting knobs reported separately in full bounds"
+    },
+    {
+      "id": "sunland-d802-800x800-chrome-6mm",
+      "supplier_sku": "D802",
+      "variant_sku": "SUNLAND-D802-800X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931645.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D802 \u2014 Shower Enclosure, 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height",
+      "description": "Sunland D802. Selected configuration: 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Chrome. Glass thickness: 6 mm. Published overall dimensions, tray height and drain centre retained. Track profiles, bowed handle cross-sections, glazing divisions, tray recess and corner radius are photograph-based approximations. Closed door configuration; hidden rollers and installation hardware are not modelled. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1950,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 838.9960527420044,
+        "depth": 838.9960080385208,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d802-800x800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d802-800x800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d802-800x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d802-800x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d802-800x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 45646,
+          "sha256": "50c2c4241820c1e881977ad1f7c2d7027287959f783c4e3e1131c25722931eac"
+        },
+        "model.blend.gz": {
+          "bytes": 204140,
+          "sha256": "892cdbefc117292dea1d6a5082f720836f03097fc2c16cc342df537c85a9bb28"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1360387,
+          "sha256": "d23a8f8d64da373fb76c8cc9a120ebcccd708060e8ebc3ccbd5419eccb3732fb"
+        },
+        "model.glb": {
+          "bytes": 638400,
+          "sha256": "05842334024709cb62b2a8251eea3c34bc98e944289ec817d5a1ebc67aa927bc"
+        },
+        "specification.json": {
+          "bytes": 1991,
+          "sha256": "aacb92aee7de295c81c085fa00730f50050f5ab85892c3d5b51654c1a9ada85f"
+        }
+      },
+      "model_limitations": "Published overall dimensions, tray height and drain centre retained. Track profiles, bowed handle cross-sections, glazing divisions, tray recess and corner radius are photograph-based approximations. Closed door configuration; hidden rollers and installation hardware are not modelled.",
+      "dimension_scope": "Published tray footprint and full assembly height; projecting knobs reported separately in full bounds"
+    },
+    {
+      "id": "sunland-d807-900x900-chrome-6mm",
+      "supplier_sku": "D807",
+      "variant_sku": "SUNLAND-D807-900X900-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931641.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D807 \u2014 Shower Enclosure, 900 mm width \u00d7 900 mm depth \u00d7 1950 mm height",
+      "description": "Sunland D807. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1950 mm height. Finish: Chrome. Glass thickness: 6 mm. Published overall dimensions, tray height and drain centre retained. Track profiles, bowed handle cross-sections, glazing divisions, tray recess and corner radius are photograph-based approximations. Closed door configuration; hidden rollers and installation hardware are not modelled. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 900,
+        "height": 1950,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 899.9999761581421,
+        "depth": 928.678510710597,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d807-900x900 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d807-900x900-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d807-900x900-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d807-900x900-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d807-900x900-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 41534,
+          "sha256": "89a49b3c6fdbbd297bc4b0481b5b8afb0d44199e64402a6b735e0656cbfccd8b"
+        },
+        "model.blend.gz": {
+          "bytes": 207788,
+          "sha256": "7729de282f1d2176de6b74550ddf9f01c64bca86e2e88067848a6ff92c4c8dc8"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1264370,
+          "sha256": "224ae7c721d16096bec0e1dfe78be2f56c90f90c2d523e554a1795c9ecc9bf3c"
+        },
+        "model.glb": {
+          "bytes": 487696,
+          "sha256": "0fa1d559593e5cc61975cd378ac76adddabe3645da0240c63408fbd416a26f0e"
+        },
+        "specification.json": {
+          "bytes": 1990,
+          "sha256": "7cc0459f152fea1340e59c65fc7d0ab4407e52f4bda0a576b5f79e3ebaa6ef10"
+        }
+      },
+      "model_limitations": "Published overall dimensions, tray height and drain centre retained. Track profiles, bowed handle cross-sections, glazing divisions, tray recess and corner radius are photograph-based approximations. Closed door configuration; hidden rollers and installation hardware are not modelled.",
+      "dimension_scope": "Published tray footprint and full assembly height; projecting knobs reported separately in full bounds"
+    },
+    {
+      "id": "sunland-d912-1300-chrome-6mm",
+      "supplier_sku": "D912",
+      "variant_sku": "SUNLAND-D912-1300-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931689.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D912 \u2014 Shower Enclosure, 1300 mm width \u00d7 1900 mm height",
+      "description": "Sunland D912. Selected configuration: 1300 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Track and roller profiles, pane overlap and handles visually approximated Width uses documented lower endpoint; installation adjustment requires supplier drawing Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1300,
+        "height": 1900,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 1299.9999523162842,
+        "depth": 102.00000554323196,
+        "height": 1900.0000953674316
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d912-1300 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d912-1300-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d912-1300-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d912-1300-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d912-1300-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 48516,
+          "sha256": "15a6325daece37dd07247fd8730fe9014e3e24fdd0be3d36818b30b1275431b6"
+        },
+        "model.blend.gz": {
+          "bytes": 116094,
+          "sha256": "b027ed4158b38f808530fccd4c34e42f7e432d1a26729f6843bb9d51280d3b4b"
+        },
+        "manufacturer.jpg": {
+          "bytes": 685200,
+          "sha256": "21789bf4db1aeeb257191e1e0ebdf1ee4138bb58eee07265adb97c079b4262c2"
+        },
+        "model.glb": {
+          "bytes": 193064,
+          "sha256": "81425d5a0d4517bc8eea65c4e80ba2cd43b8aea6c5cb4d97cfff42486446ec4f"
+        },
+        "specification.json": {
+          "bytes": 1620,
+          "sha256": "68106728a2616153182e4192e68b31e7f043069c93e6695588fb73147c4ef8b2"
+        }
+      },
+      "model_limitations": "Track and roller profiles, pane overlap and handles visually approximated Width uses documented lower endpoint; installation adjustment requires supplier drawing",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-d913-1200-chrome-6mm",
+      "supplier_sku": "D913",
+      "variant_sku": "SUNLAND-D913-1200-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931635.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland D913 \u2014 Shower Enclosure, 1200 mm width \u00d7 1900 mm height",
+      "description": "Sunland D913. Selected configuration: 1200 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Track and roller profiles, pane overlap and handles visually approximated Width uses documented lower endpoint; installation adjustment requires supplier drawing Drawing total 1960 mm includes 60 mm installation plinth; this door-only model is 1900 mm tall. Plinth excluded. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1900,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 100.00000521540642,
+        "height": 1900.0000953674316
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "d913-1200 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/d913-1200-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/d913-1200-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d913-1200-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d913-1200-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 44146,
+          "sha256": "c5f7f7e9de0bd5c7758259af537c8a3965de949b0de6fa7e8d2055622c67cf3f"
+        },
+        "model.blend.gz": {
+          "bytes": 110248,
+          "sha256": "175d0081c4896e57d036ad579eaf5d4a2043099d6cfb8ecaa15ca23d0c46002f"
+        },
+        "manufacturer.jpg": {
+          "bytes": 550105,
+          "sha256": "3b439856230701ff27d126f4f9edf75ddd39cfaa0e2921e2326d08b20df4cf8e"
+        },
+        "model.glb": {
+          "bytes": 127008,
+          "sha256": "0b2d48fec72bb2213c8abf7d8d8c4635bd05fa1644b0c3d60500b256dbb2aee1"
+        },
+        "specification.json": {
+          "bytes": 1846,
+          "sha256": "61962ac91a3581a2bc0ca228842b7c74be5f62eedc27de2bd3af0f11365f717d"
+        }
+      },
+      "model_limitations": "Track and roller profiles, pane overlap and handles visually approximated Width uses documented lower endpoint; installation adjustment requires supplier drawing Drawing total 1960 mm includes 60 mm installation plinth; this door-only model is 1900 mm tall. Plinth excluded.",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-na003-6030l",
+      "supplier_sku": "NA003-6030L",
+      "variant_sku": "SUNLAND-NA003-6030L",
+      "source_url": "https://cnsunland.com/goods/2931003.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland NA003-6030L \u2014 Shower Base, 1524 mm width \u00d7 762 mm depth \u00d7 101.6 mm height",
+      "description": "Sunland NA003-6030L. Selected configuration: 1524 mm width \u00d7 762 mm depth \u00d7 101.6 mm height. Finish: White acrylic. basin slope/depth corner radii flange thickness drain grate pattern and finish underside omitted Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1524,
+        "height": 101.6,
+        "depth": 762
+      },
+      "model_envelope_mm": {
+        "width": 1524.0000486373901,
+        "depth": 762.0000243186951,
+        "height": 101.59999877214432
+      },
+      "category": "Shower Bases",
+      "category_key": "shower-bases",
+      "variant_title": "na003-6030l",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/na003-6030l/model.glb",
+      "blend_url": "/sunland-library/na003-6030l/model.blend.gz",
+      "image_url": "/sunland-library/na003-6030l/preview.jpg",
+      "drawing_url": "/sunland-library/na003-6030l/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 30176,
+          "sha256": "00b8da2f52b7060c36f84d6dd8f54441b2367b21df683350c2001cb4ad607c05"
+        },
+        "model.blend.gz": {
+          "bytes": 270013,
+          "sha256": "7a8b5aa2d1bdd1ab68b257ff81ee9e60a3dd6fd362e5286f1cdf3aab9a02b8c1"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1350342,
+          "sha256": "8613e514ad2f6b27113d1288c725d0d692a03ffd3fa99b0639a308e729b8bdb0"
+        },
+        "model.glb": {
+          "bytes": 292452,
+          "sha256": "fff2cf2507d6826f312992fd26c40010a707120bac18e6d12f92e1fbc21fd69f"
+        },
+        "specification.json": {
+          "bytes": 1440,
+          "sha256": "b62556316da77daa9e02e5cfdb9b7b6e698100fd0b58bb4decd66dbc9dfa19d8"
+        }
+      },
+      "model_limitations": "basin slope/depth corner radii flange thickness drain grate pattern and finish underside omitted",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-na003-6030r",
+      "supplier_sku": "NA003-6030R",
+      "variant_sku": "SUNLAND-NA003-6030R",
+      "source_url": "https://cnsunland.com/goods/2931005.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland NA003-6030R \u2014 Shower Base, 1524 mm width \u00d7 762 mm depth \u00d7 101.6 mm height",
+      "description": "Sunland NA003-6030R. Selected configuration: 1524 mm width \u00d7 762 mm depth \u00d7 101.6 mm height. Finish: White acrylic. basin slope/depth corner radii flange thickness drain grate pattern and finish underside omitted Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1524,
+        "height": 101.6,
+        "depth": 762
+      },
+      "model_envelope_mm": {
+        "width": 1524.0000486373901,
+        "depth": 762.0000243186951,
+        "height": 101.59999877214432
+      },
+      "category": "Shower Bases",
+      "category_key": "shower-bases",
+      "variant_title": "na003-6030r",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/na003-6030r/model.glb",
+      "blend_url": "/sunland-library/na003-6030r/model.blend.gz",
+      "image_url": "/sunland-library/na003-6030r/preview.jpg",
+      "drawing_url": "/sunland-library/na003-6030r/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 30151,
+          "sha256": "54ceca759018a067cc16f353f0fb73f25b21428c7064c238a07ce2eaf31fe360"
+        },
+        "model.blend.gz": {
+          "bytes": 270256,
+          "sha256": "c8a59deba4f3465b1b643b0a4a6f24f35cf8b4f813621754a4cdb4cdb8f013ff"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1352808,
+          "sha256": "b899faf7c07c6dba704c5bc940aefb98755647baef26df65272ba08496875899"
+        },
+        "model.glb": {
+          "bytes": 292376,
+          "sha256": "86a170832c3bd6598ebd7a5517b87cc59f0f0fab19b73e827a80f479ca56d94f"
+        },
+        "specification.json": {
+          "bytes": 1440,
+          "sha256": "e7c55aeb4770f05f7da7f8cd69a1ae36b6d233dc9707c588ffa4a2aed4490064"
+        }
+      },
+      "model_limitations": "basin slope/depth corner radii flange thickness drain grate pattern and finish underside omitted",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-na003-6032l",
+      "supplier_sku": "NA003-6032L",
+      "variant_sku": "SUNLAND-NA003-6032L",
+      "source_url": "https://cnsunland.com/goods/2931065.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland NA003-6032L \u2014 Shower Base, 1524 mm width \u00d7 812.8 mm depth \u00d7 101.6 mm height",
+      "description": "Sunland NA003-6032L. Selected configuration: 1524 mm width \u00d7 812.8 mm depth \u00d7 101.6 mm height. Finish: White acrylic. basin slope/depth corner radii flange thickness drain grate pattern and finish underside omitted Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1524,
+        "height": 101.6,
+        "depth": 812.8
+      },
+      "model_envelope_mm": {
+        "width": 1524.0000486373901,
+        "depth": 812.8000199794769,
+        "height": 101.59999877214432
+      },
+      "category": "Shower Bases",
+      "category_key": "shower-bases",
+      "variant_title": "na003-6032l",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/na003-6032l/model.glb",
+      "blend_url": "/sunland-library/na003-6032l/model.blend.gz",
+      "image_url": "/sunland-library/na003-6032l/preview.jpg",
+      "drawing_url": "/sunland-library/na003-6032l/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 30311,
+          "sha256": "8ae5a88345152d32595d2e11d3cda344693c1966a2934ccd811c9faa70ebeab1"
+        },
+        "model.blend.gz": {
+          "bytes": 270315,
+          "sha256": "846aef0735a478483752dabc82c87867bfdfe0f33fb8c0413d0ca452c3e01527"
+        },
+        "manufacturer.jpg": {
+          "bytes": 2729839,
+          "sha256": "ce4de1b9fa51f76c797b5a48213ecbea4e43bd2761033496046d03192070a0f0"
+        },
+        "model.glb": {
+          "bytes": 292452,
+          "sha256": "9e66311b9a66726cd9f025cac2f8cbbaafed6bb6b65adcf982b42ec1e1548f0f"
+        },
+        "specification.json": {
+          "bytes": 1446,
+          "sha256": "203442acd2c7528c80f1c4346ef3ff9211bbcae25fd576568845e2ce3fa6fb39"
+        }
+      },
+      "model_limitations": "basin slope/depth corner radii flange thickness drain grate pattern and finish underside omitted",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-na003-6032r",
+      "supplier_sku": "NA003-6032R",
+      "variant_sku": "SUNLAND-NA003-6032R",
+      "source_url": "https://cnsunland.com/goods/2931067.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland NA003-6032R \u2014 Shower Base, 1524 mm width \u00d7 812.8 mm depth \u00d7 101.6 mm height",
+      "description": "Sunland NA003-6032R. Selected configuration: 1524 mm width \u00d7 812.8 mm depth \u00d7 101.6 mm height. Finish: White acrylic. basin slope/depth corner radii flange thickness drain grate pattern and finish underside omitted Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1524,
+        "height": 101.6,
+        "depth": 812.8
+      },
+      "model_envelope_mm": {
+        "width": 1524.0000486373901,
+        "depth": 812.8000199794769,
+        "height": 101.59999877214432
+      },
+      "category": "Shower Bases",
+      "category_key": "shower-bases",
+      "variant_title": "na003-6032r",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/na003-6032r/model.glb",
+      "blend_url": "/sunland-library/na003-6032r/model.blend.gz",
+      "image_url": "/sunland-library/na003-6032r/preview.jpg",
+      "drawing_url": "/sunland-library/na003-6032r/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 30296,
+          "sha256": "bda8fe1747bcd3b2bf012eb71f109b56f3aeb2b3c568589f283d267cfd79bebc"
+        },
+        "model.blend.gz": {
+          "bytes": 270250,
+          "sha256": "1d0dd90efc54cc10de06c302f721d65ba12d89c250744cca0b8f9664686a7a97"
+        },
+        "manufacturer.jpg": {
+          "bytes": 2667227,
+          "sha256": "0d293526828be0060bddfde4782fc3d4e9d5fbb80c78f4575f36af434e2bb09e"
+        },
+        "model.glb": {
+          "bytes": 292372,
+          "sha256": "f498eafb7e2960cff6a1fef1eab8dbf849ee6b16d6ed8c148f3324255ea78b6c"
+        },
+        "specification.json": {
+          "bytes": 1446,
+          "sha256": "a27d7afe28687ed7839b1c88e8220415da6447162a1c874e52bbe89c4563ae34"
+        }
+      },
+      "model_limitations": "basin slope/depth corner radii flange thickness drain grate pattern and finish underside omitted",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-sc018-1300-chrome-8mm",
+      "supplier_sku": "SC018",
+      "variant_sku": "SUNLAND-SC018-1300-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931583.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SC018 \u2014 Shower Enclosure, 1300 mm width \u00d7 1900 mm height",
+      "description": "Sunland SC018. Selected configuration: 1300 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 8 mm. Track sections, pane overlap, handles and machining profiles visually inferred SC018 privacy stripe spacing follows photo approximately Manufacturer confirmation needed for installation clearances Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1300,
+        "height": 1900,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 1299.9999523162842,
+        "depth": 101.5000008046627,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "sc018-1300 \u00b7 chrome \u00b7 8mm",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "/sunland-library/sc018-1300-chrome-8mm/model.glb",
+      "blend_url": "/sunland-library/sc018-1300-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/sc018-1300-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/sc018-1300-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 72381,
+          "sha256": "6de09d8fe1a60cd483a014a1d37695f6e09969fcfa08d42bb54ac4573a18dab8"
+        },
+        "model.blend.gz": {
+          "bytes": 153347,
+          "sha256": "20e0ef0ac568af7838fb40c97299d324b93a2304db06a84a39e8f4bd738aaabb"
+        },
+        "manufacturer.jpg": {
+          "bytes": 743707,
+          "sha256": "6f784fd461b07a280e469c49087ffc1dd14dcebc7fd27835bfae9c04821fa986"
+        },
+        "model.glb": {
+          "bytes": 318868,
+          "sha256": "6a736f79b98df8bc29e69f8f649053eb4985119b2149668e0de36ff42fb5048d"
+        },
+        "specification.json": {
+          "bytes": 1698,
+          "sha256": "f39c220ff3ed2808a29831e7beec4712a07d3611ea9318bc2ee1bf11d2c022da"
+        }
+      },
+      "model_limitations": "Track sections, pane overlap, handles and machining profiles visually inferred SC018 privacy stripe spacing follows photo approximately Manufacturer confirmation needed for installation clearances",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-sc019-1000-chrome-8mm",
+      "supplier_sku": "SC019",
+      "variant_sku": "SUNLAND-SC019-1000-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931551.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SC019 \u2014 Shower Enclosure, 1000 mm width \u00d7 1900 mm height",
+      "description": "Sunland SC019. Selected configuration: 1000 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 8 mm. Track sections, pane overlap, handles and machining profiles visually inferred SC018 privacy stripe spacing follows photo approximately Manufacturer confirmation needed for installation clearances Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1000,
+        "height": 1900,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 1000.0,
+        "depth": 106.50000348687172,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "sc019-1000 \u00b7 chrome \u00b7 8mm",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "/sunland-library/sc019-1000-chrome-8mm/model.glb",
+      "blend_url": "/sunland-library/sc019-1000-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/sc019-1000-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/sc019-1000-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 37172,
+          "sha256": "ea7f4b1f82211a4abaad5e35ee5a964d1e472c42736dbc1329863ecd5cbb329f"
+        },
+        "model.blend.gz": {
+          "bytes": 105941,
+          "sha256": "c458eaaa4a2002454c4662d249a53c07fe8a58e763f1e6d9b92e4b0dfb39eade"
+        },
+        "manufacturer.jpg": {
+          "bytes": 689429,
+          "sha256": "5cd43f39f7aac7aa388412d732999b3458ba9ba08e75f253d896d3edb2a732af"
+        },
+        "model.glb": {
+          "bytes": 45164,
+          "sha256": "2de8a18c7b0cb3f7eb0c4202cb428ab3ac591b6343ad891d73a95884b1e11b22"
+        },
+        "specification.json": {
+          "bytes": 1687,
+          "sha256": "e5bb4ba19a506c455da97dc32e9f1fde18c158aee001b3240fb3b4778d91a581"
+        }
+      },
+      "model_limitations": "Track sections, pane overlap, handles and machining profiles visually inferred SC018 privacy stripe spacing follows photo approximately Manufacturer confirmation needed for installation clearances",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-sc020-1200-chrome-8mm",
+      "supplier_sku": "SC020",
+      "variant_sku": "SUNLAND-SC020-1200-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931585.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SC020 \u2014 Shower Enclosure, 1200 mm width \u00d7 1900 mm height",
+      "description": "Sunland SC020. Selected configuration: 1200 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 8 mm. Track sections, pane overlap, handles and machining profiles visually inferred SC018 privacy stripe spacing follows photo approximately Manufacturer confirmation needed for installation clearances Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1900,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 109.50000211596489,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "sc020-1200 \u00b7 chrome \u00b7 8mm",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "/sunland-library/sc020-1200-chrome-8mm/model.glb",
+      "blend_url": "/sunland-library/sc020-1200-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/sc020-1200-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/sc020-1200-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 41953,
+          "sha256": "994740a092110f1dfa14f1f4d5f7b95020367f473e4f6b319f49f03a7fd6def7"
+        },
+        "model.blend.gz": {
+          "bytes": 107864,
+          "sha256": "4d682365541a88f6363b93df79b0ca030b0a387897d665edd30e984909598b76"
+        },
+        "manufacturer.jpg": {
+          "bytes": 639829,
+          "sha256": "54d511d05752272d14adc0417902742eafdd3023fe2aca055fea78c8050c92a3"
+        },
+        "model.glb": {
+          "bytes": 76488,
+          "sha256": "07117ef8dae2890ca0b90a0a3aad8e85d4abc29cce4af85159fe181c90525d47"
+        },
+        "specification.json": {
+          "bytes": 1699,
+          "sha256": "c05969ac4a80708689905024d06a8cc5bfca0394bb9fb2cdc6f4f35f3667da54"
+        }
+      },
+      "model_limitations": "Track sections, pane overlap, handles and machining profiles visually inferred SC018 privacy stripe spacing follows photo approximately Manufacturer confirmation needed for installation clearances",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-sc021-800-chrome-6mm",
+      "supplier_sku": "SC021",
+      "variant_sku": "SUNLAND-SC021-800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931601.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SC021 \u2014 Shower Screen, 800 mm width \u00d7 1500 mm height",
+      "description": "Sunland SC021. Selected configuration: 800 mm width \u00d7 1500 mm height. Finish: Chrome. Glass thickness: 6 mm. Hardware profiles and pane division inferred from product photo Corner radii are visual approximations Bath and installation environment not included; manufacturer installation drawing governs Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1500,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 800.000011920929,
+        "depth": 27.000000700354576,
+        "height": 1500.0
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "sc021-800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/sc021-800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/sc021-800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/sc021-800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/sc021-800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 31939,
+          "sha256": "d93097e44ba8720a60c693037bcdba799497f00e16780bf93d90ed61edd7e8ed"
+        },
+        "model.blend.gz": {
+          "bytes": 104019,
+          "sha256": "6cac17c00407d0e32601ca147b5be9adaf9f975e06a96b962cb8d8b58b9dbe34"
+        },
+        "manufacturer.jpg": {
+          "bytes": 375297,
+          "sha256": "958b2a559ebf48ba434736f4ab76e30a1f15f93ac57f86299f86004426ee06ba"
+        },
+        "model.glb": {
+          "bytes": 18704,
+          "sha256": "ab6118b5ec4237950d372382e8d75257d19414052d2cc6795f023c033340b423"
+        },
+        "specification.json": {
+          "bytes": 1645,
+          "sha256": "4cf1424f11b997d2971b4cac0ac551769da642ff664d714f81029be5b4241e43"
+        }
+      },
+      "model_limitations": "Hardware profiles and pane division inferred from product photo Corner radii are visual approximations Bath and installation environment not included; manufacturer installation drawing governs",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-sc022-800-chrome-6mm",
+      "supplier_sku": "SC022",
+      "variant_sku": "SUNLAND-SC022-800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931589.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SC022 \u2014 Shower Screen, 800 mm width \u00d7 1500 mm height",
+      "description": "Sunland SC022. Selected configuration: 800 mm width \u00d7 1500 mm height. Finish: Chrome. Glass thickness: 6 mm. Hardware profiles and pane division inferred from product photo Corner radii are visual approximations Bath and installation environment not included; manufacturer installation drawing governs Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1500,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 800.000011920929,
+        "depth": 27.000000700354576,
+        "height": 1500.0
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "sc022-800 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/sc022-800-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/sc022-800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/sc022-800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/sc022-800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 33217,
+          "sha256": "76c63c6d84d03a1a1c9a1d91b46d4104240e0f9827122d9edcf2f41fcb510da0"
+        },
+        "model.blend.gz": {
+          "bytes": 104525,
+          "sha256": "5ae2ee7a9e1d6f6bda96d4896ff67b6c3acc29fd887e150f550f850c5c941703"
+        },
+        "manufacturer.jpg": {
+          "bytes": 449560,
+          "sha256": "9a730b3b182a7f64924a2ec1644928b5f37c9e9e44109d082ef2b09d0ddaa570"
+        },
+        "model.glb": {
+          "bytes": 20384,
+          "sha256": "6f2cba95e86c12610eb8b717304555c5b3bf7d4aee4cfab2c38524c8cd1ae4d5"
+        },
+        "specification.json": {
+          "bytes": 1645,
+          "sha256": "b3512c3dc36ca030a82cb8ee4ee046ce7c9b47c1c762f94c10b215091dc9bd2f"
+        }
+      },
+      "model_limitations": "Hardware profiles and pane division inferred from product photo Corner radii are visual approximations Bath and installation environment not included; manufacturer installation drawing governs",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-sc023-1000-chrome-6mm",
+      "supplier_sku": "SC023",
+      "variant_sku": "SUNLAND-SC023-1000-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931595.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SC023 \u2014 Shower Screen, 1000 mm width \u00d7 1400 mm height",
+      "description": "Sunland SC023. Selected configuration: 1000 mm width \u00d7 1400 mm height. Finish: Chrome. Glass thickness: 6 mm. Hardware profiles and pane division inferred from product photo Corner radii are visual approximations Bath and installation environment not included; manufacturer installation drawing governs Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1000,
+        "height": 1400,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 1000.0,
+        "depth": 32.50000160187483,
+        "height": 1399.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "sc023-1000 \u00b7 chrome \u00b7 6mm",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "/sunland-library/sc023-1000-chrome-6mm/model.glb",
+      "blend_url": "/sunland-library/sc023-1000-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/sc023-1000-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/sc023-1000-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 34204,
+          "sha256": "cfdff94f39b9a481b22f52a4fde8830114bb4fa192253773a436e9a074ab9869"
+        },
+        "model.blend.gz": {
+          "bytes": 103132,
+          "sha256": "3d5d290102391b3650d3fac36e6e3b704bc1caeca360578ac00457a8754e1232"
+        },
+        "manufacturer.jpg": {
+          "bytes": 415017,
+          "sha256": "9c09e775c64a675eda5ec2540a6911f01d843ffeb541e7760fbedf9004c54391"
+        },
+        "model.glb": {
+          "bytes": 13168,
+          "sha256": "af2833cd702ef1201ddb38b46dacf3ac049aa012924723c9cbf652ec2741c0d6"
+        },
+        "specification.json": {
+          "bytes": 1655,
+          "sha256": "7b3fab5f4dbc2df0ced16a5396561f1bdb114ab3905fec2b3d0d01e4b1879508"
+        }
+      },
+      "model_limitations": "Hardware profiles and pane division inferred from product photo Corner radii are visual approximations Bath and installation environment not included; manufacturer installation drawing governs",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-yg857-59-black",
+      "supplier_sku": "SLD-YG857-59''BLACK",
+      "variant_sku": "SUNLAND-YG857-59-BLACK",
+      "source_url": "https://cnsunland.com/goods/2940787.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SLD-YG857-59''BLACK \u2014 Bathtub, 1498.6 mm width \u00d7 755.65 mm depth \u00d7 600.075 mm height",
+      "description": "Sunland SLD-YG857-59''BLACK. Selected configuration: 1498.6 mm width \u00d7 755.65 mm depth \u00d7 600.075 mm height. Finish: Black exterior / white interior acrylic. Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled Drain recess and underside plumbing omitted Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1498.6,
+        "height": 600.075,
+        "depth": 755.65
+      },
+      "model_envelope_mm": {
+        "width": 1498.6000061035156,
+        "depth": 755.649983882904,
+        "height": 600.0750064849854
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "yg857-59 \u00b7 black",
+      "finish": "Black exterior / white interior acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/yg857-59-black/model.glb",
+      "blend_url": "/sunland-library/yg857-59-black/model.blend.gz",
+      "image_url": "/sunland-library/yg857-59-black/preview.jpg",
+      "drawing_url": "/sunland-library/yg857-59-black/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 34871,
+          "sha256": "48103704a6419640383887ea40e8d83afde313d857568637e0cf133042e0dbc1"
+        },
+        "model.blend.gz": {
+          "bytes": 157406,
+          "sha256": "7a443b34f6f96c5097ac59262397f4822eaa31da12aae04f590f86b3ded1ebf6"
+        },
+        "manufacturer.jpg": {
+          "bytes": 362473,
+          "sha256": "e9bd32d37cb46d7d3194fc210d615acc9d476b5c52c280d23cb3626a8f1d1f98"
+        },
+        "model.glb": {
+          "bytes": 116604,
+          "sha256": "63cedc3011710e097bb8ac4649d19c91e8f966f0ed34d895f3ca1533c113fc27"
+        },
+        "specification.json": {
+          "bytes": 1677,
+          "sha256": "b3788d0e0160b525f628892e257734a9025132e86b34279b033e97758fe7719e"
+        }
+      },
+      "model_limitations": "Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled Drain recess and underside plumbing omitted",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-yg857-59-white",
+      "supplier_sku": "SLD-YG857-59''",
+      "variant_sku": "SUNLAND-YG857-59-WHITE",
+      "source_url": "https://cnsunland.com/goods/2940785.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SLD-YG857-59'' \u2014 Bathtub, 1498.6 mm width \u00d7 755.65 mm depth \u00d7 600.075 mm height",
+      "description": "Sunland SLD-YG857-59''. Selected configuration: 1498.6 mm width \u00d7 755.65 mm depth \u00d7 600.075 mm height. Finish: White acrylic. Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1498.6,
+        "height": 600.075,
+        "depth": 755.65
+      },
+      "model_envelope_mm": {
+        "width": 1498.6000061035156,
+        "depth": 755.649983882904,
+        "height": 600.0750064849854
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "yg857-59 \u00b7 white",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/yg857-59-white/model.glb",
+      "blend_url": "/sunland-library/yg857-59-white/model.blend.gz",
+      "image_url": "/sunland-library/yg857-59-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg857-59-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 30034,
+          "sha256": "ac6441817feea93c4df01eac610c8994e19d8c0d6e948f6b2235560d68103310"
+        },
+        "model.blend.gz": {
+          "bytes": 156104,
+          "sha256": "cf86314e3510949aa51c044eb2a553d33ee58c31354f3f37fbc02b39d0d51819"
+        },
+        "manufacturer.jpg": {
+          "bytes": 351294,
+          "sha256": "2a79b8e55b0ef34d33b3943477b2abcd9a47bde52a1803b62bf806bb33c3b145"
+        },
+        "model.glb": {
+          "bytes": 116284,
+          "sha256": "af0034e4904c4621408023300dbb99aac617a3bb97253a55c38fe8203b8a5bab"
+        },
+        "specification.json": {
+          "bytes": 1522,
+          "sha256": "c2b1970fde62d865b421d67867055a94a85194eb952fdc4724bc6c871dd790a7"
+        }
+      },
+      "model_limitations": "Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-yg857-67-black",
+      "supplier_sku": "SLD-YG857-67''BLACK",
+      "variant_sku": "SUNLAND-YG857-67-BLACK",
+      "source_url": "https://cnsunland.com/goods/2940835.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SLD-YG857-67''BLACK \u2014 Bathtub, 1695.45 mm width \u00d7 800.1 mm depth \u00d7 600.075 mm height",
+      "description": "Sunland SLD-YG857-67''BLACK. Selected configuration: 1695.45 mm width \u00d7 800.1 mm depth \u00d7 600.075 mm height. Finish: Black exterior / white interior acrylic. Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled Drain recess and underside plumbing omitted Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1695.4499999999998,
+        "height": 600.0749999999999,
+        "depth": 800.0999999999999
+      },
+      "model_envelope_mm": {
+        "width": 1695.449948310852,
+        "depth": 800.1000285148621,
+        "height": 600.0750064849854
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "yg857-67 \u00b7 black",
+      "finish": "Black exterior / white interior acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/yg857-67-black/model.glb",
+      "blend_url": "/sunland-library/yg857-67-black/model.blend.gz",
+      "image_url": "/sunland-library/yg857-67-black/preview.jpg",
+      "drawing_url": "/sunland-library/yg857-67-black/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 34817,
+          "sha256": "b8408b035513a07d2b79a4a207e430b3f5b6966cbe7bfe0dadf82bb1d866aaa6"
+        },
+        "model.blend.gz": {
+          "bytes": 157136,
+          "sha256": "4a58e67b39e8740496e0d404fbe450e3d7d51ecc16cca6dd6d2c51bb0db13b1c"
+        },
+        "manufacturer.jpg": {
+          "bytes": 362618,
+          "sha256": "8b7ae5811fc83e9e54ef3ff94692a3514efe66981ccedf685ba2a1d130f040c8"
+        },
+        "model.glb": {
+          "bytes": 116608,
+          "sha256": "47ed295e43da623da78542e185e47c219f4104d37aa218199ae07f3a25b23752"
+        },
+        "specification.json": {
+          "bytes": 1710,
+          "sha256": "c2d5d571f45551176337e63f95f5c37c40a547aaab09fb11776a75851852b4f6"
+        }
+      },
+      "model_limitations": "Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled Drain recess and underside plumbing omitted",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-yg857-67-white",
+      "supplier_sku": "SLD-YG857-67''",
+      "variant_sku": "SUNLAND-YG857-67-WHITE",
+      "source_url": "https://cnsunland.com/goods/2940831.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SLD-YG857-67'' \u2014 Bathtub, 1695.45 mm width \u00d7 800.1 mm depth \u00d7 600.075 mm height",
+      "description": "Sunland SLD-YG857-67''. Selected configuration: 1695.45 mm width \u00d7 800.1 mm depth \u00d7 600.075 mm height. Finish: White acrylic. Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled Drain recess and underside plumbing omitted Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1695.4499999999998,
+        "height": 600.0749999999999,
+        "depth": 800.0999999999999
+      },
+      "model_envelope_mm": {
+        "width": 1695.449948310852,
+        "depth": 800.1000285148621,
+        "height": 600.0750064849854
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "yg857-67 \u00b7 white",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/yg857-67-white/model.glb",
+      "blend_url": "/sunland-library/yg857-67-white/model.blend.gz",
+      "image_url": "/sunland-library/yg857-67-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg857-67-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 30267,
+          "sha256": "5c6238d8f08af7eca462cafb60ae84ffb6633982e0293e9cb78380ef0825e61c"
+        },
+        "model.blend.gz": {
+          "bytes": 155889,
+          "sha256": "f12dd1eba948d3281fc631083ab4e46101579e8d812ff5d3b824df1c299f404f"
+        },
+        "manufacturer.jpg": {
+          "bytes": 353523,
+          "sha256": "3de69169fe11be92cbb44483d40a65400fa0c09fc35f4e48a1e7c5cb3ee6ae2b"
+        },
+        "model.glb": {
+          "bytes": 116288,
+          "sha256": "870e34e6b7ae8de31d542bf97bd53149ad8029d3abec6ed37db8fab43971d65b"
+        },
+        "specification.json": {
+          "bytes": 1643,
+          "sha256": "44faa4b262659858ffdde80608481370c3da40df2f3a0c06c69ee230641747f9"
+        }
+      },
+      "model_limitations": "Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled Drain recess and underside plumbing omitted",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-yg896-59-white",
+      "supplier_sku": "SLD-YG896-59''",
+      "variant_sku": "SUNLAND-YG896-59-WHITE",
+      "source_url": "https://cnsunland.com/goods/2940861.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SLD-YG896-59'' \u2014 Bathtub, 1495.42 mm width \u00d7 749.3 mm depth \u00d7 593.725 mm height",
+      "description": "Sunland SLD-YG896-59''. Selected configuration: 1495.42 mm width \u00d7 749.3 mm depth \u00d7 593.725 mm height. Finish: White acrylic. Outer corner finishing and intermediate section interpolation visually approximated Drain recess and underside fittings omitted Drawing drain centre 29.5 in differs from half overall 58.875 in by 1.5875 mm; model uses geometric centre, not a plumbing setting-out reference Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1495.425,
+        "height": 593.725,
+        "depth": 749.3
+      },
+      "model_envelope_mm": {
+        "width": 1495.4249858856201,
+        "depth": 749.3000030517578,
+        "height": 593.7250256538391
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "yg896-59 \u00b7 white",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/yg896-59-white/model.glb",
+      "blend_url": "/sunland-library/yg896-59-white/model.blend.gz",
+      "image_url": "/sunland-library/yg896-59-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg896-59-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 31456,
+          "sha256": "7f6aa419e22cfe6979f86a80acbb5bb35d30af3102216e8d0e0d8c541ef4314a"
+        },
+        "model.blend.gz": {
+          "bytes": 156444,
+          "sha256": "3ec11e16005275b8fbc7fcf59517afa5b572913ae5d52f0db58b519c5897ead4"
+        },
+        "manufacturer.jpg": {
+          "bytes": 363839,
+          "sha256": "3b6c91c3f1e504c45ee37807fa1bfc7e094858ac156e12446972e2c461fff848"
+        },
+        "model.glb": {
+          "bytes": 116288,
+          "sha256": "cde39fccf97fd5082f487f425efb5c47010472eeec13d2d4ac5de8b6b05ab5d1"
+        },
+        "specification.json": {
+          "bytes": 1838,
+          "sha256": "ff186a6efa5f92663b6078c8c695a717fad6c6eb7108695de68e4c7d97bc3eaa"
+        }
+      },
+      "model_limitations": "Outer corner finishing and intermediate section interpolation visually approximated Drain recess and underside fittings omitted Drawing drain centre 29.5 in differs from half overall 58.875 in by 1.5875 mm; model uses geometric centre, not a plumbing setting-out reference",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-yg897-55-white",
+      "supplier_sku": "SLD-YG897-55''",
+      "variant_sku": "SUNLAND-YG897-55-WHITE",
+      "source_url": "https://cnsunland.com/goods/2940877.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SLD-YG897-55'' \u2014 Bathtub, 1397 mm width \u00d7 711.2 mm depth \u00d7 660.4 mm height",
+      "description": "Sunland SLD-YG897-55''. Selected configuration: 1397 mm width \u00d7 711.2 mm depth \u00d7 660.4 mm height. Finish: White acrylic. Rim thickness, radii and section interpolation are visual approximations Drain recess and underside fittings omitted Overflow width inferred from photo Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1397.0,
+        "height": 660.4,
+        "depth": 711.1999999999999
+      },
+      "model_envelope_mm": {
+        "width": 1396.9999551773071,
+        "depth": 711.1999988555908,
+        "height": 660.3999733924866
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "yg897-55 \u00b7 white",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/yg897-55-white/model.glb",
+      "blend_url": "/sunland-library/yg897-55-white/model.blend.gz",
+      "image_url": "/sunland-library/yg897-55-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg897-55-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 30309,
+          "sha256": "82963dea84828e11d70df00496c535a708c7e1e62c56d03d581c23e30bba5c37"
+        },
+        "model.blend.gz": {
+          "bytes": 193208,
+          "sha256": "ddaf7e2417ab0c1ddcdc956f4bffba40eec78d328031e0395699274ac4e54f86"
+        },
+        "manufacturer.jpg": {
+          "bytes": 331914,
+          "sha256": "f6ed0e3a64ef62d9e11c2a8a1c22aeca156c7328be3cc591da32aa5f266e13c5"
+        },
+        "model.glb": {
+          "bytes": 164676,
+          "sha256": "a964175d7b5b74032f1c81a727d392a4d43e994909c907a09fc10aea51b0e213"
+        },
+        "specification.json": {
+          "bytes": 1594,
+          "sha256": "97f52b849716c080fee7368fdcc083c23a95d8125468979c0f15c82ebb18004a"
+        }
+      },
+      "model_limitations": "Rim thickness, radii and section interpolation are visual approximations Drain recess and underside fittings omitted Overflow width inferred from photo",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-yg897-59-black",
+      "supplier_sku": "SLD-YG897-59''BLACK",
+      "variant_sku": "SUNLAND-YG897-59-BLACK",
+      "source_url": "https://cnsunland.com/goods/2940921.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SLD-YG897-59''BLACK \u2014 Bathtub, 1498.6 mm width \u00d7 730.25 mm depth \u00d7 641.35 mm height",
+      "description": "Sunland SLD-YG897-59''BLACK. Selected configuration: 1498.6 mm width \u00d7 730.25 mm depth \u00d7 641.35 mm height. Finish: Black exterior / white interior acrylic. Rim thickness, radii and section interpolation are visual approximations Drain recess and underside fittings omitted Overflow width inferred from photo Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1498.6,
+        "height": 641.3499999999999,
+        "depth": 730.25
+      },
+      "model_envelope_mm": {
+        "width": 1498.6000061035156,
+        "depth": 730.2500009536743,
+        "height": 641.3499712944031
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "yg897-59 \u00b7 black",
+      "finish": "Black exterior / white interior acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/yg897-59-black/model.glb",
+      "blend_url": "/sunland-library/yg897-59-black/model.blend.gz",
+      "image_url": "/sunland-library/yg897-59-black/preview.jpg",
+      "drawing_url": "/sunland-library/yg897-59-black/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 34899,
+          "sha256": "8ec4d5796d130e4f6083eeb0834a406ddc292649b97181b1e7fc4004766c43e7"
+        },
+        "model.blend.gz": {
+          "bytes": 194665,
+          "sha256": "377f32f1de96fcd68bf9066837e90cb1b8a080763c41b3bf7060bee58725af9d"
+        },
+        "manufacturer.jpg": {
+          "bytes": 334631,
+          "sha256": "51f9713e9a7a0a7b91cb436f7996594b11a9cbcb0568823aa8a0bdb9b7feea14"
+        },
+        "model.glb": {
+          "bytes": 164996,
+          "sha256": "a57998af6319db549c104ea8c98337c05698be11f551d65f2193f832a3a2e93b"
+        },
+        "specification.json": {
+          "bytes": 1670,
+          "sha256": "ee43cefd6d3b966bb5e2e47f03936256a9c7c8c83194e83361982a825272e1fd"
+        }
+      },
+      "model_limitations": "Rim thickness, radii and section interpolation are visual approximations Drain recess and underside fittings omitted Overflow width inferred from photo",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-yg897-59-white",
+      "supplier_sku": "SLD-YG897-59''",
+      "variant_sku": "SUNLAND-YG897-59-WHITE",
+      "source_url": "https://cnsunland.com/goods/2940919.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SLD-YG897-59'' \u2014 Bathtub, 1498.6 mm width \u00d7 730.25 mm depth \u00d7 641.35 mm height",
+      "description": "Sunland SLD-YG897-59''. Selected configuration: 1498.6 mm width \u00d7 730.25 mm depth \u00d7 641.35 mm height. Finish: White acrylic. Rim thickness, radii and section interpolation are visual approximations Drain recess and underside fittings omitted Overflow width inferred from photo Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1498.6,
+        "height": 641.3499999999999,
+        "depth": 730.25
+      },
+      "model_envelope_mm": {
+        "width": 1498.6000061035156,
+        "depth": 730.2500009536743,
+        "height": 641.3499712944031
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "yg897-59 \u00b7 white",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/yg897-59-white/model.glb",
+      "blend_url": "/sunland-library/yg897-59-white/model.blend.gz",
+      "image_url": "/sunland-library/yg897-59-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg897-59-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 30457,
+          "sha256": "fa3872458eea5f45c3423a0e013b527569e15d391cc6d8a67a200808f3d0a2a1"
+        },
+        "model.blend.gz": {
+          "bytes": 193160,
+          "sha256": "83a7d4f4bec0d48843d2ad36ca5b75bb4a57d6fedda3b0307e63eb04903ae2b4"
+        },
+        "manufacturer.jpg": {
+          "bytes": 345526,
+          "sha256": "db8e653c4d762626aca3fab1e6bff6b7b71c3d8a5f53c8b8588a1fa3debfaad5"
+        },
+        "model.glb": {
+          "bytes": 164676,
+          "sha256": "4314722cd5a1f5295ec6e2748e486bab4d53d25ce8d42db2c008cd0b07aded5c"
+        },
+        "specification.json": {
+          "bytes": 1603,
+          "sha256": "b2571c4ce5caf2828a666e55071bc3dd11aebe629be20ef4e0a9fdface0510ac"
+        }
+      },
+      "model_limitations": "Rim thickness, radii and section interpolation are visual approximations Drain recess and underside fittings omitted Overflow width inferred from photo",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-yg897-63-white",
+      "supplier_sku": "SLD-YG897-63''",
+      "variant_sku": "SUNLAND-YG897-63-WHITE",
+      "source_url": "https://cnsunland.com/goods/2940923.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SLD-YG897-63'' \u2014 Bathtub, 1600.2 mm width \u00d7 755.65 mm depth \u00d7 685.8 mm height",
+      "description": "Sunland SLD-YG897-63''. Selected configuration: 1600.2 mm width \u00d7 755.65 mm depth \u00d7 685.8 mm height. Finish: White acrylic. Rim thickness, radii and section interpolation are visual approximations Drain recess and underside fittings omitted Overflow width inferred from photo Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1600.1999999999998,
+        "height": 685.8,
+        "depth": 755.65
+      },
+      "model_envelope_mm": {
+        "width": 1600.2000570297241,
+        "depth": 755.649983882904,
+        "height": 685.8000159263611
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "yg897-63 \u00b7 white",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/yg897-63-white/model.glb",
+      "blend_url": "/sunland-library/yg897-63-white/model.blend.gz",
+      "image_url": "/sunland-library/yg897-63-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg897-63-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 30749,
+          "sha256": "2155efa15571cdf4f0572444094f0dc9898845f918e687a9cbbdb431b45f4353"
+        },
+        "model.blend.gz": {
+          "bytes": 193381,
+          "sha256": "00654b1d95b2909cbccb91087790cee89eca3da5735ab8f53263407e6e579c43"
+        },
+        "manufacturer.jpg": {
+          "bytes": 353581,
+          "sha256": "c92693b79938ee8a3da7b4df357a0a7a73cc38b64193d4e3abd347fb858ad70e"
+        },
+        "model.glb": {
+          "bytes": 164672,
+          "sha256": "184f025603bc7be706dc9f71fae084f9460f044829d3f92454aa0026f942ae8e"
+        },
+        "specification.json": {
+          "bytes": 1600,
+          "sha256": "87c4fb7c944d5000b0b336decce74e0a5d1701eead764a16343ae1e2f5052537"
+        }
+      },
+      "model_limitations": "Rim thickness, radii and section interpolation are visual approximations Drain recess and underside fittings omitted Overflow width inferred from photo",
+      "dimension_scope": "Full exported product bounding box"
+    },
+    {
+      "id": "sunland-yg897-67-white",
+      "supplier_sku": "SLD-YG897-67''",
+      "variant_sku": "SUNLAND-YG897-67-WHITE",
+      "source_url": "https://cnsunland.com/goods/2940927.html",
+      "source_checked": "2026-09-17",
+      "title": "Sunland SLD-YG897-67'' \u2014 Bathtub, 1695.45 mm width \u00d7 758.825 mm depth \u00d7 685.8 mm height",
+      "description": "Sunland SLD-YG897-67''. Selected configuration: 1695.45 mm width \u00d7 758.825 mm depth \u00d7 685.8 mm height. Finish: White acrylic. Rim thickness, radii and section interpolation are visual approximations Drain recess and underside fittings omitted Overflow width inferred from photo Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1695.4499999999998,
+        "height": 685.8,
+        "depth": 758.8249999999999
+      },
+      "model_envelope_mm": {
+        "width": 1695.449948310852,
+        "depth": 758.8250041007996,
+        "height": 685.8000159263611
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "yg897-67 \u00b7 white",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "/sunland-library/yg897-67-white/model.glb",
+      "blend_url": "/sunland-library/yg897-67-white/model.blend.gz",
+      "image_url": "/sunland-library/yg897-67-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg897-67-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "files": {
+        "preview.jpg": {
+          "bytes": 30939,
+          "sha256": "a4be962e63dc182b435762f5c1efc670c5ba9c3c6e087194bb17f545f808cb41"
+        },
+        "model.blend.gz": {
+          "bytes": 193328,
+          "sha256": "b7c25617191ac3cae19172f01e8346502ff4e508da26857cecbce6d01b61e819"
+        },
+        "manufacturer.jpg": {
+          "bytes": 348139,
+          "sha256": "bf7e6231d26ba9730a7ff70b5510023d3e3f07798bfbc98bfe0963ba64a14df7"
+        },
+        "model.glb": {
+          "bytes": 164672,
+          "sha256": "6e3689c248776d27e893e934afc1a2cc2ec350ca5cd6ff4f284db562583d03d2"
+        },
+        "specification.json": {
+          "bytes": 1615,
+          "sha256": "a1624346d81c936a82914fe6aa6538dfbe7011ff485491592cf165ba8e6e9d0c"
+        }
+      },
+      "model_limitations": "Rim thickness, radii and section interpolation are visual approximations Drain recess and underside fittings omitted Overflow width inferred from photo",
+      "dimension_scope": "Full exported product bounding box"
+    }
+  ],
+  "source_page_count": 301,
+  "publication_scope": "Only these 38 reviewed configurations; remainder excluded"
+}

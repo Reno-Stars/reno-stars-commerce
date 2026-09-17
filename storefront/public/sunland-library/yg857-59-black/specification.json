@@ -1,0 +1,31 @@
+{
+  "id": "sunland-yg857-59-black",
+  "supplier_sku": "SLD-YG857-59''BLACK",
+  "variant_sku": "SUNLAND-YG857-59-BLACK",
+  "source_url": "https://cnsunland.com/goods/2940787.html",
+  "source_checked": "2026-09-17",
+  "title": "Sunland SLD-YG857-59''BLACK \u2014 Bathtub, 1498.6 mm width \u00d7 755.65 mm depth \u00d7 600.075 mm height",
+  "description": "Sunland SLD-YG857-59''BLACK. Selected configuration: 1498.6 mm width \u00d7 755.65 mm depth \u00d7 600.075 mm height. Finish: Black exterior / white interior acrylic. Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled Drain recess and underside plumbing omitted Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1498.6,
+    "height": 600.075,
+    "depth": 755.65
+  },
+  "model_envelope_mm": {
+    "width": 1498.6000061035156,
+    "depth": 755.649983882904,
+    "height": 600.0750064849854
+  },
+  "category": "Bathtubs",
+  "category_key": "bathtubs",
+  "variant_title": "yg857-59 \u00b7 black",
+  "finish": "Black exterior / white interior acrylic",
+  "glass_mm": null,
+  "model_url": "/sunland-library/yg857-59-black/model.glb",
+  "blend_url": "/sunland-library/yg857-59-black/model.blend.gz",
+  "image_url": "/sunland-library/yg857-59-black/preview.jpg",
+  "drawing_url": "/sunland-library/yg857-59-black/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled Drain recess and underside plumbing omitted",
+  "dimension_scope": "Full exported product bounding box"
+}

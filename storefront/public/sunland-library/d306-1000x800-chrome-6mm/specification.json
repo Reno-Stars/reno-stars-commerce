@@ -1,0 +1,31 @@
+{
+  "id": "sunland-d306-1000x800-chrome-6mm",
+  "supplier_sku": "D306",
+  "variant_sku": "SUNLAND-D306-1000X800-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931669.html",
+  "source_checked": "2026-09-17",
+  "title": "Sunland D306 \u2014 Shower Enclosure, 1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height",
+  "description": "Sunland D306. Selected configuration: 1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Hardware dimensions and glass partition proportions are visual approximations Closed-door configuration; hinges and folding leaves are separate meshes Base/plinth excluded; door height 1900 mm after subtracting the drawing\u2019s 60 mm plinth where present Use supplier drawing for fabrication and operating clearances Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1000,
+    "height": 1900,
+    "depth": 800
+  },
+  "model_envelope_mm": {
+    "width": 1001.0000467300415,
+    "depth": 800.000011920929,
+    "height": 1899.999976158142
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "d306-1000x800 \u00b7 chrome \u00b7 6mm",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d306-1000x800-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/d306-1000x800-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d306-1000x800-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d306-1000x800-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Hardware dimensions and glass partition proportions are visual approximations Closed-door configuration; hinges and folding leaves are separate meshes Base/plinth excluded; door height 1900 mm after subtracting the drawing\u2019s 60 mm plinth where present Use supplier drawing for fabrication and operating clearances",
+  "dimension_scope": "Wall mounting footprint; projecting hinges and pulls reported separately in full bounds"
+}

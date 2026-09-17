@@ -30,7 +30,8 @@ export function getProductModel(metadata?: Record<string, unknown> | null) {
     metadata?.model_family === "wall" ||
     metadata?.model_family === "base" ||
     metadata?.model_family === "pantry" ||
-    metadata?.model_family === "hardware"
+    metadata?.model_family === "hardware" ||
+    metadata?.model_family === "bathroom"
       ? metadata.model_family
       : /^W/.test(code)
       ? "wall"

@@ -1,0 +1,31 @@
+{
+  "id": "sunland-d201-900-chrome-6mm",
+  "supplier_sku": "D201",
+  "variant_sku": "SUNLAND-D201-900-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931729.html",
+  "source_checked": "2026-09-17",
+  "title": "Sunland D201 \u2014 Shower Screen, 900 mm width \u00d7 1900 mm height",
+  "description": "Sunland D201. Selected configuration: 900 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Support rod diameter, clamps and channel profile are inferred from photo Frame projection is not manufacturer-dimensioned Glass sizing must be confirmed for fabrication Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 900,
+    "height": 1900,
+    "depth": null
+  },
+  "model_envelope_mm": {
+    "width": 899.9999761581421,
+    "depth": 913.4999765083194,
+    "height": 1899.999976158142
+  },
+  "category": "Shower Screens",
+  "category_key": "shower-screens",
+  "variant_title": "d201-900 \u00b7 chrome \u00b7 6mm",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d201-900-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/d201-900-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d201-900-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d201-900-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Support rod diameter, clamps and channel profile are inferred from photo Frame projection is not manufacturer-dimensioned Glass sizing must be confirmed for fabrication",
+  "dimension_scope": "Full exported product bounding box"
+}

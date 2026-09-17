@@ -1,0 +1,31 @@
+{
+  "id": "sunland-d106-1000x800-chrome-6mm",
+  "supplier_sku": "D106",
+  "variant_sku": "SUNLAND-D106-1000X800-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931731.html",
+  "source_checked": "2026-09-17",
+  "title": "Sunland D106 \u2014 Shower Enclosure, 1000 mm width \u00d7 800 mm depth \u00d7 1950 mm height",
+  "description": "Sunland D106. Selected configuration: 1000 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Chrome. Glass thickness: 6 mm. Overall width/depth/height, tray height and drain centre follow manufacturer poster. Glass panel divisions, track cross-sections, knob dimensions and tray recess depth are photo-based approximations. Curved corner radius is inferred from plan; no manufacturer radius supplied. Model shows closed doors; no animation or concealed roller mechanism. R denotes photo orientation, not a verified supplier handing designation. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1000,
+    "height": 1950,
+    "depth": 800
+  },
+  "model_envelope_mm": {
+    "width": 1042.0000553131104,
+    "depth": 842.0000076293945,
+    "height": 1950.0000476837158
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "d106-1000x800 \u00b7 chrome \u00b7 6mm",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d106-1000x800-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/d106-1000x800-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d106-1000x800-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d106-1000x800-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Overall width/depth/height, tray height and drain centre follow manufacturer poster. Glass panel divisions, track cross-sections, knob dimensions and tray recess depth are photo-based approximations. Curved corner radius is inferred from plan; no manufacturer radius supplied. Model shows closed doors; no animation or concealed roller mechanism. R denotes photo orientation, not a verified supplier handing designation.",
+  "dimension_scope": "Published tray footprint and full assembly height; projecting knobs reported separately in full bounds"
+}

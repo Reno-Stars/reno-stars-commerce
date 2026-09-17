@@ -1,0 +1,31 @@
+{
+  "id": "sunland-d807-900x900-chrome-6mm",
+  "supplier_sku": "D807",
+  "variant_sku": "SUNLAND-D807-900X900-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931641.html",
+  "source_checked": "2026-09-17",
+  "title": "Sunland D807 \u2014 Shower Enclosure, 900 mm width \u00d7 900 mm depth \u00d7 1950 mm height",
+  "description": "Sunland D807. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1950 mm height. Finish: Chrome. Glass thickness: 6 mm. Published overall dimensions, tray height and drain centre retained. Track profiles, bowed handle cross-sections, glazing divisions, tray recess and corner radius are photograph-based approximations. Closed door configuration; hidden rollers and installation hardware are not modelled. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 900,
+    "height": 1950,
+    "depth": 900
+  },
+  "model_envelope_mm": {
+    "width": 899.9999761581421,
+    "depth": 928.678510710597,
+    "height": 1950.0000476837158
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "d807-900x900 \u00b7 chrome \u00b7 6mm",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d807-900x900-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/d807-900x900-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d807-900x900-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d807-900x900-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Published overall dimensions, tray height and drain centre retained. Track profiles, bowed handle cross-sections, glazing divisions, tray recess and corner radius are photograph-based approximations. Closed door configuration; hidden rollers and installation hardware are not modelled.",
+  "dimension_scope": "Published tray footprint and full assembly height; projecting knobs reported separately in full bounds"
+}

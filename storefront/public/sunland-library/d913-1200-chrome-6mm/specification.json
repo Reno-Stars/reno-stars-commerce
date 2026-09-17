@@ -1,0 +1,31 @@
+{
+  "id": "sunland-d913-1200-chrome-6mm",
+  "supplier_sku": "D913",
+  "variant_sku": "SUNLAND-D913-1200-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931635.html",
+  "source_checked": "2026-09-17",
+  "title": "Sunland D913 \u2014 Shower Enclosure, 1200 mm width \u00d7 1900 mm height",
+  "description": "Sunland D913. Selected configuration: 1200 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Track and roller profiles, pane overlap and handles visually approximated Width uses documented lower endpoint; installation adjustment requires supplier drawing Drawing total 1960 mm includes 60 mm installation plinth; this door-only model is 1900 mm tall. Plinth excluded. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1200,
+    "height": 1900,
+    "depth": null
+  },
+  "model_envelope_mm": {
+    "width": 1200.0000476837158,
+    "depth": 100.00000521540642,
+    "height": 1900.0000953674316
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "d913-1200 \u00b7 chrome \u00b7 6mm",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d913-1200-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/d913-1200-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d913-1200-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d913-1200-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Track and roller profiles, pane overlap and handles visually approximated Width uses documented lower endpoint; installation adjustment requires supplier drawing Drawing total 1960 mm includes 60 mm installation plinth; this door-only model is 1900 mm tall. Plinth excluded.",
+  "dimension_scope": "Full exported product bounding box"
+}

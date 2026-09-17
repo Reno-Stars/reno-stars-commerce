@@ -1,0 +1,31 @@
+{
+  "id": "sunland-yg857-67-white",
+  "supplier_sku": "SLD-YG857-67''",
+  "variant_sku": "SUNLAND-YG857-67-WHITE",
+  "source_url": "https://cnsunland.com/goods/2940831.html",
+  "source_checked": "2026-09-17",
+  "title": "Sunland SLD-YG857-67'' \u2014 Bathtub, 1695.45 mm width \u00d7 800.1 mm depth \u00d7 600.075 mm height",
+  "description": "Sunland SLD-YG857-67''. Selected configuration: 1695.45 mm width \u00d7 800.1 mm depth \u00d7 600.075 mm height. Finish: White acrylic. Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled Drain recess and underside plumbing omitted Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1695.4499999999998,
+    "height": 600.0749999999999,
+    "depth": 800.0999999999999
+  },
+  "model_envelope_mm": {
+    "width": 1695.449948310852,
+    "depth": 800.1000285148621,
+    "height": 600.0750064849854
+  },
+  "category": "Bathtubs",
+  "category_key": "bathtubs",
+  "variant_title": "yg857-67 \u00b7 white",
+  "finish": "White acrylic",
+  "glass_mm": null,
+  "model_url": "/sunland-library/yg857-67-white/model.glb",
+  "blend_url": "/sunland-library/yg857-67-white/model.blend.gz",
+  "image_url": "/sunland-library/yg857-67-white/preview.jpg",
+  "drawing_url": "/sunland-library/yg857-67-white/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Surface interpolation between measured sections Overflow width and machining detail Underside fittings not modelled Drain recess and underside plumbing omitted",
+  "dimension_scope": "Full exported product bounding box"
+}

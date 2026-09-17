@@ -1,0 +1,31 @@
+{
+  "id": "sunland-na003-6030l",
+  "supplier_sku": "NA003-6030L",
+  "variant_sku": "SUNLAND-NA003-6030L",
+  "source_url": "https://cnsunland.com/goods/2931003.html",
+  "source_checked": "2026-09-17",
+  "title": "Sunland NA003-6030L \u2014 Shower Base, 1524 mm width \u00d7 762 mm depth \u00d7 101.6 mm height",
+  "description": "Sunland NA003-6030L. Selected configuration: 1524 mm width \u00d7 762 mm depth \u00d7 101.6 mm height. Finish: White acrylic. basin slope/depth corner radii flange thickness drain grate pattern and finish underside omitted Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1524,
+    "height": 101.6,
+    "depth": 762
+  },
+  "model_envelope_mm": {
+    "width": 1524.0000486373901,
+    "depth": 762.0000243186951,
+    "height": 101.59999877214432
+  },
+  "category": "Shower Bases",
+  "category_key": "shower-bases",
+  "variant_title": "na003-6030l",
+  "finish": "White acrylic",
+  "glass_mm": null,
+  "model_url": "/sunland-library/na003-6030l/model.glb",
+  "blend_url": "/sunland-library/na003-6030l/model.blend.gz",
+  "image_url": "/sunland-library/na003-6030l/preview.jpg",
+  "drawing_url": "/sunland-library/na003-6030l/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "basin slope/depth corner radii flange thickness drain grate pattern and finish underside omitted",
+  "dimension_scope": "Full exported product bounding box"
+}

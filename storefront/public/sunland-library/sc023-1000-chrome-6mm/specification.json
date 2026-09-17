@@ -1,0 +1,31 @@
+{
+  "id": "sunland-sc023-1000-chrome-6mm",
+  "supplier_sku": "SC023",
+  "variant_sku": "SUNLAND-SC023-1000-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931595.html",
+  "source_checked": "2026-09-17",
+  "title": "Sunland SC023 \u2014 Shower Screen, 1000 mm width \u00d7 1400 mm height",
+  "description": "Sunland SC023. Selected configuration: 1000 mm width \u00d7 1400 mm height. Finish: Chrome. Glass thickness: 6 mm. Hardware profiles and pane division inferred from product photo Corner radii are visual approximations Bath and installation environment not included; manufacturer installation drawing governs Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1000,
+    "height": 1400,
+    "depth": null
+  },
+  "model_envelope_mm": {
+    "width": 1000.0,
+    "depth": 32.50000160187483,
+    "height": 1399.999976158142
+  },
+  "category": "Shower Screens",
+  "category_key": "shower-screens",
+  "variant_title": "sc023-1000 \u00b7 chrome \u00b7 6mm",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/sc023-1000-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/sc023-1000-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/sc023-1000-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/sc023-1000-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Hardware profiles and pane division inferred from product photo Corner radii are visual approximations Bath and installation environment not included; manufacturer installation drawing governs",
+  "dimension_scope": "Full exported product bounding box"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sunland-d511-800-chrome-6mm",
+  "supplier_sku": "D511",
+  "variant_sku": "SUNLAND-D511-800-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931675.html",
+  "source_checked": "2026-09-17",
+  "title": "Sunland D511 \u2014 Shower Enclosure, 800 mm width \u00d7 1900 mm height",
+  "description": "Sunland D511. Selected configuration: 800 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 6 mm. Glass division, hardware profile, handle dimensions and tint intensity inferred from photo Manufacturer confirmation needed for installation clearances Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 800,
+    "height": 1900,
+    "depth": null
+  },
+  "model_envelope_mm": {
+    "width": 800.000011920929,
+    "depth": 61.500003561377525,
+    "height": 1899.999976158142
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "d511-800 \u00b7 chrome \u00b7 6mm",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d511-800-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/d511-800-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d511-800-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d511-800-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Glass division, hardware profile, handle dimensions and tint intensity inferred from photo Manufacturer confirmation needed for installation clearances",
+  "dimension_scope": "Full exported product bounding box"
+}

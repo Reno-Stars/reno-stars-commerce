@@ -1,0 +1,31 @@
+{
+  "id": "sunland-sc018-1300-chrome-8mm",
+  "supplier_sku": "SC018",
+  "variant_sku": "SUNLAND-SC018-1300-CHROME-8MM",
+  "source_url": "https://cnsunland.com/goods/2931583.html",
+  "source_checked": "2026-09-17",
+  "title": "Sunland SC018 \u2014 Shower Enclosure, 1300 mm width \u00d7 1900 mm height",
+  "description": "Sunland SC018. Selected configuration: 1300 mm width \u00d7 1900 mm height. Finish: Chrome. Glass thickness: 8 mm. Track sections, pane overlap, handles and machining profiles visually inferred SC018 privacy stripe spacing follows photo approximately Manufacturer confirmation needed for installation clearances Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1300,
+    "height": 1900,
+    "depth": null
+  },
+  "model_envelope_mm": {
+    "width": 1299.9999523162842,
+    "depth": 101.5000008046627,
+    "height": 1899.999976158142
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "sc018-1300 \u00b7 chrome \u00b7 8mm",
+  "finish": "Chrome",
+  "glass_mm": 8,
+  "model_url": "/sunland-library/sc018-1300-chrome-8mm/model.glb",
+  "blend_url": "/sunland-library/sc018-1300-chrome-8mm/model.blend.gz",
+  "image_url": "/sunland-library/sc018-1300-chrome-8mm/preview.jpg",
+  "drawing_url": "/sunland-library/sc018-1300-chrome-8mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Track sections, pane overlap, handles and machining profiles visually inferred SC018 privacy stripe spacing follows photo approximately Manufacturer confirmation needed for installation clearances",
+  "dimension_scope": "Full exported product bounding box"
+}

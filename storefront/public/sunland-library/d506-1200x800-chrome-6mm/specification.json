@@ -1,0 +1,35 @@
+{
+  "id": "sunland-d506-1200x800-chrome-6mm",
+  "supplier_sku": "D506",
+  "variant_sku": "SUNLAND-D506-1200X800-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931701.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland D506 \u2014 1200 mm width \u00d7 800 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "description": "Sunland D506. Selected configuration: 1200 mm width \u00d7 800 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Manufacturer mounting width/depth and 1900 mm enclosure height; 60 mm tray excluded.. Manufacturer mounting dimensions and 6 mm glass are documented. Pane split, chamfer cut, full-height pivot profiles, stabilizer lengths and handles are visual approximations. Closed configuration, no door animation or installation clearance certification. Source total 1960 mm includes 60 mm tray; tray and room fixtures are excluded from this reusable enclosure. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1200,
+    "height": 1900,
+    "depth": 800
+  },
+  "model_envelope_mm": {
+    "width": 1201.0000944137573,
+    "depth": 802.0000143442303,
+    "height": 1899.999976158142
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "1200 mm width \u00d7 800 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d506-1200x800-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/d506-1200x800-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d506-1200x800-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d506-1200x800-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Manufacturer mounting dimensions and 6 mm glass are documented. Pane split, chamfer cut, full-height pivot profiles, stabilizer lengths and handles are visual approximations. Closed configuration, no door animation or installation clearance certification. Source total 1960 mm includes 60 mm tray; tray and room fixtures are excluded from this reusable enclosure.",
+  "dimension_scope": "Manufacturer mounting width/depth and 1900 mm enclosure height; 60 mm tray excluded.",
+  "source_review": "Individually read current manufacturer photo and composite diagram: listed total height 1960 includes a 60 mm tray; modeled enclosure is 1900 mm excluding tray.",
+  "source_revision": null,
+  "technical_reference": null,
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

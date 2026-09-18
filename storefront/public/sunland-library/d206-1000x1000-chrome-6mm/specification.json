@@ -1,0 +1,35 @@
+{
+  "id": "sunland-d206-1000x1000-chrome-6mm",
+  "supplier_sku": "D206",
+  "variant_sku": "SUNLAND-D206-1000X1000-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931727.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland D206 \u2014 1000 mm width \u00d7 1000 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "description": "Sunland D206. Selected configuration: 1000 mm width \u00d7 1000 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Screen assembly; mounting/support depth recorded separately from the glass thickness.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1000,
+    "height": 1900,
+    "depth": 1000
+  },
+  "model_envelope_mm": {
+    "width": 1000.0,
+    "depth": 1013.5000003501773,
+    "height": 1899.999976158142
+  },
+  "category": "Shower Screens",
+  "category_key": "shower-screens",
+  "variant_title": "1000 mm width \u00d7 1000 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d206-1000x1000-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/d206-1000x1000-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d206-1000x1000-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d206-1000x1000-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+  "dimension_scope": "Screen assembly; mounting/support depth recorded separately from the glass thickness.",
+  "source_review": "Current manufacturer composite photograph, plan and elevation individually inspected. Width/depth and 6/8 mm glass options follow this poster. Photo details used to distinguish the product geometry.",
+  "source_revision": null,
+  "technical_reference": null,
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

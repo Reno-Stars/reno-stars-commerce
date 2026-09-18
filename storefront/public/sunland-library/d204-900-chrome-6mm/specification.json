@@ -1,0 +1,35 @@
+{
+  "id": "sunland-d204-900-chrome-6mm",
+  "supplier_sku": "D204",
+  "variant_sku": "SUNLAND-D204-900-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931713.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland D204 \u2014 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "description": "Sunland D204. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Pivot return glass depth of 250 mm is a photo-based approximation; no dimension is supplied for this part. Pivot, support and seal profiles and panel subdivisions are visually approximated. Model represents overall width and height and support depth, not a fabrication drawing. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 900,
+    "height": 1900,
+    "depth": 900
+  },
+  "model_envelope_mm": {
+    "width": 900.0000384807112,
+    "depth": 917.9999772459269,
+    "height": 1899.999976158142
+  },
+  "category": "Shower Screens",
+  "category_key": "shower-screens",
+  "variant_title": "900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d204-900-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/d204-900-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d204-900-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d204-900-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Pivot return glass depth of 250 mm is a photo-based approximation; no dimension is supplied for this part. Pivot, support and seal profiles and panel subdivisions are visually approximated. Model represents overall width and height and support depth, not a fabrication drawing.",
+  "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+  "source_review": "Current manufacturer photograph and dimensioned diagram individually inspected. Current poster specifies width range 900\u20131600, support depth 900, height 1900, glass 6/8 mm and chrome. Older 1950 mm drawing and its finishes are a different revision and are not used. Selected configuration is the 900 mm endpoint in 6 mm glass.",
+  "source_revision": null,
+  "technical_reference": null,
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

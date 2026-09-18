@@ -1,0 +1,35 @@
+{
+  "id": "sunland-d202-1000x800-chrome-8mm",
+  "supplier_sku": "D202",
+  "variant_sku": "SUNLAND-D202-1000X800-CHROME-8MM",
+  "source_url": "https://cnsunland.com/goods/2931721.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland D202 \u2014 1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+  "description": "Sunland D202. Selected configuration: 1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1000,
+    "height": 1900,
+    "depth": 800
+  },
+  "model_envelope_mm": {
+    "width": 1000.0,
+    "depth": 818.0000130087137,
+    "height": 1899.999976158142
+  },
+  "category": "Shower Screens",
+  "category_key": "shower-screens",
+  "variant_title": "1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+  "finish": "Chrome",
+  "glass_mm": 8,
+  "model_url": "/sunland-library/d202-1000x800-chrome-8mm/model.glb",
+  "blend_url": "/sunland-library/d202-1000x800-chrome-8mm/model.blend.gz",
+  "image_url": "/sunland-library/d202-1000x800-chrome-8mm/preview.jpg",
+  "drawing_url": "/sunland-library/d202-1000x800-chrome-8mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+  "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+  "source_review": "Current manufacturer composite photograph, plan and elevation individually inspected. Width/depth and 6/8 mm glass options follow this poster. Photo details used to distinguish the product geometry.",
+  "source_revision": null,
+  "technical_reference": null,
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

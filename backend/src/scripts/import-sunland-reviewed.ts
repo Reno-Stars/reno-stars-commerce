@@ -18,10 +18,15 @@ export default async function importSunland({ container }: ExecArgs) {
   const [channel] = await channels.listSalesChannels({ name: "Default Sales Channel" })
   if (!channel) throw Error("Default Sales Channel missing")
   const seen = new Set<string>()
+  const configurations = new Set<string>()
+  const configuration = (sku: unknown, width: unknown, depth: unknown, height: unknown, glass: unknown, finish: unknown) => JSON.stringify([sku,width,depth ?? null,height,glass ?? null,finish])
   const pending: typeof inventory.products = []
   for (const p of inventory.products) {
     if (p.review_status !== "dimensions_and_render_reviewed" || seen.has(p.id) || seen.has(p.variant_sku) || !p.supplier_sku || ![p.dimensions_mm.width,p.dimensions_mm.height].every(v => Number.isFinite(v) && v > 0)) throw Error(`Invalid reviewed product ${p.id}`)
     seen.add(p.id);seen.add(p.variant_sku)
+    const fingerprint=configuration(p.supplier_sku,p.dimensions_mm.width,p.dimensions_mm.depth,p.dimensions_mm.height,p.glass_mm,p.finish)
+    if(configurations.has(fingerprint)) throw Error(`Duplicate configuration in manifest: ${p.id}`)
+    configurations.add(fingerprint)
     for (const [name, evidence] of Object.entries(p.files)) {
       const url = origin + p.model_url.replace(/model\.glb$/, name)
       const response = await fetch(url, { signal: AbortSignal.timeout(30000) })
@@ -37,8 +42,11 @@ export default async function importSunland({ container }: ExecArgs) {
       continue
     }
     if ((await service.listProductVariants({ sku: p.variant_sku })).length) throw Error(`Existing variant SKU: ${p.variant_sku}`)
-    const similar=await service.listProducts({q:p.supplier_sku})
-    if(similar.some(x=>x.metadata?.brand==='Sunland' && x.metadata?.source_url===p.source_url && x.handle!==p.id)) throw Error(`Source already listed under another handle: ${p.source_url}`)
+    const similar=await service.listProducts({q:p.supplier_sku}, {take:1000})
+    if(similar.some(x=> {
+      const m=x.metadata
+      return m?.brand==='Sunland' && x.handle!==p.id && configuration(m.supplier_sku,m.width_mm,m.depth_mm,m.height_mm,m.glass_thickness_mm,m.finish)===fingerprint
+    })) throw Error(`Configuration already listed under another handle: ${p.id}`)
     pending.push(p)
   }
   console.log(JSON.stringify({ phase: "preflight", apply, reviewed: inventory.products.length, pending: pending.length }))

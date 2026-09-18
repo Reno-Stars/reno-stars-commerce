@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "products": [
     {
       "id": "sunland-d103-800x800-chrome-6mm",
@@ -2166,6 +2166,1374 @@
       "units": "metres",
       "up_axis": "Y",
       "placement_note": "Use exported geometry bounds for horizontal placement; do not rescale. Published dimensions and projecting-hardware envelope are separate."
+    },
+    {
+      "id": "sunland-d202-1000x800-chrome-6mm",
+      "supplier_sku": "D202",
+      "variant_sku": "SUNLAND-D202-1000X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931721.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D202 \u2014 1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D202. Selected configuration: 1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1000,
+        "height": 1900,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 1000.0,
+        "depth": 818.0000130087137,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d202-1000x800-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d202-1000x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d202-1000x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d202-1000x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 26224,
+          "sha256": "b992ea60f43be885b402a705d16b5fd8aa120a1dae48a3e67d3e7368ce82dd80"
+        },
+        "model.blend.gz": {
+          "bytes": 103483,
+          "sha256": "876e16f35b3509d5e49dafcb165afb10bf257327e7a1a8821724ccc85e1cf250"
+        },
+        "preview.jpg": {
+          "bytes": 48820,
+          "sha256": "9c24be51114081de30d7fd252c220ada330edcf808eb850934014c9cce1d01d7"
+        },
+        "manufacturer.jpg": {
+          "bytes": 598654,
+          "sha256": "5952b6a3463b10f010d23577b4262afa94887f5ce0d12143a089b1820218e6e6"
+        },
+        "specification.json": {
+          "bytes": 2525,
+          "sha256": "d5695a823ccaf78270cc1fabb5ae587b3581e776a86707b854d31f788f7b7f3b"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d202-1000x800-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d202-1000x800-chrome-8mm",
+      "supplier_sku": "D202",
+      "variant_sku": "SUNLAND-D202-1000X800-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931721.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D202 \u2014 1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "description": "Sunland D202. Selected configuration: 1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1000,
+        "height": 1900,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 1000.0,
+        "depth": 818.0000130087137,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1000 mm width \u00d7 800 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d202-1000x800-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d202-1000x800-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d202-1000x800-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d202-1000x800-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 26224,
+          "sha256": "2b58f20e3e3b0304a41ca88cd13ad17269e1b1c143e7918bd402dc86333ea762"
+        },
+        "model.blend.gz": {
+          "bytes": 103578,
+          "sha256": "4b19bc340249cd60199349be9d08ef5cb1728d6c9c7bce378849f3d31096a065"
+        },
+        "preview.jpg": {
+          "bytes": 49066,
+          "sha256": "fe4c2fa9787bc17b26f31983be72e6faa017a5b54bbb9784913be0631760f6fd"
+        },
+        "manufacturer.jpg": {
+          "bytes": 598654,
+          "sha256": "5952b6a3463b10f010d23577b4262afa94887f5ce0d12143a089b1820218e6e6"
+        },
+        "specification.json": {
+          "bytes": 2525,
+          "sha256": "3a506a700d7278bb31e298db710d0bf0b2739501dba31529bdc0b6a4851d9f03"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d202-1000x800-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d202-900x900-chrome-6mm",
+      "supplier_sku": "D202",
+      "variant_sku": "SUNLAND-D202-900X900-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931721.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D202 \u2014 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D202. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 900,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 900.0000357627869,
+        "depth": 917.9999772459269,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d202-900x900-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d202-900x900-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d202-900x900-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d202-900x900-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 26236,
+          "sha256": "bbdc564277676d87eded97c7dc52509a2ff5ecdd1e4fd6e8033ed371135b6b74"
+        },
+        "model.blend.gz": {
+          "bytes": 103485,
+          "sha256": "893165852013b8be9a1893396df81cf54b0a3fa892b85816a25c1739807e3354"
+        },
+        "preview.jpg": {
+          "bytes": 48038,
+          "sha256": "8328a160a7dcc3144a44a8c6caa0fd52227cc056d0335c7f564d8289ee97bf65"
+        },
+        "manufacturer.jpg": {
+          "bytes": 598654,
+          "sha256": "5952b6a3463b10f010d23577b4262afa94887f5ce0d12143a089b1820218e6e6"
+        },
+        "specification.json": {
+          "bytes": 2526,
+          "sha256": "aa3cc11690d944baae950bfe836405acd6abb6e9cf142de403ab30e5f956ce96"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d202-900x900-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d202-900x900-chrome-8mm",
+      "supplier_sku": "D202",
+      "variant_sku": "SUNLAND-D202-900X900-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931721.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D202 \u2014 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "description": "Sunland D202. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 900,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 900.0000357627869,
+        "depth": 917.9999772459269,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d202-900x900-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d202-900x900-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d202-900x900-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d202-900x900-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 26236,
+          "sha256": "983d663142ce08e0ce8c149cf6a2b2f2376a37a899a9f98fc157907cf772c2d8"
+        },
+        "model.blend.gz": {
+          "bytes": 103705,
+          "sha256": "7f6fa51cb57cf7fee0f19ce51f691f17397d46d1900a61f21aa7707788fc00de"
+        },
+        "preview.jpg": {
+          "bytes": 48357,
+          "sha256": "89a8dbb6119a109e80aaf345bd5b587943b8103c3d49a7f26ae87197c11fd884"
+        },
+        "manufacturer.jpg": {
+          "bytes": 598654,
+          "sha256": "5952b6a3463b10f010d23577b4262afa94887f5ce0d12143a089b1820218e6e6"
+        },
+        "specification.json": {
+          "bytes": 2526,
+          "sha256": "8672fa54a39c1f212030603fe88d6a17c8cc833d282dfb00350ab76476f3b15d"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d202-900x900-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d203-1200x900-chrome-6mm",
+      "supplier_sku": "D203",
+      "variant_sku": "SUNLAND-D203-1200X900-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931723.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D203 \u2014 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D203. Selected configuration: 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 916.0000383853912,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d203-1200x900-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d203-1200x900-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d203-1200x900-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d203-1200x900-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 33316,
+          "sha256": "7e0b136b3c68e37712adb60ead07fa042a7125592d306e6a7576b71245468230"
+        },
+        "model.blend.gz": {
+          "bytes": 105771,
+          "sha256": "312a2ccbd7b60b27d50f8f050431f98bae34e61c2d1ed8de2332a12e2fcab2a5"
+        },
+        "preview.jpg": {
+          "bytes": 57925,
+          "sha256": "1e9701038981b601f93143d18690b5b73fd24855336ae3e265acdc9bd4f65027"
+        },
+        "manufacturer.jpg": {
+          "bytes": 611098,
+          "sha256": "f4ae4bde43a4e64d6abfda5f76d47114c62416a4833bdbaf95bb69108e6479e2"
+        },
+        "specification.json": {
+          "bytes": 2537,
+          "sha256": "83408eb1849dcc91c655b0d842a37d1c46622cacfdc3a0837b770eb4a51fa9ee"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d203-1200x900-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d203-1200x900-chrome-8mm",
+      "supplier_sku": "D203",
+      "variant_sku": "SUNLAND-D203-1200X900-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931723.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D203 \u2014 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "description": "Sunland D203. Selected configuration: 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 916.0000383853912,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d203-1200x900-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d203-1200x900-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d203-1200x900-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d203-1200x900-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 33316,
+          "sha256": "0ff3ba4585f35acfc207a613082055504aa76ad94a948597ddc7aa1c1fb7f34a"
+        },
+        "model.blend.gz": {
+          "bytes": 105791,
+          "sha256": "d083d938eeab70af6f943964c62e636e33a5b8871607651e0fe0e12c9d1edd70"
+        },
+        "preview.jpg": {
+          "bytes": 59286,
+          "sha256": "c6e3df9d43ba53db4941d6bc31ec6b7bef676b4b5da4a28e54068a8c013966ee"
+        },
+        "manufacturer.jpg": {
+          "bytes": 611098,
+          "sha256": "f4ae4bde43a4e64d6abfda5f76d47114c62416a4833bdbaf95bb69108e6479e2"
+        },
+        "specification.json": {
+          "bytes": 2537,
+          "sha256": "623ccdf160bf5fcfaf33f7a4b2dd8c47687119caf83d728060ba862d4b1b7f19"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d203-1200x900-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d203-1400x900-chrome-6mm",
+      "supplier_sku": "D203",
+      "variant_sku": "SUNLAND-D203-1400X900-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931723.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D203 \u2014 1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D203. Selected configuration: 1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1400,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1399.999976158142,
+        "depth": 916.0000383853912,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d203-1400x900-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d203-1400x900-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d203-1400x900-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d203-1400x900-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 33320,
+          "sha256": "d40c407853119668866c2ecc0d7576fcfc969936c30e7f1bf6a521bf41993e3b"
+        },
+        "model.blend.gz": {
+          "bytes": 105958,
+          "sha256": "579f7dac2fcd7814a66a3ef91a80becb83fbca083215fd06b2946b6bbe1bdaca"
+        },
+        "preview.jpg": {
+          "bytes": 55487,
+          "sha256": "b95bec3a22b3b238a93c4cdb7287ff9876ab4c75818ae4f9220c5fa70dbed8c5"
+        },
+        "manufacturer.jpg": {
+          "bytes": 611098,
+          "sha256": "f4ae4bde43a4e64d6abfda5f76d47114c62416a4833bdbaf95bb69108e6479e2"
+        },
+        "specification.json": {
+          "bytes": 2536,
+          "sha256": "ea1ff79355c8e0c360ccca26449e878b5b848dd318cd9a38d308e5e17a7b0232"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d203-1400x900-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d203-1400x900-chrome-8mm",
+      "supplier_sku": "D203",
+      "variant_sku": "SUNLAND-D203-1400X900-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931723.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D203 \u2014 1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "description": "Sunland D203. Selected configuration: 1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1400,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1399.999976158142,
+        "depth": 916.0000383853912,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d203-1400x900-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d203-1400x900-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d203-1400x900-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d203-1400x900-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 33320,
+          "sha256": "2af04f6a535e9e3cc3ec73d487d44f542b6bf32635ac3f4c971c04844854f49a"
+        },
+        "model.blend.gz": {
+          "bytes": 105813,
+          "sha256": "af3e7e28beaaa6e48aaa8229e4ad9fe74313037432ab9835c63efa238bfbc191"
+        },
+        "preview.jpg": {
+          "bytes": 56083,
+          "sha256": "c4faf2bb21120be72ed830a5452d16c77305b6a7d517ffa5cb24192e39f77546"
+        },
+        "manufacturer.jpg": {
+          "bytes": 611098,
+          "sha256": "f4ae4bde43a4e64d6abfda5f76d47114c62416a4833bdbaf95bb69108e6479e2"
+        },
+        "specification.json": {
+          "bytes": 2536,
+          "sha256": "c20956dfebdc22c8b18427f2a31ac020cfe43c97d27fb22a79fa5d049eddb5c5"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d203-1400x900-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d204-1600-chrome-6mm",
+      "supplier_sku": "D204",
+      "variant_sku": "SUNLAND-D204-1600-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931713.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D204 \u2014 1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D204. Selected configuration: 1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Pivot return glass depth of 250 mm is a photo-based approximation; no dimension is supplied for this part. Pivot, support and seal profiles and panel subdivisions are visually approximated. Model represents overall width and height and support depth, not a fabrication drawing. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1600,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1600.0000265597823,
+        "depth": 917.9999772459269,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d204-1600-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d204-1600-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d204-1600-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d204-1600-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Pivot return glass depth of 250 mm is a photo-based approximation; no dimension is supplied for this part. Pivot, support and seal profiles and panel subdivisions are visually approximated. Model represents overall width and height and support depth, not a fabrication drawing.",
+      "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+      "files": {
+        "model.glb": {
+          "bytes": 50752,
+          "sha256": "05562ca4dbd78efb804b1d6a8829cb9c2566d51750553bc5a10bceea7fc54c5e"
+        },
+        "model.blend.gz": {
+          "bytes": 106420,
+          "sha256": "6f3090a7d7868b8ab6c2b90477234eb8968c73a7f4765845a551081238a7e21d"
+        },
+        "preview.jpg": {
+          "bytes": 54207,
+          "sha256": "b47ede330082c189231490c1dbab7ab5564fe827c478202940308be0d2be62ff"
+        },
+        "manufacturer.jpg": {
+          "bytes": 772881,
+          "sha256": "de83d9e7582f22485967a5188c141935e63c8d0cd12ea6ec76dfd7894b9ed397"
+        },
+        "specification.json": {
+          "bytes": 2653,
+          "sha256": "4c4b29538842ef1e21ffd878a9541f3182f64bfda1a65969d4b3e451aa68c27d"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d204-1600-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d204-1600-chrome-8mm",
+      "supplier_sku": "D204",
+      "variant_sku": "SUNLAND-D204-1600-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931713.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D204 \u2014 1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "description": "Sunland D204. Selected configuration: 1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Pivot return glass depth of 250 mm is a photo-based approximation; no dimension is supplied for this part. Pivot, support and seal profiles and panel subdivisions are visually approximated. Model represents overall width and height and support depth, not a fabrication drawing. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1600,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1600.0000265597823,
+        "depth": 917.9999772459269,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d204-1600-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d204-1600-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d204-1600-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d204-1600-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Pivot return glass depth of 250 mm is a photo-based approximation; no dimension is supplied for this part. Pivot, support and seal profiles and panel subdivisions are visually approximated. Model represents overall width and height and support depth, not a fabrication drawing.",
+      "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+      "files": {
+        "model.glb": {
+          "bytes": 50752,
+          "sha256": "c61b6a9f849357506cb863bb118f7b74ce47bf67db984096e09863410de7d52d"
+        },
+        "model.blend.gz": {
+          "bytes": 106482,
+          "sha256": "8a86af4f5137d064942fc0c08b1cb53972eb619fd4e74c67109d3222ab8077ec"
+        },
+        "preview.jpg": {
+          "bytes": 54490,
+          "sha256": "4c412d2110d1fce14c3247947badefa030131ad84c88b9098aaf848bfa5d9331"
+        },
+        "manufacturer.jpg": {
+          "bytes": 772881,
+          "sha256": "de83d9e7582f22485967a5188c141935e63c8d0cd12ea6ec76dfd7894b9ed397"
+        },
+        "specification.json": {
+          "bytes": 2653,
+          "sha256": "6d15c9ba427b3f00a976363ac5d3257bf2f37bd0bd691a44451a65ef8913188a"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d204-1600-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d204-900-chrome-6mm",
+      "supplier_sku": "D204",
+      "variant_sku": "SUNLAND-D204-900-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931713.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D204 \u2014 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D204. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Pivot return glass depth of 250 mm is a photo-based approximation; no dimension is supplied for this part. Pivot, support and seal profiles and panel subdivisions are visually approximated. Model represents overall width and height and support depth, not a fabrication drawing. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 900,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 900.0000384807112,
+        "depth": 917.9999772459269,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d204-900-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d204-900-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d204-900-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d204-900-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Pivot return glass depth of 250 mm is a photo-based approximation; no dimension is supplied for this part. Pivot, support and seal profiles and panel subdivisions are visually approximated. Model represents overall width and height and support depth, not a fabrication drawing.",
+      "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+      "files": {
+        "model.glb": {
+          "bytes": 50760,
+          "sha256": "efa34edefe447e833c0dbda6a86ae0dc05c435251ad3530ed4f3289531333262"
+        },
+        "model.blend.gz": {
+          "bytes": 106555,
+          "sha256": "37520ebd1e6e72d89c0b11cd370031c6aeebdae47b1f9750fa69835fde6e5a7e"
+        },
+        "preview.jpg": {
+          "bytes": 50766,
+          "sha256": "1c70960425b49b48124586c96af44781d5c95c51bdbed8204e0e7385e89a1e22"
+        },
+        "manufacturer.jpg": {
+          "bytes": 772881,
+          "sha256": "de83d9e7582f22485967a5188c141935e63c8d0cd12ea6ec76dfd7894b9ed397"
+        },
+        "specification.json": {
+          "bytes": 2641,
+          "sha256": "dd5e12eeef0c443be17d5b99bb4cd1ed5240fbf706ae12dda4868ed0ecc272a4"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d204-900-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d204-900-chrome-8mm",
+      "supplier_sku": "D204",
+      "variant_sku": "SUNLAND-D204-900-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931713.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D204 \u2014 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "description": "Sunland D204. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Pivot return glass depth of 250 mm is a photo-based approximation; no dimension is supplied for this part. Pivot, support and seal profiles and panel subdivisions are visually approximated. Model represents overall width and height and support depth, not a fabrication drawing. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 900,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 900.0000384807112,
+        "depth": 917.9999772459269,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d204-900-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d204-900-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d204-900-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d204-900-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Pivot return glass depth of 250 mm is a photo-based approximation; no dimension is supplied for this part. Pivot, support and seal profiles and panel subdivisions are visually approximated. Model represents overall width and height and support depth, not a fabrication drawing.",
+      "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+      "files": {
+        "model.glb": {
+          "bytes": 50760,
+          "sha256": "66b9ca6d3e8696501c5f2b0b82df07ffadf0d20624efbe300129a7841456765a"
+        },
+        "model.blend.gz": {
+          "bytes": 106407,
+          "sha256": "5caf97db2e602627c7bb138b329f493e78a0486294fc84db77cbdcffe15598a6"
+        },
+        "preview.jpg": {
+          "bytes": 51332,
+          "sha256": "6c3cbd64dc34d506065682ca1ec1106be812aa42bc095f6afb4bf6f2f806768b"
+        },
+        "manufacturer.jpg": {
+          "bytes": 772881,
+          "sha256": "de83d9e7582f22485967a5188c141935e63c8d0cd12ea6ec76dfd7894b9ed397"
+        },
+        "specification.json": {
+          "bytes": 2641,
+          "sha256": "68f38436df4c488f0ae23ea2882c64c193ae23587e7c79dff9fc4c5997c3ea11"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d204-900-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d205-1200x900-chrome-6mm",
+      "supplier_sku": "D205",
+      "variant_sku": "SUNLAND-D205-1200X900-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931715.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D205 \u2014 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Polished stainless steel hardware \u00b7 6 mm glass",
+      "description": "Sunland D205. Selected configuration: 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Polished stainless steel hardware. 6 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 913.5000361129642,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Polished stainless steel hardware \u00b7 6 mm glass",
+      "finish": "Polished stainless steel hardware",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d205-1200x900-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d205-1200x900-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d205-1200x900-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d205-1200x900-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 28076,
+          "sha256": "068c5a081a7772011859dd6aa4239e812067c88477540ba4e72ceb92dea19a1a"
+        },
+        "model.blend.gz": {
+          "bytes": 105982,
+          "sha256": "758c16b5caca93b5c17bcc4e4fe6ff94fa87331d37a74c28a2ff70ab5bce5d37"
+        },
+        "preview.jpg": {
+          "bytes": 57040,
+          "sha256": "1cc17932c58b225f381b089f15cd0ca887a95f72b23b5d305ded956317d456a1"
+        },
+        "manufacturer.jpg": {
+          "bytes": 691397,
+          "sha256": "5c8975cce087fdcc2fb06779c6a6a07649226ba6c6113531ff9d2107a4371789"
+        },
+        "specification.json": {
+          "bytes": 2645,
+          "sha256": "b0941e5a536e4bad928e62c823b3e90f19ce7058d6649ae0f7777d0d4371c9b6"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d205-1200x900-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d205-1200x900-chrome-8mm",
+      "supplier_sku": "D205",
+      "variant_sku": "SUNLAND-D205-1200X900-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931715.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D205 \u2014 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Polished stainless steel hardware \u00b7 8 mm glass",
+      "description": "Sunland D205. Selected configuration: 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Polished stainless steel hardware. 8 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 913.5000361129642,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Polished stainless steel hardware \u00b7 8 mm glass",
+      "finish": "Polished stainless steel hardware",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d205-1200x900-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d205-1200x900-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d205-1200x900-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d205-1200x900-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 28076,
+          "sha256": "9243cdf5d95ef34b11e49643242c8d5f3d2540c894f1f7b07de9d4b985e1d0f7"
+        },
+        "model.blend.gz": {
+          "bytes": 106050,
+          "sha256": "99454fc55229ff40133711efe36282169150c00ee819d64d4ddfefb1414b3d79"
+        },
+        "preview.jpg": {
+          "bytes": 58445,
+          "sha256": "cc870353b63bf19476b60bda49ec7085214beee5b7df53042a590944d1d78b0b"
+        },
+        "manufacturer.jpg": {
+          "bytes": 691397,
+          "sha256": "5c8975cce087fdcc2fb06779c6a6a07649226ba6c6113531ff9d2107a4371789"
+        },
+        "specification.json": {
+          "bytes": 2645,
+          "sha256": "742c4fe946b62cd418553290d20910a4b39aeb4ff100a329f70adbf3dfcc5d2a"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d205-1200x900-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d205-1400x900-chrome-6mm",
+      "supplier_sku": "D205",
+      "variant_sku": "SUNLAND-D205-1400X900-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931715.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D205 \u2014 1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Polished stainless steel hardware \u00b7 6 mm glass",
+      "description": "Sunland D205. Selected configuration: 1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Polished stainless steel hardware. 6 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1400,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1399.999976158142,
+        "depth": 913.5000361129642,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Polished stainless steel hardware \u00b7 6 mm glass",
+      "finish": "Polished stainless steel hardware",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d205-1400x900-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d205-1400x900-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d205-1400x900-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d205-1400x900-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 28076,
+          "sha256": "1139ae7e0950118edd38873a0f3fd6adbe56e9b5797716fb4dd1e70498b38c4d"
+        },
+        "model.blend.gz": {
+          "bytes": 105971,
+          "sha256": "09b4f3d4e8695204de9f1e0f5db0bb125ae5e2c6ceebd0c5525e7f2fbb56e031"
+        },
+        "preview.jpg": {
+          "bytes": 54859,
+          "sha256": "67a9825188cd50b4020d6ee2349ab2e6ad06da14a1cd48088acbb880b0058954"
+        },
+        "manufacturer.jpg": {
+          "bytes": 691397,
+          "sha256": "5c8975cce087fdcc2fb06779c6a6a07649226ba6c6113531ff9d2107a4371789"
+        },
+        "specification.json": {
+          "bytes": 2644,
+          "sha256": "894d1a2a1d8048abf6e2caaba657eb3a955419073a71f078fe2ced9719794685"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d205-1400x900-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d205-1400x900-chrome-8mm",
+      "supplier_sku": "D205",
+      "variant_sku": "SUNLAND-D205-1400X900-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931715.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D205 \u2014 1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Polished stainless steel hardware \u00b7 8 mm glass",
+      "description": "Sunland D205. Selected configuration: 1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Polished stainless steel hardware. 8 mm glass. Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1400,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1399.999976158142,
+        "depth": 913.5000361129642,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1400 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Polished stainless steel hardware \u00b7 8 mm glass",
+      "finish": "Polished stainless steel hardware",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d205-1400x900-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d205-1400x900-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d205-1400x900-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d205-1400x900-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Shower glass assembly without the pictured tray. For the 1960 mm assembly drawing, the separately dimensioned 60 mm tray is excluded.",
+      "files": {
+        "model.glb": {
+          "bytes": 28076,
+          "sha256": "671e49fa956732b419bc7d28abfde76514bd64698d411667dc1e01e08f6029d6"
+        },
+        "model.blend.gz": {
+          "bytes": 105952,
+          "sha256": "4175ea98dfde84c82d4eed0a262790c5119311ffb9cb0ce455f1c9fbb696d24c"
+        },
+        "preview.jpg": {
+          "bytes": 55517,
+          "sha256": "a9267ba83927df891a60cab9b5c896e604c5337ee38a7f66ce257779752b5711"
+        },
+        "manufacturer.jpg": {
+          "bytes": 691397,
+          "sha256": "5c8975cce087fdcc2fb06779c6a6a07649226ba6c6113531ff9d2107a4371789"
+        },
+        "specification.json": {
+          "bytes": 2644,
+          "sha256": "c809a1b562c67db1fae032b8a837972fcef36836086bed6c22f52a564eb82591"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d205-1400x900-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d206-1000x1000-chrome-6mm",
+      "supplier_sku": "D206",
+      "variant_sku": "SUNLAND-D206-1000X1000-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931727.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D206 \u2014 1000 mm width \u00d7 1000 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D206. Selected configuration: 1000 mm width \u00d7 1000 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Screen assembly; mounting/support depth recorded separately from the glass thickness.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1000,
+        "height": 1900,
+        "depth": 1000
+      },
+      "model_envelope_mm": {
+        "width": 1000.0,
+        "depth": 1013.5000003501773,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1000 mm width \u00d7 1000 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d206-1000x1000-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d206-1000x1000-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d206-1000x1000-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d206-1000x1000-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Screen assembly; mounting/support depth recorded separately from the glass thickness.",
+      "files": {
+        "model.glb": {
+          "bytes": 19512,
+          "sha256": "da255a6a70f44ccf40a2cf87df5a043b45a9eef899f69c8e2ce407b3bd339218"
+        },
+        "model.blend.gz": {
+          "bytes": 104176,
+          "sha256": "b12ad7a2fe9a986a99cce8bdfef7b3cb724a5337064c6aa3c674213592e05581"
+        },
+        "preview.jpg": {
+          "bytes": 46479,
+          "sha256": "efd9a913afcc5def89cfd464a2a651261b87c7911b1704c213e73724c70db62c"
+        },
+        "manufacturer.jpg": {
+          "bytes": 444930,
+          "sha256": "8304fa7dab521cbcb29709d5603c8114a8b5145e31496fe3dafcfbd89fd79bfc"
+        },
+        "specification.json": {
+          "bytes": 2440,
+          "sha256": "e463bfb8a0051c6f3218f000722df75a27a24962865f3c4b1943040c321e57ce"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d206-1000x1000-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d206-1000x1000-chrome-8mm",
+      "supplier_sku": "D206",
+      "variant_sku": "SUNLAND-D206-1000X1000-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931727.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D206 \u2014 1000 mm width \u00d7 1000 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "description": "Sunland D206. Selected configuration: 1000 mm width \u00d7 1000 mm depth \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Screen assembly; mounting/support depth recorded separately from the glass thickness.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1000,
+        "height": 1900,
+        "depth": 1000
+      },
+      "model_envelope_mm": {
+        "width": 1000.0,
+        "depth": 1013.5000003501773,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1000 mm width \u00d7 1000 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d206-1000x1000-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d206-1000x1000-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d206-1000x1000-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d206-1000x1000-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Screen assembly; mounting/support depth recorded separately from the glass thickness.",
+      "files": {
+        "model.glb": {
+          "bytes": 19512,
+          "sha256": "1d65f92878c32ae4b7eb75087c25afcd7306b82f840eb306d06a00d523cb0a11"
+        },
+        "model.blend.gz": {
+          "bytes": 103992,
+          "sha256": "9378e328e0789a35cc83b1c2ed9d1d5104c92ad52202675bc81d3e2ef7cfe0f2"
+        },
+        "preview.jpg": {
+          "bytes": 46766,
+          "sha256": "1307d2ef8e8c7e63edfa680f3526a1944b68ff41ca5827aeaa874bbc871ae3e0"
+        },
+        "manufacturer.jpg": {
+          "bytes": 444930,
+          "sha256": "8304fa7dab521cbcb29709d5603c8114a8b5145e31496fe3dafcfbd89fd79bfc"
+        },
+        "specification.json": {
+          "bytes": 2440,
+          "sha256": "2e9d5c0486a4d71161a58874a9d949f3fbfb07a2eaebd88a52ba82056d1c7a96"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d206-1000x1000-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d206-900x900-chrome-6mm",
+      "supplier_sku": "D206",
+      "variant_sku": "SUNLAND-D206-900X900-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931727.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D206 \u2014 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D206. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Screen assembly; mounting/support depth recorded separately from the glass thickness.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 900,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 899.9999761581421,
+        "depth": 913.4999765083194,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d206-900x900-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d206-900x900-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d206-900x900-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d206-900x900-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Screen assembly; mounting/support depth recorded separately from the glass thickness.",
+      "files": {
+        "model.glb": {
+          "bytes": 19560,
+          "sha256": "718e9f6c67c67846bcc68a16b87387fd36972d552b0225851681ce8c319b37a8"
+        },
+        "model.blend.gz": {
+          "bytes": 104284,
+          "sha256": "2dd0f7c3368ccd6acd322bf11737a62031b6bab4bf048d3e7255857789c2861d"
+        },
+        "preview.jpg": {
+          "bytes": 45422,
+          "sha256": "e49aec73abb74874d0d022bf2f8355cdaf2b412dcbe9eb9c538210b037766cef"
+        },
+        "manufacturer.jpg": {
+          "bytes": 444930,
+          "sha256": "8304fa7dab521cbcb29709d5603c8114a8b5145e31496fe3dafcfbd89fd79bfc"
+        },
+        "specification.json": {
+          "bytes": 2430,
+          "sha256": "e30ded5498cb92857005b485fe46f3e0f3369e865cb47b03ceedfb835beb71a0"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d206-900x900-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d206-900x900-chrome-8mm",
+      "supplier_sku": "D206",
+      "variant_sku": "SUNLAND-D206-900X900-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931727.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D206 \u2014 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "description": "Sunland D206. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Screen assembly; mounting/support depth recorded separately from the glass thickness.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 900,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 899.9999761581421,
+        "depth": 913.4999765083194,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "900 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d206-900x900-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d206-900x900-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d206-900x900-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d206-900x900-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Screen assembly; mounting/support depth recorded separately from the glass thickness.",
+      "files": {
+        "model.glb": {
+          "bytes": 19560,
+          "sha256": "2aa328edda396660416881194c8625d93091926a24585b2660f309844f9e4da8"
+        },
+        "model.blend.gz": {
+          "bytes": 104370,
+          "sha256": "2962f43528679c8d2106ff351c597937bb3a0a1159d2daff09f07daba7e50dbf"
+        },
+        "preview.jpg": {
+          "bytes": 45876,
+          "sha256": "8f846d8f1e9e7a58defc4b521c6eaa02a12708a556538fdb93ad0be98ed2c5b7"
+        },
+        "manufacturer.jpg": {
+          "bytes": 444930,
+          "sha256": "8304fa7dab521cbcb29709d5603c8114a8b5145e31496fe3dafcfbd89fd79bfc"
+        },
+        "specification.json": {
+          "bytes": 2430,
+          "sha256": "80730d48ba836f92523a5372b3ff82db496a19fe66031ac0b956ed83e00ab490"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d206-900x900-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d207-1200x900-chrome-6mm",
+      "supplier_sku": "D207",
+      "variant_sku": "SUNLAND-D207-1200X900-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931711.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D207 \u2014 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D207. Selected configuration: 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Screen assembly; mounting/support depth recorded separately from the glass thickness.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 913.5000361129642,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d207-1200x900-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d207-1200x900-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d207-1200x900-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d207-1200x900-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Screen assembly; mounting/support depth recorded separately from the glass thickness.",
+      "files": {
+        "model.glb": {
+          "bytes": 22940,
+          "sha256": "883323f2f2083018910c74537fee2924147ab4a4d1181294319fe28cec2959bd"
+        },
+        "model.blend.gz": {
+          "bytes": 104933,
+          "sha256": "0e504e1ff5889b84930ecf466f714a9b357c5716d45f9d29aeee56e27aacb1ac"
+        },
+        "preview.jpg": {
+          "bytes": 55149,
+          "sha256": "6317753d4a53e6ad0edcbaed1a2566ee180156fff29932726b5129c5ac14e372"
+        },
+        "manufacturer.jpg": {
+          "bytes": 629025,
+          "sha256": "eac68b17d470e13a3268c69407105e5d5de7c4764ab297cf74ea48022fe85ff4"
+        },
+        "specification.json": {
+          "bytes": 2441,
+          "sha256": "430e6521066a1da783a7cb77af0fcfbdde94719d635a11905b624f4869c37cd1"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d207-1200x900-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d207-1200x900-chrome-8mm",
+      "supplier_sku": "D207",
+      "variant_sku": "SUNLAND-D207-1200X900-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931711.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D207 \u2014 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "description": "Sunland D207. Selected configuration: 1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Screen assembly; mounting/support depth recorded separately from the glass thickness.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 913.5000361129642,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1200 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d207-1200x900-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d207-1200x900-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d207-1200x900-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d207-1200x900-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Screen assembly; mounting/support depth recorded separately from the glass thickness.",
+      "files": {
+        "model.glb": {
+          "bytes": 22940,
+          "sha256": "17179bc08d2ba5e2308eae3d8fabdac574d0eb7813a4fed0b5d150e77ea07ca1"
+        },
+        "model.blend.gz": {
+          "bytes": 104960,
+          "sha256": "f3c6c18915308e2bd92292e5904a64c07cffb1902625620d40b001d66fb0f18f"
+        },
+        "preview.jpg": {
+          "bytes": 56599,
+          "sha256": "08a3570f2474cd41d291b7aa1a83ee140e92551eace29f09ad678a16340bdd5b"
+        },
+        "manufacturer.jpg": {
+          "bytes": 629025,
+          "sha256": "eac68b17d470e13a3268c69407105e5d5de7c4764ab297cf74ea48022fe85ff4"
+        },
+        "specification.json": {
+          "bytes": 2441,
+          "sha256": "7663e3e0bd2ac2c56bc85a3b5d39d13bba040a88aca47a5c826a6c0f540c9079"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d207-1200x900-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d207-1600x900-chrome-6mm",
+      "supplier_sku": "D207",
+      "variant_sku": "SUNLAND-D207-1600X900-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931711.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D207 \u2014 1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D207. Selected configuration: 1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 6 mm glass. Screen assembly; mounting/support depth recorded separately from the glass thickness.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1600,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1600.000023841858,
+        "depth": 913.5000361129642,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d207-1600x900-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d207-1600x900-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d207-1600x900-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d207-1600x900-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Screen assembly; mounting/support depth recorded separately from the glass thickness.",
+      "files": {
+        "model.glb": {
+          "bytes": 22940,
+          "sha256": "406461178029b3ea9fdb478643d3bd840de742ae9ca13bc75ebba03c2b9633b8"
+        },
+        "model.blend.gz": {
+          "bytes": 105241,
+          "sha256": "7dbb950dc26bc32049efd21285f676f57f7de133675385da66449a2355fc1284"
+        },
+        "preview.jpg": {
+          "bytes": 53764,
+          "sha256": "d4663e492d0938282daea05109590228d0413d6494e09be9ffea8435eb9c4040"
+        },
+        "manufacturer.jpg": {
+          "bytes": 629025,
+          "sha256": "eac68b17d470e13a3268c69407105e5d5de7c4764ab297cf74ea48022fe85ff4"
+        },
+        "specification.json": {
+          "bytes": 2440,
+          "sha256": "fb51525f21e4ac28b47bbb23601083f2577d7359532b6ebb0b95f320e8d43acb"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d207-1600x900-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d207-1600x900-chrome-8mm",
+      "supplier_sku": "D207",
+      "variant_sku": "SUNLAND-D207-1600X900-CHROME-8MM",
+      "source_url": "https://cnsunland.com/goods/2931711.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D207 \u2014 1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "description": "Sunland D207. Selected configuration: 1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Screen assembly; mounting/support depth recorded separately from the glass thickness.. Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1600,
+        "height": 1900,
+        "depth": 900
+      },
+      "model_envelope_mm": {
+        "width": 1600.000023841858,
+        "depth": 913.5000361129642,
+        "height": 1899.999976158142
+      },
+      "category": "Shower Screens",
+      "category_key": "shower-screens",
+      "variant_title": "1600 mm width \u00d7 900 mm depth \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d207-1600x900-chrome-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d207-1600x900-chrome-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d207-1600x900-chrome-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d207-1600x900-chrome-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Unspecified pane subdivisions, hinge/rail profiles and channel offsets are visually approximated. Tray and shower fixtures appearing in the reference are not included. Product is modeled closed and is not animated; use manufacturer installation documentation for fabrication.",
+      "dimension_scope": "Screen assembly; mounting/support depth recorded separately from the glass thickness.",
+      "files": {
+        "model.glb": {
+          "bytes": 22940,
+          "sha256": "28425c01ec58d93634077cdb271c9f0d5a05f9ac55570a7be41ac2b2ab25acf4"
+        },
+        "model.blend.gz": {
+          "bytes": 104948,
+          "sha256": "7542388d54c7c9169e100f03171fcd67f18d9b12b8529cb77aad11b35b7bbb68"
+        },
+        "preview.jpg": {
+          "bytes": 54179,
+          "sha256": "91e82955d972070d87ab637f2b750c0052d13f69639d932968e84e80e8e731fa"
+        },
+        "manufacturer.jpg": {
+          "bytes": 629025,
+          "sha256": "eac68b17d470e13a3268c69407105e5d5de7c4764ab297cf74ea48022fe85ff4"
+        },
+        "specification.json": {
+          "bytes": 2440,
+          "sha256": "529feb175a549bae9247422392666bc9050a23c9311f7b0593e8eb8e2eb2c876"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d207-1600x900-chrome-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
     }
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "id": "sunland-d527-900x1950-matte-black-6mm",
+  "supplier_sku": "D527",
+  "variant_sku": "SUNLAND-D527-900X1950-MATTE-BLACK-6MM",
+  "source_url": "https://cnsunland.com/goods/2931375.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland D527 \u2014 900 mm width \u00d7 1950 mm height \u00b7 Matte Black \u00b7 6 mm glass",
+  "description": "Sunland D527. Selected configuration: 900 mm width \u00d7 1950 mm height. Finish: Matte Black. 6 mm glass. Full exported product bounding box. Published opening/mounting dimensions and glass thickness are exact. Hardware and panel splits are photo-based approximations. Optional shower tray, room walls and shower fittings excluded. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 900,
+    "height": 1950,
+    "depth": null
+  },
+  "model_envelope_mm": {
+    "width": 899.9999761581421,
+    "depth": 62.50000186264515,
+    "height": 1950.0000476837158
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "900 mm width \u00d7 1950 mm height \u00b7 Matte Black \u00b7 6 mm glass",
+  "finish": "Matte Black",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d527-900x1950-matte-black-6mm/model.glb",
+  "blend_url": "/sunland-library/d527-900x1950-matte-black-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d527-900x1950-matte-black-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d527-900x1950-matte-black-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Published opening/mounting dimensions and glass thickness are exact. Hardware and panel splits are photo-based approximations. Optional shower tray, room walls and shower fittings excluded.",
+  "dimension_scope": "Full exported product bounding box",
+  "source_review": "Manufacturer photograph, metric specification and plan individually inspected; named revision kept separate.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1275",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

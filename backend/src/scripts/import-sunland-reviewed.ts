@@ -19,12 +19,12 @@ export default async function importSunland({ container }: ExecArgs) {
   if (!channel) throw Error("Default Sales Channel missing")
   const seen = new Set<string>()
   const configurations = new Set<string>()
-  const configuration = (sku: unknown, width: unknown, depth: unknown, height: unknown, glass: unknown, finish: unknown) => JSON.stringify([sku,width,depth ?? null,height,glass ?? null,finish])
+  const configuration = (sku: unknown, width: unknown, depth: unknown, height: unknown, glass: unknown, finish: unknown, variant: unknown) => JSON.stringify([sku,width,depth ?? null,height,glass ?? null,finish,variant ?? null])
   const pending: typeof inventory.products = []
   for (const p of inventory.products) {
     if (p.review_status !== "dimensions_and_render_reviewed" || seen.has(p.id) || seen.has(p.variant_sku) || !p.supplier_sku || ![p.dimensions_mm.width,p.dimensions_mm.height].every(v => Number.isFinite(v) && v > 0)) throw Error(`Invalid reviewed product ${p.id}`)
     seen.add(p.id);seen.add(p.variant_sku)
-    const fingerprint=configuration(p.supplier_sku,p.dimensions_mm.width,p.dimensions_mm.depth,p.dimensions_mm.height,p.glass_mm,p.finish)
+    const fingerprint=configuration(p.supplier_sku,p.dimensions_mm.width,p.dimensions_mm.depth,p.dimensions_mm.height,p.glass_mm,p.finish,p.configuration_variant)
     if(configurations.has(fingerprint)) throw Error(`Duplicate configuration in manifest: ${p.id}`)
     configurations.add(fingerprint)
     for (const [name, evidence] of Object.entries(p.files)) {
@@ -45,7 +45,7 @@ export default async function importSunland({ container }: ExecArgs) {
     const similar=await service.listProducts({q:p.supplier_sku}, {take:1000})
     if(similar.some(x=> {
       const m=x.metadata
-      return m?.brand==='Sunland' && x.handle!==p.id && configuration(m.supplier_sku,m.width_mm,m.depth_mm,m.height_mm,m.glass_thickness_mm,m.finish)===fingerprint
+      return m?.brand==='Sunland' && x.handle!==p.id && configuration(m.supplier_sku,m.width_mm,m.depth_mm,m.height_mm,m.glass_thickness_mm,m.finish,m.configuration_variant)===fingerprint
     })) throw Error(`Configuration already listed under another handle: ${p.id}`)
     pending.push(p)
   }
@@ -69,7 +69,7 @@ export default async function importSunland({ container }: ExecArgs) {
       title:p.title,handle:p.id,status:ProductStatus.PUBLISHED,description:p.description,
       category_ids:[categoryId],sales_channels:[{id:channel.id}],thumbnail:origin+p.image_url,images:[{url:origin+p.image_url},{url:origin+p.drawing_url}],
       options:[{title:"Configuration",values:[p.variant_title]}],variants:[{title:p.variant_title,sku:p.variant_sku,options:{Configuration:p.variant_title},manage_inventory:false,prices:[]}],
-      metadata:{brand:"Sunland",supplier_sku:p.supplier_sku,source_url:p.source_url,source_checked:p.source_checked,model_url:origin+p.model_url,blender_model_url:origin+p.blend_url,design_catalog_url:origin+"/sunland-library/design-catalog.json",model_family:"bathroom",model_sha256:p.files["model.glb"].sha256,model_limitations:p.model_limitations,model_version:1,model_units:"metres",model_up_axis:"Y",model_envelope_mm:p.model_envelope_mm,review_status:p.review_status,dimension_basis:"manufacturer_published",dimension_scope:p.dimension_scope,specification_url:origin+p.drawing_url,width_mm:d.width,height_mm:d.height,depth_mm:d.depth,glass_thickness_mm:p.glass_mm,pricing_mode:"quote_only",finish:p.finish}
+      metadata:{brand:"Sunland",supplier_sku:p.supplier_sku,source_url:p.source_url,source_checked:p.source_checked,model_url:origin+p.model_url,blender_model_url:origin+p.blend_url,design_catalog_url:origin+"/sunland-library/design-catalog.json",model_family:"bathroom",model_sha256:p.files["model.glb"].sha256,model_limitations:p.model_limitations,model_version:1,model_units:"metres",model_up_axis:"Y",model_envelope_mm:p.model_envelope_mm,review_status:p.review_status,dimension_basis:"manufacturer_published",dimension_scope:p.dimension_scope,specification_url:origin+p.drawing_url,width_mm:d.width,height_mm:d.height,depth_mm:d.depth,glass_thickness_mm:p.glass_mm,pricing_mode:"quote_only",finish:p.finish,configuration_variant:p.configuration_variant}
     }] } })
     const [x]=await service.listProducts({handle:p.id},{relations:["categories","variants"]})
     if(x?.status!==ProductStatus.PUBLISHED || x.metadata?.model_sha256!==p.files['model.glb'].sha256 || !x.categories?.some(c=>c.id===categoryId) || !x.variants?.some(v=>v.sku===p.variant_sku) || !await inChannel(x.id,channel.id)) throw Error(`Post-import verification failed ${p.id}`)

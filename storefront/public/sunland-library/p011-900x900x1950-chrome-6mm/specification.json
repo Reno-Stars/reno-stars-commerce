@@ -1,0 +1,35 @@
+{
+  "id": "sunland-p011-900x900x1950-chrome-6mm",
+  "supplier_sku": "P011",
+  "variant_sku": "SUNLAND-P011-900X900X1950-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931231.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland P011 \u2014 900 mm width \u00d7 900 mm depth \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "description": "Sunland P011. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1950 mm height. Finish: Chrome. 6 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Published opening/mounting dimensions and glass thickness are exact. Hardware and panel splits are photo-based approximations. Optional shower tray, room walls and shower fittings excluded. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 900,
+    "height": 1950,
+    "depth": 900
+  },
+  "model_envelope_mm": {
+    "width": 899.9999761581421,
+    "depth": 942.9999813437462,
+    "height": 1950.0000476837158
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "900 mm width \u00d7 900 mm depth \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/p011-900x900x1950-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/p011-900x900x1950-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/p011-900x900x1950-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/p011-900x900x1950-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Published opening/mounting dimensions and glass thickness are exact. Hardware and panel splits are photo-based approximations. Optional shower tray, room walls and shower fittings excluded.",
+  "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+  "source_review": "Manufacturer photograph, metric specification and plan individually inspected; named revision kept separate.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1300",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

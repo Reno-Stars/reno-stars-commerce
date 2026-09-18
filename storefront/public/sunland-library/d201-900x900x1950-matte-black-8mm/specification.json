@@ -1,0 +1,35 @@
+{
+  "id": "sunland-d201-900x900x1950-matte-black-8mm",
+  "supplier_sku": "D201",
+  "variant_sku": "SUNLAND-D201-900X900X1950-MATTE-BLACK-8MM",
+  "source_url": "https://cnsunland.com/goods/2931233.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland D201 \u2014 900 mm width \u00d7 900 mm depth \u00d7 1950 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+  "description": "Sunland D201. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1950 mm height. Finish: Matte Black. 8 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Published opening/mounting dimensions and glass thickness are exact. Hardware and panel splits are photo-based approximations. Optional shower tray, room walls and shower fittings excluded. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 900,
+    "height": 1950,
+    "depth": 900
+  },
+  "model_envelope_mm": {
+    "width": 899.9999761581421,
+    "depth": 910.9999760985374,
+    "height": 1950.0000476837158
+  },
+  "category": "Shower Screens",
+  "category_key": "shower-screens",
+  "variant_title": "900 mm width \u00d7 900 mm depth \u00d7 1950 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+  "finish": "Matte Black",
+  "glass_mm": 8,
+  "model_url": "/sunland-library/d201-900x900x1950-matte-black-8mm/model.glb",
+  "blend_url": "/sunland-library/d201-900x900x1950-matte-black-8mm/model.blend.gz",
+  "image_url": "/sunland-library/d201-900x900x1950-matte-black-8mm/preview.jpg",
+  "drawing_url": "/sunland-library/d201-900x900x1950-matte-black-8mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Published opening/mounting dimensions and glass thickness are exact. Hardware and panel splits are photo-based approximations. Optional shower tray, room walls and shower fittings excluded.",
+  "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+  "source_review": "Manufacturer photograph, metric specification and plan individually inspected; named revision kept separate.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1307",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sunland-yg850-1700x800x750-white-chrome",
+  "supplier_sku": "YG850",
+  "variant_sku": "SUNLAND-YG850-1700X800X750-WHITE-CHROME",
+  "source_url": "https://cnsunland.com/goods/2931477.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland YG850 \u2014 1700 mm width \u00d7 800 mm depth \u00d7 750 mm height \u00b7 White enamel / chrome feet",
+  "description": "Sunland YG850. Selected configuration: 1700 mm width \u00d7 800 mm depth \u00d7 750 mm height. Finish: White enamel / chrome feet. . Full exported product bounding box. Documented overall dimensions include the feet. Cast feet, rolled lip, low rim profile and shell curvature are photo-based approximations. Faucet excluded. Legacy height/finish revision is separate from modern technical sheet. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1700,
+    "depth": 800,
+    "height": 750
+  },
+  "model_envelope_mm": {
+    "width": 1700.0000476837158,
+    "depth": 800.000011920929,
+    "height": 750.0
+  },
+  "category": "Bathtubs",
+  "category_key": "bathtubs",
+  "variant_title": "1700 mm width \u00d7 800 mm depth \u00d7 750 mm height \u00b7 White enamel / chrome feet",
+  "finish": "White enamel / chrome feet",
+  "glass_mm": null,
+  "model_url": "/sunland-library/yg850-1700x800x750-white-chrome/model.glb",
+  "blend_url": "/sunland-library/yg850-1700x800x750-white-chrome/model.blend.gz",
+  "image_url": "/sunland-library/yg850-1700x800x750-white-chrome/preview.jpg",
+  "drawing_url": "/sunland-library/yg850-1700x800x750-white-chrome/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Documented overall dimensions include the feet. Cast feet, rolled lip, low rim profile and shell curvature are photo-based approximations. Faucet excluded. Legacy height/finish revision is separate from modern technical sheet.",
+  "dimension_scope": "Full exported product bounding box",
+  "source_review": "Legacy manufacturer photograph and 1700 \u00d7 800 \u00d7 750 mm size statement individually inspected; finishes follow this photographed revision.",
+  "source_revision": "750 mm tall legacy manufacturer poster; separate from documented 800 mm modern revision.",
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=730",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

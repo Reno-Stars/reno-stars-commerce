@@ -1,0 +1,35 @@
+{
+  "id": "sunland-yg180y-1600x1600x640-white",
+  "supplier_sku": "YG180Y",
+  "variant_sku": "SUNLAND-YG180Y-1600X1600X640-WHITE",
+  "source_url": "https://cnsunland.com/goods/2931523.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland YG180Y \u2014 1600 mm width \u00d7 1600 mm depth \u00d7 640 mm height \u00b7 White acrylic",
+  "description": "Sunland YG180Y. Selected configuration: 1600 mm width \u00d7 1600 mm depth \u00d7 640 mm height. Finish: White acrylic. . Manufacturer bath body dimensions; deck fixtures and headrests reported separately in full bounds. Manufacturer outer bath body dimensions are modeled. Deck taps, headrests and other accessories can extend above the documented body height; full export bounds are reported separately. Internal basin, seating, glass-window profile, nozzle positions, tap hardware and trim are visually reconstructed from photographs, not fabrication or plumbing drawings. Pump, hidden piping, wiring and unseen mechanisms are not modeled. Water and surrounding room are excluded. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1600,
+    "depth": 1600,
+    "height": 640
+  },
+  "model_envelope_mm": {
+    "width": 1599.9999642372131,
+    "depth": 1600.000023841858,
+    "height": 858.9831590652466
+  },
+  "category": "Bathtubs",
+  "category_key": "bathtubs",
+  "variant_title": "1600 mm width \u00d7 1600 mm depth \u00d7 640 mm height \u00b7 White acrylic",
+  "finish": "White acrylic",
+  "glass_mm": null,
+  "model_url": "/sunland-library/yg180y-1600x1600x640-white/model.glb",
+  "blend_url": "/sunland-library/yg180y-1600x1600x640-white/model.blend.gz",
+  "image_url": "/sunland-library/yg180y-1600x1600x640-white/preview.jpg",
+  "drawing_url": "/sunland-library/yg180y-1600x1600x640-white/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Manufacturer outer bath body dimensions are modeled. Deck taps, headrests and other accessories can extend above the documented body height; full export bounds are reported separately. Internal basin, seating, glass-window profile, nozzle positions, tap hardware and trim are visually reconstructed from photographs, not fabrication or plumbing drawings. Pump, hidden piping, wiring and unseen mechanisms are not modeled. Water and surrounding room are excluded.",
+  "dimension_scope": "Manufacturer bath body dimensions; deck fixtures and headrests reported separately in full bounds",
+  "source_review": "Current manufacturer product poster and matching reference photograph and dimensions individually reviewed.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=628",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

@@ -7467,6 +7467,1545 @@
       "units": "metres",
       "up_axis": "Y",
       "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg852a-1700x800x780-white",
+      "supplier_sku": "YG852A",
+      "variant_sku": "SUNLAND-YG852A-1700X800X780-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931419.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG852A \u2014 1700 mm width \u00d7 800 mm depth \u00d7 780 mm height \u00b7 White acrylic",
+      "description": "Sunland YG852A. Selected configuration: 1700 mm width \u00d7 800 mm depth \u00d7 780 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1700,
+        "depth": 800,
+        "height": 780
+      },
+      "model_envelope_mm": {
+        "width": 1700.0000476837158,
+        "depth": 800.000011920929,
+        "height": 779.9999713897705
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1700 mm width \u00d7 800 mm depth \u00d7 780 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg852a-1700x800x780-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg852a-1700x800x780-white/model.blend.gz",
+      "image_url": "/sunland-library/yg852a-1700x800x780-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg852a-1700x800x780-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 295724,
+          "sha256": "43eca02b0d644eabe1e2ab9637fcf1d31f17a1521532d3f3e772ba067cd93f83"
+        },
+        "model.blend.gz": {
+          "bytes": 265916,
+          "sha256": "6691c1fb24590f9c833343c669a631f2a670a11d9a3395755a289835bf5faa3d"
+        },
+        "preview.jpg": {
+          "bytes": 35889,
+          "sha256": "0bb3cdcdaf00e985e3c15de3802bcea7c015e57de7c27a22890c6cf5a3dc2bf6"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1155951,
+          "sha256": "4db521a7206a79f86bc1e8473d3e5ad2160e6089e881302c5f84774063b0eeab"
+        },
+        "specification.json": {
+          "bytes": 3033,
+          "sha256": "1397b313b1dd78348562f51e9ef631d1d41d24c53303e421361d82f118144d91"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg852a-1700x800x780-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg864-1800x800x680-white",
+      "supplier_sku": "YG864",
+      "variant_sku": "SUNLAND-YG864-1800X800X680-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931331.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG864 \u2014 1800 mm width \u00d7 800 mm depth \u00d7 680 mm height \u00b7 White acrylic",
+      "description": "Sunland YG864. Selected configuration: 1800 mm width \u00d7 800 mm depth \u00d7 680 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1800,
+        "depth": 800,
+        "height": 680
+      },
+      "model_envelope_mm": {
+        "width": 1799.9999523162842,
+        "depth": 800.000011920929,
+        "height": 680.0000071525574
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1800 mm width \u00d7 800 mm depth \u00d7 680 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg864-1800x800x680-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg864-1800x800x680-white/model.blend.gz",
+      "image_url": "/sunland-library/yg864-1800x800x680-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg864-1800x800x680-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277288,
+          "sha256": "956dc7fb16f8a7896e3450a2e3cb2c0c84b5b97d29694cbc7e1bb63c8e9e946c"
+        },
+        "model.blend.gz": {
+          "bytes": 249105,
+          "sha256": "fe07f3dc515dd52efd13b8512fe740b6eb041ad510d806d12967596172752418"
+        },
+        "preview.jpg": {
+          "bytes": 34973,
+          "sha256": "7d56c3235d29f158511bb527ffa4f520ad9ee68d646d20a3b0c58a54a3203f55"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1044689,
+          "sha256": "b8ee9161659aff72fcdbb155250274235baffba81f4ac1b4d8248a15b63b1346"
+        },
+        "specification.json": {
+          "bytes": 3004,
+          "sha256": "3f1a2dc7877890e75330f3cdfb96a397d18dbd1e144e36ea77bd5022bf24b881"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg864-1800x800x680-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg865-1800x850x780-white",
+      "supplier_sku": "YG865",
+      "variant_sku": "SUNLAND-YG865-1800X850X780-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931353.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG865 \u2014 1800 mm width \u00d7 850 mm depth \u00d7 780 mm height \u00b7 White acrylic",
+      "description": "Sunland YG865. Selected configuration: 1800 mm width \u00d7 850 mm depth \u00d7 780 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1800,
+        "depth": 850,
+        "height": 780
+      },
+      "model_envelope_mm": {
+        "width": 1799.9999523162842,
+        "depth": 850.0000238418579,
+        "height": 779.9999713897705
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1800 mm width \u00d7 850 mm depth \u00d7 780 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg865-1800x850x780-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg865-1800x850x780-white/model.blend.gz",
+      "image_url": "/sunland-library/yg865-1800x850x780-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg865-1800x850x780-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 295740,
+          "sha256": "d2266661d4a89cc064a103979946cf78b617d985a47c2650163419d38c1062cf"
+        },
+        "model.blend.gz": {
+          "bytes": 268957,
+          "sha256": "2ca204cf36cd96c08cef2e249457b7635514d387399ad09bb02cbdd9674ce6fd"
+        },
+        "preview.jpg": {
+          "bytes": 35300,
+          "sha256": "1dfd15d10fe3626721f375f14ec7094e1016e54bbd92760f802bcc8ff2094a61"
+        },
+        "manufacturer.jpg": {
+          "bytes": 362067,
+          "sha256": "e477f4a45a9a051796800870fee12ad3c279baa9a5c6f7ae891680bd095a8263"
+        },
+        "specification.json": {
+          "bytes": 3005,
+          "sha256": "7875879fd9e6d1661063979a4e3b45719d6c9424ce94a253341aa1191803348f"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg865-1800x850x780-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg866-1700x800x560-white",
+      "supplier_sku": "YG866",
+      "variant_sku": "SUNLAND-YG866-1700X800X560-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931343.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG866 \u2014 1700 mm width \u00d7 800 mm depth \u00d7 560 mm height \u00b7 White acrylic",
+      "description": "Sunland YG866. Selected configuration: 1700 mm width \u00d7 800 mm depth \u00d7 560 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1700,
+        "depth": 800,
+        "height": 560
+      },
+      "model_envelope_mm": {
+        "width": 1700.0000476837158,
+        "depth": 800.000011920929,
+        "height": 560.0000023841858
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1700 mm width \u00d7 800 mm depth \u00d7 560 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg866-1700x800x560-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg866-1700x800x560-white/model.blend.gz",
+      "image_url": "/sunland-library/yg866-1700x800x560-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg866-1700x800x560-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277288,
+          "sha256": "e5580fbada9eb14b92af987688ca7ee1f68bbf66314e1f504e4d347826afb2aa"
+        },
+        "model.blend.gz": {
+          "bytes": 254291,
+          "sha256": "9f1c2f2105124ba7e48866619071ed12ac617c3da5fad8498c0257d642d4631e"
+        },
+        "preview.jpg": {
+          "bytes": 33357,
+          "sha256": "54f6a9ed874950d7a72105443387f7ba3c2bb16c7c88628e2ac27f52cacbcadc"
+        },
+        "manufacturer.jpg": {
+          "bytes": 600570,
+          "sha256": "393c5f126eae8db2495ee52f0c524b1f0cdc17b82be52380c588f320dbc75785"
+        },
+        "specification.json": {
+          "bytes": 3011,
+          "sha256": "12aaadedd9c2e43e65e1539e87c2710af19365c8fad916097dbb1e6178e289e5"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg866-1700x800x560-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg867-1750x850x690-white",
+      "supplier_sku": "YG867",
+      "variant_sku": "SUNLAND-YG867-1750X850X690-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931339.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG867 \u2014 1750 mm width \u00d7 850 mm depth \u00d7 690 mm height \u00b7 White acrylic",
+      "description": "Sunland YG867. Selected configuration: 1750 mm width \u00d7 850 mm depth \u00d7 690 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1750,
+        "depth": 850,
+        "height": 690
+      },
+      "model_envelope_mm": {
+        "width": 1750.0,
+        "depth": 850.0000238418579,
+        "height": 689.9999976158142
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1750 mm width \u00d7 850 mm depth \u00d7 690 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg867-1750x850x690-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg867-1750x850x690-white/model.blend.gz",
+      "image_url": "/sunland-library/yg867-1750x850x690-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg867-1750x850x690-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 295672,
+          "sha256": "2c07cc21c023344474587d5d2ce1aa3c897d46d02d86cf9601c1b13f9464251d"
+        },
+        "model.blend.gz": {
+          "bytes": 265357,
+          "sha256": "64be2bae22cd759339692aec9ec2e779c3e41397b4c5cbc211b06d25a8f34859"
+        },
+        "preview.jpg": {
+          "bytes": 35104,
+          "sha256": "a22fa60f8f9e877d38be9113861194a707a160f9d4a5f0d616e34e8d55ce28e6"
+        },
+        "manufacturer.jpg": {
+          "bytes": 449251,
+          "sha256": "66ab8661e2c96e03c4e77c60fe9868021469f2d1140e868b8386e7996b824ceb"
+        },
+        "specification.json": {
+          "bytes": 2974,
+          "sha256": "bf06541bdd35f6e6d56ac8c9904e5b10306829f2f2cd39a75798a14b319977ae"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg867-1750x850x690-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg875-1700x800x780-white",
+      "supplier_sku": "YG875",
+      "variant_sku": "SUNLAND-YG875-1700X800X780-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931277.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG875 \u2014 1700 mm width \u00d7 800 mm depth \u00d7 780 mm height \u00b7 White acrylic",
+      "description": "Sunland YG875. Selected configuration: 1700 mm width \u00d7 800 mm depth \u00d7 780 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1700,
+        "depth": 800,
+        "height": 780
+      },
+      "model_envelope_mm": {
+        "width": 1700.0000476837158,
+        "depth": 800.000011920929,
+        "height": 779.9999713897705
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1700 mm width \u00d7 800 mm depth \u00d7 780 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg875-1700x800x780-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg875-1700x800x780-white/model.blend.gz",
+      "image_url": "/sunland-library/yg875-1700x800x780-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg875-1700x800x780-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277288,
+          "sha256": "2d52c25cf581a5d3b3bd5604bc16ebcb81719c29daa9d8f96843808f562b0748"
+        },
+        "model.blend.gz": {
+          "bytes": 258322,
+          "sha256": "de6d0a137873bf15d1a2f24e8884e6e1d0a8ec7e5b5b6197b8babf77d3536fed"
+        },
+        "preview.jpg": {
+          "bytes": 34674,
+          "sha256": "fc0e0245ebdc3a290c4aa21659820051808faadc850369db95d2a8df105322f7"
+        },
+        "manufacturer.jpg": {
+          "bytes": 448859,
+          "sha256": "699688101bdb791832791b0625e99a2388b38069d0553becf85c522c10f95483"
+        },
+        "specification.json": {
+          "bytes": 2998,
+          "sha256": "e431dc40084b0c3608b8b225dd78ceb774b62dabf43df75d231ec0b217a8d2e5"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg875-1700x800x780-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d239-1200x800-matte-black-8mm",
+      "supplier_sku": "D239",
+      "variant_sku": "SUNLAND-D239-1200X800-MATTE-BLACK-8MM",
+      "source_url": "https://cnsunland.com/goods/2931215.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D239 \u2014 1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+      "description": "Sunland D239. Selected configuration: 1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Matte Black. 8 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1950,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 859.0000122785568,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+      "finish": "Matte Black",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d239-1200x800-matte-black-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d239-1200x800-matte-black-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d239-1200x800-matte-black-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d239-1200x800-matte-black-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension.",
+      "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+      "files": {
+        "model.glb": {
+          "bytes": 26712,
+          "sha256": "0d0662a14af39e1d7bec3a5a53d14a30f89960615139ad40583235f913171bcb"
+        },
+        "model.blend.gz": {
+          "bytes": 104846,
+          "sha256": "d81c9f6b420f035fb8956e85bcee55d8d23b2c90bad9f3eb327174e6cfa8f85a"
+        },
+        "preview.jpg": {
+          "bytes": 57581,
+          "sha256": "0fecf9b1b599b8b82bca22ce8430feb39c5f0ef6195eb2196e5942a41d17ac63"
+        },
+        "manufacturer.jpg": {
+          "bytes": 909155,
+          "sha256": "0528add9ebb2ecc1c0e923827fe2464a20dd59231bd003b471e13345dd46a3b0"
+        },
+        "specification.json": {
+          "bytes": 2806,
+          "sha256": "0b0f6fcbe6472827b147f6239c9e329c84d95a4e1a12c72dc69941bec5b3b999"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d239-1200x800-matte-black-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d320-800x800-brushed-gold-8mm",
+      "supplier_sku": "D320",
+      "variant_sku": "SUNLAND-D320-800X800-BRUSHED-GOLD-8MM",
+      "source_url": "https://cnsunland.com/goods/2931211.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D320 \u2014 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Brushed Gold \u00b7 8 mm glass",
+      "description": "Sunland D320. Selected configuration: 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Brushed Gold. 8 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1950,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 800.000011920929,
+        "depth": 849.0000106394291,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "800 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Brushed Gold \u00b7 8 mm glass",
+      "finish": "Brushed Gold",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d320-800x800-brushed-gold-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d320-800x800-brushed-gold-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d320-800x800-brushed-gold-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d320-800x800-brushed-gold-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension.",
+      "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+      "files": {
+        "model.glb": {
+          "bytes": 16384,
+          "sha256": "b9e96cf96f8a85ebd4454c9bd9a673d8c1e164d6d14dee9df6bb71c5d55690d3"
+        },
+        "model.blend.gz": {
+          "bytes": 102637,
+          "sha256": "040789603da86e737510bcc28d34cc7796a967b2b66f0605016568dc8f1dba51"
+        },
+        "preview.jpg": {
+          "bytes": 45776,
+          "sha256": "db3206a754977877f2eba5f06806b3c55c794c3450ecc67767e41063496d4457"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1082586,
+          "sha256": "59419e02c1d51b8e3ac486495067106b56025f6b6eb912637624682002f5c6d3"
+        },
+        "specification.json": {
+          "bytes": 2804,
+          "sha256": "b4ee3a4f489eb41c594090fd3af2b317f7ed117d1b7252ed01b37c9ca232fcc0"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d320-800x800-brushed-gold-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d322-800x800-matte-black-8mm",
+      "supplier_sku": "D322",
+      "variant_sku": "SUNLAND-D322-800X800-MATTE-BLACK-8MM",
+      "source_url": "https://cnsunland.com/goods/2931217.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D322 \u2014 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+      "description": "Sunland D322. Selected configuration: 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Matte Black. 8 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1950,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 800.000011920929,
+        "depth": 811.0000118613243,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "800 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+      "finish": "Matte Black",
+      "glass_mm": 8,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d322-800x800-matte-black-8mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d322-800x800-matte-black-8mm/model.blend.gz",
+      "image_url": "/sunland-library/d322-800x800-matte-black-8mm/preview.jpg",
+      "drawing_url": "/sunland-library/d322-800x800-matte-black-8mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension.",
+      "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+      "files": {
+        "model.glb": {
+          "bytes": 19896,
+          "sha256": "e1aed892ff94b88093aa149c7ecb736e2b41e02190c06f0b579f5b99122ef774"
+        },
+        "model.blend.gz": {
+          "bytes": 103363,
+          "sha256": "fbdc4aeb32ec8aefc3690cb902c97fc2fa0658a79d2474c065155e6b938e9d41"
+        },
+        "preview.jpg": {
+          "bytes": 45453,
+          "sha256": "29f0f486fad15771e1676cea3d375ef0f8b8a2efd5d9d7b388de1ff14e9cb67d"
+        },
+        "manufacturer.jpg": {
+          "bytes": 912604,
+          "sha256": "a618ec5f2647e9f32783f695ee1a44323811174fc0af0e9439dde5453916c15a"
+        },
+        "specification.json": {
+          "bytes": 2794,
+          "sha256": "fbed18f539129d73dcc4494407fbeef96579eba4ff8d0f6ec7a5ec0aad2b558a"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d322-800x800-matte-black-8mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d512-800-1950-chrome-6mm",
+      "supplier_sku": "D512",
+      "variant_sku": "SUNLAND-D512-800-1950-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931213.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D512 \u2014 800 mm width \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D512. Selected configuration: 800 mm width \u00d7 1950 mm height. Finish: Chrome. 6 mm glass. Full exported product bounding box. Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1950,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 800.000011920929,
+        "depth": 64.99999947845936,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "800 mm width \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d512-800-1950-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d512-800-1950-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d512-800-1950-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d512-800-1950-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 18044,
+          "sha256": "47130ccbec944bf7c8984e31984831f4ff3b6a91fb30c8c80725b3c1a2ec58ab"
+        },
+        "model.blend.gz": {
+          "bytes": 102878,
+          "sha256": "65533a5a0afb16943eb97c5dbb7dd05c84887d9d979311f531b7d90f2d928aac"
+        },
+        "preview.jpg": {
+          "bytes": 46944,
+          "sha256": "10c9e11cfc7e333e2223c7774d264efadd5f9df1097832cd0505db90af2ec18b"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1334272,
+          "sha256": "fff41f3a3d6e8a56438072ccb53e225e8011e98c9b8303867936705dbfd1adb4"
+        },
+        "specification.json": {
+          "bytes": 2491,
+          "sha256": "16814ba30b0e5633ab46e180bc23ffd6664006c5ca3a9ac6c879f5f21a6924ac"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d512-800-1950-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d514-800-1950-chrome-6mm",
+      "supplier_sku": "D514",
+      "variant_sku": "SUNLAND-D514-800-1950-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931205.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D514 \u2014 800 mm width \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D514. Selected configuration: 800 mm width \u00d7 1950 mm height. Finish: Chrome. 6 mm glass. Full exported product bounding box. Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1950,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 800.000011920929,
+        "depth": 58.000000193715096,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "800 mm width \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d514-800-1950-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d514-800-1950-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d514-800-1950-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d514-800-1950-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 22624,
+          "sha256": "2f05026380c0f71a88a261f421d826889fa7264efff106795559364b312e04e1"
+        },
+        "model.blend.gz": {
+          "bytes": 103892,
+          "sha256": "6f27b88b6017405537158a3099c919b697e47cbdf8385f67136a47ca39975912"
+        },
+        "preview.jpg": {
+          "bytes": 47824,
+          "sha256": "83c687203cdfb7628da18c7d8ace5a029b64796a53aed072efda9aba0f27b486"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1331991,
+          "sha256": "3532265b277f595a83378fd3526ac1088b466e99dbc7d413142589f194f5d457"
+        },
+        "specification.json": {
+          "bytes": 2492,
+          "sha256": "8292140feff7d6f4c16fa7c9f05fa5cf7108e18375ed6cd7ea58ebdff4293fbd"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d514-800-1950-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d515-800x800-chrome-6mm",
+      "supplier_sku": "D515",
+      "variant_sku": "SUNLAND-D515-800X800-CHROME-6MM",
+      "source_url": "https://cnsunland.com/goods/2931209.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D515 \u2014 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "description": "Sunland D515. Selected configuration: 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Chrome. 6 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 800,
+        "height": 1950,
+        "depth": 800
+      },
+      "model_envelope_mm": {
+        "width": 800.000011920929,
+        "depth": 842.0000113546848,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "800 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+      "finish": "Chrome",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d515-800x800-chrome-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d515-800x800-chrome-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d515-800x800-chrome-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d515-800x800-chrome-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension.",
+      "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+      "files": {
+        "model.glb": {
+          "bytes": 29676,
+          "sha256": "08c63d42dc7b3fe0740e99fb57665e71f2575a9a76ab6fa757a28b119b4c132c"
+        },
+        "model.blend.gz": {
+          "bytes": 103992,
+          "sha256": "53ff6b52fab1f300f5d76680c96b7ba9b7899da0033ba7191b7ea609a191a7b3"
+        },
+        "preview.jpg": {
+          "bytes": 49101,
+          "sha256": "b5abe19189a7ed7b5bfe3504ac9ea90888aa2be47c869a367f5b6678a94c29df"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1327008,
+          "sha256": "68254550b112a05198201751dddb60cf7678cf2be7c2d68411818099b780da8e"
+        },
+        "specification.json": {
+          "bytes": 2744,
+          "sha256": "04c290adab29e9832c977a783044bdecb073acb47fb5e823b43ae8f818f61c87"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d515-800x800-chrome-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d522-900-1950-matte-black-6mm",
+      "supplier_sku": "D522",
+      "variant_sku": "SUNLAND-D522-900-1950-MATTE-BLACK-6MM",
+      "source_url": "https://cnsunland.com/goods/2931221.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D522 \u2014 900 mm width \u00d7 1950 mm height \u00b7 Matte Black \u00b7 6 mm glass",
+      "description": "Sunland D522. Selected configuration: 900 mm width \u00d7 1950 mm height. Finish: Matte Black. 6 mm glass. Full exported product bounding box. Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 900,
+        "height": 1950,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 899.9999761581421,
+        "depth": 708.99997651577,
+        "height": 1950.0000476837158
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "900 mm width \u00d7 1950 mm height \u00b7 Matte Black \u00b7 6 mm glass",
+      "finish": "Matte Black",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d522-900-1950-matte-black-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d522-900-1950-matte-black-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d522-900-1950-matte-black-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d522-900-1950-matte-black-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 26228,
+          "sha256": "e0f9bc75467087f8590066b2fd152f90824eef7a82cc7f2d93baf206981b0010"
+        },
+        "model.blend.gz": {
+          "bytes": 104754,
+          "sha256": "9b1d5ca9d16843e3781a82ebedf410956d39c0639dc60dbd67e9913430b6cfdd"
+        },
+        "preview.jpg": {
+          "bytes": 48891,
+          "sha256": "803abc27c302891569d41829a5dfc43407fa520920aa4bae151541b5feb05421"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1215980,
+          "sha256": "728b88101a8acd25da8d5397f7c848c9d5f65a6daf1fd6c408b88a437b85c567"
+        },
+        "specification.json": {
+          "bytes": 2540,
+          "sha256": "cdfc6038dfff4b7de4f1428433a2497de0472b2b78583b0ffab28cca91984ba2"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d522-900-1950-matte-black-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-d524-1200-1500-matte-black-6mm",
+      "supplier_sku": "D524",
+      "variant_sku": "SUNLAND-D524-1200-1500-MATTE-BLACK-6MM",
+      "source_url": "https://cnsunland.com/goods/2931457.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland D524 \u2014 1200 mm width \u00d7 1500 mm height \u00b7 Matte Black \u00b7 6 mm glass",
+      "description": "Sunland D524. Selected configuration: 1200 mm width \u00d7 1500 mm height. Finish: Matte Black. 6 mm glass. Full exported product bounding box. Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1200,
+        "height": 1500,
+        "depth": null
+      },
+      "model_envelope_mm": {
+        "width": 1200.0000476837158,
+        "depth": 72.50000070780516,
+        "height": 1500.0
+      },
+      "category": "Shower Doors & Enclosures",
+      "category_key": "shower-doors-enclosures",
+      "variant_title": "1200 mm width \u00d7 1500 mm height \u00b7 Matte Black \u00b7 6 mm glass",
+      "finish": "Matte Black",
+      "glass_mm": 6,
+      "model_url": "https://supply.reno-stars.com/sunland-library/d524-1200-1500-matte-black-6mm/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/d524-1200-1500-matte-black-6mm/model.blend.gz",
+      "image_url": "/sunland-library/d524-1200-1500-matte-black-6mm/preview.jpg",
+      "drawing_url": "/sunland-library/d524-1200-1500-matte-black-6mm/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 43220,
+          "sha256": "51abef208ffbb318a645de1fc461e20420b193a87ccb09a15baf6bf3238e6df0"
+        },
+        "model.blend.gz": {
+          "bytes": 107874,
+          "sha256": "752d4e68567a1b0c8e508bba2b38f6868bab2327b994ffffb1c4e93abc6af143"
+        },
+        "preview.jpg": {
+          "bytes": 60253,
+          "sha256": "d936fd1a881b054d0eeedcac164eb43f11c2694212a23a95603e72768b09a8f9"
+        },
+        "manufacturer.jpg": {
+          "bytes": 843280,
+          "sha256": "0b4d80f05f2a16b81904746cb41e3f28c68e58017a1375d6b493ea35fbbf934f"
+        },
+        "specification.json": {
+          "bytes": 2541,
+          "sha256": "9e2eb84e753ec7962af41a1b3cedc5568b9d838d6288f9503017f71991942f35"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-d524-1200-1500-matte-black-6mm",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg850-1700x800x800-burgundy-gold",
+      "supplier_sku": "YG850",
+      "variant_sku": "SUNLAND-YG850-1700X800X800-BURGUNDY-GOLD",
+      "source_url": "https://cnsunland.com/goods/2931461.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG850 \u2014 1700 mm width \u00d7 800 mm depth \u00d7 800 mm height \u00b7 Burgundy exterior / white interior / antique gold feet",
+      "description": "Sunland YG850. Selected configuration: 1700 mm width \u00d7 800 mm depth \u00d7 800 mm height. Finish: Burgundy exterior / white interior / antique gold feet. . Full exported product bounding box. Documented overall dimensions include the feet. Ornate cast feet, rolled lip and shell curvature are visual reconstructions; exact casting relief and mounting profiles are not manufacturer CAD. Faucet and supply plumbing excluded. Earlier 750 mm-high revision is not mixed with this 800 mm-high model. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1700,
+        "depth": 800,
+        "height": 800
+      },
+      "model_envelope_mm": {
+        "width": 1700.0000476837158,
+        "depth": 800.000011920929,
+        "height": 800.000011920929
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1700 mm width \u00d7 800 mm depth \u00d7 800 mm height \u00b7 Burgundy exterior / white interior / antique gold feet",
+      "finish": "Burgundy exterior / white interior / antique gold feet",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg850-1700x800x800-burgundy-gold/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg850-1700x800x800-burgundy-gold/model.blend.gz",
+      "image_url": "/sunland-library/yg850-1700x800x800-burgundy-gold/preview.jpg",
+      "drawing_url": "/sunland-library/yg850-1700x800x800-burgundy-gold/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Documented overall dimensions include the feet. Ornate cast feet, rolled lip and shell curvature are visual reconstructions; exact casting relief and mounting profiles are not manufacturer CAD. Faucet and supply plumbing excluded. Earlier 750 mm-high revision is not mixed with this 800 mm-high model.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 1315184,
+          "sha256": "df0523db60842658d4eb03dbe17eaa2fe49d5485328ec6a188c5c2fe6a175d13"
+        },
+        "model.blend.gz": {
+          "bytes": 832410,
+          "sha256": "1e0e231367d8c412339b72440780fe5818c8cc99f84c2d01f42d77be9dc2919c"
+        },
+        "preview.jpg": {
+          "bytes": 48099,
+          "sha256": "42c68639026d7a79db993701acb7a7331b56024bb3fe175a837f6c27b82eb59d"
+        },
+        "manufacturer.jpg": {
+          "bytes": 592742,
+          "sha256": "d7265fd88122311220e4b1671240d4b5521efdfef3e99d1965b6b5b827ce3987"
+        },
+        "specification.json": {
+          "bytes": 2596,
+          "sha256": "0a4b75bd81747de5ac552f9d4e120e4ef2a667396f0561dc6e68dc46418d4f4b"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg850-1700x800x800-burgundy-gold",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg851-1700x800x800-white-chrome",
+      "supplier_sku": "YG851",
+      "variant_sku": "SUNLAND-YG851-1700X800X800-WHITE-CHROME",
+      "source_url": "https://cnsunland.com/goods/2931463.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG851 \u2014 1700 mm width \u00d7 800 mm depth \u00d7 800 mm height \u00b7 White acrylic / chrome feet",
+      "description": "Sunland YG851. Selected configuration: 1700 mm width \u00d7 800 mm depth \u00d7 800 mm height. Finish: White acrylic / chrome feet. . Full exported product bounding box. Documented overall dimensions include the feet. Ornate cast feet, rolled lip and shell curvature are visual reconstructions; exact casting relief and mounting profiles are not manufacturer CAD. Faucet and supply plumbing excluded. Earlier 750 mm-high revision is not mixed with this 800 mm-high model. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1700,
+        "depth": 800,
+        "height": 800
+      },
+      "model_envelope_mm": {
+        "width": 1700.0000476837158,
+        "depth": 800.000011920929,
+        "height": 800.000011920929
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1700 mm width \u00d7 800 mm depth \u00d7 800 mm height \u00b7 White acrylic / chrome feet",
+      "finish": "White acrylic / chrome feet",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg851-1700x800x800-white-chrome/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg851-1700x800x800-white-chrome/model.blend.gz",
+      "image_url": "/sunland-library/yg851-1700x800x800-white-chrome/preview.jpg",
+      "drawing_url": "/sunland-library/yg851-1700x800x800-white-chrome/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Documented overall dimensions include the feet. Ornate cast feet, rolled lip and shell curvature are visual reconstructions; exact casting relief and mounting profiles are not manufacturer CAD. Faucet and supply plumbing excluded. Earlier 750 mm-high revision is not mixed with this 800 mm-high model.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 1314644,
+          "sha256": "6fa45697a57c844d8d036ec96f4f7091f3dd127cd62ba95e4d4b8ba90412487a"
+        },
+        "model.blend.gz": {
+          "bytes": 804528,
+          "sha256": "d04bb78510dc3ff1f98f009ee30ef4c1f388c8b55c536c54e9635e85b7a37377"
+        },
+        "preview.jpg": {
+          "bytes": 42753,
+          "sha256": "76466ba81bc3e0192214b3ad030df115f2c161819fd2f12396504d24645bdedf"
+        },
+        "manufacturer.jpg": {
+          "bytes": 611072,
+          "sha256": "2a1af2b17c2185dc09d3f7e7aa48a6230dc9c9f9085d12f42c2f50f211afab25"
+        },
+        "specification.json": {
+          "bytes": 2482,
+          "sha256": "3e13c7d97467f1b84b943cebd0bf0555d6ab943eddafa1f7415fc3f2dfe7e28e"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg851-1700x800x800-white-chrome",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg860-1500x750x600-white",
+      "supplier_sku": "YG860",
+      "variant_sku": "SUNLAND-YG860-1500X750X600-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931389.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG860 \u2014 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "description": "Sunland YG860. Selected configuration: 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1500,
+        "depth": 750,
+        "height": 600
+      },
+      "model_envelope_mm": {
+        "width": 1500.0,
+        "depth": 750.0,
+        "height": 600.0000238418579
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg860-1500x750x600-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg860-1500x750x600-white/model.blend.gz",
+      "image_url": "/sunland-library/yg860-1500x750x600-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg860-1500x750x600-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 306724,
+          "sha256": "b23557d284810ec2bd792d7f4cd508a4788d5f4e51dd656c07809ac33619222e"
+        },
+        "model.blend.gz": {
+          "bytes": 252714,
+          "sha256": "9ccbb30bf5d1349236685f1d5f7ff49995ba3ca3bbd05b14e95c8af0e24691ba"
+        },
+        "preview.jpg": {
+          "bytes": 37728,
+          "sha256": "b3041e5bd42de67a56379775623a9d4d6d300f6bc4c0b574c2197a99f646cb4d"
+        },
+        "manufacturer.jpg": {
+          "bytes": 670938,
+          "sha256": "052c881f358c9f3080225c4a80069b70b9df72a645acf6e905c6ce1c0fb1101c"
+        },
+        "specification.json": {
+          "bytes": 2859,
+          "sha256": "34d88a819b253b46d032c54a2390fd67076bef272808bf7ce287cf468b13e379"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg860-1500x750x600-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg860-1700x800x600-white",
+      "supplier_sku": "YG860",
+      "variant_sku": "SUNLAND-YG860-1700X800X600-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931389.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG860 \u2014 1700 mm width \u00d7 800 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "description": "Sunland YG860. Selected configuration: 1700 mm width \u00d7 800 mm depth \u00d7 600 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1700,
+        "depth": 800,
+        "height": 600
+      },
+      "model_envelope_mm": {
+        "width": 1700.0000476837158,
+        "depth": 800.000011920929,
+        "height": 600.0000238418579
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1700 mm width \u00d7 800 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg860-1700x800x600-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg860-1700x800x600-white/model.blend.gz",
+      "image_url": "/sunland-library/yg860-1700x800x600-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg860-1700x800x600-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 306832,
+          "sha256": "b04e7bf4e38353728a5e12be138364c5e865ee9c612ec8c0e1f849a42f1b3426"
+        },
+        "model.blend.gz": {
+          "bytes": 252250,
+          "sha256": "b6eb7dee57538a654ffa5cf1ff3a62889469401c187ce2cf1e9e4be0b48da852"
+        },
+        "preview.jpg": {
+          "bytes": 37938,
+          "sha256": "497e9448564ef069e7f1a682e6bd4f33f89ee1dc743b940dccf76ded69d2763d"
+        },
+        "manufacturer.jpg": {
+          "bytes": 670938,
+          "sha256": "052c881f358c9f3080225c4a80069b70b9df72a645acf6e905c6ce1c0fb1101c"
+        },
+        "specification.json": {
+          "bytes": 2882,
+          "sha256": "68ad96979b90173a79761feb3d9c2bdec6cb42eb47785d9031b1f7a1c71d134b"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg860-1700x800x600-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg861-1500x750x600-white",
+      "supplier_sku": "YG861",
+      "variant_sku": "SUNLAND-YG861-1500X750X600-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931393.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG861 \u2014 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "description": "Sunland YG861. Selected configuration: 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1500,
+        "depth": 750,
+        "height": 600
+      },
+      "model_envelope_mm": {
+        "width": 1500.0,
+        "depth": 750.0,
+        "height": 600.0000238418579
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg861-1500x750x600-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg861-1500x750x600-white/model.blend.gz",
+      "image_url": "/sunland-library/yg861-1500x750x600-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg861-1500x750x600-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277180,
+          "sha256": "0b85d5dd9a9cf622fdab8a55372a77c5f0ae8c9df8f1dc4f5b4673b3aaae99a6"
+        },
+        "model.blend.gz": {
+          "bytes": 244165,
+          "sha256": "7b118c8de79b9e46a9eb35f5bb3aaae7fd8db321bee04988f882f10f50201b47"
+        },
+        "preview.jpg": {
+          "bytes": 35184,
+          "sha256": "ad733132f24d896f3e6910904c813419e859055a727fd8f71f917633ee267f65"
+        },
+        "manufacturer.jpg": {
+          "bytes": 552036,
+          "sha256": "3578ca4fa7e9910bce47704d7167e48dfb033adcc887d0125ff2c43b3f6eb50c"
+        },
+        "specification.json": {
+          "bytes": 2859,
+          "sha256": "1ff4d0186e41a283903b5f447f46395be3dbea28cd64a14faeee9d9ade9f1657"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg861-1500x750x600-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg869-1500x750x600-white",
+      "supplier_sku": "YG869",
+      "variant_sku": "SUNLAND-YG869-1500X750X600-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931313.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG869 \u2014 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "description": "Sunland YG869. Selected configuration: 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1500,
+        "depth": 750,
+        "height": 600
+      },
+      "model_envelope_mm": {
+        "width": 1500.0,
+        "depth": 750.0,
+        "height": 600.0000238418579
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg869-1500x750x600-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg869-1500x750x600-white/model.blend.gz",
+      "image_url": "/sunland-library/yg869-1500x750x600-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg869-1500x750x600-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277180,
+          "sha256": "ea5c22564f41106a80bc7259912a52a21a1784ebed8713eb5b6e9d90df05807a"
+        },
+        "model.blend.gz": {
+          "bytes": 249542,
+          "sha256": "54fa2e23021282ac4d282c75c297e646027f7bdc5221f86df121cd5a0e39491d"
+        },
+        "preview.jpg": {
+          "bytes": 34095,
+          "sha256": "14baba6c5dbeab6d41e6689b6f217e71030ce8087f7d19ca50734cdc7bef3c0e"
+        },
+        "manufacturer.jpg": {
+          "bytes": 860684,
+          "sha256": "7b87d975cf2729f01cbcac31b007d019169f30fd8643aa032c7f2e3e96687621"
+        },
+        "specification.json": {
+          "bytes": 2859,
+          "sha256": "3bd7653e12ed6dce1a4b66ea3910fcce7e7382094f8977db5cacbb4fb7578d9f"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg869-1500x750x600-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg870-1500x750x600-white",
+      "supplier_sku": "YG870",
+      "variant_sku": "SUNLAND-YG870-1500X750X600-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931311.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG870 \u2014 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "description": "Sunland YG870. Selected configuration: 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. 230 mm drain offset is documented for 1700 mm; the 1500 mm drain position is a visual approximation. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1500,
+        "depth": 750,
+        "height": 600
+      },
+      "model_envelope_mm": {
+        "width": 1500.0,
+        "depth": 750.0,
+        "height": 600.0000238418579
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg870-1500x750x600-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg870-1500x750x600-white/model.blend.gz",
+      "image_url": "/sunland-library/yg870-1500x750x600-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg870-1500x750x600-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. 230 mm drain offset is documented for 1700 mm; the 1500 mm drain position is a visual approximation.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277196,
+          "sha256": "a4387fa05cb4c1ed19580504bf9e8bf8ab45744c3c68247f65ec60c6647d364d"
+        },
+        "model.blend.gz": {
+          "bytes": 242942,
+          "sha256": "d680accb711586092fffde88bd1898a4c0527248091ae1bd0953b87717708a18"
+        },
+        "preview.jpg": {
+          "bytes": 36733,
+          "sha256": "74d2c1b57f838f086dff10a5fce5af3e9157189a681325f3fbfd07968bdf1115"
+        },
+        "manufacturer.jpg": {
+          "bytes": 329859,
+          "sha256": "6fd2467e54a7fa08ab0c40eba7e46ac17cbec743fa592b02d1da123dcf854faf"
+        },
+        "specification.json": {
+          "bytes": 3061,
+          "sha256": "0b070a0f5aba2d546f9d964bb4dc10a2415d225088fe9c9ae6548ad44f5fdeca"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg870-1500x750x600-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg870-1700x800x600-white",
+      "supplier_sku": "YG870",
+      "variant_sku": "SUNLAND-YG870-1700X800X600-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931311.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG870 \u2014 1700 mm width \u00d7 800 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "description": "Sunland YG870. Selected configuration: 1700 mm width \u00d7 800 mm depth \u00d7 600 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. 230 mm drain offset is documented for 1700 mm; the 1500 mm drain position is a visual approximation. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1700,
+        "depth": 800,
+        "height": 600
+      },
+      "model_envelope_mm": {
+        "width": 1700.0000476837158,
+        "depth": 800.000011920929,
+        "height": 600.0000238418579
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1700 mm width \u00d7 800 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg870-1700x800x600-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg870-1700x800x600-white/model.blend.gz",
+      "image_url": "/sunland-library/yg870-1700x800x600-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg870-1700x800x600-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. 230 mm drain offset is documented for 1700 mm; the 1500 mm drain position is a visual approximation.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277304,
+          "sha256": "62bfe7d496ce603c90e0fc4f0dc9618e82fc962c83c509787dc8dccdf09947e0"
+        },
+        "model.blend.gz": {
+          "bytes": 242714,
+          "sha256": "05776a3e71a1e4f59508a19045f9dfd3e6d82b0887a7ed9609e341f64a52fac0"
+        },
+        "preview.jpg": {
+          "bytes": 36994,
+          "sha256": "41666017c750911599eb027ca93f630d109540a986204fb05fe1d678bedb0358"
+        },
+        "manufacturer.jpg": {
+          "bytes": 329859,
+          "sha256": "6fd2467e54a7fa08ab0c40eba7e46ac17cbec743fa592b02d1da123dcf854faf"
+        },
+        "specification.json": {
+          "bytes": 3084,
+          "sha256": "2461db48075ce141afa26ab3b3c3e76f59f6c70d66b15394876638a7e5181213"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg870-1700x800x600-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg871-1700x800x600-white",
+      "supplier_sku": "YG871",
+      "variant_sku": "SUNLAND-YG871-1700X800X600-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931307.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG871 \u2014 1700 mm width \u00d7 800 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "description": "Sunland YG871. Selected configuration: 1700 mm width \u00d7 800 mm depth \u00d7 600 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1700,
+        "depth": 800,
+        "height": 600
+      },
+      "model_envelope_mm": {
+        "width": 1700.0000476837158,
+        "depth": 800.000011920929,
+        "height": 600.0000238418579
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1700 mm width \u00d7 800 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg871-1700x800x600-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg871-1700x800x600-white/model.blend.gz",
+      "image_url": "/sunland-library/yg871-1700x800x600-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg871-1700x800x600-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277304,
+          "sha256": "89d1d01931dd3c7b8b418a59e1616a9e6365d84ab23266aaa171b488a783c9b2"
+        },
+        "model.blend.gz": {
+          "bytes": 245500,
+          "sha256": "d9f8b5ba00f2f1740da6367b9b89ad674b11cc923b78e25aa1134941ea9d6f77"
+        },
+        "preview.jpg": {
+          "bytes": 35741,
+          "sha256": "18fa3e6444579b3473fca322aa6b222a66eedce0498c9f1c7b7d415768223c3d"
+        },
+        "manufacturer.jpg": {
+          "bytes": 874476,
+          "sha256": "dc04d4faace579fe3e1101a13066330f7d5e7366b59f97459cc98b833a4ccaac"
+        },
+        "specification.json": {
+          "bytes": 2882,
+          "sha256": "1ea05884ca38f675d426535121c4f8fd2988aafebf6c4fb4dc456cec62bb64ff"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg871-1700x800x600-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg873-1700x800x660-white",
+      "supplier_sku": "YG873",
+      "variant_sku": "SUNLAND-YG873-1700X800X660-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931299.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG873 \u2014 1700 mm width \u00d7 800 mm depth \u00d7 660 mm height \u00b7 White acrylic",
+      "description": "Sunland YG873. Selected configuration: 1700 mm width \u00d7 800 mm depth \u00d7 660 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1700,
+        "depth": 800,
+        "height": 660
+      },
+      "model_envelope_mm": {
+        "width": 1700.0000476837158,
+        "depth": 800.000011920929,
+        "height": 660.0000262260437
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1700 mm width \u00d7 800 mm depth \u00d7 660 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg873-1700x800x660-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg873-1700x800x660-white/model.blend.gz",
+      "image_url": "/sunland-library/yg873-1700x800x660-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg873-1700x800x660-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277288,
+          "sha256": "96d4e140c32764e87538a0ed7b035230987f1916a88dfffb33bc0325aafd6392"
+        },
+        "model.blend.gz": {
+          "bytes": 249892,
+          "sha256": "5155feea9e51f1a365a9d3228551501d8cfa368a0a6f14b8318329e65a548996"
+        },
+        "preview.jpg": {
+          "bytes": 36449,
+          "sha256": "a837205bba39bcf79090799d78a161a83049f45683f0929e2281d4d5b7ab242c"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1229454,
+          "sha256": "96106b66696a34ff0caf8f4d7134d2d191e0d421370f4d75bfe74680fbbba005"
+        },
+        "specification.json": {
+          "bytes": 2882,
+          "sha256": "204c8a824705aed5806a3a00cbe1d03a7665450819ef1c6edbc0ae0781d50e58"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg873-1700x800x660-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg878-1500x750x600-white",
+      "supplier_sku": "YG878",
+      "variant_sku": "SUNLAND-YG878-1500X750X600-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931297.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG878 \u2014 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "description": "Sunland YG878. Selected configuration: 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. External wood cladding and mounting surround are not part of the tub model. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1500,
+        "depth": 750,
+        "height": 600
+      },
+      "model_envelope_mm": {
+        "width": 1500.0,
+        "depth": 750.0,
+        "height": 600.0000238418579
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg878-1500x750x600-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg878-1500x750x600-white/model.blend.gz",
+      "image_url": "/sunland-library/yg878-1500x750x600-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg878-1500x750x600-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. External wood cladding and mounting surround are not part of the tub model.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277180,
+          "sha256": "60df3846c4c4a9724f2df3ce2b2b7705730dc0a75e1e3ce8ebd2b58948a62baf"
+        },
+        "model.blend.gz": {
+          "bytes": 242797,
+          "sha256": "233da79bd90a606da752857317d522f5f6dba3f5bc2f0824d1f2da1b3ea22527"
+        },
+        "preview.jpg": {
+          "bytes": 36804,
+          "sha256": "5d3117c295e880e84b1ba24ea1510c934134d6488d2e8142f86d61472edc4c70"
+        },
+        "manufacturer.jpg": {
+          "bytes": 571902,
+          "sha256": "89740674646529817f2b64e0461d8842c79cdc36956354096589b3618553b434"
+        },
+        "specification.json": {
+          "bytes": 3011,
+          "sha256": "dd49cb730f7015c30af3baffa1f1a22f83a745461eaafc8cef909f330be88609"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg878-1500x750x600-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg879-1700x800x600-white",
+      "supplier_sku": "YG879",
+      "variant_sku": "SUNLAND-YG879-1700X800X600-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931275.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG879 \u2014 1700 mm width \u00d7 800 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "description": "Sunland YG879. Selected configuration: 1700 mm width \u00d7 800 mm depth \u00d7 600 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Surrounding wooden slab is excluded; asymmetrical perimeter and drain position are visually reconstructed. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1700,
+        "depth": 800,
+        "height": 600
+      },
+      "model_envelope_mm": {
+        "width": 1700.0000476837158,
+        "depth": 800.000011920929,
+        "height": 600.0000238418579
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1700 mm width \u00d7 800 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg879-1700x800x600-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg879-1700x800x600-white/model.blend.gz",
+      "image_url": "/sunland-library/yg879-1700x800x600-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg879-1700x800x600-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Surrounding wooden slab is excluded; asymmetrical perimeter and drain position are visually reconstructed.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277304,
+          "sha256": "acac4e75c40a9746cbf04f7740ed6e3e2d0894e32d3a6fc6c0520b691f512a11"
+        },
+        "model.blend.gz": {
+          "bytes": 250283,
+          "sha256": "cee85a97eb9821a83b5cfa674c85844fb1fbd2f956bc100dd602bbefcb56cb41"
+        },
+        "preview.jpg": {
+          "bytes": 34905,
+          "sha256": "5fdfbb150bc4ca34355d7a2e5e03ef4b0fdf6bc8f132f136537a90cd7a461cb2"
+        },
+        "manufacturer.jpg": {
+          "bytes": 950199,
+          "sha256": "f7fc210e2ef62b07c3d8c86e71c6d68b8b9d064d26f21b20f3221ae87e6ffe15"
+        },
+        "specification.json": {
+          "bytes": 3096,
+          "sha256": "56fd4a798dfe98645936e35103f1d9caf5787ac5c0752b4ae1ba42be5b982c4d"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg879-1700x800x600-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
+    },
+    {
+      "id": "sunland-yg896-1500x750x600-white",
+      "supplier_sku": "YG896",
+      "variant_sku": "SUNLAND-YG896-1500X750X600-WHITE",
+      "source_url": "https://cnsunland.com/goods/2931293.html",
+      "source_checked": "2026-09-18",
+      "title": "Sunland YG896 \u2014 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "description": "Sunland YG896. Selected configuration: 1500 mm width \u00d7 750 mm depth \u00d7 600 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+      "dimensions_mm": {
+        "width": 1500,
+        "depth": 750,
+        "height": 600
+      },
+      "model_envelope_mm": {
+        "width": 1500.0,
+        "depth": 750.0,
+        "height": 600.0000238418579
+      },
+      "category": "Bathtubs",
+      "category_key": "bathtubs",
+      "variant_title": "1500 mm width \u00d7 750 mm depth \u00d7 600 mm height \u00b7 White acrylic",
+      "finish": "White acrylic",
+      "glass_mm": null,
+      "model_url": "https://supply.reno-stars.com/sunland-library/yg896-1500x750x600-white/model.glb",
+      "blend_url": "https://supply.reno-stars.com/sunland-library/yg896-1500x750x600-white/model.blend.gz",
+      "image_url": "/sunland-library/yg896-1500x750x600-white/preview.jpg",
+      "drawing_url": "/sunland-library/yg896-1500x750x600-white/manufacturer.jpg",
+      "review_status": "dimensions_and_render_reviewed",
+      "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+      "dimension_scope": "Full exported product bounding box",
+      "files": {
+        "model.glb": {
+          "bytes": 277180,
+          "sha256": "f38a253a4771b7fd63284bb5dd51b39c7779927426051f6ea343799d9350cfee"
+        },
+        "model.blend.gz": {
+          "bytes": 245007,
+          "sha256": "8672f9145ec37da3e2479a50e5d6cb1a3ce94ca82d495b436afa2c664108f4f0"
+        },
+        "preview.jpg": {
+          "bytes": 33948,
+          "sha256": "8c04650bf84c761b701ea30f264fc70af3be96426d1f61c18e049e6c5a3d5f1d"
+        },
+        "manufacturer.jpg": {
+          "bytes": 1200021,
+          "sha256": "18f9700ef10085400e80997062a8d9486574947f2167e7fe5b84d7868ddbd4d4"
+        },
+        "specification.json": {
+          "bytes": 2859,
+          "sha256": "5f8e8edcee850e487f4e71fce300ca0833bd7e7b1dcc50538a68037902913399"
+        }
+      },
+      "product_url": "https://supply.reno-stars.com/ca/products/sunland-yg896-1500x750x600-white",
+      "units": "metres",
+      "up_axis": "Y",
+      "placement_note": "Use published mounting dimensions and the separate projecting-hardware envelope; do not rescale. See limitations."
     }
   ]
 }

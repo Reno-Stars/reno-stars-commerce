@@ -1,0 +1,35 @@
+{
+  "id": "sunland-d524-1200-1500-matte-black-6mm",
+  "supplier_sku": "D524",
+  "variant_sku": "SUNLAND-D524-1200-1500-MATTE-BLACK-6MM",
+  "source_url": "https://cnsunland.com/goods/2931457.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland D524 \u2014 1200 mm width \u00d7 1500 mm height \u00b7 Matte Black \u00b7 6 mm glass",
+  "description": "Sunland D524. Selected configuration: 1200 mm width \u00d7 1500 mm height. Finish: Matte Black. 6 mm glass. Full exported product bounding box. Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1200,
+    "height": 1500,
+    "depth": null
+  },
+  "model_envelope_mm": {
+    "width": 1200.0000476837158,
+    "depth": 72.50000070780516,
+    "height": 1500.0
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "1200 mm width \u00d7 1500 mm height \u00b7 Matte Black \u00b7 6 mm glass",
+  "finish": "Matte Black",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d524-1200-1500-matte-black-6mm/model.glb",
+  "blend_url": "/sunland-library/d524-1200-1500-matte-black-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d524-1200-1500-matte-black-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d524-1200-1500-matte-black-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Manufacturer overall width, height, return depth where present, and glass thickness are documented. Frame, handle, roller, pivot and hinge profiles and panel splits are visual approximations; closed configuration only. Tub, tray, room and shower fixtures shown in manufacturer photograph are excluded. Support reach where undimensioned is a visual approximation, not an installation dimension.",
+  "dimension_scope": "Full exported product bounding box",
+  "source_review": "Current product photo and matching technical size sheet and elevation/plan individually inspected.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1290",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sunland-yg865-1800x850x780-white",
+  "supplier_sku": "YG865",
+  "variant_sku": "SUNLAND-YG865-1800X850X780-WHITE",
+  "source_url": "https://cnsunland.com/goods/2931353.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland YG865 \u2014 1800 mm width \u00d7 850 mm depth \u00d7 780 mm height \u00b7 White acrylic",
+  "description": "Sunland YG865. Selected configuration: 1800 mm width \u00d7 850 mm depth \u00d7 780 mm height. Finish: White acrylic. . Full exported product bounding box. Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1800,
+    "depth": 850,
+    "height": 780
+  },
+  "model_envelope_mm": {
+    "width": 1799.9999523162842,
+    "depth": 850.0000238418579,
+    "height": 779.9999713897705
+  },
+  "category": "Bathtubs",
+  "category_key": "bathtubs",
+  "variant_title": "1800 mm width \u00d7 850 mm depth \u00d7 780 mm height \u00b7 White acrylic",
+  "finish": "White acrylic",
+  "glass_mm": null,
+  "model_url": "/sunland-library/yg865-1800x850x780-white/model.glb",
+  "blend_url": "/sunland-library/yg865-1800x850x780-white/model.blend.gz",
+  "image_url": "/sunland-library/yg865-1800x850x780-white/preview.jpg",
+  "drawing_url": "/sunland-library/yg865-1800x850x780-white/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Outer width, depth and height follow manufacturer specifications. Undimensioned base footprint, rim thickness, inner basin outline and corner radii are visually approximated. Drain/overflow cover profiles and any fluting pitch are visual approximations; not a plumbing rough-in or fabrication model. Room, faucets, masonry surrounds and installation hardware are excluded. Sculpted rim heights between documented maximum points and pedestal profiles are visual reconstructions, not fabrication geometry.",
+  "dimension_scope": "Full exported product bounding box",
+  "source_review": "Current manufacturer photograph visually matched to manufacturer reference photograph. Technical size sheet and available section/plan individually read. Outer dimensions follow metric specification; internal profile approximations are explicitly listed.",
+  "source_revision": "Reference 1228 specifies 1800 x 850 x 780 and drain 315 from lower end. Low rim and pedestal profiles visually approximated.",
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1228",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

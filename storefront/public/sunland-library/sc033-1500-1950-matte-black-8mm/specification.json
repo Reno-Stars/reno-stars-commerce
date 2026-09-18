@@ -1,0 +1,35 @@
+{
+  "id": "sunland-sc033-1500-1950-matte-black-8mm",
+  "supplier_sku": "SC033",
+  "variant_sku": "SUNLAND-SC033-1500-1950-MATTE-BLACK-8MM",
+  "source_url": "https://cnsunland.com/goods/2931465.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland SC033 \u2014 1500 mm width \u00d7 1950 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+  "description": "Sunland SC033. Selected configuration: 1500 mm width \u00d7 1950 mm height. Finish: Matte Black. 8 mm glass. Full exported product bounding box. Hardware profiles, glass subdivisions and privacy band positions are visually approximated. Closed configuration; no operating animation. No tray or room fixtures included. Manufacturer installation dimensions must be used for ordering and installation. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1500,
+    "height": 1950,
+    "depth": null
+  },
+  "model_envelope_mm": {
+    "width": 1500.0,
+    "depth": 119.00000274181366,
+    "height": 1950.0000476837158
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "1500 mm width \u00d7 1950 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+  "finish": "Matte Black",
+  "glass_mm": 8,
+  "model_url": "/sunland-library/sc033-1500-1950-matte-black-8mm/model.glb",
+  "blend_url": "/sunland-library/sc033-1500-1950-matte-black-8mm/model.blend.gz",
+  "image_url": "/sunland-library/sc033-1500-1950-matte-black-8mm/preview.jpg",
+  "drawing_url": "/sunland-library/sc033-1500-1950-matte-black-8mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Hardware profiles, glass subdivisions and privacy band positions are visually approximated. Closed configuration; no operating animation. No tray or room fixtures included. Manufacturer installation dimensions must be used for ordering and installation.",
+  "dimension_scope": "Full exported product bounding box",
+  "source_review": "Current manufacturer photograph individually compared with cited technical reference. Specific pane layout and hardware match reviewed reference; see source_revision for dimensions.",
+  "source_revision": "Current photo matches legacy SC033 photo and specification sheet 1282. Metric dimensions used; nominal inch labels are not exact conversions.",
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1282",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

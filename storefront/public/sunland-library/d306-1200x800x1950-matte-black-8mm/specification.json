@@ -1,0 +1,35 @@
+{
+  "id": "sunland-d306-1200x800x1950-matte-black-8mm",
+  "supplier_sku": "D306",
+  "variant_sku": "SUNLAND-D306-1200X800X1950-MATTE-BLACK-8MM",
+  "source_url": "https://cnsunland.com/goods/2931421.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland D306 \u2014 1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+  "description": "Sunland D306. Selected configuration: 1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Matte Black. 8 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Published mounting dimensions and selected glass thickness are exact. Frame profiles, hinge positions, door splits and hardware are visually reconstructed. Optional tray, room and plumbing fixtures excluded. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1200,
+    "height": 1950,
+    "depth": 800
+  },
+  "model_envelope_mm": {
+    "width": 1200.0000476837158,
+    "depth": 854.0000133216381,
+    "height": 1949.9999284744263
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+  "finish": "Matte Black",
+  "glass_mm": 8,
+  "model_url": "/sunland-library/d306-1200x800x1950-matte-black-8mm/model.glb",
+  "blend_url": "/sunland-library/d306-1200x800x1950-matte-black-8mm/model.blend.gz",
+  "image_url": "/sunland-library/d306-1200x800x1950-matte-black-8mm/preview.jpg",
+  "drawing_url": "/sunland-library/d306-1200x800x1950-matte-black-8mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Published mounting dimensions and selected glass thickness are exact. Frame profiles, hinge positions, door splits and hardware are visually reconstructed. Optional tray, room and plumbing fixtures excluded.",
+  "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+  "source_review": "Current source photo and corresponding manufacturer dimensional drawing individually inspected; revision distinguished from same-SKU products.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1272",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

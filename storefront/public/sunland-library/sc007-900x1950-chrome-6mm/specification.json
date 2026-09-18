@@ -1,0 +1,35 @@
+{
+  "id": "sunland-sc007-900x1950-chrome-6mm",
+  "supplier_sku": "SC007",
+  "variant_sku": "SUNLAND-SC007-900X1950-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931435.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland SC007 \u2014 900 mm width \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "description": "Sunland SC007. Selected configuration: 900 mm width \u00d7 1950 mm height. Finish: Chrome. 6 mm glass. Full exported product bounding box. Published opening/mounting dimensions and glass thickness are exact. Hardware and panel splits are photo-based approximations. Optional shower tray, room walls and shower fittings excluded. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 900,
+    "height": 1950,
+    "depth": null
+  },
+  "model_envelope_mm": {
+    "width": 900.0000357627869,
+    "depth": 67.50000175088644,
+    "height": 1950.0000476837158
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "900 mm width \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/sc007-900x1950-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/sc007-900x1950-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/sc007-900x1950-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/sc007-900x1950-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Published opening/mounting dimensions and glass thickness are exact. Hardware and panel splits are photo-based approximations. Optional shower tray, room walls and shower fittings excluded.",
+  "dimension_scope": "Full exported product bounding box",
+  "source_review": "Manufacturer photograph, metric specification and plan individually inspected; named revision kept separate.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1283",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sunland-d512-1500x1900-chrome-8mm",
+  "supplier_sku": "D512",
+  "variant_sku": "SUNLAND-D512-1500X1900-CHROME-8MM",
+  "source_url": "https://cnsunland.com/goods/2931677.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland D512 \u2014 1500 mm width \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+  "description": "Sunland D512. Selected configuration: 1500 mm width \u00d7 1900 mm height. Finish: Chrome. 8 mm glass. Full exported product bounding box. Published mounting dimensions and selected glass thickness are exact. Frame profiles, hinge positions, door splits and hardware are visually reconstructed. Optional tray, room and plumbing fixtures excluded. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1500,
+    "height": 1900,
+    "depth": null
+  },
+  "model_envelope_mm": {
+    "width": 1500.0,
+    "depth": 208.76676961779594,
+    "height": 1899.999976158142
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "1500 mm width \u00d7 1900 mm height \u00b7 Chrome \u00b7 8 mm glass",
+  "finish": "Chrome",
+  "glass_mm": 8,
+  "model_url": "/sunland-library/d512-1500x1900-chrome-8mm/model.glb",
+  "blend_url": "/sunland-library/d512-1500x1900-chrome-8mm/model.blend.gz",
+  "image_url": "/sunland-library/d512-1500x1900-chrome-8mm/preview.jpg",
+  "drawing_url": "/sunland-library/d512-1500x1900-chrome-8mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Published mounting dimensions and selected glass thickness are exact. Frame profiles, hinge positions, door splits and hardware are visually reconstructed. Optional tray, room and plumbing fixtures excluded.",
+  "dimension_scope": "Full exported product bounding box",
+  "source_review": "Current source photo and corresponding manufacturer dimensional drawing individually inspected; revision distinguished from same-SKU products.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=544",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

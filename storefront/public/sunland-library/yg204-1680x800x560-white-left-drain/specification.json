@@ -1,0 +1,36 @@
+{
+  "id": "sunland-yg204-1680x800x560-white-left-drain",
+  "supplier_sku": "YG204",
+  "variant_sku": "SUNLAND-YG204-1680X800X560-WHITE-LEFT-DRAIN",
+  "source_url": "https://cnsunland.com/goods/2931259.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland YG204 \u2014 1680 mm width \u00d7 800 mm depth \u00d7 560 mm height \u00b7 White acrylic \u00b7 Left Drain",
+  "description": "Sunland YG204. Selected configuration: 1680 mm width \u00d7 800 mm depth \u00d7 560 mm height. Finish: White acrylic. . Full exported product bounding box. Published metric outer dimensions are exact; basin curvature and undimensioned wall thickness are visual approximations. Room, separate faucet and accessories excluded. Contact Reno Stars for pricing and availability. Drain position: Left Drain.",
+  "dimensions_mm": {
+    "width": 1680,
+    "depth": 800,
+    "height": 560
+  },
+  "model_envelope_mm": {
+    "width": 1679.9999475479126,
+    "depth": 800.000011920929,
+    "height": 560.0000023841858
+  },
+  "category": "Bathtubs",
+  "category_key": "bathtubs",
+  "variant_title": "1680 mm width \u00d7 800 mm depth \u00d7 560 mm height \u00b7 White acrylic \u00b7 Left Drain",
+  "finish": "White acrylic",
+  "glass_mm": null,
+  "model_url": "/sunland-library/yg204-1680x800x560-white-left-drain/model.glb",
+  "blend_url": "/sunland-library/yg204-1680x800x560-white-left-drain/model.blend.gz",
+  "image_url": "/sunland-library/yg204-1680x800x560-white-left-drain/preview.jpg",
+  "drawing_url": "/sunland-library/yg204-1680x800x560-white-left-drain/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Published metric outer dimensions are exact; basin curvature and undimensioned wall thickness are visual approximations. Room, separate faucet and accessories excluded.",
+  "dimension_scope": "Full exported product bounding box",
+  "source_review": "Manufacturer product photograph, metric size table and section/plan individually inspected.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1252",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD",
+  "configuration_variant": "left-drain"
+}

@@ -45,7 +45,8 @@ env:
 jobs:
   build:
     runs-on: k8s-heavy   # NEVER local-deploy — production docker endpoint
-    timeout-minutes: 45
+    # Reviewed 3D assets increase the sequential registry upload time.
+    timeout-minutes: 90
     outputs:
       tag: ${{ steps.meta.outputs.tag }}
     strategy:

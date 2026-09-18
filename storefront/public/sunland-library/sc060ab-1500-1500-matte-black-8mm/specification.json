@@ -1,0 +1,35 @@
+{
+  "id": "sunland-sc060ab-1500-1500-matte-black-8mm",
+  "supplier_sku": "SC060AB",
+  "variant_sku": "SUNLAND-SC060AB-1500-1500-MATTE-BLACK-8MM",
+  "source_url": "https://cnsunland.com/goods/2931417.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland SC060AB \u2014 1500 mm width \u00d7 1500 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+  "description": "Sunland SC060AB. Selected configuration: 1500 mm width \u00d7 1500 mm height. Finish: Matte Black. 8 mm glass. Full exported product bounding box. Manufacturer width, height, return depth when present and selected glass thickness are documented. Undimensioned panel splits, pivot offsets, corner cut, hardware profiles and support reach are visual approximations. Closed configuration only; room, shower fittings and optional tub or tray are excluded. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1500,
+    "height": 1500,
+    "depth": null
+  },
+  "model_envelope_mm": {
+    "width": 1500.0,
+    "depth": 87.00000122189522,
+    "height": 1500.0
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "1500 mm width \u00d7 1500 mm height \u00b7 Matte Black \u00b7 8 mm glass",
+  "finish": "Matte Black",
+  "glass_mm": 8,
+  "model_url": "/sunland-library/sc060ab-1500-1500-matte-black-8mm/model.glb",
+  "blend_url": "/sunland-library/sc060ab-1500-1500-matte-black-8mm/model.blend.gz",
+  "image_url": "/sunland-library/sc060ab-1500-1500-matte-black-8mm/preview.jpg",
+  "drawing_url": "/sunland-library/sc060ab-1500-1500-matte-black-8mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Manufacturer width, height, return depth when present and selected glass thickness are documented. Undimensioned panel splits, pivot offsets, corner cut, hardware profiles and support reach are visual approximations. Closed configuration only; room, shower fittings and optional tub or tray are excluded.",
+  "dimension_scope": "Full exported product bounding box",
+  "source_review": "Current manufacturer photograph, matching size sheet and elevation/plan individually inspected.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1257",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

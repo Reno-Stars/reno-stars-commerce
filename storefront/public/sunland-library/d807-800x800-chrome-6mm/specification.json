@@ -1,0 +1,35 @@
+{
+  "id": "sunland-d807-800x800-chrome-6mm",
+  "supplier_sku": "D807",
+  "variant_sku": "SUNLAND-D807-800X800-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931641.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland D807 \u2014 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "description": "Sunland D807. Selected configuration: 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Chrome. 6 mm glass. Wall mounting footprint; projecting hinges and pulls reported separately in full bounds. Documented glass enclosure outer width, depth, height and glass thickness used. Optional tray, wall panels, shelves and shower fittings are excluded. Curvature, pane divisions, roller and handle profiles are visual approximations; no manufacturer corner radius supplied. Closed-door configuration only. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 800,
+    "depth": 800,
+    "height": 1950
+  },
+  "model_envelope_mm": {
+    "width": 799.9999523162842,
+    "depth": 829.8031333833933,
+    "height": 1950.0000476837158
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "800 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d807-800x800-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/d807-800x800-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d807-800x800-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d807-800x800-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Documented glass enclosure outer width, depth, height and glass thickness used. Optional tray, wall panels, shelves and shower fittings are excluded. Curvature, pane divisions, roller and handle profiles are visual approximations; no manufacturer corner radius supplied. Closed-door configuration only.",
+  "dimension_scope": "Wall mounting footprint; projecting hinges and pulls reported separately in full bounds",
+  "source_review": "Current manufacturer photo and matching technical sheet and plan individually inspected; technical elevation measures glass assembly above tray.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1303",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

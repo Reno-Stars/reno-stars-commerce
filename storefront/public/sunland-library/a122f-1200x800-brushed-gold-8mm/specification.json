@@ -1,0 +1,35 @@
+{
+  "id": "sunland-a122f-1200x800-brushed-gold-8mm",
+  "supplier_sku": "A122F",
+  "variant_sku": "SUNLAND-A122F-1200X800-BRUSHED-GOLD-8MM",
+  "source_url": "https://cnsunland.com/goods/2931401.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland A122F \u2014 1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Brushed Gold \u00b7 8 mm glass",
+  "description": "Sunland A122F. Selected configuration: 1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Brushed Gold. 8 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Manufacturer width, height, return depth when present and selected glass thickness are documented. Undimensioned panel splits, pivot offsets, corner cut, hardware profiles and support reach are visual approximations. Closed configuration only; room, shower fittings and optional tub or tray are excluded. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 1200,
+    "height": 1950,
+    "depth": 800
+  },
+  "model_envelope_mm": {
+    "width": 1200.0000476837158,
+    "depth": 853.0000150203705,
+    "height": 1950.0000476837158
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "1200 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Brushed Gold \u00b7 8 mm glass",
+  "finish": "Brushed Gold",
+  "glass_mm": 8,
+  "model_url": "/sunland-library/a122f-1200x800-brushed-gold-8mm/model.glb",
+  "blend_url": "/sunland-library/a122f-1200x800-brushed-gold-8mm/model.blend.gz",
+  "image_url": "/sunland-library/a122f-1200x800-brushed-gold-8mm/preview.jpg",
+  "drawing_url": "/sunland-library/a122f-1200x800-brushed-gold-8mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Manufacturer width, height, return depth when present and selected glass thickness are documented. Undimensioned panel splits, pivot offsets, corner cut, hardware profiles and support reach are visual approximations. Closed configuration only; room, shower fittings and optional tub or tray are excluded.",
+  "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+  "source_review": "Current manufacturer photograph, matching size sheet and elevation/plan individually inspected.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1298",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

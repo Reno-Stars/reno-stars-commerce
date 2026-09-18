@@ -1,0 +1,35 @@
+{
+  "id": "sunland-p050-900x900-matte-black-6mm",
+  "supplier_sku": "P050",
+  "variant_sku": "SUNLAND-P050-900X900-MATTE-BLACK-6MM",
+  "source_url": "https://cnsunland.com/goods/2931397.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland P050 \u2014 900 mm width \u00d7 900 mm depth \u00d7 1950 mm height \u00b7 Matte Black \u00b7 6 mm glass",
+  "description": "Sunland P050. Selected configuration: 900 mm width \u00d7 900 mm depth \u00d7 1950 mm height. Finish: Matte Black. 6 mm glass. Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately. Manufacturer width, height, return depth when present and selected glass thickness are documented. Undimensioned panel splits, pivot offsets, corner cut, hardware profiles and support reach are visual approximations. Closed configuration only; room, shower fittings and optional tub or tray are excluded. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 900,
+    "height": 1950,
+    "depth": 900
+  },
+  "model_envelope_mm": {
+    "width": 900.0000357627869,
+    "depth": 983.0000400543213,
+    "height": 1950.0000476837158
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "900 mm width \u00d7 900 mm depth \u00d7 1950 mm height \u00b7 Matte Black \u00b7 6 mm glass",
+  "finish": "Matte Black",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/p050-900x900-matte-black-6mm/model.glb",
+  "blend_url": "/sunland-library/p050-900x900-matte-black-6mm/model.blend.gz",
+  "image_url": "/sunland-library/p050-900x900-matte-black-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/p050-900x900-matte-black-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Manufacturer width, height, return depth when present and selected glass thickness are documented. Undimensioned panel splits, pivot offsets, corner cut, hardware profiles and support reach are visual approximations. Closed configuration only; room, shower fittings and optional tub or tray are excluded.",
+  "dimension_scope": "Overall width/height and mounting depth from glass plane to rear wall; projecting front hardware is included in full bounds separately",
+  "source_review": "Current manufacturer photograph, matching size sheet and elevation/plan individually inspected.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=1274",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

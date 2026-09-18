@@ -1,0 +1,35 @@
+{
+  "id": "sunland-d102-800x800-chrome-6mm",
+  "supplier_sku": "D102",
+  "variant_sku": "SUNLAND-D102-800X800-CHROME-6MM",
+  "source_url": "https://cnsunland.com/goods/2931747.html",
+  "source_checked": "2026-09-18",
+  "title": "Sunland D102 \u2014 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "description": "Sunland D102. Selected configuration: 800 mm width \u00d7 800 mm depth \u00d7 1950 mm height. Finish: Chrome. 6 mm glass. Published tray footprint and full assembly height; projecting knobs reported separately in full bounds. Overall assembly width, depth and height follow manufacturer published dimensions. Panel splits, corner curvature, hardware profiles, tray recess and undimensioned details are visual approximations. Closed configuration; shower fittings and room excluded. Tray height (150 mm) and drain centre are visual approximations: the source documents the overall 1950 mm assembly height but no separate tray dimensions. Contact Reno Stars for pricing and availability.",
+  "dimensions_mm": {
+    "width": 800,
+    "depth": 800,
+    "height": 1950
+  },
+  "model_envelope_mm": {
+    "width": 842.0000076293945,
+    "depth": 842.0000076293945,
+    "height": 1950.0000476837158
+  },
+  "category": "Shower Doors & Enclosures",
+  "category_key": "shower-doors-enclosures",
+  "variant_title": "800 mm width \u00d7 800 mm depth \u00d7 1950 mm height \u00b7 Chrome \u00b7 6 mm glass",
+  "finish": "Chrome",
+  "glass_mm": 6,
+  "model_url": "/sunland-library/d102-800x800-chrome-6mm/model.glb",
+  "blend_url": "/sunland-library/d102-800x800-chrome-6mm/model.blend.gz",
+  "image_url": "/sunland-library/d102-800x800-chrome-6mm/preview.jpg",
+  "drawing_url": "/sunland-library/d102-800x800-chrome-6mm/manufacturer.jpg",
+  "review_status": "dimensions_and_render_reviewed",
+  "model_limitations": "Overall assembly width, depth and height follow manufacturer published dimensions. Panel splits, corner curvature, hardware profiles, tray recess and undimensioned details are visual approximations. Closed configuration; shower fittings and room excluded. Tray height (150 mm) and drain centre are visual approximations: the source documents the overall 1950 mm assembly height but no separate tray dimensions.",
+  "dimension_scope": "Published tray footprint and full assembly height; projecting knobs reported separately in full bounds",
+  "source_review": "Current product poster and legacy manufacturer photograph and size statement individually inspected.",
+  "source_revision": null,
+  "technical_reference": "https://www.cnsunland.cn/index.php?ac=Article&at=Read&did=610",
+  "model_geometry": "Dimensioned visual reconstruction, not manufacturer CAD"
+}

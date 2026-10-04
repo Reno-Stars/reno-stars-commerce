@@ -1,0 +1,82 @@
+name: Build image
+
+# BUILD ONLY. A green build does not deploy anything.
+# Deploy path: this pushes ghcr.io/reno-stars/<image>:sha-<12> and :main -> the CD agent on the production Mac
+# opens a PR in Reno-Stars/reno-stars-infra bumping deploy/images.json -> a human merges -> the Mac pulls that
+# exact digest, recreates only that service and asserts health + running digest (rolls back otherwise).
+# GitHub-hosted runners only: CI must never reach the production Docker daemon (incident 2026-09-24).
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: write
+
+concurrency:
+  group: build-image-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        image:
+          - { name: medusa-backend, context: backend, file: backend/Dockerfile }
+          - { name: medusa-storefront, context: storefront, file: storefront/Dockerfile }
+    steps:
+      - uses: actions/checkout@v4
+      - id: meta
+        run: echo "short=$(echo "${{ github.sha }}" | cut -c1-12)" >> "$GITHUB_OUTPUT"
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build + push medusa-backend
+        if: matrix.image.name == 'medusa-backend'
+        uses: docker/build-push-action@v6
+        with:
+          context: ${{ matrix.image.context }}
+          file: ${{ matrix.image.file }}
+          platforms: linux/amd64
+          push: true
+          provenance: false
+          tags: |
+            ghcr.io/reno-stars/medusa-backend:sha-${{ steps.meta.outputs.short }}
+            ghcr.io/reno-stars/medusa-backend:main
+          labels: |
+            org.opencontainers.image.source=https://github.com/Reno-Stars/reno-stars-commerce
+            org.opencontainers.image.revision=${{ github.sha }}
+          cache-from: type=gha,scope=medusa-backend
+          cache-to: type=gha,mode=max,scope=medusa-backend
+
+      - name: Build + push medusa-storefront
+        if: matrix.image.name == 'medusa-storefront'
+        uses: docker/build-push-action@v6
+        with:
+          context: ${{ matrix.image.context }}
+          file: ${{ matrix.image.file }}
+          platforms: linux/amd64
+          push: true
+          provenance: false
+          tags: |
+            ghcr.io/reno-stars/medusa-storefront:sha-${{ steps.meta.outputs.short }}
+            ghcr.io/reno-stars/medusa-storefront:main
+          labels: |
+            org.opencontainers.image.source=https://github.com/Reno-Stars/reno-stars-commerce
+            org.opencontainers.image.revision=${{ github.sha }}
+          cache-from: type=gha,scope=medusa-storefront
+          cache-to: type=gha,mode=max,scope=medusa-storefront
+          build-args: |
+            NEXT_PUBLIC_MEDUSA_BACKEND_URL=https://supply-admin.reno-stars.com
+            NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY=${{ secrets.NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY }}
+            NEXT_PUBLIC_BASE_URL=https://supply.reno-stars.com
+            NEXT_PUBLIC_DEFAULT_REGION=ca
